@@ -250,7 +250,7 @@ http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/N08p3Wgx/ADITV.png " group-title="LOKAL",ADI TV  (Yogyakarta) (backup)
 https://tinyurl.com/gratistvmediaADITV
 
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/3rj6Cgt9/Arek-TV.png " group-title="LOKAL",AREK TV (Sidoarjo)
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/kXTtyVBx/AREK-TV.png" group-title="LOKAL",AREK TV (Sidoarjo)
 https://tinyurl.com/gratistvmediaAREK
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kX8vStpX/bandung-tv.png" group-title="LOKAL",Bandung TV
@@ -261,7 +261,7 @@ https://tinyurl.com/gratistvmediaBANDUNGTV
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/gk2M7WzF/Balikpapan-TV.png " group-title="LOKAL",BALIKPAPAN TV
 http://122.248.43.138:1935/ch10/myStream/chunklist_w1318591234.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/04/98/00/0498006b09e7714ebbf61d78356084d1.jpg" group-title="LOKAL",BANTEN TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KztM7JMz/BANTEN-TV.png" group-title="LOKAL",BANTEN TV
 https://tinyurl.com/gratistvmediaBANTENRAYA
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/brXVYQB9/BATAM-TV.png " group-title="LOKAL",BATAM TV
@@ -294,7 +294,7 @@ https://tinyurl.com/gratistvmediaCTVBANTEN
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XJBWVBVD/CITRA-TV.png" group-title="LOKAL",Citra TV (Lamongan)
 http://122.248.43.138:1935/ch28/myStream/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m283Hcf0/Dayak-TV.png" group-title="LOKAL",Dayak TV (Palangka Raya)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/76rCL0Wy/DAYAK-TV.png" group-title="LOKAL",Dayak TV (Palangka Raya)
 https://tinyurl.com/gratistvmediaDAYAKTV
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MpQsDnNN/DUTA-TV.png" group-title="LOKAL",DUTA TV (Banjarmasin)
@@ -321,9 +321,9 @@ http://122.248.43.138:1935/ch14/myStream/live.m3u8
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/sDbjP8Dx/JEK-TV.png " group-title="LOKAL",Jek TV (Jambi) (backup)
 https://tinyurl.com/gratistvmediaJEKTV
 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-6Mdj20iQAqM/XCLZuWtEKvI/AAAAAAAAH-w/BT3OGyYzmncrmbiS-62Opd7CXrm-O2gXgCLcBGAs/s1600/Kawanua%2BTV%2BManado%2Bstreaming.png" group-title="LOKAL",Kawanua TV (Manado)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCXHQsD4/KAWANUA-TV.png" group-title="LOKAL",Kawanua TV (Manado)
 http://122.248.43.138:1935/ch18/myStream/live.m3u8
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-6Mdj20iQAqM/XCLZuWtEKvI/AAAAAAAAH-w/BT3OGyYzmncrmbiS-62Opd7CXrm-O2gXgCLcBGAs/s1600/Kawanua%2BTV%2BManado%2Bstreaming.png" group-title="LOKAL",Kawanua TV (Manado) (backup)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCXHQsD4/KAWANUA-TV.png" group-title="LOKAL",Kawanua TV (Manado) (backup)
 https://tinyurl.com/gratistvmediaKAWANUA
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sgr2FmhJ/LOMBOK-TV.png" group-title="LOKAL", LOMBOK TV
@@ -346,7 +346,7 @@ rtmp://wowza60.indostreamserver.com:1935/pktv/live
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/mrsTJH9G/PKTV-BONTANG.png " group-title="LOKAL",PKTV (Bontang) (backup)
 https://tinyurl.com/gratistvmediaPKTV
 
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/x8gmMZ7K/PON-TV.jpg " group-title="LOKAL",PON TV (Pontianak)
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/vB74xTJx/PON-TV.png" group-title="LOKAL",PON TV (Pontianak)
 https://tinyurl.com/gratistvmediaPON
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5N6Xy5WL/PRIMA-TV.png" group-title="LOKAL", Prima TV (Banjarmasin) 
@@ -392,15 +392,15 @@ http://122.248.43.138:1935/ch25/myStream/live.m3u8
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/L6fs0wnX/SMTV.png " group-title="LOKAL",SMTV (Sumedang) (backup)
 https://tinyurl.com/gratistvmediaSMTV
 
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/Y2NztnX2/Sultra-TV.png " group-title="LOKAL",Sultra TV
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/fb9tZB5K/SULTRA-TV.png" group-title="LOKAL",Sultra TV
 https://tinyurl.com/gratistvmediaSULTRATV
 
-#EXTINF:-1 tvg-logo="https://tatv.co.id/wp-content/uploads/2020/05/ta3.png" group-title="LOKAL",TATV (Solo)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J4rkJ34r/TATV.png" group-title="LOKAL",TATV (Solo)
 https://tinyurl.com/gratistvmediaTATV
 
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/8cbRwcFf/Tegar-TV-Lampung.png " group-title="LOKAL",Tegar TV Lampung
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/tJyVBW3z/TEGAR-TV-LAMPUNG.png" group-title="LOKAL",Tegar TV Lampung
 https://tinyurl.com/gratistvmediaTEGARTV
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/8cbRwcFf/Tegar-TV-Lampung.png " group-title="LOKAL",Tegar TV Lampung (backup)
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/tJyVBW3z/TEGAR-TV-LAMPUNG.png" group-title="LOKAL",Tegar TV Lampung (backup)
 http://wms.klikhost.com/tegartv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kgrCRbft/desa-tv.png" group-title="LOKAL", TV Desa
@@ -853,9 +853,9 @@ https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/sycc-live/zh/playlist.m3u
 #EXTINF:-1 group-title=" HIBURAN " tvg-logo=" https://i.postimg.cc/LX5JqP0v/Mola-TV-Free.png ", Mola TV Free [HD]
 https://cdn-mola-primary-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/08.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BnbTcqJt/Hallmark-Channel.jpg" group-title="HIBURAN",Hallmark Channel
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XX6GrFJ5/Hallmark-Channel.png" group-title="HIBURAN",Hallmark Channel
 https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmark-frndlytv/CDN/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnVjLZZB/Hallmark-Drama.jpg" group-title="HIBURAN",Hallmark Drama
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsrRyg8c/Hallmark-Drama.png" group-title="HIBURAN",Hallmark Drama
 https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmark-drama-frndlytv/CDN/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_lifetime_small.png" group-title="HIBURAN", Lifetime (UseeTV)
 https://fikrulmkc.my.id/bagus/usee-lifetime.m3u8
@@ -1028,10 +1028,10 @@ http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/221947
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/tgMZSJyN/HITS.png " group-title="FILM", HITS (backup8BB)
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165085
 
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/PxWYrJQV/Hallmark-Movies-and-More.jpg " group-title="FILM",Hallmark Movies & More
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/mrT2k9xv/Hallmark-Movies-More.png" group-title="FILM",Hallmark Movies & More
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/fLcHCNfk/HALLMARK-MOVIES-AND-MYSTERIES.png " group-title="FILM",Hallmark Movies & Mysteries
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/2SQSCwtd/Hallmark-Movies-Mysteries.png" group-title="FILM",Hallmark Movies & Mysteries
 https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmarkmovies-frndlytv/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tv5monde" tvg-name="TV5Monde" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tv5monde_small1.png?v=2.0.0.13" group-title="FILM",TV5Monde (UseeTV)
@@ -1107,13 +1107,13 @@ http://185.180.221.194:8278/streams/d/Tvnmovie/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmoviews_small.png" group-title="KOREA", TVN MOVIES (backup8B)
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157596
 
-#EXTINF:-1 tvg-name="057" tvg-ID="SBS.KR" tvg-logo=" https://i.postimg.cc/WzWZnFBS/SBS.png " group-title="KOREA",SBS
+#EXTINF:-1 tvg-name="057" tvg-ID="SBS.KR" tvg-logo=" https://i.postimg.cc/4xmDyXwQ/SBS.png" group-title="KOREA",SBS
 http://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
 
-#EXTINF:-1   tvg-logo=" https://i.postimg.cc/ZnK3pFMC/SBS-PLUS.png " group-title=" KOREA ",SBS Plus
+#EXTINF:-1   tvg-logo=" https://i.postimg.cc/YCZJmTsK/SBS-PLUS.png" group-title=" KOREA ",SBS Plus
 https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
 
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://pbs.twimg.com/profile_images/880680263742894080/MUuQgbht.jpg",SBS Star
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.postimg.cc/HsZGTr0L/SBS-STAR.png",SBS Star
 https://streaming-a-802.cdn.nextologies.com/SBS_18/live/SBS_18_1500k/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XvZNkJ12/K-Drama.png" group-title="KOREA",K-Drama (DensTV)
@@ -1336,14 +1336,14 @@ http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/264765
 https://home-tv.web.id/OYESS/homempd.m3u8?channel=afc
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_afc_small.png?v=2.0.0.17" group-title=" LIFESTYLE ", Asian Food Network (backup5)
 http://185.180.221.194:8278/streams/d/Afc/playlist.m3u8
-#EXTINF:-1 tvg-logo=" https://www.mncvision.id/userfiles/image/channel/channel_240.jpg " group-title=" LIFESTYLE ", Asian Food Network (backup8B)
+#EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_afc_small.png?v=2.0.0.17" group-title=" LIFESTYLE ", Asian Food Network (backup8B)
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165063
-#EXTINF:-1 tvg-logo=" https://www.mncvision.id/userfiles/image/channel/channel_240.jpg " group-title=" LIFESTYLE ", Asian Food Network (backup8BB)
+#EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_afc_small.png?v=2.0.0.17" group-title=" LIFESTYLE ", Asian Food Network (backup8BB)
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157549
 
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/x89HkQsf/BBC-Lifestyle.jpg " group-title="LIFESTYLE", BBC Lifestyle [SD]
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/508d11bN/BBC-LIFESTYLE.png " group-title="LIFESTYLE", BBC Lifestyle [SD]
 https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x89HkQsf/BBC-Lifestyle.jpg" group-title="LIFESTYLE", BBC Lifestyle [HD]
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/508d11bN/BBC-LIFESTYLE.png " group-title="LIFESTYLE", BBC Lifestyle [HD]
 https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist_b1200000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c15BLf1h/BBC-FOUR.png" group-title=" LIFESTYLE ", BBC FOUR
@@ -1360,16 +1360,16 @@ http://51.52.156.22:8888/http/006
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PrpzpNPj/ITV-4.png" group-title=" LIFESTYLE ", ITV 4
 http://51.52.156.22:8888/http/007
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71NOXoPAO3L.png" group-title=" LIFESTYLE ",AKC TV 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://i.postimg.cc/5y1c2G25/AKC-TV.png" group-title=" LIFESTYLE ",AKC TV 
 https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Bv6PBHWv/DMAX.png " group-title=" LIFESTYLE ",DMAX
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/158351
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nLQqg0jJ/Beach-TV.png" group-title=" LIFESTYLE ",Beach TV
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/7hNFGV5F/BEACH-TV.png" group-title=" LIFESTYLE ",Beach TV
 https://tinyurl.com/gratistvmediaBEACH
 
-#EXTINF:-1 tvg-logo=" https://tv.nalench.com/uploads/screenshots/HDFashion_Lifestyle.jpg " group-title="LIFESTYLE", HD FASHION & LifeStyle
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/SKBFwj0v/HD-FASHION-Life-Style.png" group-title="LIFESTYLE", HD FASHION & LifeStyle
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/MpgxNjcv/logo-fashiontv-big1.png " group-title="LIFESTYLE",Fashion TV
@@ -1407,7 +1407,7 @@ http://gg.gg/TokuSHOUTsu
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0jpRPDg4/BESMART-TV.png" group-title="KIDS", BeSmart TV
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165087
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Bg764mY/hiphip.png" tvg-id="" tvg-name"Hip Hip Horee! (Vidio)" group-title="KIDS",Hip Hip Horee! (Vidio)
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/fRcQ6mjS/Hip-Hip-Horee.png " tvg-id="" tvg-name"Hip Hip Horee! (Vidio)" group-title="KIDS",Hip Hip Horee! (Vidio)
 https://livestreaming-swiftserve-etslive.vidio.com/live/7052/master.m3u8?
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="KIDS", Baby First (UseeTV)
@@ -1502,7 +1502,7 @@ http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157610
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dreamworks_small1.png?v=2.0.0.13" group-title="KIDS", Dreamworks (backup7)
 https://nonton.site:8443/6894864475/7163819284/32529
 
-#EXTINF:-1 tvg-id="" tvg-name="Teletubbies" tvg-logo=" https://spng.pngfind.com/pngs/s/160-1606729_teletubby-sun-clipart-teletubbies-logo-png-transparent-png.png " group-title="KIDS",Teletubbies
+#EXTINF:-1 tvg-id="" tvg-name="Teletubbies" tvg-logo=" https://i.postimg.cc/MGt2GwLW/TELETUBBIES.png " group-title="KIDS",Teletubbies
 https://dhx-teletubbies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_davinci_small1.png?v=2.0.0.13" group-title="KIDS", Da Vinci Learning (UseeTV)
@@ -1687,9 +1687,9 @@ https://tv.rodja.live/tasik/mgitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/76mzHrVF/MUADZ-TV.png" group-title="RELIGI",MUADZ TV
 http://wowza60.indostreamserver.com:1935/muadztv/live/chunklist_w1655663467.m3u8?Stream-ID-PPIIPTV-MuadztvEdhorizki-master.js
 
-#EXTINF:-1   tvg-logo=" https://i.postimg.cc/hPp5NKWd/Makkah-TV.png " group-title=" RELIGI ",Makkah TV
+#EXTINF:-1   tvg-logo=" https://i.postimg.cc/Gpbnrtq7/MAKKAH-TV.png " group-title=" RELIGI ",Makkah TV
 http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist_w1944066637.m3u8?v=2545016994
-#EXTINF:-1   tvg-logo=" https://i.postimg.cc/hPp5NKWd/Makkah-TV.png " group-title=" RELIGI ",Makkah TV (DensTV)
+#EXTINF:-1   tvg-logo=" https://i.postimg.cc/Gpbnrtq7/MAKKAH-TV.png " group-title=" RELIGI ",Makkah TV (DensTV)
 http://210.210.155.35/qwr9ew/s/s28/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SsNXtthD/NABAWI-TV.png" group-title="RELIGI",NABAWI TV
@@ -1745,8 +1745,10 @@ https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==foxsport1&b=15&c=foxsport1
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/174721
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?v=2.0.0.13" group-title=" SPORTSTATION 1", Fox Sports 1 [FHD] (backup)
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPRORT-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/0Nb6yKyS/FOX_SPORT_1.png" group-title=" SPORTSTATION 1", Fox Sports 1 (VN) [HD]
+#EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?v=2.0.0.13" group-title=" SPORTSTATION 1", Fox Sports 1 (VN) [HD]
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?v=2.0.0.13" group-title=" SPORTSTATION 1", Fox Sports 1 (TH) [HD]
+https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png?v=2.0.0.13" group-title=" SPORTSTATION 1", Fox Sports 2 [HD] (UseeTV)
 https://home-tv.web.id/OYESS/homempd.m3u8?channel=foxsport2
@@ -1758,8 +1760,10 @@ https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==foxsport2&b=15&c=foxsport2
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157488
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png?v=2.0.0.13" group-title=" SPORTSTATION 1", Fox Sports 2 [HD] (backup)
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORT2-SD-720p/playlist.m3u8
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/1Xc1QMxK/FOX_SPORT_2.png" group-title=" SPORTSTATION 1", Fox Sports 2 (VN) [HD]
+#EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png?v=2.0.0.13" group-title=" SPORTSTATION 1", Fox Sports 2 (VN) [HD]
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png?v=2.0.0.13" group-title=" SPORTSTATION 1", Fox Sports 2 (TH) [HD]
+https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?v=2.0.0.13" group-title=" SPORTSTATION 1", Fox Sports 3 [HD] (UseeTV)
 https://home-tv.web.id/OYESS/homempd.m3u8?channel=foxsport3
@@ -1771,8 +1775,10 @@ https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==foxsport3&b=15&c=foxsport3
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157560
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?v=2.0.0.13" group-title=" SPORTSTATION 1", Fox Sports 3 [FHD] (backup)
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORTS3-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/Znhz22QR/FOX_SPORT_3.png" group-title=" SPORTSTATION 1", Fox Sports 3 (VN) [HD]
+#EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?v=2.0.0.13" group-title=" SPORTSTATION 1", Fox Sports 3 (VN) [HD]
 https://livecdn.fptplay.net/qnetlive/foxsports3_1000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?v=2.0.0.13" group-title=" SPORTSTATION 1", Fox Sports 3 (TH) [HD]
+https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/SKJPPttj/Sky-Sports-MIX.png" group-title=" SPORTSTATION 1", Sky Sports Mix [HD] (backup8B)
 http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/261.m3u8
@@ -1807,7 +1813,7 @@ rtmp://ivi.bupt.edu.cn:1935/livetv/starsports?checkedby
 https://home-tv.web.id/OYESS/homempd.m3u8?channel=nba
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-tv-logo-585DF08BF0-seeklogo.com.png" group-title="SPORTSTATION 1",NBA (backup9)
 https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==nba&b=15&c=nba
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-tv-logo-585DF08BF0-seeklogo.com.png" group-title="SPORTSTATION 1",NBA (THAI) [HD]
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-tv-logo-585DF08BF0-seeklogo.com.png" group-title="SPORTSTATION 1",NBA (TH) [HD]
 https://www.livedoomovies.com/02_nbahd_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/GtTDV9HF/UFC.png" group-title=" SPORTSTATION 1",UFC
@@ -2179,80 +2185,100 @@ https://95-213-224-179.livesports24.online/rumatchf3.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.dprd-diy.go.id/wp-content/uploads/2016/11/logo-jogja-istimewa-bundar.jpg" group-title="CCTV JOGJA",NOL KM Yogyakarta
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",NOL KM Yogyakarta
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewNolKilo.stream/chunklist_w797659833.m3u8 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.dprd-diy.go.id/wp-content/uploads/2016/11/logo-jogja-istimewa-bundar.jpg" group-title="CCTV JOGJA",Kawasan Tugu DIY
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Kawasan Tugu DIY
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewTugu.stream/chunklist_w1039454854.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.dprd-diy.go.id/wp-content/uploads/2016/11/logo-jogja-istimewa-bundar.jpg" group-title="CCTV JOGJA",Simpang Tugu DIY
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Simpang Tugu DIY
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewSimpangTugu.stream/chunklist_w1865669256.m3u8 
  
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.dprd-diy.go.id/wp-content/uploads/2016/11/logo-jogja-istimewa-bundar.jpg" group-title="CCTV JOGJA",Stasiun Tugu DIY
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Stasiun Tugu DIY
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewStasiunTugu.stream/chunklist_w1303369035.m3u8 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.dprd-diy.go.id/wp-content/uploads/2016/11/logo-jogja-istimewa-bundar.jpg" group-title="CCTV JOGJA",Malioboro DIY
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Malioboro DIY
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewMalioboro.stream/chunklist_w1735252186.m3u8 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.dprd-diy.go.id/wp-content/uploads/2016/11/logo-jogja-istimewa-bundar.jpg" group-title="CCTV JOGJA",Malioboro Mall DIY
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Malioboro Mall DIY
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewDepanMall.stream/chunklist_w2049014652.m3u8 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.dprd-diy.go.id/wp-content/uploads/2016/11/logo-jogja-istimewa-bundar.jpg" group-title="CCTV JOGJA",Hotel Garuda DIY
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Malioboro Mall DIY (Utara)
+https://mam.jogjaprov.go.id:1937/cctv-uptmalioboro/UPTMalio6_MallUtara.stream/chunklist_w803257147.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Malioboro Mall DIY (Selatan)
+https://mam.jogjaprov.go.id:1937/cctv-uptmalioboro/UPTMalio7_MallSelatan.stream/chunklist_w183783345.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Hotel Garuda DIY
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewDepanGaruda.stream/chunklist_w90059632.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.dprd-diy.go.id/wp-content/uploads/2016/11/logo-jogja-istimewa-bundar.jpg" group-title="CCTV JOGJA",Beringharjo DIY
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Hotel Garuda DIY (2)
+https://mam.jogjaprov.go.id:1937/cctv-uptmalioboro/UPTMalio1_SelatanTeteg.stream/chunklist_w442388786.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Beringharjo DIY
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewDepanBeringharjo.stream/chunklist_w256102437.m3u8 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.dprd-diy.go.id/wp-content/uploads/2016/11/logo-jogja-istimewa-bundar.jpg" group-title="CCTV JOGJA",Alun-Alun Selatan DIY
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",DPRD DIY
+https://mam.jogjaprov.go.id:1937/cctv-uptmalioboro/UPTMalio4_DepanDPRD.stream/chunklist_w1556602680.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",DPRD DIY (2)
+https://mam.jogjaprov.go.id:1937/cctv-uptmalioboro/UPTMalio5_Perwakilan.stream/chunklist_w2106236793.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Ramayana DIY
+https://mam.jogjaprov.go.id:1937/cctv-uptmalioboro/UPTMalio12_Ramayana.stream/chunklist_w160257945.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Alun-Alun Selatan DIY
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewAlunAlunKidul.stream/chunklist_w133850215.m3u8 
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Alun-Alun Utara DIY
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewAlunAlunUtara.stream/chunklist_w1372408415.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.dprd-diy.go.id/wp-content/uploads/2016/11/logo-jogja-istimewa-bundar.jpg" group-title="CCTV JOGJA",Alun-Alun Utara DIY
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Alun-Alun Utara DIY (2)
 https://mam.jogjaprov.go.id:1937/cctv-kp/AlunAlunUtara1.stream/chunklist_w108297307.m3u8 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.dprd-diy.go.id/wp-content/uploads/2016/11/logo-jogja-istimewa-bundar.jpg" group-title="CCTV JOGJA",Alun-Alun Utara DIY (2)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Alun-Alun Utara DIY (3)
 https://mam.jogjaprov.go.id:1937/cctv-kp/AlunAlunSelatan3.stream/chunklist_w1409693452.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.dprd-diy.go.id/wp-content/uploads/2016/11/logo-jogja-istimewa-bundar.jpg" group-title="CCTV JOGJA",Candi Prambanan
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Candi Prambanan
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewCandiPrambanan.stream/chunklist_w1578296569.m3u8 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.dprd-diy.go.id/wp-content/uploads/2016/11/logo-jogja-istimewa-bundar.jpg" group-title="CCTV JOGJA",Candi Sambisari
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Candi Sambisari
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewCandiSambisari.stream/chunklist_w993506618.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.dprd-diy.go.id/wp-content/uploads/2016/11/logo-jogja-istimewa-bundar.jpg" group-title="CCTV JOGJA",Mangunan DIY
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Mangunan DIY
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewMangunan.stream/chunklist_w1363447093.m3u8 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.dprd-diy.go.id/wp-content/uploads/2016/11/logo-jogja-istimewa-bundar.jpg" group-title="CCTV JOGJA",Merapi DIY
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Merapi DIY
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewGunungMerapi.stream/chunklist_w1563702546.m3u8 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.dprd-diy.go.id/wp-content/uploads/2016/11/logo-jogja-istimewa-bundar.jpg" group-title="CCTV JOGJA",Embung Nglanggeran DIY
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Embung Nglanggeran DIY
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewNglanggeran.stream/chunklist_w172440882.m3u8 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.dprd-diy.go.id/wp-content/uploads/2016/11/logo-jogja-istimewa-bundar.jpg" group-title="CCTV JOGJA",Tebing Breksi DIY
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Tebing Breksi DIY
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewBreksi.stream/chunklist_w1301384993.m3u8 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.dprd-diy.go.id/wp-content/uploads/2016/11/logo-jogja-istimewa-bundar.jpg" group-title="CCTV JOGJA",Bukit Klangon DIY
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Bukit Klangon DIY
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewBukitKlangon.stream/chunklist_w1171776566.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.dprd-diy.go.id/wp-content/uploads/2016/11/logo-jogja-istimewa-bundar.jpg" group-title="CCTV JOGJA",Bukit Bintang DIY
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Bukit Bintang DIY
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewGunungPathuk.stream/chunklist_w1407731783.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.dprd-diy.go.id/wp-content/uploads/2016/11/logo-jogja-istimewa-bundar.jpg" group-title="CCTV JOGJA",Kalibiru DIY
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Kalibiru DIY
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewKalibiru.stream/chunklist_w1484773377.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.dprd-diy.go.id/wp-content/uploads/2016/11/logo-jogja-istimewa-bundar.jpg" group-title="CCTV JOGJA",Parangtritis DIY
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Parangtritis DIY
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewPantaiParangTritis.stream/chunklist_w1470497340.m3u8 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.dprd-diy.go.id/wp-content/uploads/2016/11/logo-jogja-istimewa-bundar.jpg" group-title="CCTV JOGJA",Baron Barat DIY
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Baron Barat DIY
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewBaronBarat.stream/chunklist_w372007724.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.dprd-diy.go.id/wp-content/uploads/2016/11/logo-jogja-istimewa-bundar.jpg" group-title="CCTV JOGJA",Baron Timur DIY
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Baron Timur DIY
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewBaronTimur.stream/chunklist_w761960059.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.dprd-diy.go.id/wp-content/uploads/2016/11/logo-jogja-istimewa-bundar.jpg" group-title="CCTV JOGJA",Pandansari Barat DIY
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Pandansari Barat DIY
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewPandansariBarat.stream/chunklist_w1570402240.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.dprd-diy.go.id/wp-content/uploads/2016/11/logo-jogja-istimewa-bundar.jpg" group-title="CCTV JOGJA",Pandansari Timur DIY
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Pandansari Timur DIY
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewPandansariTimur.stream/chunklist_w1992953995.m3u8
 
 
