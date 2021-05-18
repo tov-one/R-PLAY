@@ -1475,15 +1475,14 @@ http://51.79.82.231:8080/US_DISNEY_JR_EAST_USA/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png" group-title="KIDS", Nick Junior (UseeTV)
 https://home-tv.web.id/OYESS/homempd.m3u8?channel=nickjr
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png" group-title="KIDS", Nick Junior (backup)
-http://gg.gg/NickelodeonJRbyChungXDA
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png" group-title="KIDS", Nick Junior (backup8B)
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157546
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png" group-title="KIDS", Nick Junior (backup8BB)
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165107
 
-
-#EXTINF:-1 tvg-id="NJR.US" tvg-logo=" https://www.useetv.com/assets/images/channel/logo_nickjr_small.png " group-title=" KIDS ",Nick Junior (USA)
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png" group-title="KIDS", Nick Junior (USA) (backup)
+http://gg.gg/NickelodeonJRbyChungXDA
+#EXTINF:-1 tvg-id="NJR.US" tvg-logo=" https://www.useetv.com/assets/images/channel/logo_nickjr_small.png " group-title=" KIDS ",Nick Junior (USA) (backup)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickelodeon_small.png" group-title="KIDS", Nickelodeon (UseeTV)
@@ -2145,10 +2144,10 @@ http://ott-cdn.ucom.am/s81/index.m3u8
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/nLsWnBB1/SETANTA-SPORTS-1.png" group-title="SPORTSTATION 3", Setanta Sports 1 (RUS) [FHD]
 https://95-213-224-179.livesports24.online/rusetantaeurasia.m3u8
 
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/LsvnYn92/ELEVEN-SPORTS-2.png " group-title="SPORTSTATION 3", Setanta Sports 2 (RUS) [Auto]
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/Mp34kdMT/SETANTA_SPORTS_2.png" group-title="SPORTSTATION 3", Setanta Sports 2 (RUS) [Auto]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s82/index.m3u8
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/LsvnYn92/ELEVEN-SPORTS-2.png " group-title="SPORTSTATION 3", Setanta Sports 2 (RUS) [FHD]
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/Mp34kdMT/SETANTA_SPORTS_2.png" group-title="SPORTSTATION 3", Setanta Sports 2 (RUS) [FHD]
 https://95-213-224-179.livesports24.online/setantaplusru.m3u8
 
 #EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/v8x83271/SETANTA-SPORTS-PLUS.png", Setanta Sports+ (RUS) [SD]
@@ -2232,12 +2231,6 @@ https://mam.jogjaprov.go.id:1937/cctv-public/ViewAlunAlunKidul.stream/chunklist_
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Alun-Alun Utara DIY
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewAlunAlunUtara.stream/chunklist_w1372408415.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Alun-Alun Utara DIY (2)
-https://mam.jogjaprov.go.id:1937/cctv-kp/AlunAlunUtara1.stream/chunklist_w108297307.m3u8 
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Alun-Alun Utara DIY (3)
-https://mam.jogjaprov.go.id:1937/cctv-kp/AlunAlunSelatan3.stream/chunklist_w1409693452.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Candi Prambanan
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewCandiPrambanan.stream/chunklist_w1578296569.m3u8 
@@ -2680,3 +2673,4 @@ https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/29.mp3
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN JUZ", Juz 30
 https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/30.mp3
+
