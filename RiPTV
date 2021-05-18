@@ -1093,7 +1093,7 @@ http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
 https://home-tv.web.id/OYESS/homempd.m3u8?channel=tvn
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_tvn_small.png " tvg-id="" tvg-name"TVN (Vidio)" group-title="KOREA",TVN (Vidio)
 https://livestreaming-swiftserve-etslive.vidio.com/live/6362/master.m3u8?
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/bNrkvgn5/TVN.png " group-title="KOREA", TVN [HD]
+#EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_tvn_small.png " group-title="KOREA", TVN [HD]
 http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" group-title="KOREA", TVN (backup8B)
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157476
@@ -2150,7 +2150,7 @@ http://ott-cdn.ucom.am/s82/index.m3u8
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/Mp34kdMT/SETANTA_SPORTS_2.png" group-title="SPORTSTATION 3", Setanta Sports 2 (RUS) [FHD]
 https://95-213-224-179.livesports24.online/setantaplusru.m3u8
 
-#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/v8x83271/SETANTA-SPORTS-PLUS.png", Setanta Sports+ (RUS) [SD]
+#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/Bnnywdvk/SETANTA_SPORTS_PLUS.png ", Setanta Sports+ (RUS) [SD]
 http://195.158.29.129/live_360/live.stream+_360p.m3u8
 
 #EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/nrQ9YH2T/RMC-SPORT-1.png", RMC SPORT 1 (FR) [HD]
@@ -2673,4 +2673,3 @@ https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/29.mp3
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN JUZ", Juz 30
 https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/30.mp3
-
