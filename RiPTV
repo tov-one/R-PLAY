@@ -1697,10 +1697,14 @@ https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==useesports2&b=15&c=useesports2
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title=" SPORTSTATION 1", UseeSports 2 (backup7)
 https://nonton.site:8443/6894864475/7163819284/36241
 
-#EXTINF:-1   tvg-logo=" https://i.postimg.cc/MTB8sqdN/EUROSPORT.png " group-title=" SPORTSTATION 1 ", Eurosport 1 (TH)
+#EXTINF:-1   tvg-logo=" https://i.postimg.cc/T2WXx0kf/EUROSPORT-1.png" group-title=" SPORTSTATION 1 ", Eurosport 1
+https://chostv.mobie.in/choos/sports/euro1.m3u8
+#EXTINF:-1   tvg-logo=" https://i.postimg.cc/T2WXx0kf/EUROSPORT-1.png" group-title=" SPORTSTATION 1 ", Eurosport 1 (TH) (backup)
 https://www.livedoomovies.com/02_EUROHD1_720p/chunklist.m3u8
 
-#EXTINF:-1   tvg-logo=" https://i.postimg.cc/MTB8sqdN/EUROSPORT.png " group-title=" SPORTSTATION 1 ", Eurosport 2 (TH)
+#EXTINF:-1   tvg-logo=" https://i.postimg.cc/D0sVcfW8/EUROSPORT-2.png" group-title=" SPORTSTATION 1 ", Eurosport 2
+https://chostv.mobie.in/choos/sports/euro2.m3u8
+#EXTINF:-1   tvg-logo=" https://i.postimg.cc/D0sVcfW8/EUROSPORT-2.png" group-title=" SPORTSTATION 1 ", Eurosport 2 (TH) (backup)
 https://www.livedoomovies.com/02_EUROHD2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mZVm7svR/FOX-SPORTS-NEWS.png " group-title=" SPORTSTATION 1", Fox Sports News
@@ -1773,7 +1777,7 @@ https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==nba&b=15&c=nba
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-tv-logo-585DF08BF0-seeklogo.com.png" group-title="SPORTSTATION 1",NBA (TH) [HD]
 https://www.livedoomovies.com/02_nbahd_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/GtTDV9HF/UFC.png" group-title=" SPORTSTATION 1",UFC
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/3JsX68k3/UFC.png" group-title=" SPORTSTATION 1",UFC
 http://live-ng-01.more.tv/hls/UFC/index_0.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo=" https://i.postimg.cc/s2Fm3DhP/STADIUM.png" group-title="SPORTSTATION 1",Stadium
@@ -2237,7 +2241,7 @@ http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/2Sn6xX7z/1591197821118.png " group-title="TV MALAYSIA",OKEY
 https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/2Sn6xX7z/1591197821118.png" group-title=" TV MALAYSIA ",OKEY
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/2Sn6xX7z/1591197821118.png" group-title=" TV MALAYSIA ",OKEY (2)
 https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1064000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BnDGV4Bd/HELLO.png" group-title="TV MALAYSIA",Hello
@@ -2264,7 +2268,7 @@ https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b864000.m
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nr6F4vsj/1591197703800.png" group-title="TV MALAYSIA",RTM Sports (2)
 http://50.7.161.82:8278/streams/d/Rtmsport/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/rsQYQDQN/astro-arena.png " group-title=" TV MALAYSIA ",Astro ARENA
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/90PL86Jm/ASTRO-ARENA.png " group-title=" TV MALAYSIA ",Astro ARENA
 http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/8PqDWWxT/ASTRO-AWANI.png " group-title="TV MALAYSIA",Astro AWANI
@@ -2619,3 +2623,4 @@ https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/29.mp3
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN JUZ", Juz 30
 https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/30.mp3
+
