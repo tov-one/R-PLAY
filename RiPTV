@@ -567,7 +567,7 @@ https://livestreaming-google-etslive.vidio.com/live/7150/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_abcaustralia_small.png" group-title="NEWS", ABC Australia (backup8B)
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165056
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Twf9GZCb/SKY-NEWS-AUSTRALIA.png" group-title="NEWS", Sky News Australia (backup)
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/BQ8s9z5S/SKY-NEWS-AUSTRALIA.png" group-title="NEWS", Sky News Australia (backup)
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/qv5KY55k/AUSTRALIA-CHANNEL.png " group-title="NEWS", Australia Channel
@@ -582,12 +582,12 @@ https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==bloomberg&b=14&c=bloomberg
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_bloomberg_small1.png?v=2.0.0.13" group-title="NEWS",Bloomberg (backup2)
 https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
-#EXTINF:-1 tvg-id="bloomberg" tvg-name="Bloomberg" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bloomberg_small1.png?v=2.0.0.13" group-title=" NEWS ",Bloomberg (DensTV)
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bloomberg_small1.png?v=2.0.0.13" group-title=" NEWS ",Bloomberg (DensTV)
 http://210.210.155.35/session/cafb2556-3131-11eb-8209-c81f66f89318/uq2663/h/h03/01.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnninternational_small.png" tvg-url="" group-title="NEWS",CNN International
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnninternational_small.png" group-title="NEWS",CNN International
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnninternational_small.png" tvg-url="" group-title="NEWS",CNN International (backup)
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnninternational_small.png" group-title="NEWS",CNN International (backup)
 http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="cnbcasia" tvg-name="CNBC Asia" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnbcasias_small.png" group-title=" NEWS ",CNBC Asia (UseeTV)
@@ -595,16 +595,16 @@ https://home-tv.web.id/OYESS/homempd.m3u8?channel=cnbcasia
 #EXTINF:-1 tvg-id="cnbcasia" tvg-name="CNBC Asia" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnbcasias_small.png" group-title=" NEWS ",CNBC Asia (backup8B)
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165062
 
-#EXTINF:-1 tvg-id="BBC World News UK" tvg-name="BBC World News UK" tvg-country="INT" tvg-language="English" tvg-logo="https://i.postimg.cc/YSqRpkmF/BBC-World-News.png" tvg-url="" group-title="NEWS",BBC World News [Auto]
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/gkfpYK4v/BBC-WORLD-NEWS.png " group-title="NEWS",BBC World News [Auto]
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-#EXTINF:-1 tvg-id="BBC World News UK" tvg-name="BBC World News UK" tvg-country="INT" tvg-language="English" tvg-logo="https://i.postimg.cc/YSqRpkmF/BBC-World-News.png" tvg-url="" group-title="NEWS",BBC World News [SD]
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/gkfpYK4v/BBC-WORLD-NEWS.png " group-title="NEWS",BBC World News [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s24/index.m3u8
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/YSqRpkmF/BBC-World-News.png " group-title="NEWS", BBC World News (backup)
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/gkfpYK4v/BBC-WORLD-NEWS.png " group-title="NEWS", BBC World News (backup)
 https://1111296894.rsc.cdn77.org/LS-ATL-54548-11/index.m3u8
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/YSqRpkmF/BBC-World-News.png " group-title="NEWS", BBC World News (backup2)
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/gkfpYK4v/BBC-WORLD-NEWS.png " group-title="NEWS", BBC World News (backup2)
 http://51.52.156.22:8888/http/004
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/YSqRpkmF/BBC-World-News.png " group-title="NEWS", BBC World News (backup8B)
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/gkfpYK4v/BBC-WORLD-NEWS.png " group-title="NEWS", BBC World News (backup8B)
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165090
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/zGSNswnB/NBC-News-Now.png " group-title="NEWS", NBC NEWS NOW
@@ -2066,7 +2066,7 @@ https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/W4kX4Rcw/SPORT-TV-5.png "  group-title=" SPORTSTATION 3 ",SPORT TV 5 (PT)
 https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/vmpDDJFf/CANAL-SPORT-1.png", CANAL+SPORT 1
+#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/NGCYntHC/CANAL-SPORT.png", CANAL+ SPORT
 http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/SNWSpXvk/DAZN-1.png", DAZN 1 (DE) [HD]
@@ -2623,4 +2623,3 @@ https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/29.mp3
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN JUZ", Juz 30
 https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/30.mp3
-
