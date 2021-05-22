@@ -645,10 +645,12 @@ http://210.210.155.35:80/session/497a1e3c-2edf-11eb-a245-b82a72d63267/qwr9ew/s/s
 
 #EXTINF:-1 tvg-id="cna" tvg-name="CNA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_newsasia_small.png?v=2.0.0.13" group-title=" NEWS ",CNA (UseeTV)
 https://fikrulmkc.my.id/bagus/usee-newsasia.m3u8
-#EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_newsasia_small.png?v=2.0.0.13" group-title=" NEWS ", CNA (backup)
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_newsasia_small.png?v=2.0.0.13" group-title=" NEWS ", CNA (DensTV)
 http://210.210.155.35:80/session/ee573acc-2edd-11eb-a769-b82a72d63267/uq2663/h/h29/01.m3u8
+#EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_newsasia_small.png?v=2.0.0.13" group-title=" NEWS ", CNA (backup)
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_newsasia_small.png?v=2.0.0.13" group-title=" NEWS ", CNA (VN)
+https://livecdn.fptplay.net/world/newsasia_hls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_euronews_small1.png?v=2.0.0.13" group-title="NEWS", EuroNews (UseeTV)
 https://cmt.mb13.cyou/uni/ku/see/ucf.php?a=usee-euronews&b=14&c=euronews
@@ -912,15 +914,15 @@ http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/264801
 https://home-tv.web.id/OYESS/homempd.m3u8?channel=blueant
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/mZ3LwKVG/Blue-ANT.png" group-title="FILM", Blue Ant Entertainment (DensTV)
 http://210.210.155.35/session/8fe716b0-9658-11ea-934d-b82a72d63267/dr9445/h/h16/02.m3u8
-#EXTINF:-1 tvg-id="-" tvg-name="Blue Ant Entertainment" tvg-logo=" https://i.postimg.cc/mZ3LwKVG/Blue-ANT.png" group-title="FILM", Blue Ant Entertainment (backup)
-https://tinyurl.com/gratistvmediaChBLUEANTENT
+#EXTINF:-1 tvg-id="-" tvg-name="Blue Ant Entertainment" tvg-logo=" https://i.postimg.cc/mZ3LwKVG/Blue-ANT.png" group-title="FILM", Blue Ant Entertainment (VN)
+https://livecdn.fptplay.net/hda/blueantent_hls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="blueantextreme" tvg-name="blueantextreme" tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueantext_small.png" group-title="FILM", Blue Ant Extreme (UseeTV)
 https://home-tv.web.id/OYESS/homempd.m3u8?channel=blueantextreme
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_blueantext_small.png " group-title="FILM", Blue Ant Extreme (DensTV)
 http://210.210.155.35/session/c35116ea-9658-11ea-934d-b82a72d63267/dr9445/h/h15/02.m3u8
-#EXTINF:-1 tvg-id="-" tvg-name="Blue Ant Extreme" tvg-logo=" https://www.useetv.com/assets/images/channel/logo_blueantext_small.png " group-title="FILM", Blue Ant Extreme (backup)
-https://tinyurl.com/gratistvmediaBLUEANTEXT
+#EXTINF:-1 tvg-id="-" tvg-name="Blue Ant Extreme" tvg-logo=" https://www.useetv.com/assets/images/channel/logo_blueantext_small.png " group-title="FILM", Blue Ant Extreme (VN)
+https://livecdn.fptplay.net/hda/blueantext_hls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png?v=2.0.0.13" group-title="FILM", AXN (UseeTV)
 https://home-tv.web.id/OYESS/homempd.m3u8?channel=axn 
@@ -1072,6 +1074,8 @@ https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==kbsworld&b=14&c=kbsworld
 http://185.180.221.194:8278/streams/d/KBS/playlist.m3u8
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/44wFpMr4/logo-kbsw-orld-small.png " group-title="KOREA", KBS World [HD] 
 http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/44wFpMr4/logo-kbsw-orld-small.png " group-title="KOREA", KBS World (VN)
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" group-title="KOREA", TVN (UseeTV)
 https://home-tv.web.id/OYESS/homempd.m3u8?channel=tvn
@@ -1470,6 +1474,8 @@ https://dhx-teletubbies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 https://home-tv.web.id/OYESS/homempd.m3u8?channel=davinci
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_davinci_small1.png?v=2.0.0.13" tvg-name"Da Vinci (Vidio)" group-title="KIDS",Da Vinci Learning (Vidio)
 https://livestreaming-google-etslive.vidio.com/live/6549/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_davinci_small1.png?v=2.0.0.13" group-title="KIDS", Da Vinci Learning (VN)
+https://livecdn.fptplay.net/world/davincihd_hls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GptkPXVZ/bisnet-kids-hd.png" group-title="KIDS", Biznet Kids
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
@@ -2132,6 +2138,18 @@ https://95-213-224-179.livesports24.online/mfootball2rus.m3u8
  
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/bwzhLtSr/MATCH-Football-3.png" group-title=" SPORTSTATION 3 ", MATCH Football 3 (RUS)
 https://95-213-224-179.livesports24.online/rumatchf3.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN HD" tvg-logo=" https://i.postimg.cc/rph56ht1/ESPN.png" group-title=" SPORTSTATION 3 ", ESPN (MX) [HD]
+http://balancer1.ottmex.com:8081/tecno/Espn1.BKR/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN 2 HD" tvg-logo=" https://i.postimg.cc/FKF0Bt1F/ESPN-2.png" group-title="SPORTSTATION 3",ESPN 2 (MX) [HD]
+http://balancer1.ottmex.com:8081/tecno/Espn2.BKR/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN 3" tvg-logo=" https://i.postimg.cc/x13K5jfF/ESPN-3.png" group-title=" SPORTSTATION 3 ",ESPN 3 (MX) [HD]
+http://balancer1.ottmex.com:8081/tecno/Espn3.BKR/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN EXTRA" tvg-logo=" https://i.postimg.cc/FH4y0k4L/ESPN-EXTRA.png" group-title=" SPORTSTATION 3 ", ESPN EXTRA (MX) [HD]
+http://balancer1.ottmex.com:8081/tecno/Espn+.BKR/chunks.m3u8
 
 
 
