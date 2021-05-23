@@ -2077,7 +2077,7 @@ http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/W4kX4Rcw/SPORT-TV-5.png "  group-title=" SPORTSTATION 3 ",SPORT TV 5 (PT)
 http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/NGCYntHC/CANAL-SPORT.png", CANAL+ SPORT (FR)
+#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/NGCYntHC/CANAL-SPORT.png", CANAL+ SPORT (PL)
 http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/wT30jGQ7/Movistar-La-Liga.png ",Movistar LaLiga (ES) [HD]
