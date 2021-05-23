@@ -1649,6 +1649,8 @@ http://iamchannel.org:1935/tes/1/chunklist_w517367057.m3u8
 
 #EXTINF:1 tvg-logo="https://i.postimg.cc/KcHMvHpC/ISLAM-CHANNEL.png" group-title="RELIGI",Islam Channel
 https://5ea835027d05e.streamlock.net/islam/islamtv/chunklist_w1596083799.m3u8
+#EXTINF:1 tvg-logo="https://i.postimg.cc/KcHMvHpC/ISLAM-CHANNEL.png" group-title="RELIGI",Islam Channel [UK]
+https://live.islamchannel.tv/islamtv/islamtv_english/bitrate1.isml/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N0kXsGZx/IQRAA.png" group-title="RELIGI",Iqraa TV
 https://ap02.iqplay.tv:8082/iqb8002/iq6a7k/chunks.m3u8
