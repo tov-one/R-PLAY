@@ -658,6 +658,8 @@ https://cmt.mb13.cyou/uni/ku/see/ucf.php?a=usee-euronews&b=14&c=euronews
 https://livestreaming-google-etslive.vidio.com/live/6412/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_euronews_small1.png?v=2.0.0.13" group-title="NEWS", EuroNews (backup8B)
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165070
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_euronews_small1.png?v=2.0.0.13" group-title="NEWS", EuroNews (backup)
+https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_aljazeera_small1.png?v=2.0.0.13" group-title="NEWS", Aljazeera (UseeTV)
 https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==aljazeera&b=14&c=aljazeera
@@ -1136,8 +1138,10 @@ http://iptv.zqstream.com/zqdrama-gen/video.m3u8?token=vQqPVtl-k0
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/jdpD5Bxw/Smithsonian-Channel.png " tvg-id="" tvg-name"Smithsonian (Vidio)" group-title="PENGETAHUAN",Smithsonian Channel (Vidio)
 https://livestreaming-google-etslive.vidio.com/live/6550/master.m3u8
 
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/tgZ9JgHL/love-nature-4k.png " tvg-name"Love Nature (Vidio)" group-title="PENGETAHUAN",Love Nature (Vidio)
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/tgZ9JgHL/love-nature-4k.png " group-title="PENGETAHUAN",Love Nature (Vidio)
 https://livestreaming-google-etslive.vidio.com/live/6635/master.m3u8
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/tgZ9JgHL/love-nature-4k.png " group-title="PENGETAHUAN",Love Nature (backup)
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wTsw-FydW/bisnet-adventure-4k.png" group-title="PENGETAHUAN", Biznet Adventure 4K
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
@@ -1266,6 +1270,8 @@ https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b1200000.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/GpYKFDW5/OUTSIDE-TV.png " group-title="PENGETAHUAN", OUTSIDE TV
 https://outsidetvplus-stirr.amagi.tv/playlistR720P.m3u8
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/GpYKFDW5/OUTSIDE-TV.png " group-title="PENGETAHUAN", OUTSIDE TV (backup)
+https://dai.google.com/linear/hls/event/HJAq3zH1SUy_B6fb1j80_Q/master.m3u8?source:iptvmate.net
 
 #EXTINF:-1 tvg-id="lingua" tvg-name="Lingua" tvg-logo="https://www.useetv.com/assets/images/channel/logo_lingua_small.png" group-title=" PENGETAHUAN ",Lingua (UseeTV)
 https://cmt.mb13.cyou/uni/ku/see/ucf.php?a=usee-lingua&b=15&c=lingua
@@ -1276,6 +1282,8 @@ http://203.154.177.124:8899/live/ch2/playlist.m3u8
 https://1795195508.rsc.cdn77.org/1795195508/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/fb0q3X3c/NASA-TV.png " group-title="PENGETAHUAN",NASA TV 
+https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/fb0q3X3c/NASA-TV.png " group-title="PENGETAHUAN",NASA TV (backup)
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Gt10JcDM/PULSE-TV.png" group-title="PENGETAHUAN",PULSE TV
@@ -1415,6 +1423,15 @@ https://livestreaming-google-etslive.vidio.com/live/6397/master.m3u8
 https://itvorigin.multitvsolution.com/idvo/discoverykidseng_360p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/T2SVng4t/DISCOVERY-KIDS.png" group-title=" KIDS ",Discovery KIDS (backup8)
 http://iptvtree.net:8080/Ainamanja/6a4fef36/264570
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvXGj3yT/KIDOODLE-TV.png" group-title=" KIDS ", Kidoodle TV
+http://kidoodletv-kdtv-3.roku.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/QtxCLMc6/SUPER-TOONS-TV.png" group-title=" KIDS ", Super Toons TV
+https://kedoo-supertoonstv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/76s6qyVq/PINGFONG-TV.png" group-title=" KIDS ", Pinkfong TV
+https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="boomerang" tvg-name="Boomerang" tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title=" KIDS ",Boomerang (UseeTV)
 https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==boomerang&b=15&c=boomerang
