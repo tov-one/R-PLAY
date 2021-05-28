@@ -616,11 +616,18 @@ https://nbcnewshls-i.akamaihd.net/hls/live/1005206/nnn_live2/index.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/13WxmyTy/FOX-NEWS.png" group-title="NEWS ", FOX News
 http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/13WxmyTy/FOX-NEWS.png" group-title="NEWS ", FOX News (backup)
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/Gm4CpGQm/News-NOW-from-FOX.png" group-title="NEWS ",NewsNOW from FOX
+http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/28d8nQRj/One_America_News.png" group-title="NEWS ", One America News
+http://n1.klowdtv.net/live1/oan_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/N0143g7Y/NEWSMAX.png " group-title="NEWS ", NEWSMAX
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/cJ3s4wmN/NewsNet.png" group-title="NEWS ", NewsNet
+http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/XvXRXTSd/ABC-NEWS.png" group-title="NEWS ", ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
@@ -1715,38 +1722,26 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?v=2.0.0.13" group-title=" SPORTSTATION 1", Fox Sports 1 [HD] (UseeTV)
 https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==foxsport1&b=15&c=foxsport1
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?v=2.0.0.13" group-title=" SPORTSTATION 1", Fox Sports 1 [HD] (backup5)
-http://185.180.221.194:8278/streams/d/Foxsports/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?v=2.0.0.13" group-title=" SPORTSTATION 1", Fox Sports 1 [HD] (backup8B)
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/174721
-#EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?v=2.0.0.13" group-title=" SPORTSTATION 1", Fox Sports 1 [FHD] (backup)
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPRORT-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?v=2.0.0.13" group-title=" SPORTSTATION 1", Fox Sports 1 (VN) [HD]
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png?v=2.0.0.13" group-title=" SPORTSTATION 1", Fox Sports 2 [HD] (UseeTV)
 https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==foxsport2&b=15&c=foxsport2
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png?v=2.0.0.13" group-title=" SPORTSTATION 1", Fox Sports 2 [HD] (backup5)
-http://185.180.221.194:8278/streams/d/Foxsports2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png?v=2.0.0.13" group-title=" SPORTSTATION 1", Fox Sports 2 [HD] (backup8B)
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157488
-#EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png?v=2.0.0.13" group-title=" SPORTSTATION 1", Fox Sports 2 [HD] (backup)
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORT2-SD-720p/playlist.m3u8
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png?v=2.0.0.13" group-title=" SPORTSTATION 1", Fox Sports 2 (VN) [HD]
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?v=2.0.0.13" group-title=" SPORTSTATION 1", Fox Sports 3 [HD] (UseeTV)
 https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==foxsport3&b=15&c=foxsport3
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?v=2.0.0.13" group-title=" SPORTSTATION 1", Fox Sports 3 [HD] (backup5)
-http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?v=2.0.0.13" group-title=" SPORTSTATION 1", Fox Sports 3 [HD] (backup8B)
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157560
-#EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?v=2.0.0.13" group-title=" SPORTSTATION 1", Fox Sports 3 [FHD] (backup)
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORTS3-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?v=2.0.0.13" group-title=" SPORTSTATION 1", Fox Sports 3 (VN) [HD]
 https://livecdn.fptplay.net/qnetlive/foxsports3_1000.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/SKJPPttj/Sky-Sports-MIX.png" group-title=" SPORTSTATION 1", Sky Sports Mix [HD] (backup8B)
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/SKJPPttj/Sky-Sports-MIX.png" group-title=" SPORTSTATION 1", Sky Sports Mix [HD]
 http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/261.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/J0WdG77B/Sky-Sports-Arena.png" group-title=" SPORTSTATION 1", Sky Sports Arena [HD]
@@ -1766,21 +1761,17 @@ http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/269.m3u8
 
 #EXTINF:-1   tvg-logo=" https://i.postimg.cc/T2WXx0kf/EUROSPORT-1.png" group-title=" SPORTSTATION 1 ", Eurosport 1 (TH)
 http://77.83.117.60:8888/02_EUROHD1_720p/chunklist.m3u8
+#EXTINF:-1   tvg-logo=" https://i.postimg.cc/T2WXx0kf/EUROSPORT-1.png" group-title=" SPORTSTATION 1 ", Eurosport 1 (RUS)
+http://edge04.beetv.kz/btv/SWM/Eurosport/Eurosport_576p_2000kbps.m3u8
 #EXTINF:-1   tvg-logo=" https://i.postimg.cc/T2WXx0kf/EUROSPORT-1.png" group-title=" SPORTSTATION 1 ", Eurosport 1 (ES)
 https://cdn1.mobiletv.bg/T8/eurosport/es_794613_850k.m3u8
-#EXTINF:-1   tvg-logo=" https://i.postimg.cc/T2WXx0kf/EUROSPORT-1.png" group-title=" SPORTSTATION 1 ", Eurosport 1 (ES) (backup)
-https://chostv.mobie.in/choos/sports/euro1.m3u8
 
 #EXTINF:-1   tvg-logo=" https://i.postimg.cc/D0sVcfW8/EUROSPORT-2.png" group-title=" SPORTSTATION 1 ", Eurosport 2 (TH)
 http://77.83.117.60:8888/02_EUROHD2_720p/chunklist.m3u8
 #EXTINF:-1   tvg-logo=" https://i.postimg.cc/D0sVcfW8/EUROSPORT-2.png" group-title=" SPORTSTATION 1 ", Eurosport 2 (ES)
 https://cdn1.mobiletv.bg/T3/eurosport2/eurosport2_794613_850k.m3u8
-#EXTINF:-1   tvg-logo=" https://i.postimg.cc/D0sVcfW8/EUROSPORT-2.png" group-title=" SPORTSTATION 1 ", Eurosport 2 (ES) (backup)
-https://chostv.mobie.in/choos/sports/euro2.m3u8
-#EXTINF:-1   tvg-logo=" https://i.postimg.cc/T2WXx0kf/EUROSPORT-1.png" group-title=" SPORTSTATION 1 ", Eurosport 1 (RUS)
-https://95-213-224-183.livesports24.online/eurosport1ru.m3u8 
 #EXTINF:-1   tvg-logo=" https://i.postimg.cc/D0sVcfW8/EUROSPORT-2.png" group-title=" SPORTSTATION 1 ", Eurosport 2 (RUS)
-https://95-213-224-183.livesports24.online/ruseurosport2.m3u8
+http://edge04.beetv.kz/btv/SWM/Eurosport2/Eurosport2_576p_2000kbps.m3u8
 
 #EXTINF:0 tvg-country="HK" tvg-logo=" https://i.postimg.cc/RCc0Dy9H/Star-Sports.png " group-title=" SPORTSTATION 1",Star Sports
 rtmp://ivi.bupt.edu.cn:1935/livetv/starsports?checkedby
@@ -1821,6 +1812,9 @@ http://edge.linknetott.swiftserve.com:80/channelgroup5/cg523production/ch319/02.
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/vHkJ5gTF/RACING.png " group-title=" SPORTSTATION 1",RACING.COM
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/RFk2DtBg/MOTORVISION-TV.png" group-title=" SPORTSTATION 1", MOTORVISION TV
+https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-motorvisiontv/CDN/master.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/tRcyGfkh/EDGE-SPORT.png " tvg-url="" group-title=" SPORTSTATION 1",Edge Sport
 https://edgesport-samsungus.amagi.tv/playlist.m3u8
@@ -1884,8 +1878,6 @@ https://livestreaming-google-etslive.vidio.com/live/6786/master.m3u8
 http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1   tvg-logo=" https://i.postimg.cc/cL12RJRR/BT-SPORT-1.png" group-title=" SPORTSTATION 2 ", BT Sport 1 [HD] (backup9)
 https://cmt.mb13.cyou/uni/livedo/btsport1.m3u8
-#EXTINF:-1   tvg-logo=" https://i.postimg.cc/cL12RJRR/BT-SPORT-1.png" group-title=" SPORTSTATION 2 ", BT Sport 1 [HD] (backup)
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/265920
 #EXTINF:-1   tvg-logo=" https://i.postimg.cc/cL12RJRR/BT-SPORT-1.png" group-title=" SPORTSTATION 2 ", BT Sport 1 [HD] (backup8B)
 http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/270.m3u8
 
@@ -1893,8 +1885,6 @@ http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/270.m3u8
 http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-1   tvg-logo=" https://i.postimg.cc/VL83Ng5H/BT-SPORT-2.png" group-title=" SPORTSTATION 2 ",BT Sport 2 [HD] (backup9)
 https://cmt.mb13.cyou/uni/livedo/btsport2.m3u8
-#EXTINF:-1   tvg-logo=" https://i.postimg.cc/VL83Ng5H/BT-SPORT-2.png" group-title=" SPORTSTATION 2 ",BT Sport 2 [HD] (backup)
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/265921
 #EXTINF:-1   tvg-logo=" https://i.postimg.cc/VL83Ng5H/BT-SPORT-2.png" group-title=" SPORTSTATION 2 ",BT Sport 2 [HD] (backup8B)
 http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/273.m3u8
 
@@ -1906,15 +1896,31 @@ http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/271.m3u8
 #EXTINF:-1   tvg-logo=" https://i.postimg.cc/sxFb79mx/BT-SPORT-ESPN.png" group-title=" SPORTSTATION 2 ",BT Sport ESPN [HD]
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/265923
 
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/nrD8dsDb/ASTRO-SUPERSPORT-1.png " group-title="SPORTSTATION 2",Astro SUPERSPORT 1 [HD]
+http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/nrD8dsDb/ASTRO-SUPERSPORT-1.png " group-title="SPORTSTATION 2",Astro SUPERSPORT 1 [HD] (backup)
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6708
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/nrD8dsDb/ASTRO-SUPERSPORT-1.png " group-title="SPORTSTATION 2",Astro SUPERSPORT 1 [HD] (backup8B)
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/247415
 
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/FR1XLCFK/ASTRO-SUPERSPORT-2.png " group-title="SPORTSTATION 2", Astro SUPERSPORT 2 [HD]
+http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/FR1XLCFK/ASTRO-SUPERSPORT-2.png " group-title="SPORTSTATION 2", Astro SUPERSPORT 2 [HD] (backup)
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6710
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/FR1XLCFK/ASTRO-SUPERSPORT-2.png " group-title="SPORTSTATION 2", Astro SUPERSPORT 2 [HD] (backup8B)
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/247417
 
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/76c8M1bn/ASTRO-SUPERSPORT-3.png " group-title="SPORTSTATION 2", Astro SUPERSPORT 3 [HD]
+http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/76c8M1bn/ASTRO-SUPERSPORT-3.png " group-title="SPORTSTATION 2", Astro SUPERSPORT 3 [HD] (backup)
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6711
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/76c8M1bn/ASTRO-SUPERSPORT-3.png " group-title="SPORTSTATION 2", Astro SUPERSPORT 3 [HD] (backup8B)
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/247418
 
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/N0dwLvcV/ASTRO-SUPERSPORT-4.png " group-title="SPORTSTATION 2", Astro SUPERSPORT 4 [HD]
+http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/N0dwLvcV/ASTRO-SUPERSPORT-4.png " group-title="SPORTSTATION 2", Astro SUPERSPORT 4 [HD] (backup)
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6712
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/N0dwLvcV/ASTRO-SUPERSPORT-4.png " group-title="SPORTSTATION 2", Astro SUPERSPORT 4 [HD] (backup8B)
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/247419
 
@@ -2161,6 +2167,38 @@ http://balancer1.ottmex.com:8081/tecno/Espn3.BKR/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN EXTRA" tvg-logo=" https://i.postimg.cc/FH4y0k4L/ESPN-EXTRA.png" group-title=" SPORTSTATION 3 ", ESPN EXTRA (MX) [HD]
 http://balancer1.ottmex.com:8081/tecno/Espn+.BKR/chunks.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?v=2.0.0.13" group-title=" SPORTSTATION (BACKUP)", Fox Sports 1 [HD] (backup)
+https://m3u-editor.com/serve/8d20f360-9b35-11eb-b067-2f1bd1e274ba/295299155
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?v=2.0.0.13" group-title=" SPORTSTATION (BACKUP)", Fox Sports 1 [HD] (backup5)
+http://185.180.221.194:8278/streams/d/Foxsports/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png?v=2.0.0.13" group-title=" SPORTSTATION (BACKUP)", Fox Sports 2 [HD] (backup)
+https://m3u-editor.com/serve/8d20f360-9b35-11eb-b067-2f1bd1e274ba/295299156
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png?v=2.0.0.13" group-title=" SPORTSTATION (BACKUP)", Fox Sports 2 [HD] (backup5)
+http://185.180.221.194:8278/streams/d/Foxsports2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?v=2.0.0.13" group-title=" SPORTSTATION (BACKUP)", Fox Sports 3 [HD] (backup)
+https://m3u-editor.com/serve/8d20f360-9b35-11eb-b067-2f1bd1e274ba/295299157
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?v=2.0.0.13" group-title=" SPORTSTATION (BACKUP)", Fox Sports 3 [HD] (backup5)
+http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
+
+#EXTINF:-1   tvg-logo=" https://i.postimg.cc/T2WXx0kf/EUROSPORT-1.png" group-title=" SPORTSTATION (BACKUP)", Eurosport 1 (ES) (backup)
+https://chostv.mobie.in/choos/sports/euro1.m3u8
+#EXTINF:-1   tvg-logo=" https://i.postimg.cc/T2WXx0kf/EUROSPORT-1.png" group-title=" SPORTSTATION (BACKUP)", Eurosport 1 (RUS) (backup)
+https://95-213-224-183.livesports24.online/eurosport1ru.m3u8 
+
+#EXTINF:-1   tvg-logo=" https://i.postimg.cc/D0sVcfW8/EUROSPORT-2.png" group-title=" SPORTSTATION (BACKUP)", Eurosport 2 (ES) (backup)
+https://chostv.mobie.in/choos/sports/euro2.m3u8
+#EXTINF:-1   tvg-logo=" https://i.postimg.cc/D0sVcfW8/EUROSPORT-2.png" group-title=" SPORTSTATION (BACKUP)", Eurosport 2 (RUS) (backup)
+https://95-213-224-183.livesports24.online/ruseurosport2.m3u8
+
+#EXTINF:-1   tvg-logo=" https://i.postimg.cc/cL12RJRR/BT-SPORT-1.png" group-title=" SPORTSTATION (BACKUP) ", BT Sport 1 [HD] (backup)
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/265920
+#EXTINF:-1   tvg-logo=" https://i.postimg.cc/VL83Ng5H/BT-SPORT-2.png" group-title=" SPORTSTATION (BACKUP) ",BT Sport 2 [HD] (backup)
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/265921
 
 
 
