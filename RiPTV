@@ -575,6 +575,8 @@ https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MGk53cBd/ABC-NEWS-AUSTRALIA.png " group-title="NEWS", ABC News Australia
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MGk53cBd/ABC-NEWS-AUSTRALIA.png " group-title="NEWS", ABC News Australia (backup)
+https://c.mjh.nz/101002210220/
 
 #EXTINF:-1 tvg-id="bloomberg" tvg-name="Bloomberg" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bloomberg_small1.png?v=2.0.0.13" group-title=" NEWS ",Bloomberg (UseeTV)
 https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==bloomberg&b=14&c=bloomberg
@@ -614,6 +616,8 @@ https://nbcnewshls-i.akamaihd.net/hls/live/1005206/nnn_live2/index.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/13WxmyTy/FOX-NEWS.png" group-title="NEWS ", FOX News
 http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/13WxmyTy/FOX-NEWS.png" group-title="NEWS ", FOX News (backup)
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/N0143g7Y/NEWSMAX.png " group-title="NEWS ", NEWSMAX
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
@@ -622,6 +626,8 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/R08jtX48/CNBS-NEWS.png" group-title="NEWS ", CBS News
+https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/R08jtX48/CNBS-NEWS.png" group-title="NEWS ", CBS News (backup)
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/Yqq0NxCM/CGTN.png " tvg-url="" group-title="NEWS",CGTN
@@ -973,13 +979,6 @@ https://tinyurl.com/gratistvmediaChTHRILL
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="FILM", Thrill (DensTV)
 http://rr2.dens.tv/s/s34/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="FILM", Celestial Movie (UseeTV)
-https://home-tv.web.id/OYESS/homempd.m3u8?channel=celestialmovie 
-#EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png " group-title="FILM", Celestial Movie (backup8B)
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165065
-#EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png " group-title="FILM", Celestial Movie (DensTV)
-http://rr2.dens.tv/s/s33/01.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="FILM", Cinema World (UseeTV)
 https://home-tv.web.id/OYESS/homempd.m3u8?channel=cinemaworld
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="FILM", Cinema World (backup8B)
@@ -1137,6 +1136,8 @@ http://iptv.zqstream.com/zqdrama-gen/video.m3u8?token=vQqPVtl-k0
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/jdpD5Bxw/Smithsonian-Channel.png " tvg-id="" tvg-name"Smithsonian (Vidio)" group-title="PENGETAHUAN",Smithsonian Channel (Vidio)
 https://livestreaming-google-etslive.vidio.com/live/6550/master.m3u8
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/jdpD5Bxw/Smithsonian-Channel.png " group-title="PENGETAHUAN",Smithsonian Channel (backup)
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/tgZ9JgHL/love-nature-4k.png " group-title="PENGETAHUAN",Love Nature (Vidio)
 https://livestreaming-google-etslive.vidio.com/live/6635/master.m3u8
@@ -1272,6 +1273,8 @@ https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b1200000.m3u8
 https://outsidetvplus-stirr.amagi.tv/playlistR720P.m3u8
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/GpYKFDW5/OUTSIDE-TV.png " group-title="PENGETAHUAN", OUTSIDE TV (backup)
 https://dai.google.com/linear/hls/event/HJAq3zH1SUy_B6fb1j80_Q/master.m3u8?source:iptvmate.net
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/GpYKFDW5/OUTSIDE-TV.png " group-title="PENGETAHUAN", OUTSIDE TV (backup2)
+https://outside-tv.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="lingua" tvg-name="Lingua" tvg-logo="https://www.useetv.com/assets/images/channel/logo_lingua_small.png" group-title=" PENGETAHUAN ",Lingua (UseeTV)
 https://cmt.mb13.cyou/uni/ku/see/ucf.php?a=usee-lingua&b=15&c=lingua
@@ -1407,6 +1410,10 @@ https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b1200000.m3u8
 https://livestreaming-google-etslive.vidio.com/live/6533/master.m3u8
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/kXBSDxWZ/ZooMoo.png " tvg-id="" tvg-name"Zoomoo (Vidio)" group-title="KIDS",Zoo Moo (backup8B)
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/264751
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/kXBSDxWZ/ZooMoo.png " tvg-id="" tvg-name"Zoomoo (Vidio)" group-title="KIDS",Zoo Moo (backup)
+https://rockentertainment-zoomoo-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/kXBSDxWZ/ZooMoo.png " tvg-id="" tvg-name"Zoomoo (Vidio)" group-title="KIDS",Zoo Moo (backup2)
+https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duck_small1.png?v=2.0.0.13" group-title="KIDS",Duck TV (UseeTV)
 https://fikrulmkc.my.id/bagus/usee-ducktv.m3u8
@@ -1426,6 +1433,8 @@ http://iptvtree.net:8080/Ainamanja/6a4fef36/264570
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvXGj3yT/KIDOODLE-TV.png" group-title=" KIDS ", Kidoodle TV
 http://kidoodletv-kdtv-3.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvXGj3yT/KIDOODLE-TV.png" group-title=" KIDS ", Kidoodle TV (backup)
+https://kidoodletv-kdtv-1.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/QtxCLMc6/SUPER-TOONS-TV.png" group-title=" KIDS ", Super Toons TV
 https://kedoo-supertoonstv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
@@ -1773,15 +1782,6 @@ https://95-213-224-183.livesports24.online/eurosport1ru.m3u8
 #EXTINF:-1   tvg-logo=" https://i.postimg.cc/D0sVcfW8/EUROSPORT-2.png" group-title=" SPORTSTATION 1 ", Eurosport 2 (RUS)
 https://95-213-224-183.livesports24.online/ruseurosport2.m3u8
 
-#EXTINF:-1 tvg-id="BekSportsEast.us" tvg-name="Bek Sports East" tvg-country="US" tvg-language="English" tvg-logo=" https://i.postimg.cc/Pry5tDCf/Bek-Sports.png " tvg-url="" group-title=" SPORTSTATION 1",Bek Sports East
-https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BekSportsWest.us" tvg-name="Bek Sports West" tvg-country="US" tvg-language="English" tvg-logo=" https://i.postimg.cc/Pry5tDCf/Bek-Sports.png " tvg-url="" group-title=" SPORTSTATION 1",Bek Sports West
-https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports" tvg-country="MX" tvg-language="Spanish" tvg-logo=" https://i.postimg.cc/RV405dVb/Claro-Sports.png " tvg-url="" group-title=" SPORTSTATION 1",Claro Sports
-https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
-
 #EXTINF:0 tvg-country="HK" tvg-logo=" https://i.postimg.cc/RCc0Dy9H/Star-Sports.png " group-title=" SPORTSTATION 1",Star Sports
 rtmp://ivi.bupt.edu.cn:1935/livetv/starsports?checkedby
 
@@ -1803,9 +1803,6 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 http://210.210.155.35/uq2663/h/h05/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.postimg.cc/jjL53jdx/Fight-Sports.png" tvg-country="US" tvg-url="" group-title=" SPORTSTATION 1",Fight Sports (backup8B)
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157606
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.postimg.cc/TY4QHc24/SPORTS-TV.png" tvg-country="" tvg-url="" group-title=" SPORTSTATION 1",Sports TV
-http://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
 
 #EXTINF:0 tvg-logo=" https://i.postimg.cc/N0S03w51/ONE-GOLF.png "  group-title=" SPORTSTATION 1",ONE GOLF
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8 
@@ -1944,17 +1941,6 @@ https://cmt.mb13.cyou/uni/livedo/bein1hd.m3u8
 http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/j2CmCxxR/BEIN-SPORTS-ENGLISH-2.png " group-title=" SPORTSTATION 2", BeIN Sports 2 ENGLISH (backup9)
 https://cmt.mb13.cyou/uni/livedo/bein2hd.m3u8
-
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/v8f9vw3X/BEIN-SPORTS-XTRA.png" group-title=" SPORTSTATION 2", BeIN Sports XTRA [360p]
-https://siloh-ns1.plutotv.net/lilo/production/bein/master_4.m3u8
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/v8f9vw3X/BEIN-SPORTS-XTRA.png" group-title=" SPORTSTATION 2", BeIN Sports XTRA [SD]
-https://siloh-ns1.plutotv.net/lilo/production/bein/master_2.m3u8
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/v8f9vw3X/BEIN-SPORTS-XTRA.png" group-title=" SPORTSTATION 2", BeIN Sports XTRA [HD]
-https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/v8f9vw3X/BEIN-SPORTS-XTRA.png" group-title=" SPORTSTATION 2", BeIN Sports XTRA [HD] (backup)
-https://www.dropbox.com/s/rpeaz6fv15fyyz9/beinxtra.m3u8?dl=1
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/v8f9vw3X/BEIN-SPORTS-XTRA.png " group-title=" SPORTSTATION 2", BeIN Sports XTRA [HD] (backup2)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102livestitch/2977158/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=false&paln=&includeExtendedEvents=false&architecture=&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&deviceDNT=0&deviceModel=Opera&userId=&appName=web
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9MhFcmsy/BEIN-SPORTS-MAX.png" group-title=" SPORTSTATION 2", BeIN Sports MAX [HD] (backup8B)
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157487
