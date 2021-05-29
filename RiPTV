@@ -1397,8 +1397,8 @@ http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/162505
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_mykids_small.png " group-title="KIDS",MY KIDS [FHD] (DensTV)
 http://rr.dens.tv/h/h98/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pT59gvLb/Toku-SHOUTsu.png" group-title="KIDS",TokuSHOUTsu
-http://gg.gg/TokuSHOUTsu
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png?v=2.0.0.13" group-title="KIDS", Dunia Anak (UseeTV)
+https://home-tv.web.id/OYESS/homempd.m3u8?channel=duniaanak
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0jpRPDg4/BESMART-TV.png" group-title="KIDS", BeSmart TV
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165087
@@ -1424,9 +1424,6 @@ https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duck_small1.png?v=2.0.0.13" group-title="KIDS",Duck TV (UseeTV)
 https://fikrulmkc.my.id/bagus/usee-ducktv.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png?v=2.0.0.13" group-title="KIDS", Dunia Anak (UseeTV)
-https://home-tv.web.id/OYESS/homempd.m3u8?channel=duniaanak
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png?v=2.0.0.13" group-title="KIDS", Horee (UseeTV)
 https://home-tv.web.id/OYESS/homempd.m3u8?channel=horee
@@ -1502,6 +1499,12 @@ http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157610
 
 #EXTINF:-1 tvg-id="" tvg-name="Teletubbies" tvg-logo=" https://i.postimg.cc/MGt2GwLW/TELETUBBIES.png " group-title="KIDS",Teletubbies
 https://dhx-teletubbies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pT59gvLb/Toku-SHOUTsu.png" group-title="KIDS",TokuSHOUTsu
+http://gg.gg/TokuSHOUTsu
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/26PpYwPL/Yu-Gi-Oh.png" group-title="KIDS",Yu-Gi-Oh!
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=840&deviceId=5f4ec10ed9636f00089b8c89&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_davinci_small1.png?v=2.0.0.13" group-title="KIDS", Da Vinci Learning (UseeTV)
 https://home-tv.web.id/OYESS/homempd.m3u8?channel=davinci
@@ -2199,6 +2202,18 @@ https://95-213-224-183.livesports24.online/ruseurosport2.m3u8
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/265920
 #EXTINF:-1   tvg-logo=" https://i.postimg.cc/VL83Ng5H/BT-SPORT-2.png" group-title=" SPORTSTATION (BACKUP) ",BT Sport 2 [HD] (backup)
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/265921
+
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/nrD8dsDb/ASTRO-SUPERSPORT-1.png " group-title="SPORTSTATION (BACKUP) ",Astro SUPERSPORT 1 [HD] (backup2)
+https://m3u-editor.com/serve/8d20f360-9b35-11eb-b067-2f1bd1e274ba/295299151
+
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/FR1XLCFK/ASTRO-SUPERSPORT-2.png " group-title="SPORTSTATION (BACKUP) ", Astro SUPERSPORT 2 [HD] (backup2)
+https://m3u-editor.com/serve/8d20f360-9b35-11eb-b067-2f1bd1e274ba/295299152
+
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/76c8M1bn/ASTRO-SUPERSPORT-3.png " group-title="SPORTSTATION (BACKUP) ", Astro SUPERSPORT 3 [HD] (backup2)
+https://m3u-editor.com/serve/8d20f360-9b35-11eb-b067-2f1bd1e274ba/295299153
+
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/N0dwLvcV/ASTRO-SUPERSPORT-4.png " group-title="SPORTSTATION (BACKUP) ", Astro SUPERSPORT 4 [HD] (backup2)
+https://m3u-editor.com/serve/8d20f360-9b35-11eb-b067-2f1bd1e274ba/295299154
 
 
 
