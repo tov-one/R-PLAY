@@ -2231,22 +2231,22 @@ http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/732
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/KYFnHNQG/ITV.png" group-title=" SPORTSTATION (BACKUP)", ITV (UK) (2)
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/689
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/KYFnHNQG/ITV.png" group-title=" SPORTSTATION (BACKUP)", ITV (UK) [HD]
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/KYFnHNQG/ITV.png" group-title=" SPORTSTATION (BACKUP)", ITV (UK) (3)
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/278464
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/KYFnHNQG/ITV.png" group-title=" SPORTSTATION (BACKUP)", ITV (UK) [FHD]
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/KYFnHNQG/ITV.png" group-title=" SPORTSTATION (BACKUP)", ITV (UK) (4)
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/11571
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/cHwsMcbJ/ITV-PLUS-1.png" group-title=" SPORTSTATION (BACKUP)", ITV +1 (UK)
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/145786
 
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/4xp6PM62/ITV_2.png" group-title=" SPORTSTATION (BACKUP)", ITV 2 (UK) [FHD]
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/4xp6PM62/ITV_2.png" group-title=" SPORTSTATION (BACKUP)", ITV 2 (UK)
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/690
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/15k0pPqN/ITV_3.png" group-title=" SPORTSTATION (BACKUP)", ITV 3 (UK) [FHD]
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/15k0pPqN/ITV_3.png" group-title=" SPORTSTATION (BACKUP)", ITV 3 (UK)
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/703
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/PrpzpNPj/ITV_4.png" group-title=" SPORTSTATION (BACKUP)", ITV 4 (UK) [FHD]
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/PrpzpNPj/ITV_4.png" group-title=" SPORTSTATION (BACKUP)", ITV 4 (UK)
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/691
 
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/0NLkw4Z3/ESPN-PLUS.png" group-title=" SPORTSTATION (BACKUP)",US: ESPN+ (US)
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/0NLkw4Z3/ESPN-PLUS.png" group-title=" SPORTSTATION (BACKUP)",ESPN+ (US)
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/14817
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/rph56ht1/ESPN.png" group-title=" SPORTSTATION (BACKUP)",ESPN 1 (US) (1)
@@ -2269,7 +2269,7 @@ http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/41918
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/FKF0Bt1F/ESPN_2.png" group-title=" SPORTSTATION (BACKUP)", ESPN 2 (US) (3)
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/275072
 
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/MGgzgVTT/SONY_SIX.png" group-title=" SPORTSTATION (BACKUP) ", SONY SIX (IND)
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/MGgzgVTT/SONY_SIX.png" group-title=" SPORTSTATION (BACKUP) ", SONY SIX (IND) [FHD]
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/4853
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/jdbncB5Z/SONY-TEN-1.png " group-title=" SPORTSTATION (BACKUP) ", SONY TEN 1 (IND)
