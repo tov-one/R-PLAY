@@ -2303,11 +2303,11 @@ http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/145
 #EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_SPORT_FRENSH_2_HD.png " group-title="BEIN SPORTS (BACKUP)", beIN Sports 2 (FR) [HD] (3)
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/273332
 
-#EXTINF:-1 tvg-logo="https://logo.ott.ma/logo/BEIN SPORTS (BACKUP)%20SPORTS/BEINSPORT_3_HD_FR-%20copy.png" group-title="BEIN SPORTS (BACKUP)", beIN Sports 3 (FR) [HD] (1)
+#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/FRANCE%20SPORTS/BEINSPORT_3_HD_FR-%20copy.png " group-title="BEIN SPORTS (BACKUP)", beIN Sports 3 (FR) [HD] (1)
 http://dimapro.cz:8080/D4:CF:F9:0B:f5:5a/GtvsuptvO00aetorando/542
-#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEIN SPORTS (BACKUP)%20SPORTS/BEINSPORT_3_HD_FR-%20copy.png " group-title="BEIN SPORTS (BACKUP)", beIN Sports 3 (FR) [HD] (2)
+#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/FRANCE%20SPORTS/BEINSPORT_3_HD_FR-%20copy.png " group-title="BEIN SPORTS (BACKUP)", beIN Sports 3 (FR) [HD] (2)
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/146
-#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEIN SPORTS (BACKUP)%20SPORTS/BEINSPORT_3_HD_FR-%20copy.png " group-title="BEIN SPORTS (BACKUP)", beIN Sports 3 (FR) [HD] (3)
+#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/FRANCE%20SPORTS/BEINSPORT_3_HD_FR-%20copy.png " group-title="BEIN SPORTS (BACKUP)", beIN Sports 3 (FR) [HD] (3)
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/273320
 
 #EXTINF:-1 tvg-logo="https://logo.ott.ma/logo/FRANCE%20SPORTS/BEINSPORT_MAX_4_HD%20copy.png" group-title="BEIN SPORTS (BACKUP)", beIN Sports MAX 4 [HD] (1)
