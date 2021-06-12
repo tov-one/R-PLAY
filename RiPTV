@@ -2289,6 +2289,64 @@ http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/38572
 
 
 
+#EXTINF:-1 tvg-logo="https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_SPORT_FRENSH_1_HD.png" group-title="BEIN SPORTS (BACKUP)",beIN Sports 1 (FR) [HD] (1)
+http://dimapro.cz:8080/D4:CF:F9:0B:f5:5a/GtvsuptvO00aetorando/544
+#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_SPORT_FRENSH_1_HD.png " group-title="BEIN SPORTS (BACKUP)", beIN Sports 1 (FR) [HD] (2)
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/144
+#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_SPORT_FRENSH_1_HD.png " group-title="BEIN SPORTS (BACKUP)", beIN Sports 1 (FR) [HD] (3)
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/273327
+
+#EXTINF:-1 tvg-logo="https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_SPORT_FRENSH_2_HD.png" group-title="BEIN SPORTS (BACKUP)", beIN Sports 2 (FR) [HD] (1)
+http://dimapro.cz:8080/D4:CF:F9:0B:f5:5a/GtvsuptvO00aetorando/543
+#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_SPORT_FRENSH_2_HD.png " group-title="BEIN SPORTS (BACKUP)", beIN Sports 2 (FR) [HD] (2)
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/145
+#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_SPORT_FRENSH_2_HD.png " group-title="BEIN SPORTS (BACKUP)", beIN Sports 2 (FR) [HD] (3)
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/273332
+
+#EXTINF:-1 tvg-logo="https://logo.ott.ma/logo/BEIN SPORTS (BACKUP)%20SPORTS/BEINSPORT_3_HD_FR-%20copy.png" group-title="BEIN SPORTS (BACKUP)", beIN Sports 3 (FR) [HD] (1)
+http://dimapro.cz:8080/D4:CF:F9:0B:f5:5a/GtvsuptvO00aetorando/542
+#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEIN SPORTS (BACKUP)%20SPORTS/BEINSPORT_3_HD_FR-%20copy.png " group-title="BEIN SPORTS (BACKUP)", beIN Sports 3 (FR) [HD] (2)
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/146
+#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEIN SPORTS (BACKUP)%20SPORTS/BEINSPORT_3_HD_FR-%20copy.png " group-title="BEIN SPORTS (BACKUP)", beIN Sports 3 (FR) [HD] (3)
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/273320
+
+#EXTINF:-1 tvg-logo="https://logo.ott.ma/logo/FRANCE%20SPORTS/BEINSPORT_MAX_4_HD%20copy.png" group-title="BEIN SPORTS (BACKUP)", beIN Sports MAX 4 [HD] (1)
+http://dimapro.cz:8080/D4:CF:F9:0B:f5:5a/GtvsuptvO00aetorando/3187
+#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/FRANCE%20SPORTS/BEINSPORT_MAX_4_HD%20copy.png " group-title="BEIN SPORTS (BACKUP)", beIN Sports MAX 4 [HD] (2)
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/3599
+
+#EXTINF:-1 tvg-logo="https://logo.ott.ma/logo/FRANCE%20SPORTS/BEINSPORT_MAX_5_HD.png" group-title="BEIN SPORTS (BACKUP)", beIN Sports MAX 5 [HD] (1)
+http://dimapro.cz:8080/D4:CF:F9:0B:f5:5a/GtvsuptvO00aetorando/3186
+#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/FRANCE%20SPORTS/BEINSPORT_MAX_5_HD.png " group-title="BEIN SPORTS (BACKUP)", beIN Sports MAX 5 [HD] (2)
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/6083
+
+#EXTINF:-1 tvg-logo="https://logo.ott.ma/logo/FRANCE%20SPORTS/BEINSPORT_MAX_6_HD.png" group-title="BEIN SPORTS (BACKUP)", beIN Sports MAX 6 [HD] (1)
+http://dimapro.cz:8080/D4:CF:F9:0B:f5:5a/GtvsuptvO00aetorando/3185
+#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/FRANCE%20SPORTS/BEINSPORT_MAX_6_HD.png " group-title="BEIN SPORTS (BACKUP)", beIN Sports MAX 6 [HD] (2)
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/4368
+
+#EXTINF:-1 tvg-logo="https://logo.ott.ma/logo/FRANCE%20SPORTS/BEINSPORT_MAX_7_HD.png" group-title="BEIN SPORTS (BACKUP)", beIN Sports MAX 7 [HD] (1)
+http://dimapro.cz:8080/D4:CF:F9:0B:f5:5a/GtvsuptvO00aetorando/3184
+#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/FRANCE%20SPORTS/BEINSPORT_MAX_7_HD.png " group-title="BEIN SPORTS (BACKUP)", beIN Sports MAX 7 [HD] (2)
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/4369
+
+#EXTINF:-1 tvg-logo="https://logo.ott.ma/logo/FRANCE%20SPORTS/BEINSPORT_MAX_8_HD.png" group-title="BEIN SPORTS (BACKUP)", beIN Sports MAX 8 [HD] (1)
+http://dimapro.cz:8080/D4:CF:F9:0B:f5:5a/GtvsuptvO00aetorando/3183
+#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/FRANCE%20SPORTS/BEINSPORT_MAX_8_HD.png " group-title="BEIN SPORTS (BACKUP)", beIN Sports MAX 7 [HD] (2)
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/4370
+
+#EXTINF:-1 tvg-logo="https://logo.ott.ma/logo/FRANCE%20SPORTS/BEINSPORT_MAX_9_HD.png" group-title="BEIN SPORTS (BACKUP)", beIN Sports MAX 9 [HD] (1)
+http://dimapro.cz:8080/D4:CF:F9:0B:f5:5a/GtvsuptvO00aetorando/3182
+#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/FRANCE%20SPORTS/BEINSPORT_MAX_9_HD.png " group-title="BEIN SPORTS (BACKUP)", beIN Sports MAX 9 [HD] (2)
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/4371
+
+#EXTINF:-1 tvg-logo="https://logo.ott.ma/logo/FRANCE%20SPORTS/BEINSPORT_MAX_10_HD-.png" group-title="BEIN SPORTS (BACKUP)", beIN Sports MAX 10 [HD] (1)
+http://dimapro.cz:8080/D4:CF:F9:0B:f5:5a/GtvsuptvO00aetorando/3181
+#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/FRANCE%20SPORTS/BEINSPORT_MAX_10_HD-.png " group-title="BEIN SPORTS (BACKUP)", beIN Sports MAX 10 [HD] (2)
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/6088
+
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",NOL KM
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewNolKilo.stream/chunklist_w797659833.m3u8 
 
