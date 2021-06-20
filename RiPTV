@@ -677,7 +677,7 @@ https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_aljazeera_small1.png?v=2.0.0.13" group-title="NEWS", Aljazeera (UseeTV)
 http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-aljazeera
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_aljazeera_small1.png?v=2.0.0.13" group-title="NEWS", Aljazeera (Vidio)
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=713fd63d76c8a57b16fc433fb4ae718a102a6ed6587b5b8cb4ebbe972864690b
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-6747
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_aljazeera_small1.png?v=2.0.0.13" group-title="NEWS", Aljazeera (web) [HD]
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_aljazeera_small1.png?v=2.0.0.13" group-title="NEWS", Aljazeera (web) [SD]
@@ -987,8 +987,6 @@ http://rr.dens.tv/h/h04/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png?v=2.0.0.13" group-title="FILM", Flik (UseeTV)
 http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-flik
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png?v=2.0.0.13" group-title="FILM", Flik (backup8A)
-http://iptvtree.net:8080/Ainamanja/6a4fef36/165095
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png?v=2.0.0.13" group-title="FILM", Flik (backup8B)
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165095
 
@@ -1188,8 +1186,6 @@ http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157530
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rp4mjwbW/BBC-EARTH.png" group-title="PENGETAHUAN", BBC EARTH (backup8)
 http://iptvtree.net:8080/test-220471/4008/171979
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rp4mjwbW/BBC-EARTH.png" group-title="PENGETAHUAN", BBC EARTH (backup8A)
-http://iptvtree.net:8080/Ainamanja/6a4fef36/165106
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rp4mjwbW/BBC-EARTH.png" group-title="PENGETAHUAN", BBC EARTH (backup8B)
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/171979
 
@@ -1220,8 +1216,6 @@ https://tinyurl.com/gratistvmediaCRIMEINVES
 http://203.154.243.31:15001
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/hvwfV5VY/Crime-Investigation.png " group-title="PENGETAHUAN", Crime + Investigation (backup8)
 http://iptvtree.net:8080/test-220471/4008/157554
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/hvwfV5VY/Crime-Investigation.png " group-title="PENGETAHUAN", Crime + Investigation (backup8A)
-http://iptvtree.net:8080/Ainamanja/6a4fef36/165052
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/hvwfV5VY/Crime-Investigation.png " group-title="PENGETAHUAN", Crime + Investigation (backup8B)
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165052
 
@@ -1397,7 +1391,7 @@ https://rockentertainment-zoomoo-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duck_small1.png?v=2.0.0.13" group-title="KIDS",Duck TV (UseeTV)
-https://fikrulmkc.my.id/bagus/usee-ducktv.m3u8
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-ducktv
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png?v=2.0.0.13" group-title="KIDS", Horee (UseeTV)
 http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-horee
@@ -1463,7 +1457,7 @@ http://gg.gg/NickelodeonChungXDA
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157541
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dreamworks_small1.png?v=2.0.0.13" group-title="KIDS", Dreamworks (UseeTV)
-https://fikrulmkc.my.id/bagus/usee-dreamworks.m3u8
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-dreamworks
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dreamworks_small1.png?v=2.0.0.13" group-title="KIDS", Dreamworks (backup8B)
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157610
 
@@ -1503,7 +1497,7 @@ http://stream1.ninmedia.tv:1935/spacetoon/udp.stream/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradangdut_small.png" group-title="MUSIK", Citra Dangdut (UseeTV)
-https://fikrulmkc.my.id/bagus/usee-citradangdut.m3u8
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-citradangdut
 #EXTINF:-1 tvg-logo=" https://i.ibb.co/YDSdMw2/citra.png " tvg-id="" tvg-name"Citra Dangdut (Vidio)" group-title="MUSIK",Citra Dangdut (Vidio)
 http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-6587
 
@@ -1585,7 +1579,7 @@ http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-tawaftv
 http://stream1.ninmedia.tv:1935/tawaftv/rtmp.stream_360p/chunklist_w727091128.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9zvqg6X/logo-mtatv-big1.png" group-title="RELIGI",MTA TV (UseeTV)
-https://fikrulmkc.my.id/bagus/usee-mtatv.m3u8
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-mtatv
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_alquran_small1.png?v=2.0.0.13" group-title="RELIGI",Al Quran Al Kareem TV (UseeTV)
 http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-alquran
