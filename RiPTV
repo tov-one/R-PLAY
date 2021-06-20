@@ -606,8 +606,6 @@ http://ott-cdn.ucom.am/s24/index.m3u8
 https://1111296894.rsc.cdn77.org/LS-ATL-54548-11/index.m3u8
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/gkfpYK4v/BBC-WORLD-NEWS.png " group-title="NEWS", BBC World News (backup2)
 http://51.52.156.22:8888/http/004
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/gkfpYK4v/BBC-WORLD-NEWS.png " group-title="NEWS", BBC World News (backup8B)
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165090
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/zGSNswnB/NBC-News-Now.png " group-title="NEWS", NBC NEWS NOW
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
@@ -646,8 +644,6 @@ https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-trtworld
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_trtworld_small.png " group-title="NEWS ", TRT WORLD [Auto] (web)
 https://tv-trtworld.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_trtworld_small.png " group-title="NEWS ", TRT WORLD (backup8B)
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165074
 
 #EXTINF:-1 tvg-id="france24" tvg-name="France 24" tvg-logo="https://www.useetv.com/assets/images/channel/logo_france24_small.png?v=2.0.0.13" group-title=" NEWS ",France 24 (UseeTV)
 http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-france24
@@ -669,15 +665,13 @@ https://livecdn.fptplay.net/world/newsasia_hls.smil/playlist.m3u8
 http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-euronews
 #EXTINF:-1 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_euronews_small1.png?v=2.0.0.13" tvg-id="" tvg-name"Euro News (Vidio)" group-title="NEWS",EuroNews (Vidio)
 http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-6412
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_euronews_small1.png?v=2.0.0.13" group-title="NEWS", EuroNews (backup8B)
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165070
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_euronews_small1.png?v=2.0.0.13" group-title="NEWS", EuroNews (backup)
 https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_aljazeera_small1.png?v=2.0.0.13" group-title="NEWS", Aljazeera (UseeTV)
 http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-aljazeera
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_aljazeera_small1.png?v=2.0.0.13" group-title="NEWS", Aljazeera (Vidio)
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-6747
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-6410
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_aljazeera_small1.png?v=2.0.0.13" group-title="NEWS", Aljazeera (web) [HD]
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_aljazeera_small1.png?v=2.0.0.13" group-title="NEWS", Aljazeera (web) [SD]
@@ -692,54 +686,46 @@ http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjqKqhch/CINEMAX.png" group-title=" HBO ",CINEMAX (Auto)
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/gjqKqhch/CINEMAX.png " group-title=" HBO ", CINEMAX (backup1)
-http://home-tv.web.id/OYESS/max.m3u8 
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/gjqKqhch/CINEMAX.png " group-title=" HBO ",Cinemax (backup2)
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8 
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/gjqKqhch/CINEMAX.png " group-title=" HBO ",Cinemax (backup1)
 https://www.dropbox.com/s/nm9vobcwjc1wh6i/CINEMAXX.m3u8?dl=1
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/gjqKqhch/CINEMAX.png " group-title=" HBO ",Cinemax (backup8B)
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/197964
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/gjqKqhch/CINEMAX.png " group-title=" HBO ", CINEMAX (backup2)
+http://home-tv.web.id/OYESS/max.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5Ng3X8Rd/10626165-ico.png" group-title=" HBO ",HBO (Auto)
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5Ng3X8Rd/10626165-ico.png" group-title=" HBO ",HBO (backup1)
-http://home-tv.web.id/OYESS/hbo.m3u8 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5Ng3X8Rd/10626165-ico.png" group-title="HBO",HBO (backup2)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5Ng3X8Rd/10626165-ico.png" group-title="HBO",HBO (backup1)
 https://www.dropbox.com/s/pv21nvv5ikap11w/HBOO.m3u8?dl=1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5Ng3X8Rd/10626165-ico.png" group-title="HBO",HBO (backup8B)
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/197972
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5Ng3X8Rd/10626165-ico.png" group-title=" HBO ",HBO (backup2)
+http://home-tv.web.id/OYESS/hbo.m3u8
 
 #EXTINF:-1 tvg-logo=" http://cekker.masuk.web.id/logo/hbosig.png " group-title=" HBO ",HBO Signature (Auto)
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
-#EXTINF:-1 tvg-logo=" http://cekker.masuk.web.id/logo/hbosig.png " group-title=" HBO ",HBO Signature (backup1)
-http://home-tv.web.id/OYESS/sig.m3u8 
-#EXTINF:-1 tvg-logo="http://cekker.masuk.web.id/logo/hbosig.png" group-title=" HBO ", HBO Signature (backup2)
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8 
+#EXTINF:-1 tvg-logo="http://cekker.masuk.web.id/logo/hbosig.png" group-title=" HBO ", HBO Signature (backup1)
 https://www.dropbox.com/s/dllbdpdkssknyjp/HBOSIGX.m3u8?dl=1
-#EXTINF:-1 tvg-logo="http://cekker.masuk.web.id/logo/hbosig.png" group-title=" HBO ", HBO Signature (backup8B)
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/221948
+#EXTINF:-1 tvg-logo=" http://cekker.masuk.web.id/logo/hbosig.png " group-title=" HBO ",HBO Signature (backup2)
+http://home-tv.web.id/OYESS/sig.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JhDcYv4M/10626274-ico.png" group-title=" HBO ",HBO Family (Auto)
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/JhDcYv4M/10626274-ico.png " group-title=" HBO ",HBO Family (backup1)
-http://home-tv.web.id/OYESS/fam.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/JhDcYv4M/10626274-ico.png" group-title="HBO",HBO Family (backup2)
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/JhDcYv4M/10626274-ico.png" group-title="HBO",HBO Family (backup1)
 https://www.dropbox.com/s/5u8m1owjbwvnlqf/HBOFAM.m3u8?dl=1
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/JhDcYv4M/10626274-ico.png" group-title="HBO",HBO Family (backup8B)
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/197055
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/JhDcYv4M/10626274-ico.png " group-title=" HBO ",HBO Family (backup2)
+http://home-tv.web.id/OYESS/fam.m3u8
 
 #EXTINF:-1 tvg-logo=" http://cekker.masuk.web.id/logo/hbohits4.png " group-title=" HBO ",HBO Hits (Auto)
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
-#EXTINF:-1 tvg-logo=" http://cekker.masuk.web.id/logo/hbohits4.png " group-title=" HBO ",HBO Hits (backup1)
-http://home-tv.web.id/OYESS/hits.m3u8
-#EXTINF:-1 tvg-logo="http://cekker.masuk.web.id/logo/hbohits4.png" group-title=" HBO ",HBO Hits (backup2)
+#EXTINF:-1 tvg-logo="http://cekker.masuk.web.id/logo/hbohits4.png" group-title=" HBO ",HBO Hits (backup1)
 https://www.dropbox.com/s/y1p3h8qlgfvctx8/HBOHITSS.m3u8?dl=1
+#EXTINF:-1 tvg-logo=" http://cekker.masuk.web.id/logo/hbohits4.png " group-title=" HBO ",HBO Hits (backup2)
+http://home-tv.web.id/OYESS/hits.m3u8
 
 #EXTINF:-1 1  tvg-logo="https://i.postimg.cc/y6FnzMhN/RED-BY-HBO.png" group-title=" HBO ",Red By HBO (Auto)
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/y6FnzMhN/RED-BY-HBO.png" group-title=" HBO ",Red By HBO (backup1)
-http://home-tv.web.id/OYESS/red.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/y6FnzMhN/RED-BY-HBO.png" group-title=" HBO ", Red By HBO (backup2)
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/y6FnzMhN/RED-BY-HBO.png" group-title=" HBO ", Red By HBO (backup1)
 https://www.dropbox.com/s/1wmlsklnt5xcfie/REDX.m3u8?dl=1
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/y6FnzMhN/RED-BY-HBO.png" group-title=" HBO ",Red By HBO (backup2)
+http://home-tv.web.id/OYESS/red.m3u8
 
 
 
@@ -750,17 +736,11 @@ https://nonton.site:8443/6894864475/7163819284/95
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/258FC2hK/FOX_Life.png" group-title="FOX",FOX Life
 http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/258FC2hK/FOX_Life.png" group-title="FOX",FOX Life (backup8B)
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165083
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/258FC2hK/FOX_Life.png" group-title="FOX",FOX Life (backup7)
 https://nonton.site:8443/6894864475/7163819284/94
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5yNS2gh0/FOX_Movies.png" group-title="FOX",FOX Movies
 http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5yNS2gh0/FOX_Movies.png" group-title="FOX",FOX Movies (backup8B)
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165078
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5yNS2gh0/FOX_Movies.png" group-title="FOX",FOX Movies (backup8BB)
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/197970
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5yNS2gh0/FOX_Movies.png" group-title="FOX",FOX Movies (backup7)
 https://nonton.site:8443/6894864475/7163819284/98
 
@@ -771,15 +751,11 @@ https://nonton.site:8443/6894864475/7163819284/14994
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/y8TyqwgR/FOX_Action_Movies.png" group-title="FOX",FOX Action Movies
 http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/y8TyqwgR/FOX_Action_Movies.png" group-title="FOX",FOX Action Movies (backup8B)
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157608
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/y8TyqwgR/FOX_Action_Movies.png" group-title="FOX",FOX Action Movies (backup7)
 https://nonton.site:8443/6894864475/7163819284/99
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kMkcWNP2/FOX_Crime.pngg" group-title="FOX",FOX Crime
 http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kMkcWNP2/FOX_Crime.pngg" group-title="FOX",FOX Crime (backup8B)
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165076
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kMkcWNP2/FOX_Crime.png" group-title="FOX",FOX Crime (backup7)
 https://nonton.site:8443/6894864475/7163819284/763
 
@@ -1142,59 +1118,35 @@ http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.
 http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-natgeo
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png?v=2.0.0.13" group-title="PENGETAHUAN", Nat Geo (backup5)
 http://185.180.221.194:8278/streams/d/Natgeo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png?v=2.0.0.13" group-title="PENGETAHUAN", Nat Geo (backup8B)
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165094
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png?v=2.0.0.13" group-title="PENGETAHUAN", Nat Geo (ASIA) (backup8B)
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157531
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png?v=2.0.0.13" group-title="PENGETAHUAN", Nat Geo People (UseeTV)
 http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-natgeopeople
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png?v=2.0.0.13" group-title="PENGETAHUAN", Nat Geo People (backup5)
 http://185.180.221.194:8278/streams/d/Natgeopeople/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png?v=2.0.0.13" group-title="PENGETAHUAN", Nat Geo People (backup8)
-http://iptvtree.net:8080/test-220471/4008/197966
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png?v=2.0.0.13" group-title="PENGETAHUAN", Nat Geo People (ASIA) (backup8B)
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157551
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png?v=2.0.0.13" group-title="PENGETAHUAN", Nat Geo Wild (UseeTV)
 http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-natgeowild
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png?v=2.0.0.13" group-title="PENGETAHUAN", Nat Geo Wild (backup5)
 http://185.180.221.194:8278/streams/d/Natgeowild/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png?v=2.0.0.13" group-title="PENGETAHUAN", Nat Geo Wild (backup8)
-http://iptvtree.net:8080/test-220471/4008/174724
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png?v=2.0.0.13" group-title="PENGETAHUAN", Nat Geo Wild (ASIA) (backup8B)
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/174724
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png?v=2.0.0.13" group-title="PENGETAHUAN", Discovery Channel (UseeTV)
 http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-disco
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png?v=2.0.0.13" group-title="PENGETAHUAN", Discovery Channel (backup5)
 http://185.180.221.194:8278/streams/d/Discoveryhd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png?v=2.0.0.13" group-title="PENGETAHUAN", Discovery Channel (backup8)
-http://iptvtree.net:8080/test-220471/4008/157597
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png?v=2.0.0.13" group-title="PENGETAHUAN", Discovery Channel (backup8B)
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/273840
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NFzYrfLB/DISCOVERY-ASIA.png" group-title="PENGETAHUAN", Discovery Asia (backup8)
 http://iptvtree.net:8080/test-220471/4008/197968
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFzYrfLB/DISCOVERY-ASIA.png" group-title="PENGETAHUAN", Discovery Asia (backup8B)
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/197968
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8cg9KcFm/DISCOVERY-SCIENCE.png " group-title="PENGETAHUAN", Discovery Science (MY) (backup8B)
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/264473
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cg9KcFm/DISCOVERY-SCIENCE.png " group-title="PENGETAHUAN", Discovery Science (AR) (backup8B)
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157530
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rp4mjwbW/BBC-EARTH.png" group-title="PENGETAHUAN", BBC EARTH (backup8)
 http://iptvtree.net:8080/test-220471/4008/171979
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rp4mjwbW/BBC-EARTH.png" group-title="PENGETAHUAN", BBC EARTH (backup8B)
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/171979
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C1wLNxPT/ANIMAL-PLANET.png" group-title="PENGETAHUAN", Animal Planet
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C1wLNxPT/ANIMAL-PLANET.png" group-title="PENGETAHUAN", Animal Planet (backup5)
 http://185.180.221.194:8278/streams/d/AnimalPlanet/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/C1wLNxPT/ANIMAL-PLANET.png" group-title="PENGETAHUAN", Animal Planet (backup8B)
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/162514
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png?v=2.0.0.13" group-title="PENGETAHUAN", History (UseeTV)
 http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-history
@@ -1216,8 +1168,6 @@ https://tinyurl.com/gratistvmediaCRIMEINVES
 http://203.154.243.31:15001
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/hvwfV5VY/Crime-Investigation.png " group-title="PENGETAHUAN", Crime + Investigation (backup8)
 http://iptvtree.net:8080/test-220471/4008/157554
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/hvwfV5VY/Crime-Investigation.png " group-title="PENGETAHUAN", Crime + Investigation (backup8B)
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165052
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.postimg.cc/gkDYdR5S/Crime-360.png" tvg-url="" group-title=" PENGETAHUAN ",Crime 360
 https://aenetworks-crime360-1.roku.wurl.com/manifest/playlist.m3u8
@@ -1237,9 +1187,6 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-hgtv
 #EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_hgtv_small.png" group-title=" PENGETAHUAN ", HGTV (backup)
 http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/K8WsvQYc/Fishing-and-Hunting.png " group-title="PENGETAHUAN", Fishing & Hunting
-https://tinyurl.com/y4wl88zd
 
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_outdoor_small.png?v=1.1" group-title="PENGETAHUAN",Outdoor Channel (SD)
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/playlist.m3u8
@@ -1269,8 +1216,6 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Gt10JcDM/PULSE-TV.png" group-title="PENGETAHUAN",PULSE TV
 http://203.154.177.124:8899/live/ch18/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/1tmnS69v/TLC.png " group-title="PENGETAHUAN",TLC (backup8B)
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165086
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/1tmnS69v/TLC.png " group-title="PENGETAHUAN",TLC [VN] (SD)
 https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/1tmnS69v/TLC.png " group-title="PENGETAHUAN",TLC [VN] (HD)
@@ -1293,15 +1238,11 @@ http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-indishopping
 http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-eatgo
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_eatgo_small1.png?v=2.0.0.13" group-title=" LIFESTYLE ", Eat & Go (backup8)
 http://iptvtree.net:8080/test-220471/4008/264765
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_eatgo_small1.png?v=2.0.0.13" group-title=" LIFESTYLE ", Eat & Go (backup8B)
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/264765
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_afc_small.png?v=2.0.0.17" group-title=" LIFESTYLE ", Asian Food Network (UseeTV)
 http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-afc
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_afc_small.png?v=2.0.0.17" group-title=" LIFESTYLE ", Asian Food Network (backup5)
 http://185.180.221.194:8278/streams/d/Afc/playlist.m3u8
-#EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_afc_small.png?v=2.0.0.17" group-title=" LIFESTYLE ", Asian Food Network (backup8B)
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165063
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/508d11bN/BBC-LIFESTYLE.png " group-title="LIFESTYLE", BBC Lifestyle [SD]
 https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/playlist.m3u8
