@@ -2135,18 +2135,12 @@ http://balancer1.ottmex.com:8081/tecno/Espn+.BKR/chunks.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?v=2.0.0.13" group-title=" SPORTSTATION (BACKUP)", Fox Sports 1 (MY) [HD] (1)
-https://m3u-editor.com/serve/8d20f360-9b35-11eb-b067-2f1bd1e274ba/295299155
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?v=2.0.0.13" group-title=" SPORTSTATION (BACKUP)", Fox Sports 1 [HD] (backup5)
 http://185.180.221.194:8278/streams/d/Foxsports/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png?v=2.0.0.13" group-title=" SPORTSTATION (BACKUP)", Fox Sports 2 (MY) [HD] (1)
-https://m3u-editor.com/serve/8d20f360-9b35-11eb-b067-2f1bd1e274ba/295299156
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png?v=2.0.0.13" group-title=" SPORTSTATION (BACKUP)", Fox Sports 2 [HD] (backup5)
 http://185.180.221.194:8278/streams/d/Foxsports2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?v=2.0.0.13" group-title=" SPORTSTATION (BACKUP)", Fox Sports 3 (MY) [HD] (1)
-https://m3u-editor.com/serve/8d20f360-9b35-11eb-b067-2f1bd1e274ba/295299157
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?v=2.0.0.13" group-title=" SPORTSTATION (BACKUP)", Fox Sports 3 [HD] (backup5)
 http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
 
@@ -2165,18 +2159,6 @@ http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/265920
 #EXTINF:-1   tvg-logo=" https://i.postimg.cc/VL83Ng5H/BT-SPORT-2.png" group-title=" SPORTSTATION (BACKUP) ",BT Sport 2 [HD] (2)
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/265921
 
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/nrD8dsDb/ASTRO-SUPERSPORT-1.png " group-title="SPORTSTATION (BACKUP) ",Astro SUPERSPORT 1 [HD] (1)
-https://m3u-editor.com/serve/8d20f360-9b35-11eb-b067-2f1bd1e274ba/295299151
-
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/FR1XLCFK/ASTRO-SUPERSPORT-2.png " group-title="SPORTSTATION (BACKUP) ", Astro SUPERSPORT 2 [HD] (1)
-https://m3u-editor.com/serve/8d20f360-9b35-11eb-b067-2f1bd1e274ba/295299152
-
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/76c8M1bn/ASTRO-SUPERSPORT-3.png " group-title="SPORTSTATION (BACKUP) ", Astro SUPERSPORT 3 [HD] (1)
-https://m3u-editor.com/serve/8d20f360-9b35-11eb-b067-2f1bd1e274ba/295299153
-
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/N0dwLvcV/ASTRO-SUPERSPORT-4.png " group-title="SPORTSTATION (BACKUP) ", Astro SUPERSPORT 4 [HD] (1)
-https://m3u-editor.com/serve/8d20f360-9b35-11eb-b067-2f1bd1e274ba/295299154
-
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/5954Xnz7/BBC-ONE.png" group-title=" SPORTSTATION (BACKUP)", BBC 1 (UK)
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/697
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/5954Xnz7/BBC-ONE.png" group-title=" SPORTSTATION (BACKUP)",BBC 1 (SCO)
@@ -2191,11 +2173,6 @@ http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Mai
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/689
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/KYFnHNQG/ITV.png" group-title=" SPORTSTATION (BACKUP)", ITV (UK) (3)
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/278464
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/KYFnHNQG/ITV.png" group-title=" SPORTSTATION (BACKUP)", ITV (UK) (4)
-http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/11571
-
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/cHwsMcbJ/ITV-PLUS-1.png" group-title=" SPORTSTATION (BACKUP)", ITV +1 (UK)
-http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/145786
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/4xp6PM62/ITV_2.png" group-title=" SPORTSTATION (BACKUP)", ITV 2 (UK)
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/690
@@ -2217,8 +2194,6 @@ http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/66550
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/275080
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/rph56ht1/ESPN.png" group-title=" SPORTSTATION (BACKUP)", ESPN 1 (US) (5)
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/747
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/rph56ht1/ESPN.png" group-title=" SPORTSTATION (BACKUP)", ESPN 1 (US) (6)
-http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/275047
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/FKF0Bt1F/ESPN_2.png" group-title=" SPORTSTATION (BACKUP)", ESPN 2 (US) (1)
 http://dimapro.cz:8080/D4:CF:F9:0B:f5:5a/GtvsuptvO00aetorando/39091
