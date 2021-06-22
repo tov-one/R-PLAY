@@ -557,11 +557,9 @@ http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-5075
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_abcaustralia_small.png" group-title="NEWS", ABC Australia (UseeTV)
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-abcaustralia
+http://topwin-tv.my.id/2/master.m3u8?id=abcaustralia
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_abcaustralia_small.png" group-title="NEWS", ABC Australia (Vidio)
 http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-7150
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_abcaustralia_small.png" group-title="NEWS", ABC Australia (backup8B)
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165056
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/BQ8s9z5S/SKY-NEWS-AUSTRALIA.png" group-title="NEWS", Sky News Australia (backup)
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
@@ -686,42 +684,42 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/gjqKqhch/CINEMAX.png " group-title=" HBO ",Cinemax (backup1)
 https://www.dropbox.com/s/nm9vobcwjc1wh6i/CINEMAXX.m3u8?dl=1
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/gjqKqhch/CINEMAX.png " group-title=" HBO ", CINEMAX (backup2)
-http://home-tv.web.id/OYESS/max.m3u8
+http://eroz.hi2.ro/iptv/movies/cinemax.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5Ng3X8Rd/10626165-ico.png" group-title=" HBO ",HBO (Auto)
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5Ng3X8Rd/10626165-ico.png" group-title="HBO",HBO (backup1)
 https://www.dropbox.com/s/pv21nvv5ikap11w/HBOO.m3u8?dl=1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5Ng3X8Rd/10626165-ico.png" group-title=" HBO ",HBO (backup2)
-http://home-tv.web.id/OYESS/hbo.m3u8
+http://eroz.hi2.ro/iptv/movies/hbo.m3u8
 
 #EXTINF:-1 tvg-logo=" http://cekker.masuk.web.id/logo/hbosig.png " group-title=" HBO ",HBO Signature (Auto)
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8 
 #EXTINF:-1 tvg-logo="http://cekker.masuk.web.id/logo/hbosig.png" group-title=" HBO ", HBO Signature (backup1)
 https://www.dropbox.com/s/dllbdpdkssknyjp/HBOSIGX.m3u8?dl=1
 #EXTINF:-1 tvg-logo=" http://cekker.masuk.web.id/logo/hbosig.png " group-title=" HBO ",HBO Signature (backup2)
-http://home-tv.web.id/OYESS/sig.m3u8
+http://eroz.hi2.ro/iptv/movies/hbo_sig.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JhDcYv4M/10626274-ico.png" group-title=" HBO ",HBO Family (Auto)
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/JhDcYv4M/10626274-ico.png" group-title="HBO",HBO Family (backup1)
 https://www.dropbox.com/s/5u8m1owjbwvnlqf/HBOFAM.m3u8?dl=1
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/JhDcYv4M/10626274-ico.png " group-title=" HBO ",HBO Family (backup2)
-http://home-tv.web.id/OYESS/fam.m3u8
+http://eroz.hi2.ro/iptv/movies/hbo_fam.m3u8
 
 #EXTINF:-1 tvg-logo=" http://cekker.masuk.web.id/logo/hbohits4.png " group-title=" HBO ",HBO Hits (Auto)
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 #EXTINF:-1 tvg-logo="http://cekker.masuk.web.id/logo/hbohits4.png" group-title=" HBO ",HBO Hits (backup1)
 https://www.dropbox.com/s/y1p3h8qlgfvctx8/HBOHITSS.m3u8?dl=1
 #EXTINF:-1 tvg-logo=" http://cekker.masuk.web.id/logo/hbohits4.png " group-title=" HBO ",HBO Hits (backup2)
-http://home-tv.web.id/OYESS/hits.m3u8
+http://eroz.hi2.ro/iptv/movies/hbo_hits.m3u8
 
 #EXTINF:-1 1  tvg-logo="https://i.postimg.cc/y6FnzMhN/RED-BY-HBO.png" group-title=" HBO ",Red By HBO (Auto)
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/y6FnzMhN/RED-BY-HBO.png" group-title=" HBO ", Red By HBO (backup1)
 https://www.dropbox.com/s/1wmlsklnt5xcfie/REDX.m3u8?dl=1
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/y6FnzMhN/RED-BY-HBO.png" group-title=" HBO ",Red By HBO (backup2)
-http://home-tv.web.id/OYESS/red.m3u8
+http://eroz.hi2.ro/iptv/movies/hbo_red.m3u8
 
 
 
@@ -806,15 +804,11 @@ http://210.210.155.35:80/session/05ca7a1e-5492-11eb-901e-b82a72d63267/dr9445/h/h
 http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-animax
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_small.png" group-title="HIBURAN", Animax (DensTV)
 http://210.210.155.35:80/dr9445/h/h144/index.m3u8 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_small.png" group-title="HIBURAN", Animax (MY) (backup8B)
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157486
 
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_citradrama_small.png?v=2.0.0.15" group-title="HIBURAN",Citra DRAMA (UseeTV)
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-cdrama
+http://topwin-tv.my.id/2/master.m3u8?id=cdrama
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_citradrama_small.png?v=2.0.0.15" group-title="HIBURAN",Citra DRAMA (Vidio)
 http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-6401
-#EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_citradrama_small.png?v=2.0.0.15" group-title="HIBURAN",Citra DRAMA (backup8B)
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/264748
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/NjpR38BQ/C-ENTERTAINMENT.png" tvg-id="" tvg-name" Citra Entertainment (Vidio)" group-title=" HIBURAN ",Citra Entertainment (Vidio)
 http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-6402
@@ -823,12 +817,12 @@ http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-6402
 http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-7352
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_wakuwaku_small.png?v=2.0.0.13" group-title=" HIBURAN ", Waku Waku Japan (UseeTV)
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-wakuwaku
+http://topwin-tv.my.id/2/master.m3u8?id=wakuwaku
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_wakuwaku_small.png?v=2.0.0.13" group-title=" HIBURAN ", Waku Waku Japan (backup8)
 http://iptvtree.net:8080/test-220471/4008/157598
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/tgZPr3PY/logo-nhkworld-big.png " group-title=" HIBURAN ", NHK WORLD JAPAN (UseeTV)
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-nhkworld
+http://topwin-tv.my.id/2/master.m3u8?id=nhkworld
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tgZPr3PY/logo-nhkworld-big.png" group-title="HIBURAN",NHK WORLD JAPAN (DensTV)
 http://210.210.155.35/session/40d99f12-b06f-11ea-85f7-8562a8355579/uq2663/h/h23/02.m3u8
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/tgZPr3PY/logo-nhkworld-big.png " group-title=" HIBURAN ", NHK WORLD JAPAN (web)
@@ -842,7 +836,7 @@ https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmark-frndlytv
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsrRyg8c/Hallmark-Drama.png" group-title="HIBURAN",Hallmark Drama
 https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmark-drama-frndlytv/CDN/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_lifetime_small.png" group-title="HIBURAN", Lifetime (UseeTV)
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-lifetime
+http://topwin-tv.my.id/2/master.m3u8?id=lifetime
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_lifetime_small.png" group-title="HIBURAN", Lifetime (backup5)
 http://185.180.221.194:8278/streams/d/Lifetime/playlist.m3u8
 
@@ -873,7 +867,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2e
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(0b50f52d-2491-4050-81dd-79045ddcfb34)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dunialain_small.png?v=2.0.0.13" group-title=" HIBURAN ", Dunia Lain (UseeTV)
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-dunialain
+http://topwin-tv.my.id/2/master.m3u8?id=dunialain
 
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png?v=2.0.0.13" group-title="HIBURAN",TVRI BUDAYA
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/index.m3u8
@@ -890,30 +884,28 @@ http://210.210.155.35:80/uq2663/h/h155/S4/mnf.m3u8
 http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-bioskopindonesia
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/mZ3LwKVG/Blue-ANT.png" group-title="FILM", Blue Ant Entertainment (UseeTV)
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-blueant
+http://topwin-tv.my.id/2/master.m3u8?id=blueant
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/mZ3LwKVG/Blue-ANT.png" group-title="FILM", Blue Ant Entertainment (DensTV)
 http://210.210.155.35/session/8fe716b0-9658-11ea-934d-b82a72d63267/dr9445/h/h16/02.m3u8
 #EXTINF:-1 tvg-id="-" tvg-name="Blue Ant Entertainment" tvg-logo=" https://i.postimg.cc/mZ3LwKVG/Blue-ANT.png" group-title="FILM", Blue Ant Entertainment (VN)
 https://livecdn.fptplay.net/hda/blueantent_hls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="blueantextreme" tvg-name="blueantextreme" tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueantext_small.png" group-title="FILM", Blue Ant Extreme (UseeTV)
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-blueantextreme
+http://topwin-tv.my.id/2/master.m3u8?id=blueantextreme
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_blueantext_small.png " group-title="FILM", Blue Ant Extreme (DensTV)
 http://210.210.155.35/session/c35116ea-9658-11ea-934d-b82a72d63267/dr9445/h/h15/02.m3u8
 #EXTINF:-1 tvg-id="-" tvg-name="Blue Ant Extreme" tvg-logo=" https://www.useetv.com/assets/images/channel/logo_blueantext_small.png " group-title="FILM", Blue Ant Extreme (VN)
 https://livecdn.fptplay.net/hda/blueantext_hls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png?v=2.0.0.13" group-title="FILM", AXN (UseeTV)
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-axn 
+http://topwin-tv.my.id/2/master.m3u8?id=axn 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/vTyQyvYj/AXN.png" group-title="FILM",AXN (DensTV)
 http://rr.dens.tv/h/h141/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png?v=2.0.0.13" group-title="FILM", AXN (backup5)
 http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png?v=2.0.0.13" group-title=" FILM ", Warner (UseeTV)
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-warner
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png?v=2.0.0.13" group-title=" FILM ", Warner (backup8B)
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157594
+http://topwin-tv.my.id/2/master.m3u8?id=warner
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png?v=2.0.0.13" group-title=" FILM ", Warner (VN) [HD]
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/WANNERTV-SD-720p/chunks.m3u8
 
@@ -921,11 +913,9 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/WANNERTV-SD-720p/chunks.m3u8
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_small.png?v=2.0.0.13" group-title=" FILM ", KIX (UseeTV)
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-kix
+http://topwin-tv.my.id/2/master.m3u8?id=kix
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/K8jmmjbZ/KIX.png" group-title="FILM",KIX (DensTV)
 http://rr.dens.tv/h/h07/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/K8jmmjbZ/KIX.png" group-title="FILM",KIX (backup8B)
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165068
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hjdN1TGG/SONY-MOVIES-ACTION.png" group-title="FILM", Sony Movies Action
 http://51.52.156.22:8888/http/009
@@ -944,40 +934,36 @@ http://rr2.dens.tv/s/s32/01.m3u8
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165053
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="FILM", Thrill (UseeTV)
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-thrill
+http://topwin-tv.my.id/2/master.m3u8?id=thrill-1
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_thrill_small.png " group-title="FILM", Thrill (backup)
 https://tinyurl.com/gratistvmediaChTHRILL
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="FILM", Thrill (DensTV)
 http://rr2.dens.tv/s/s34/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="FILM", Cinema World (UseeTV)
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-cinemaworld
+http://topwin-tv.my.id/2/master.m3u8?id=cinemaworld
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="FILM", Cinema World (backup8B)
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165082
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="FILM", Cinema World (DensTV)
 http://rr.dens.tv/h/h04/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png?v=2.0.0.13" group-title="FILM", Flik (UseeTV)
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-flik
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png?v=2.0.0.13" group-title="FILM", Flik (backup8B)
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165095
+http://topwin-tv.my.id/2/master.m3u8?id=flik
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png?v=2.0.0.13" group-title="FILM", Galaxy (UseeTV)
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-galaxy
+http://topwin-tv.my.id/2/master.m3u8?id=galaxy
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png?v=2.0.0.13" group-title="FILM", Galaxy (backup)
 http://iptvtree.net:8080/Ainamanja/6a4fef36/264773
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxypremium_small.png" group-title="FILM", Galaxy Premium (UseeTV)
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-galaxypremium
+http://topwin-tv.my.id/2/master.m3u8?id=galaxypremium
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxypremium_small.png" group-title="FILM", Galaxy Premium (backup)
 http://iptvtree.net:8080/Ainamanja/6a4fef36/264774
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?v=2.0.0.13" group-title="FILM", IMC (UseeTV)
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-imc
+http://topwin-tv.my.id/2/master.m3u8?id=imc
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?v=2.0.0.13" group-title="FILM", IMC (backup8)
 http://iptvtree.net:8080/test-220471/4008/264769
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?v=2.0.0.13" group-title="FILM", IMC (backup8B)
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/264769
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/tgMZSJyN/HITS.png " group-title="FILM", HITS (backup8B)
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/221947
@@ -989,7 +975,7 @@ https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLi
 https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmarkmovies-frndlytv/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tv5monde" tvg-name="TV5Monde" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tv5monde_small1.png?v=2.0.0.13" group-title="FILM",TV5Monde (UseeTV)
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-tv5monde 
+http://topwin-tv.my.id/2/master.m3u8?id=tv5monde 
 #EXTINF:-1 tvg-id="tv5monde" tvg-name="TV5Monde" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tv5monde_small1.png?v=2.0.0.13" group-title="FILM",TV5Monde (backup)
 https://tv5asieen-i.akamaihd.net/hls/live/631617-b/tv5asieen/tv5asie_eng_1200.m3u8
 #EXTINF:-1 tvg-id="tv5monde" tvg-name="TV5Monde" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tv5monde_small1.png?v=2.0.0.13" group-title="FILM",TV5Monde (DensTV)
@@ -1027,17 +1013,17 @@ http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-6747
 
 
 #EXTINF:-1 tvg-id="arirang" tvg-name="Arirang" tvg-logo="https://www.useetv.com/assets/images/channel/logo_arirang_small.png" group-title=" KOREA ",Arirang (UseeTV)
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-arirang
+http://topwin-tv.my.id/2/master.m3u8?id=arirang
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4x45s27M/logo-arirang-small.png" group-title=" KOREA ",ARIRANG (backup)
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kplus_small1.png?v=2.0.0.13" group-title="KOREA", K+ (UseeTV)
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-kplus
+http://topwin-tv.my.id/2/master.m3u8?id=kplus
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/cHwsPzSw/K-Plus.png" group-title="KOREA",K+ (DensTV)
 http://rr.dens.tv/h/h08/index2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/44wFpMr4/logo-kbsw-orld-small.png" group-title="KOREA",KBS WORLD (UseeTV)
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-kbsworld
+http://topwin-tv.my.id/2/master.m3u8?id=kbsworld
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/44wFpMr4/logo-kbsw-orld-small.png " group-title="KOREA", KBS World (backup5)
 http://185.180.221.194:8278/streams/d/KBS/playlist.m3u8
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/44wFpMr4/logo-kbsw-orld-small.png " group-title="KOREA", KBS World [HD] 
@@ -1046,7 +1032,7 @@ http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" group-title="KOREA", TVN (UseeTV)
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-tvn
+http://topwin-tv.my.id/2/master.m3u8?id=tvn
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_tvn_small.png " tvg-id="" tvg-name"TVN (Vidio)" group-title="KOREA",TVN (Vidio)
 http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-6362
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" group-title="KOREA", TVN (DensTV)
@@ -1055,11 +1041,9 @@ http://210.210.155.35:80/session/01bdbc8e-a40f-11eb-8209-c81f66f89318/dr9445/h/h
 http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 	
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmoviews_small.png" group-title="KOREA", TVN MOVIES (UseeTV)
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-tvnmovies
+http://topwin-tv.my.id/2/master.m3u8?id=tvnmovies
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmoviews_small.png" group-title="KOREA", TVN MOVIES (backup5)
 http://185.180.221.194:8278/streams/d/Tvnmovie/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmoviews_small.png" group-title="KOREA", TVN MOVIES (backup8B)
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157596
 
 #EXTINF:-1 tvg-name="057" tvg-ID="SBS.KR" tvg-logo=" https://i.postimg.cc/4xmDyXwQ/SBS.png" group-title="KOREA",SBS
 http://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
@@ -1074,16 +1058,14 @@ https://streaming-a-802.cdn.nextologies.com/SBS_18/live/SBS_18_1500k/chunks.m3u8
 http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sone_small.png?v=2.0.0.13" group-title=" KOREA ", SONY ONE (UseeTV)
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-sone
+http://topwin-tv.my.id/2/master.m3u8?id=sone
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_sone_small.png?v=2.0.0.13" group-title="KOREA", SONY ONE (DensTV)
 http://210.210.155.35/session/a5d39872-3130-11eb-a769-b82a72d63267/uq2663/h/h143/01.m3u8
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_sone_small.png?v=2.0.0.13" group-title="KOREA", SONY ONE (backup)
 http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
-#EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_sone_small.png?v=2.0.0.13" group-title="KOREA", SONY ONE (backup8B)
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165077
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sgem_small.png?v=2.0.0.13" group-title=" KOREA ", SONY GEM (UseeTV)
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-sgem
+http://topwin-tv.my.id/2/master.m3u8?id=sgem
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sgem_small.png?v=2.0.0.13" group-title=" KOREA ", SONY GEM (DensTV)
 http://210.210.155.35/session/8d789368-3130-11eb-8016-b82a72d63267/uq2663/h/h19/01.m3u8
 
@@ -1114,22 +1096,22 @@ http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.
 http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-lingua
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png?v=2.0.0.13" group-title="PENGETAHUAN", Nat Geo (UseeTV)
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-natgeo
+http://topwin-tv.my.id/2/master.m3u8?id=natgeo
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png?v=2.0.0.13" group-title="PENGETAHUAN", Nat Geo (backup5)
 http://185.180.221.194:8278/streams/d/Natgeo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png?v=2.0.0.13" group-title="PENGETAHUAN", Nat Geo People (UseeTV)
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-natgeopeople
+http://topwin-tv.my.id/2/master.m3u8?id=natgeopeople
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png?v=2.0.0.13" group-title="PENGETAHUAN", Nat Geo People (backup5)
 http://185.180.221.194:8278/streams/d/Natgeopeople/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png?v=2.0.0.13" group-title="PENGETAHUAN", Nat Geo Wild (UseeTV)
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-natgeowild
+http://topwin-tv.my.id/2/master.m3u8?id=natgeowild
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png?v=2.0.0.13" group-title="PENGETAHUAN", Nat Geo Wild (backup5)
 http://185.180.221.194:8278/streams/d/Natgeowild/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png?v=2.0.0.13" group-title="PENGETAHUAN", Discovery Channel (UseeTV)
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-disco
+http://topwin-tv.my.id/2/master.m3u8?id=disco
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png?v=2.0.0.13" group-title="PENGETAHUAN", Discovery Channel (backup5)
 http://185.180.221.194:8278/streams/d/Discoveryhd/playlist.m3u8
 
@@ -1148,7 +1130,7 @@ http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 http://185.180.221.194:8278/streams/d/AnimalPlanet/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png?v=2.0.0.13" group-title="PENGETAHUAN", History (UseeTV)
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-history
+http://topwin-tv.my.id/2/master.m3u8?id=history
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png?v=2.0.0.13" group-title="PENGETAHUAN", History (backup5)
 http://185.180.221.194:8278/streams/d/History/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png?v=2.0.0.13" group-title="PENGETAHUAN", History (backup8)
@@ -1229,7 +1211,7 @@ http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-mncshop
 http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-indishopping
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_eatgo_small1.png?v=2.0.0.13" group-title=" LIFESTYLE ", Eat & Go (UseeTV)
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-eatgo
+http://topwin-tv.my.id/2/master.m3u8?id=eatgo
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_eatgo_small1.png?v=2.0.0.13" group-title=" LIFESTYLE ", Eat & Go (backup8)
 http://iptvtree.net:8080/test-220471/4008/264765
 
@@ -1294,12 +1276,12 @@ http://210.210.155.35:80/session/5fa1cb6e-2edb-11eb-9063-b82a72d63267/qwr9ew/s/s
 
 
 #EXTINF:-1 tvg-id="mykidz" tvg-name="My Kidz " tvg-logo="https://www.useetv.com/assets/images/channel/logo_mykids_small.png" group-title="KIDS",My Kidz (UseeTV)
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-mykids
+http://topwin-tv.my.id/2/master.m3u8?id=u-mykids
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_mykids_small.png " group-title="KIDS",MY KIDS [FHD] (DensTV)
 http://rr.dens.tv/h/h98/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png?v=2.0.0.13" group-title="KIDS", Dunia Anak (UseeTV)
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-duniaanak
+http://topwin-tv.my.id/2/master.m3u8?id=duniaanak
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0jpRPDg4/BESMART-TV.png" group-title="KIDS", BeSmart TV
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165087
@@ -1308,7 +1290,7 @@ http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165087
 http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-7052
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="KIDS", Baby First (UseeTV)
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-babyfirst
+http://topwin-tv.my.id/2/master.m3u8?id=babyfirst
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png " group-title=" KIDS ",Baby First (VN)
 https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b1200000.m3u8
 
@@ -1323,7 +1305,7 @@ https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8
 http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-ducktv
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png?v=2.0.0.13" group-title="KIDS", Horee (UseeTV)
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-horee
+http://topwin-tv.my.id/2/master.m3u8?id=horee
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_horee_small.png?v=2.0.0.13 " tvg-id="" tvg-name"Horee (Vidio)" group-title="KIDS",Horee (Vidio)
 http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-6397
 
@@ -1342,15 +1324,15 @@ https://kedoo-supertoonstv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="boomerang" tvg-name="Boomerang" tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title=" KIDS ",Boomerang (UseeTV)
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-boomerang
+http://topwin-tv.my.id/2/master.m3u8?id=boomerang
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_boomerang_small.png " group-title="KIDS",Boomerang (VN) [HD]
 https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b1200000.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_small.png" group-title="KIDS", Cartoon Network (UseeTV)
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-cartoonnetwork
+http://topwin-tv.my.id/2/master.m3u8?id=cartoonnetwork
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/LXtG1xhF/Disney-Channel.png" group-title="KIDS",Disney Channel (backup8B)
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157482
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/LXtG1xhF/Disney-Channel.png" group-title="KIDS",Disney Channel
+http://185.180.221.194:8278/streams/d/Disneyxd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/LXtG1xhF/Disney-Channel.png" group-title="KIDS",Disney Channel (USA) [HD]
 http://51.79.82.231:8080/US_DISNEY_CHANNEL_EAST_USA/video.m3u8
 
@@ -1358,25 +1340,25 @@ http://51.79.82.231:8080/US_DISNEY_CHANNEL_EAST_USA/video.m3u8
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157544
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nrngYqQj/Disney-Junior.png" group-title="KIDS",Disney Junior
-http://85.203.33.29:25461/EAk2rUZ5n7/ad6PnTA5dn/160602?play_token=2RhSO2EqSB&token=ShdcBRFREglDUgcBAQZfBQhRDlZaDlBVBFFfA1NWXFZTAgYHAA8AUFNGHxERR0tSUF5mClwbCQZQVQ8FBU4bRUJQRjsLXRIJQ1ACA1oLDRUdEU0KVVwRDVdTCAAPVQgGBw0YRhJQVBFbRgAEVgUAFR0RXBtMXEFZBwlmUVIUUFNUFw4KF1VcH0MLXWwGVlRWX1cbWRoIERtEDEpFFVgbYGUbFCwXTVNbCBdcXUIAGX5fV1YNXUpaVkRJG1deFktRRVAWXkAIAQpYRh8RAVxMWUVBQEECG3pzREkbUE8WXF5CXFsKQAMSRxJGHxELQGZFVEBNEV1YXlIURwMXB0AVElxUTDsBVl5dBAdHWg1dShULEQhBFBteWAgMTVpFPUlZVRcORlEOBAdZRk4=
+http://185.180.221.194:8278/streams/d/Disneyjr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nrngYqQj/Disney-Junior.png" group-title="KIDS",Disney Junior (USA) [HD]
 http://51.79.82.231:8080/US_DISNEY_JR_EAST_USA/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png" group-title="KIDS", Nick Junior (UseeTV)
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-nickjr
+http://topwin-tv.my.id/2/master.m3u8?id=nickjr
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png" group-title="KIDS", Nick Junior (USA) (backup)
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png" group-title="KIDS", Nick Junior (USA)
 http://gg.gg/NickelodeonJRbyChungXDA
 #EXTINF:-1 tvg-id="NJR.US" tvg-logo=" https://www.useetv.com/assets/images/channel/logo_nickjr_small.png " group-title=" KIDS ",Nick Junior (USA) (backup)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickelodeon_small.png" group-title="KIDS", Nickelodeon (UseeTV)
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-nickelodeon
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickelodeon_small.png" group-title="KIDS", Nickelodeon (backup)
+http://topwin-tv.my.id/2/master.m3u8?id=nickelodeon
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickelodeon_small.png" group-title="KIDS", Nickelodeon (USA)
 http://gg.gg/NickelodeonChungXDA
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dreamworks_small1.png?v=2.0.0.13" group-title="KIDS", Dreamworks (UseeTV)
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-dreamworks
+http://topwin-tv.my.id/2/master.m3u8?id=dreamworks
 
 #EXTINF:-1 tvg-id="" tvg-name="Teletubbies" tvg-logo=" https://i.postimg.cc/MGt2GwLW/TELETUBBIES.png " group-title="KIDS",Teletubbies
 https://dhx-teletubbies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
@@ -1388,7 +1370,7 @@ http://gg.gg/TokuSHOUTsu
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=840&deviceId=5f4ec10ed9636f00089b8c89&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_davinci_small1.png?v=2.0.0.13" group-title="KIDS", Da Vinci Learning (UseeTV)
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-davinci
+http://topwin-tv.my.id/2/master.m3u8?id=davinci
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_davinci_small1.png?v=2.0.0.13" tvg-name"Da Vinci (Vidio)" group-title="KIDS",Da Vinci Learning (Vidio)
 http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-6549
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_davinci_small1.png?v=2.0.0.13" group-title="KIDS", Da Vinci Learning (VN)
@@ -1429,8 +1411,6 @@ http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165108
 
 #EXTINF:-1 tvg-id="mtvlive" tvg-name="MTV Live" tvg-logo="https://www.useetv.com/assets/images/channel/logo_mtvlive_small.png" group-title=" MUSIK ",MTV Live (UseeTV)
 http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-mtvlive
- #EXTINF:-1 tvg-id="mtvlive" tvg-name="MTV Live" tvg-logo="https://www.useetv.com/assets/images/channel/logo_mtvlive_small.png" group-title=" MUSIK ",MTV Live (backup8B)
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/197990
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HkjTz25S/MTV.png" group-title="MUSIK",MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
@@ -1445,8 +1425,6 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_375.m
 https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="MUSIK" tvg-logo=" https://i.postimg.cc/B61cDfCw/CHANNEL-V-HD.png ",Channel V [HD]
 https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/ chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="MUSIK" tvg-logo=" https://i.postimg.cc/B61cDfCw/CHANNEL-V-HD.png ",Channel V (backup8B)
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157604
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3xwLpH34/M2O.png" group-title="MUSIK",M2O MUSIC
 https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
@@ -1592,32 +1570,32 @@ http://wowza58.indostreamserver.com:1935/wesaltv/live/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png?v=2.0.0.13" group-title=" SPORTSTATION 1", UseeSports 1 (UseeTV)
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-useesport
+http://topwin-tv.my.id/2/master.m3u8?id=useesport
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title=" SPORTSTATION 1", UseeSports 2 (UseeTV)
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-useesports2
+http://topwin-tv.my.id/2/master.m3u8?id=useesports2
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mZVm7svR/FOX-SPORTS-NEWS.png " group-title=" SPORTSTATION 1", Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?v=2.0.0.13" group-title=" SPORTSTATION 1", Fox Sports 1 [HD] (UseeTV)
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-foxsport1
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?v=2.0.0.13" group-title=" SPORTSTATION 1", Fox Sports 1 [HD] (backup8B)
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/174721
+http://topwin-tv.my.id/2/master.m3u8?id=foxsport1
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?v=2.0.0.13" group-title=" SPORTSTATION (BACKUP)", Fox Sports 1 [HD] (backup5)
+http://185.180.221.194:8278/streams/d/Foxsports/playlist.m3u8
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?v=2.0.0.13" group-title=" SPORTSTATION 1", Fox Sports 1 (VN) [HD]
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png?v=2.0.0.13" group-title=" SPORTSTATION 1", Fox Sports 2 [HD] (UseeTV)
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-foxsport2
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png?v=2.0.0.13" group-title=" SPORTSTATION 1", Fox Sports 2 [HD] (backup8B)
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157488
+http://topwin-tv.my.id/2/master.m3u8?id=foxsport2
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png?v=2.0.0.13" group-title=" SPORTSTATION (BACKUP)", Fox Sports 2 [HD] (backup5)
+http://185.180.221.194:8278/streams/d/Foxsports2/playlist.m3u8
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png?v=2.0.0.13" group-title=" SPORTSTATION 1", Fox Sports 2 (VN) [HD]
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?v=2.0.0.13" group-title=" SPORTSTATION 1", Fox Sports 3 [HD] (UseeTV)
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-foxsport3
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?v=2.0.0.13" group-title=" SPORTSTATION 1", Fox Sports 3 [HD] (backup8B)
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157560
+http://topwin-tv.my.id/2/master.m3u8?id=foxsport3
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?v=2.0.0.13" group-title=" SPORTSTATION (BACKUP)", Fox Sports 3 [HD] (backup5)
+http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?v=2.0.0.13" group-title=" SPORTSTATION 1", Fox Sports 3 (VN) [HD]
 https://livecdn.fptplay.net/qnetlive/foxsports3_1000.stream/chunklist.m3u8
 
@@ -1657,7 +1635,7 @@ http://edge04.beetv.kz/btv/SWM/Eurosport2/Eurosport2_576p_2000kbps.m3u8
 rtmp://ivi.bupt.edu.cn:1935/livetv/starsports?checkedby
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-tv-logo-585DF08BF0-seeklogo.com.png" group-title="SPORTSTATION 1",NBA (UseeTV)
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-nba
+http://topwin-tv.my.id/2/master.m3u8?id=nba
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-tv-logo-585DF08BF0-seeklogo.com.png" group-title="SPORTSTATION 1",NBA (TH) [HD]
 http://77.83.117.60:8888/02_nbahd_720p/chunklist.m3u8
 
@@ -1672,21 +1650,17 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.postimg.cc/jjL53jdx/Fight-Sports.png" tvg-country="US" tvg-url="" group-title=" SPORTSTATION 1",Fight Sports (DensTV)
 http://210.210.155.35/uq2663/h/h05/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.postimg.cc/jjL53jdx/Fight-Sports.png" tvg-country="US" tvg-url="" group-title=" SPORTSTATION 1",Fight Sports (backup8B)
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157606
 
 #EXTINF:0 tvg-logo=" https://i.postimg.cc/N0S03w51/ONE-GOLF.png "  group-title=" SPORTSTATION 1",ONE GOLF
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_golf_small1.png?v=2.0.0.14" group-title=" SPORTSTATION 1", GOLF Channel (UseeTV)
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-golfplus
+http://topwin-tv.my.id/2/master.m3u8?id=golfplus
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_golf_small1.png " group-title=" SPORTSTATION 1", GOLF Channel (backup)
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/chunklist.m3u8
-#EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_golf_small1.png " group-title=" SPORTSTATION 1", GOLF Channel (backup8B)
-http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/5845.m3u8
 
 #EXTINF:-1 tvg-id="eggnetwork" tvg-name="EGG Network" tvg-logo="https://www.useetv.com/assets/images/channel/logo_egg_small1.png?v=2.0.0.13" group-title=" SPORTSTATION 1",EGG Network (UseeTV)
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-egg
+http://topwin-tv.my.id/2/master.m3u8?id=egg
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_egg_small1.png?v=2.0.0.13" group-title=" SPORTSTATION 1", EGG Network (backup)
 http://edge.linknetott.swiftserve.com:80/channelgroup5/cg523production/ch319/02.m3u8
 
@@ -1740,12 +1714,12 @@ http://77.83.117.60:8888/02_sport7_480p/chunklist.m3u8
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
 #EXTINF:-1   tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="SPORTSTATION 2 ", Champions TV 1 (UseeTV)
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-champion1
+http://topwin-tv.my.id/2/master.m3u8?id=champion1
 #EXTINF:-1   tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="SPORTSTATION 2 ", Champions TV 1 (Vidio)
 http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-6685
 
 #EXTINF:-1   tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" group-title="SPORTSTATION 2 ", Champions TV 2 (UseeTV)
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-champion2
+http://topwin-tv.my.id/2/master.m3u8?id=champion2
 #EXTINF:-1   tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" group-title="SPORTSTATION 2 ", Champions TV 2 (Vidio)
 http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-6686
 
@@ -1803,16 +1777,12 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/6712
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/247419
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/KzGPnhCq/logo-bein1-big1.png" group-title=" SPORTSTATION 2", BeIN Sports 1 (UseeTV)
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-bein1
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/KzGPnhCq/logo-bein1-big1.png" group-title=" SPORTSTATION 2", BeIN Sports 1 (backup8B)
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165105
+http://topwin-tv.my.id/2/master.m3u8?id=bein1
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/KzGPnhCq/logo-bein1-big1.png" group-title=" SPORTSTATION 2", BeIN Sports 1 (backup2)
 http://185.180.221.194:8278/streams/d/Bein1hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/0QVpnHs8/logo-bein2-big1.png" group-title=" SPORTSTATION 2", BeIN Sports 2 (UseeTV)
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-bein2
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/0QVpnHs8/logo-bein2-big1.png" group-title=" SPORTSTATION 2", BeIN Sports 2 (backup8B)
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165073
+http://topwin-tv.my.id/2/master.m3u8?id=bein2
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/0QVpnHs8/logo-bein2-big1.png" group-title=" SPORTSTATION 2", BeIN Sports 2 (backup2)
 http://185.180.221.194:8278/streams/d/Bein2hd/playlist.m3u8
 
@@ -1915,21 +1885,21 @@ http://iptv.zqstream.com/zqsport-gen/video.m3u8?token=vQqPVtl-k0
 #EXTINF:-1   tvg-logo=" https://i.postimg.cc/Dwn2f29s/BEIN-SPORTS-PREMIUM-1.png" group-title=" SPORTSTATION 3", BeIN Sports 1 PREMIUM (AR)
 http://144.217.253.140/beinsport1/tracks-v1a1/index.m3u8
 #EXTINF:-1   tvg-logo=" https://i.postimg.cc/Dwn2f29s/BEIN-SPORTS-PREMIUM-1.png" group-title=" SPORTSTATION 3", BeIN Sports 1 PREMIUM (AR) (backup)
-http://live.iptv-ksa.com:80/ford14/ford14/211798
+http://1.alhawalouh.xyz/live/6161655/index.m3u8
 #EXTINF:-1   tvg-logo=" https://i.postimg.cc/Dwn2f29s/BEIN-SPORTS-PREMIUM-1.png" group-title=" SPORTSTATION 3", BeIN Sports 1 PREMIUM (AR) (backup2)
 http://1.amanrouf.xyz/live/6161655/index.m3u8
 
 #EXTINF:-1   tvg-logo=" https://i.postimg.cc/KYYxL0v8/BEIN-SPORTS-PREMIUM-2.png" group-title=" SPORTSTATION 3", BeIN Sports 2 PREMIUM (AR)
 http://144.217.253.140/beinsport2/tracks-v1a1/index.m3u8
 #EXTINF:-1   tvg-logo=" https://i.postimg.cc/Dwn2f29s/BEIN-SPORTS-PREMIUM-1.png" group-title=" SPORTSTATION 3", BeIN Sports 2 PREMIUM (AR) (backup)
-http://live.iptv-ksa.com:80/ford14/ford14/211799
+http://1.alhawalouh.xyz/live/616194987/index.m3u8
 #EXTINF:-1   tvg-logo=" https://i.postimg.cc/Dwn2f29s/BEIN-SPORTS-PREMIUM-1.png" group-title=" SPORTSTATION 3", BeIN Sports 2 PREMIUM (AR) (backup2)
 http://2.alhawalouh.xyz/live/616194987/index.m3u8
 
 #EXTINF:-1   tvg-logo=" https://i.postimg.cc/bJDPVdnX/BEIN-SPORTS-PREMIUM-3.png" group-title=" SPORTSTATION 3", BeIN Sports 3 PREMIUM (AR)
 http://144.217.253.140/beinsport3/tracks-v1a1/index.m3u8
 #EXTINF:-1   tvg-logo=" https://i.postimg.cc/bJDPVdnX/BEIN-SPORTS-PREMIUM-3.png" group-title=" SPORTSTATION 3", BeIN Sports 3 PREMIUM (AR) (backup)
-http://live.iptv-ksa.com:80/ford14/ford14/211801
+http://1.alhawalouh.xyz/live/6151278887/index.m3u8
 #EXTINF:-1   tvg-logo=" https://i.postimg.cc/bJDPVdnX/BEIN-SPORTS-PREMIUM-3.png" group-title=" SPORTSTATION 3", BeIN Sports 3 PREMIUM (AR) (backup2)
 http://3.alhawalouh.xyz/live/6151278887/index.m3u8
 
@@ -2051,15 +2021,6 @@ http://balancer1.ottmex.com:8081/tecno/Espn3.BKR/chunks.m3u8
 http://balancer1.ottmex.com:8081/tecno/Espn+.BKR/chunks.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?v=2.0.0.13" group-title=" SPORTSTATION (BACKUP)", Fox Sports 1 [HD] (backup5)
-http://185.180.221.194:8278/streams/d/Foxsports/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png?v=2.0.0.13" group-title=" SPORTSTATION (BACKUP)", Fox Sports 2 [HD] (backup5)
-http://185.180.221.194:8278/streams/d/Foxsports2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?v=2.0.0.13" group-title=" SPORTSTATION (BACKUP)", Fox Sports 3 [HD] (backup5)
-http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
 
 #EXTINF:-1   tvg-logo=" https://i.postimg.cc/T2WXx0kf/EUROSPORT-1.png" group-title=" SPORTSTATION (BACKUP)", Eurosport 1 (ES) (1)
 https://chostv.mobie.in/choos/sports/euro1.m3u8
