@@ -1209,11 +1209,6 @@ https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist_b1200000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://i.postimg.cc/5y1c2G25/AKC-TV.png" group-title=" LIFESTYLE ",AKC TV 
 https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bv6PBHWv/DMAX.png " group-title=" LIFESTYLE ",DMAX
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/158351
-
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/7hNFGV5F/BEACH-TV.png" group-title=" LIFESTYLE ",Beach TV
 https://tinyurl.com/gratistvmediaBEACH
 
@@ -1228,8 +1223,6 @@ http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Qdr8kvTz/FMN.png" group-title="LIFESTYLE",FMN (backup8)
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62257
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qdr8kvTz/FMN.png" group-title="LIFESTYLE",FMN (backup8B)
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165057
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6qnWNK6N/DENS-LIFESTYLE.png" group-title="LIFESTYLE",DENS LIFESTYLE (DensTV)
 http://210.210.155.35/session/6afa4666-b06f-11ea-b559-9431acada584/uq2663/h/h28/02.m3u8
@@ -1880,8 +1873,6 @@ http://3.alhawalouh.xyz/live/6151278887/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6qhcvxfr/Be-IN-Sports-En-Espanol.png" group-title=" SPORTSTATION 3", BeIN Sports En Espanol
 http://matiasstornini00.shortcm.li:80/shio1.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/6qhcvxfr/Be-IN-Sports-En-Espanol.png" group-title=" SPORTSTATION 3", BeIN Sports En Espanol (backup)
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/147547
 
 #EXTINF:-1   tvg-logo=" https://i.postimg.cc/SKMnb52w/SPORT-TV-1.png " group-title="SPORTSTATION 3",SPORT TV 1 (PT)
 http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
@@ -1933,11 +1924,6 @@ https://22live00.akamaized.net/RMC_Sports_2/index.m3u8?token=JP2bJrme4a6m17yf0zR
 
 #EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo="https://i.postimg.cc/jS4ZmTJ2/TIGO-SPORTS.png", Tigo Sports (PY) [HD]
 http://l3dtv.ga:8080/live/steveneguez1/Kdx4sHGeft/155632.m3u8
-#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo="https://i.postimg.cc/jS4ZmTJ2/TIGO-SPORTS.png", Tigo Sports (PY) [HD] (backup)
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/9006
-
-#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo="https://i.postimg.cc/W3tHr4bC/NOVA-SPORT.png", Nova Sport (BUL)
-https://cdn1.mobiletv.bg/T7/novasport/ns_794613_850k.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/W4QHzz7c/SETANTA-SPORTS.png" group-title="SPORTSTATION 3", Setanta Sports (RUS) [AUTO]
 http://iptv.prosto.tv:7000/ch106/video.m3u8
