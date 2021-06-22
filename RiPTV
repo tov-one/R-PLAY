@@ -2055,6 +2055,15 @@ http://balancer1.ottmex.com:8081/tecno/Espn+.BKR/chunks.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?v=2.0.0.13" group-title=" SPORTSTATION (BACKUP)", Fox Sports 1
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62248
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png?v=2.0.0.13" group-title=" SPORTSTATION (BACKUP)", Fox Sports 2
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62247
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?v=2.0.0.13" group-title=" SPORTSTATION (BACKUP)", Fox Sports 3
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62246
+
 #EXTINF:-1   tvg-logo=" https://i.postimg.cc/T2WXx0kf/EUROSPORT-1.png" group-title=" SPORTSTATION (BACKUP)", Eurosport 1 (ES) (1)
 https://chostv.mobie.in/choos/sports/euro1.m3u8
 #EXTINF:-1   tvg-logo=" https://i.postimg.cc/T2WXx0kf/EUROSPORT-1.png" group-title=" SPORTSTATION (BACKUP)", Eurosport 1 (RUS) (2)
