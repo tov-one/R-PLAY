@@ -1378,7 +1378,7 @@ http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-6587
 http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-ikonser
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_pramborstv_small1.png?v=2.0.0.13" group-title="MUSIK", Prambors (UseeTV)
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-pramborstv
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d2ddea18f00665ce8623e36bd4e3c7c5f93fb3c9879684db94f7af38b446022a
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SQ8p6FXG/MUSIC-TV.png" group-title="MUSIK",Music TV
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165108
@@ -1926,6 +1926,8 @@ https://22live00.akamaized.net/RMC_Sports_2/index.m3u8?token=JP2bJrme4a6m17yf0zR
 
 #EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo="https://i.postimg.cc/jS4ZmTJ2/TIGO-SPORTS.png", Tigo Sports (PY) [HD]
 http://l3dtv.ga:8080/live/steveneguez1/Kdx4sHGeft/155632.m3u8
+#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo="https://i.postimg.cc/jS4ZmTJ2/TIGO-SPORTS.png", Tigo Sports (PY) (backup) [HD]
+https://dipdxjic51jcl.cloudfront.net/out/v1/affd42eba9da49dca9e30234fefa2ab5/index_6.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/W4QHzz7c/SETANTA-SPORTS.png" group-title="SPORTSTATION 3", Setanta Sports (RUS) [AUTO]
 http://iptv.prosto.tv:7000/ch106/video.m3u8
