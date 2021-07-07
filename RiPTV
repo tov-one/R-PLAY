@@ -2006,26 +2006,16 @@ https://chostv.mobie.in/choos/sports/euro2.m3u8
 #EXTINF:-1   tvg-logo=" https://i.postimg.cc/D0sVcfW8/EUROSPORT-2.png" group-title=" SPORTSTATION (BACKUP)", Eurosport 2 (RUS) (2)
 https://95-213-224-183.livesports24.online/ruseurosport2.m3u8
 
-#EXTINF:-1   tvg-logo=" https://i.postimg.cc/cL12RJRR/BT-SPORT-1.png" group-title=" SPORTSTATION (BACKUP) ", BT Sport 1 [HD] (1)
+#EXTINF:-1   tvg-logo=" https://i.postimg.cc/cL12RJRR/BT-SPORT-1.png" group-title=" SPORTSTATION (BACKUP) ", BT Sport 1 [HD]
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/265920
-#EXTINF:-1   tvg-logo=" https://i.postimg.cc/VL83Ng5H/BT-SPORT-2.png" group-title=" SPORTSTATION (BACKUP) ",BT Sport 2 [HD] (2)
+#EXTINF:-1   tvg-logo=" https://i.postimg.cc/VL83Ng5H/BT-SPORT-2.png" group-title=" SPORTSTATION (BACKUP) ",BT Sport 2 [HD]
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/265921
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/5954Xnz7/BBC-ONE.png" group-title=" SPORTSTATION (BACKUP)", BBC 1 (UK)
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/697
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/5954Xnz7/BBC-ONE.png" group-title=" SPORTSTATION (BACKUP)",BBC 1 (SCO)
-http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/11661
 
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/4NJJVVbJ/BBC-FOUR.png" group-title=" SPORTSTATION (BACKUP)", BBC 4 (UK)
-http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/732
-
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/KYFnHNQG/ITV.png" group-title=" SPORTSTATION (BACKUP) ", ITV (UK) (1)
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/KYFnHNQG/ITV.png" group-title=" SPORTSTATION (BACKUP) ", ITV (UK)
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/KYFnHNQG/ITV.png" group-title=" SPORTSTATION (BACKUP)", ITV (UK) (2)
-http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/689
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/KYFnHNQG/ITV.png" group-title=" SPORTSTATION (BACKUP)", ITV (UK) (3)
-http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/278464
-
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/4xp6PM62/ITV_2.png" group-title=" SPORTSTATION (BACKUP)", ITV 2 (UK)
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/690
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/15k0pPqN/ITV_3.png" group-title=" SPORTSTATION (BACKUP)", ITV 3 (UK)
@@ -2036,99 +2026,23 @@ http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/691
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/0NLkw4Z3/ESPN-PLUS.png" group-title=" SPORTSTATION (BACKUP)",ESPN+ (US)
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/14817
 
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/rph56ht1/ESPN.png" group-title=" SPORTSTATION (BACKUP)",ESPN 1 (US) (1)
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/rph56ht1/ESPN.png" group-title=" SPORTSTATION (BACKUP)",ESPN 1 (US)
 http://dimapro.cz:8080/D4:CF:F9:0B:f5:5a/GtvsuptvO00aetorando/39090
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/rph56ht1/ESPN.png" group-title=" SPORTSTATION (BACKUP)",ESPN 1 (US) (2)
-http://dimapro.cz:8080/D4:CF:F9:0B:f5:5a/GtvsuptvO00aetorando/39079
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/rph56ht1/ESPN.png" group-title=" SPORTSTATION (BACKUP)", ESPN 1 (US) (3)
-http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/66550
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/rph56ht1/ESPN.png" group-title=" SPORTSTATION (BACKUP)", ESPN 1 (US) (4)
-http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/275080
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/rph56ht1/ESPN.png" group-title=" SPORTSTATION (BACKUP)", ESPN 1 (US) (5)
-http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/747
-
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/FKF0Bt1F/ESPN_2.png" group-title=" SPORTSTATION (BACKUP)", ESPN 2 (US) (1)
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/FKF0Bt1F/ESPN_2.png" group-title=" SPORTSTATION (BACKUP)", ESPN 2 (US)
 http://dimapro.cz:8080/D4:CF:F9:0B:f5:5a/GtvsuptvO00aetorando/39091
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/FKF0Bt1F/ESPN_2.png" group-title=" SPORTSTATION (BACKUP)", ESPN 2 (US) (2)
-http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/41918
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/FKF0Bt1F/ESPN_2.png" group-title=" SPORTSTATION (BACKUP)", ESPN 2 (US) (3)
-http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/275072
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/MGgzgVTT/SONY_SIX.png" group-title=" SPORTSTATION (BACKUP) ", SONY SIX (IND) [FHD]
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/4853
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/jdbncB5Z/SONY-TEN-1.png " group-title=" SPORTSTATION (BACKUP) ", SONY TEN 1 (IND)
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/74893
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/jdbncB5Z/SONY-TEN-1.png " group-title=" SPORTSTATION (BACKUP) ", SONY TEN 1 (PK)
-http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/267554
-
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/1R6Npy98/SONY-TEN-2.png " group-title=" SPORTSTATION (BACKUP) ", SONY TEN 2 (IND)
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/56190
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/1R6Npy98/SONY-TEN-2.png " group-title=" SPORTSTATION (BACKUP) ", SONY TEN 2 (PK)
-http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/16634
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/gjKm12dF/Super-Sport-Premier-League.png" group-title=" SPORTSTATION (BACKUP)",SuperSport Premier League (ZA) [FHD]
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/11642
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/brPq6279/Super-Sport-Maximo-1.png" group-title=" SPORTSTATION (BACKUP)", SuperSport Maximo 1 (ZA) [HD]
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/38572
-
-
-
-#EXTINF:-1 tvg-logo="https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_SPORT_FRENSH_1_HD.png" group-title="BEIN SPORTS (BACKUP)",beIN Sports 1 (FR) [HD] (1)
-http://dimapro.cz:8080/D4:CF:F9:0B:f5:5a/GtvsuptvO00aetorando/544
-#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_SPORT_FRENSH_1_HD.png " group-title="BEIN SPORTS (BACKUP)", beIN Sports 1 (FR) [HD] (2)
-http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/144
-#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_SPORT_FRENSH_1_HD.png " group-title="BEIN SPORTS (BACKUP)", beIN Sports 1 (FR) [HD] (3)
-http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/273327
-
-#EXTINF:-1 tvg-logo="https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_SPORT_FRENSH_2_HD.png" group-title="BEIN SPORTS (BACKUP)", beIN Sports 2 (FR) [HD] (1)
-http://dimapro.cz:8080/D4:CF:F9:0B:f5:5a/GtvsuptvO00aetorando/543
-#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_SPORT_FRENSH_2_HD.png " group-title="BEIN SPORTS (BACKUP)", beIN Sports 2 (FR) [HD] (2)
-http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/145
-#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_SPORT_FRENSH_2_HD.png " group-title="BEIN SPORTS (BACKUP)", beIN Sports 2 (FR) [HD] (3)
-http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/273332
-
-#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/FRANCE%20SPORTS/BEINSPORT_3_HD_FR-%20copy.png " group-title="BEIN SPORTS (BACKUP)", beIN Sports 3 (FR) [HD] (1)
-http://dimapro.cz:8080/D4:CF:F9:0B:f5:5a/GtvsuptvO00aetorando/542
-#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/FRANCE%20SPORTS/BEINSPORT_3_HD_FR-%20copy.png " group-title="BEIN SPORTS (BACKUP)", beIN Sports 3 (FR) [HD] (2)
-http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/146
-#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/FRANCE%20SPORTS/BEINSPORT_3_HD_FR-%20copy.png " group-title="BEIN SPORTS (BACKUP)", beIN Sports 3 (FR) [HD] (3)
-http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/273320
-
-#EXTINF:-1 tvg-logo="https://logo.ott.ma/logo/FRANCE%20SPORTS/BEINSPORT_MAX_4_HD%20copy.png" group-title="BEIN SPORTS (BACKUP)", beIN Sports MAX 4 [HD] (1)
-http://dimapro.cz:8080/D4:CF:F9:0B:f5:5a/GtvsuptvO00aetorando/3187
-#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/FRANCE%20SPORTS/BEINSPORT_MAX_4_HD%20copy.png " group-title="BEIN SPORTS (BACKUP)", beIN Sports MAX 4 [HD] (2)
-http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/3599
-
-#EXTINF:-1 tvg-logo="https://logo.ott.ma/logo/FRANCE%20SPORTS/BEINSPORT_MAX_5_HD.png" group-title="BEIN SPORTS (BACKUP)", beIN Sports MAX 5 [HD] (1)
-http://dimapro.cz:8080/D4:CF:F9:0B:f5:5a/GtvsuptvO00aetorando/3186
-#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/FRANCE%20SPORTS/BEINSPORT_MAX_5_HD.png " group-title="BEIN SPORTS (BACKUP)", beIN Sports MAX 5 [HD] (2)
-http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/6083
-
-#EXTINF:-1 tvg-logo="https://logo.ott.ma/logo/FRANCE%20SPORTS/BEINSPORT_MAX_6_HD.png" group-title="BEIN SPORTS (BACKUP)", beIN Sports MAX 6 [HD] (1)
-http://dimapro.cz:8080/D4:CF:F9:0B:f5:5a/GtvsuptvO00aetorando/3185
-#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/FRANCE%20SPORTS/BEINSPORT_MAX_6_HD.png " group-title="BEIN SPORTS (BACKUP)", beIN Sports MAX 6 [HD] (2)
-http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/4368
-
-#EXTINF:-1 tvg-logo="https://logo.ott.ma/logo/FRANCE%20SPORTS/BEINSPORT_MAX_7_HD.png" group-title="BEIN SPORTS (BACKUP)", beIN Sports MAX 7 [HD] (1)
-http://dimapro.cz:8080/D4:CF:F9:0B:f5:5a/GtvsuptvO00aetorando/3184
-#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/FRANCE%20SPORTS/BEINSPORT_MAX_7_HD.png " group-title="BEIN SPORTS (BACKUP)", beIN Sports MAX 7 [HD] (2)
-http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/4369
-
-#EXTINF:-1 tvg-logo="https://logo.ott.ma/logo/FRANCE%20SPORTS/BEINSPORT_MAX_8_HD.png" group-title="BEIN SPORTS (BACKUP)", beIN Sports MAX 8 [HD] (1)
-http://dimapro.cz:8080/D4:CF:F9:0B:f5:5a/GtvsuptvO00aetorando/3183
-#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/FRANCE%20SPORTS/BEINSPORT_MAX_8_HD.png " group-title="BEIN SPORTS (BACKUP)", beIN Sports MAX 7 [HD] (2)
-http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/4370
-
-#EXTINF:-1 tvg-logo="https://logo.ott.ma/logo/FRANCE%20SPORTS/BEINSPORT_MAX_9_HD.png" group-title="BEIN SPORTS (BACKUP)", beIN Sports MAX 9 [HD] (1)
-http://dimapro.cz:8080/D4:CF:F9:0B:f5:5a/GtvsuptvO00aetorando/3182
-#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/FRANCE%20SPORTS/BEINSPORT_MAX_9_HD.png " group-title="BEIN SPORTS (BACKUP)", beIN Sports MAX 9 [HD] (2)
-http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/4371
-
-#EXTINF:-1 tvg-logo="https://logo.ott.ma/logo/FRANCE%20SPORTS/BEINSPORT_MAX_10_HD-.png" group-title="BEIN SPORTS (BACKUP)", beIN Sports MAX 10 [HD] (1)
-http://dimapro.cz:8080/D4:CF:F9:0B:f5:5a/GtvsuptvO00aetorando/3181
-#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/FRANCE%20SPORTS/BEINSPORT_MAX_10_HD-.png " group-title="BEIN SPORTS (BACKUP)", beIN Sports MAX 10 [HD] (2)
-http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/6088
 
 
 
@@ -2195,11 +2109,17 @@ https://mam.jogjaprov.go.id:1937/atcs-kota/Serangan.stream/chunklist_w692658022.
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Wirobrajan
 https://mam.jogjaprov.go.id:1937/atcs-kota/Wirobrajan.stream/chunklist_w1481120965.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Simpang Jogjatronik Mall
-https://mam.jogjaprov.go.id:1937/atcs-kota/IbuRuswo.stream/chunklist_w876419549.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Jl. Magelang (Toko A.Takrib)
+https://mam.jogjaprov.go.id:1937/atcs/SelokanMataram.stream/chunklist_w2039814763.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Gondomanan
 https://mam.jogjaprov.go.id:1937/atcs-kota/Gondomanan.stream/chunklist_w1404126465.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Simpang Jogjatronik Mall
+https://mam.jogjaprov.go.id:1937/atcs-kota/IbuRuswo.stream/chunklist_w876419549.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Jokteng Wetan (Cube Hotel)
+https://mam.jogjaprov.go.id:1937/atcs-kota/JoktengWetan.stream/chunklist_w1016905556.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", UKDW
 https://mam.jogjaprov.go.id:1937/atcs-kota/UKDW.stream/chunklist_w1386698433.m3u8
@@ -2213,11 +2133,73 @@ https://mam.jogjaprov.go.id:1937/atcs-kota/Permata.stream/chunklist_w205073418.m
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Gayam
 https://mam.jogjaprov.go.id:1937/atcs-kota/Gayam.stream/chunklist_w1910678128.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Pertigaan Tamsis
+https://mam.jogjaprov.go.id:1937/atcs-kota/Sentul.stream/chunklist_w1107545712.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Taman Makam Pahlawan Kusumanegara
+https://mam.jogjaprov.go.id:1937/atcs-kota/Cendana.stream/chunklist_w417543410.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Pertigaan Glagahsari (UTY 2)
+https://mam.jogjaprov.go.id:1937/atcs-kota/GLAGAHSARI.stream/chunklist_w1362439667.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Pertigaan Balaikota
+https://mam.jogjaprov.go.id:1937/atcs-kota/UST.stream/chunklist_w1651372612.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Timoho (Kampus APMD)
+https://mam.jogjaprov.go.id:1937/atcs-kota/APMD.stream/chunklist_w1680669229.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",SGM
 https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangSGM.stream/chunklist_w267449320.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Bandara Adisutjipto
+https://mam.jogjaprov.go.id:1937/atcs/Bandara.stream/chunklist_w674465397.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Bandara Adisutjipto (2)
+https://mam.jogjaprov.go.id:1937/atcs/Bandara2.stream/chunklist_w543230677.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Depan Candi Prambanan
+https://mam.jogjaprov.go.id:1937/atcs/Prambanan2.stream/chunklist_w2081251987.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Candi Prambanan
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewCandiPrambanan.stream/chunklist_w1578296569.m3u8 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Pos Polisi Piyungan (Kidsfun)
+https://mam.jogjaprov.go.id:1937/atcs/Piyungan.stream/chunklist_w1711721413.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Ringroad PMI
+https://mam.jogjaprov.go.id:1937/atcs/PelemGurih2.stream/chunklist_w1498039499.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Ringroad Godean
+https://mam.jogjaprov.go.id:1937/atcs/DemakIjo2.stream/chunklist_w798310962.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Ringroad Jl. Kabupaten
+https://mam.jogjaprov.go.id:1937/atcs/Kronggahan.stream/chunklist_w1921665541.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Ringroad Seturan
+https://mam.jogjaprov.go.id:1937/atcs/Seturan1.stream/chunklist_w2031760698.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Ringroad Seturan (2)
+https://mam.jogjaprov.go.id:1937/atcs/Seturan2.stream/chunklist_w1196069164.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Ringroad Maguwoharjo
+https://mam.jogjaprov.go.id:1937/atcs/Maguwo1.stream/chunklist_w1536647125.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Ringroad Maguwoharjo (2)
+https://mam.jogjaprov.go.id:1937/atcs/Maguwo2.stream/chunklist_w39707065.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Ringroad Wonosari
+https://mam.jogjaprov.go.id:1937/atcs/Ketandan.stream/chunklist_w1184446446.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Ringroad Wonosari (2)
+https://mam.jogjaprov.go.id:1937/atcs/Ketandan2.stream/chunklist_w971034428.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Ringroad Giwangan
+https://mam.jogjaprov.go.id:1937/atcs/Giwangan1.stream/chunklist_w1795076889.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Ringroad Giwangan (2)
+https://mam.jogjaprov.go.id:1937/atcs/Giwangan2.stream/chunklist_w699438716.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Ringroad Imogiri Barat (Wojo)
+https://mam.jogjaprov.go.id:1937/atcs/Wojo.stream/chunklist_w1574519900.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Candi Sambisari
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewCandiSambisari.stream/chunklist_w993506618.m3u8 
