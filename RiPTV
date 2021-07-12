@@ -585,15 +585,6 @@ https://c.mjh.nz/101002210220/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MGk53cBd/ABC-NEWS-AUSTRALIA.png " group-title="NEWS", ABC News Australia (backup2)
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bloomberg_small1.png?v=2.0.0.13" group-title=" NEWS ",Bloomberg (UseeTV)
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-bloomberg
-#EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_bloomberg_small1.png?v=2.0.0.13" group-title="NEWS",Bloomberg (backup)
-https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
-#EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_bloomberg_small1.png?v=2.0.0.13" group-title="NEWS",Bloomberg (backup2)
-https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bloomberg_small1.png?v=2.0.0.13" group-title=" NEWS ",Bloomberg (DensTV)
-http://210.210.155.35/session/cafb2556-3131-11eb-8209-c81f66f89318/uq2663/h/h03/01.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_newsasia_small.png?v=2.0.0.13" group-title=" NEWS ",CNA (UseeTV)
 http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-newsasia
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_newsasia_small.png?v=2.0.0.13" group-title=" NEWS ", CNA (DensTV)
@@ -602,6 +593,15 @@ http://210.210.155.35:80/session/ee573acc-2edd-11eb-a769-b82a72d63267/uq2663/h/h
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_newsasia_small.png?v=2.0.0.13" group-title=" NEWS ", CNA (VN)
 https://livecdn.fptplay.net/world/newsasia_hls.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bloomberg_small1.png?v=2.0.0.13" group-title=" NEWS ",Bloomberg (UseeTV)
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-bloomberg
+#EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_bloomberg_small1.png?v=2.0.0.13" group-title="NEWS",Bloomberg (backup)
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+#EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_bloomberg_small1.png?v=2.0.0.13" group-title="NEWS",Bloomberg (backup2)
+https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bloomberg_small1.png?v=2.0.0.13" group-title=" NEWS ",Bloomberg (DensTV)
+http://210.210.155.35/session/cafb2556-3131-11eb-8209-c81f66f89318/uq2663/h/h03/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnninternational_small.png" group-title="NEWS",CNN International
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
