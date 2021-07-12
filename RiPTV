@@ -632,9 +632,6 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/cJ3s4wmN/NewsNet.png" group-title="NEWS ", NewsNet
 http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/vm1L69hV/NDTV-24x7.png" group-title="NEWS ",NDTV 24x7
-https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
-
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/XvXRXTSd/ABC-NEWS.png" group-title="NEWS ", ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
@@ -690,6 +687,9 @@ https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/dVZn9Rhh/INDIA-TODAY.png " group-title="NEWS", India Today
 https://feeds.intoday.in/hltapps/api/master.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/vm1L69hV/NDTV-24x7.png" group-title="NEWS ",NDTV 24x7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/90pq4J3N/PALTODAY-TV.png" group-title="NEWS",PALESTINE TODAY
 http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
