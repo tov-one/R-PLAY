@@ -1640,9 +1640,6 @@ https://cdn1.mobiletv.bg/T3/eurosport2/eurosport2_794613_850k.m3u8
 #EXTINF:-1   tvg-logo=" https://i.postimg.cc/D0sVcfW8/EUROSPORT-2.png" group-title=" SPORTSTATION 1 ", Eurosport 2 (RUS)
 http://edge04.beetv.kz/btv/SWM/Eurosport2/Eurosport2_576p_2000kbps.m3u8
 
-#EXTINF:0 tvg-country="HK" tvg-logo=" https://i.postimg.cc/RCc0Dy9H/Star-Sports.png " group-title=" SPORTSTATION 1",Star Sports
-rtmp://ivi.bupt.edu.cn:1935/livetv/starsports?checkedby
-
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-tv-logo-585DF08BF0-seeklogo.com.png" group-title="SPORTSTATION 1",NBA (UseeTV)
 http://topwin-tv.my.id/2/master.m3u8?id=nba
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-tv-logo-585DF08BF0-seeklogo.com.png" group-title="SPORTSTATION 1",NBA (TH) [HD]
@@ -1679,6 +1676,9 @@ http://edge.linknetott.swiftserve.com:80/channelgroup5/cg523production/ch319/02.
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/vHkJ5gTF/RACING.png " group-title=" SPORTSTATION 1",RACING.COM
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8?fluxustv.m3u8
+
+#EXTINF:0 tvg-country="HK" tvg-logo=" https://i.postimg.cc/RCc0Dy9H/Star-Sports.png " group-title=" SPORTSTATION 1",Star Sports
+rtmp://ivi.bupt.edu.cn:1935/livetv/starsports?checkedby
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/RFk2DtBg/MOTORVISION-TV.png" group-title=" SPORTSTATION 1", MOTORVISION TV
 https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-motorvisiontv/CDN/master.m3u8
@@ -2343,14 +2343,14 @@ http://50.7.161.82:8278/streams/d/Suria/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RV2BdNK7/PERTIWI.png" group-title="TV MALAYSIA",PERTIWI TV
 https://mn-nl.mncdn.com/pertiwitv/pertiwitv/chunklist.m3u8
 
-EXTINF:-1 tvg-logo=" https://i.postimg.cc/fb0mbsW7/NAURA.png" group-title="TV MALAYSIA", NAURA
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fb0mbsW7/NAURA.png" group-title="TV MALAYSIA", NAURA
 http://185.180.221.194:8278/streams/d/Naura/playlist.m3u8
-EXTINF:-1 tvg-logo=" https://i.postimg.cc/fb0mbsW7/NAURA.png" group-title="TV MALAYSIA", NAURA (2)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fb0mbsW7/NAURA.png" group-title="TV MALAYSIA", NAURA (2)
 http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
 
-EXTINF:-1 tvg-logo=" https://i.postimg.cc/1XSpTdQG/TV-Al-Hijrah.png" group-title="TV MALAYSIA", TV AlHijrah
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1XSpTdQG/TV-Al-Hijrah.png" group-title="TV MALAYSIA", TV AlHijrah
 http://185.180.221.194:8278/streams/d/Alhijrah/playlist.m3u8
-EXTINF:-1 tvg-logo=" https://i.postimg.cc/1XSpTdQG/TV-Al-Hijrah.png" group-title="TV MALAYSIA", TV AlHijrah
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1XSpTdQG/TV-Al-Hijrah.png" group-title="TV MALAYSIA", TV AlHijrah
 http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GhWtG1Y7/1591197814797.png" group-title="TV MALAYSIA",TV Ikim
