@@ -332,8 +332,11 @@ http://122.248.43.138:1935/ch18/myStream/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sgr2FmhJ/LOMBOK-TV.png" group-title="LOKAL", LOMBOK TV
 http://103.23.201.170:1935/live/lbtv/chunklist_w1995349508.m3u8
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/sgr2FmhJ/LOMBOK-TV.png d" group-title="LOKAL",LOMBOK TV (backup)
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/sgr2FmhJ/LOMBOK-TV.png" group-title="LOKAL",LOMBOK TV (backup)
 https://tinyurl.com/gratistvmediaLOMBOK
+
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/NG88TQ6p/MADU-TV.png" group-title="LOKAL", Madu TV (Tulungagung)
+https://v3.siar.us/madutv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mrWm6bGD/PADANG-TV.png" group-title="LOKAL",PADANG TV
 http://122.248.43.138:1935/ch16/myStream/chunklist_w1265493922.m3u8
@@ -629,6 +632,9 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/cJ3s4wmN/NewsNet.png" group-title="NEWS ", NewsNet
 http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8
 
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/vm1L69hV/NDTV-24x7.png" group-title="NEWS ",NDTV 24x7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/XvXRXTSd/ABC-NEWS.png" group-title="NEWS ", ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
@@ -636,6 +642,9 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/R08jtX48/CNBS-NEWS.png" group-title="NEWS ", CBS News (backup)
 https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master_2200.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/Zq1PPRsD/CBN-NEWS.png" group-title="NEWS ", CBN News
+http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/Yqq0NxCM/CGTN.png " tvg-url="" group-title="NEWS",CGTN
 https://live.cgtn.com/1000/prog_index.m3u8
@@ -1572,8 +1581,10 @@ http://wowza58.indostreamserver.com:1935/wesaltv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png?v=2.0.0.13" group-title=" SPORTSTATION 1", UseeSports 1 (UseeTV)
 http://topwin-tv.my.id/2/master.m3u8?id=useesport
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title=" SPORTSTATION 1", UseeSports 2 (UseeTV)
-http://topwin-tv.my.id/2/master.m3u8?id=useesports2
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title=" SPORTSTATION 1", UseeSports 2
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PxYWSjBf/MNC-SPORTS.png" group-title=" SPORTSTATION 1", MNC Sports
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62216
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?v=2.0.0.13" group-title=" SPORTSTATION 1", Fox Sports 1 [HD] (UseeTV)
 http://topwin-tv.my.id/2/master.m3u8?id=foxsport1
