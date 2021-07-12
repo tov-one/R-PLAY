@@ -2305,6 +2305,12 @@ http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/nhBx1rtB/TV9.png " group-title="TV MALAYSIA",TV9 (2)
 http://185.180.221.194:8278/streams/d/TV9/playlist.m3u8
 
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/K8jtdLdH/TVS.png" group-title="TV MALAYSIA", TVS
+https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/wMkhdkqS/NTV7.png" group-title="TV MALAYSIA", NTV7
+http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
+
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/2Sn6xX7z/1591197821118.png " group-title="TV MALAYSIA",OKEY
 https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.m3u8
 
@@ -2316,8 +2322,17 @@ https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_02.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BnDGV4Bd/HELLO.png" group-title="TV MALAYSIA",Hello (2)
 https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQMxYNwF/SURIA.png" group-title="TV MALAYSIA", SURIA
+http://50.7.161.82:8278/streams/d/Suria/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RV2BdNK7/PERTIWI.png" group-title="TV MALAYSIA",PERTIWI TV
 https://mn-nl.mncdn.com/pertiwitv/pertiwitv/chunklist.m3u8
+
+EXTINF:-1 tvg-logo=" https://i.postimg.cc/fb0mbsW7/NAURA.png" group-title="TV MALAYSIA", NAURA
+http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
+
+EXTINF:-1 tvg-logo=" https://i.postimg.cc/1XSpTdQG/TV-Al-Hijrah.png" group-title="TV MALAYSIA", TV AlHijrah
+http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GhWtG1Y7/1591197814797.png" group-title="TV MALAYSIA",TV Ikim
 http://edge.vediostream.com/abr/tvikim/live/tvikim_360p/chunks.m3u8
@@ -2334,10 +2349,15 @@ https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.m3u8
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/h4wtRqCD/1591197712014.png" group-title="TV MALAYSIA", BERITA RTM (2)
 https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b1064000.m3u8
 
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/FH60mzvs/BERNAMA.png" group-title="TV MALAYSIA", BERNAMA
+http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nr6F4vsj/1591197703800.png" group-title="TV MALAYSIA",RTM Sports
 https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b864000.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nr6F4vsj/1591197703800.png" group-title="TV MALAYSIA",RTM Sports (2)
 http://50.7.161.82:8278/streams/d/Rtmsport/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nr6F4vsj/1591197703800.png" group-title="TV MALAYSIA",RTM Sports (3)
+http://185.180.221.194:8278/streams/d/Rtmsport/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/90PL86Jm/ASTRO-ARENA.png " group-title=" TV MALAYSIA ",Astro ARENA
 http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
