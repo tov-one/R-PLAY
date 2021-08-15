@@ -1614,22 +1614,19 @@ http://topwin-tv.my.id/2/master.m3u8?id=foxsport3
 https://livecdn.fptplay.net/qnetlive/foxsports3_1000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/SKJPPttj/Sky-Sports-MIX.png" group-title=" SPORTSTATION 1", Sky Sports Mix [HD]
-http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/261.m3u8
+http://stream.tvtap.live:8081/live/skysportsmix.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/J0WdG77B/Sky-Sports-Arena.png" group-title=" SPORTSTATION 1", Sky Sports Arena [HD]
-http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/267.m3u8
+http://stream.tvtap.live:8081/live/skysports-arena.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/g2VmkBSv/Sky-Sports-Main-Event.png" group-title=" SPORTSTATION 1", Sky Sports Main Event [HD]
+http://stream.tvtap.live:8081/live/skysports-maineventz.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/x1s7tS5W/Sky-Sports-F1.png" group-title=" SPORTSTATION 1", Sky Sports F1 [HD]
 http://stream.tvtap.live:8081/live/skysportsf1.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/CKX2pHW7/Sky-Sports-Golf.png " group-title=" SPORTSTATION 1", Sky Sports Golf [HD]
-http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/264.m3u8
-
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/sD4bGWhf/Sky-Sports-NFL.png " group-title=" SPORTSTATION 1", Sky Sports NFL [HD]
-http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/268.m3u8
-
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/LXPb9gSp/Sky-Sports-Cricket.png" group-title=" SPORTSTATION 1", Sky Sports Cricket [HD]
-http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/269.m3u8
+http://stream.tvtap.live:8081/live/skysports-golf.stream/playlist.m3u8
 
 #EXTINF:-1   tvg-logo=" https://i.postimg.cc/T2WXx0kf/EUROSPORT-1.png" group-title=" SPORTSTATION 1 ", Eurosport 1 (TH)
 http://77.83.117.60:8888/02_EUROHD1_720p/chunklist.m3u8
@@ -1801,11 +1798,11 @@ http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/j2CmCxxR/BEIN-SPORTS-ENGLISH-2.png " group-title=" SPORTSTATION 2", BeIN Sports 2 ENGLISH (backup9)
 https://cmt.mb13.cyou/uni/livedo/bein2hd.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jqNpKmq7/Sky-Sports-Premier-League.png " group-title=" SPORTSTATION 2", Sky Sports Premier League [HD] (backup8B)
-http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/263.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jqNpKmq7/Sky-Sports-Premier-League.png " group-title=" SPORTSTATION 2", Sky Sports Premier League [HD]
+http://stream.tvtap.live:8081/live/skysports-premier-league.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bbc7DWt7/Sky-Sports-Football.png " group-title=" SPORTSTATION 2", Sky Sports Football [HD] (backup8B)
-http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/266.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bbc7DWt7/Sky-Sports-Football.png " group-title=" SPORTSTATION 2", Sky Sports Football [HD]
+http://stream.tvtap.live:8081/live/skysports-football.stream/playlist.m3u8
 
 #EXTINF:-1   tvg-logo=" https://i.postimg.cc/NjWCJq7S/TRUE-PREMIER-HD-1.png " group-title=" SPORTSTATION 2 ",Premier Football HD 1
 http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
