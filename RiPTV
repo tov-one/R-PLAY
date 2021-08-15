@@ -579,8 +579,6 @@ https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MGk53cBd/ABC-NEWS-AUSTRALIA.png " group-title="NEWS", ABC News Australia (backup)
 https://c.mjh.nz/101002210220/
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MGk53cBd/ABC-NEWS-AUSTRALIA.png " group-title="NEWS", ABC News Australia (backup2)
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_newsasia_small.png?v=2.0.0.13" group-title=" NEWS ",CNA (UseeTV)
 http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-newsasia
@@ -593,12 +591,12 @@ https://livecdn.fptplay.net/world/newsasia_hls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bloomberg_small1.png?v=2.0.0.13" group-title=" NEWS ",Bloomberg (UseeTV)
 http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-bloomberg
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bloomberg_small1.png?v=2.0.0.13" group-title=" NEWS ",Bloomberg (DensTV)
+http://210.210.155.35/session/cafb2556-3131-11eb-8209-c81f66f89318/uq2663/h/h03/01.m3u8
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_bloomberg_small1.png?v=2.0.0.13" group-title="NEWS",Bloomberg (backup)
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_bloomberg_small1.png?v=2.0.0.13" group-title="NEWS",Bloomberg (backup2)
 https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bloomberg_small1.png?v=2.0.0.13" group-title=" NEWS ",Bloomberg (DensTV)
-http://210.210.155.35/session/cafb2556-3131-11eb-8209-c81f66f89318/uq2663/h/h03/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnbcasias_small.png" group-title=" NEWS ",CNBC Asia (UseeTV)
 http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-cnbcasia
@@ -612,8 +610,11 @@ http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/gkfpYK4v/BBC-WORLD-NEWS.png " group-title="NEWS", BBC World News (backup)
 https://1111296894.rsc.cdn77.org/LS-ATL-54548-11/index.m3u8
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/gkfpYK4v/BBC-WORLD-NEWS.png " group-title="NEWS", BBC World News (backup2)
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/C5DvWN1Q/SKY-NEWS.png" group-title="NEWS", BBC World News (backup2)
 http://51.52.156.22:8888/http/004
+
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/gkfpYK4v/BBC-WORLD-NEWS.png " group-title="NEWS", Sky News
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/zGSNswnB/NBC-News-Now.png " group-title="NEWS", NBC NEWS NOW
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
@@ -658,10 +659,10 @@ https://tv-trtworld.live.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_france24_small.png?v=2.0.0.13" group-title=" NEWS ",France 24 (UseeTV)
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=e4a6222cdb5b34375400904f03d8e6a5dfdded94c48ea6229c48edefa9ec1c9f
-#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_france24_small.png?v=2.0.0.13" group-title=" NEWS ",France 24 [SD] (web)
-https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_france24_small.png?v=2.0.0.13" group-title=" NEWS ",France 24 (DensTV)
 http://210.210.155.35:80/session/497a1e3c-2edf-11eb-a245-b82a72d63267/qwr9ew/s/s22/01.m3u8
+#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_france24_small.png?v=2.0.0.13" group-title=" NEWS ",France 24 [SD] (web)
+https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_euronews_small1.png?v=2.0.0.13" group-title="NEWS", EuroNews (UseeTV)
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=7f39f8317fbdb1988ef4c628eba02591dfdded94c48ea6229c48edefa9ec1c9f
@@ -709,11 +710,11 @@ https://www.dropbox.com/s/pv21nvv5ikap11w/HBOO.m3u8?dl=1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5Ng3X8Rd/10626165-ico.png" group-title=" HBO ",HBO (backup2)
 http://eroz.hi2.ro/iptv/movies/hbo.m3u8
 
-#EXTINF:-1 tvg-logo=" http://cekker.masuk.web.id/logo/hbosig.png " group-title=" HBO ",HBO Signature (Auto)
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/NjPk4Btd/10626267-ico.png " group-title=" HBO ",HBO Signature (Auto)
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8 
-#EXTINF:-1 tvg-logo="http://cekker.masuk.web.id/logo/hbosig.png" group-title=" HBO ", HBO Signature (backup1)
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/NjPk4Btd/10626267-ico.png " group-title=" HBO ", HBO Signature (backup1)
 https://www.dropbox.com/s/dllbdpdkssknyjp/HBOSIGX.m3u8?dl=1
-#EXTINF:-1 tvg-logo=" http://cekker.masuk.web.id/logo/hbosig.png " group-title=" HBO ",HBO Signature (backup2)
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/NjPk4Btd/10626267-ico.png " group-title=" HBO ",HBO Signature (backup2)
 http://eroz.hi2.ro/iptv/movies/hbo_sig.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JhDcYv4M/10626274-ico.png" group-title=" HBO ",HBO Family (Auto)
@@ -723,11 +724,11 @@ https://www.dropbox.com/s/5u8m1owjbwvnlqf/HBOFAM.m3u8?dl=1
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/JhDcYv4M/10626274-ico.png " group-title=" HBO ",HBO Family (backup2)
 http://eroz.hi2.ro/iptv/movies/hbo_fam.m3u8
 
-#EXTINF:-1 tvg-logo=" http://cekker.masuk.web.id/logo/hbohits4.png " group-title=" HBO ",HBO Hits (Auto)
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/VkNFn5xS/10626238-ico.png " group-title=" HBO ",HBO Hits (Auto)
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
-#EXTINF:-1 tvg-logo="http://cekker.masuk.web.id/logo/hbohits4.png" group-title=" HBO ",HBO Hits (backup1)
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/VkNFn5xS/10626238-ico.png " group-title=" HBO ",HBO Hits (backup1)
 https://www.dropbox.com/s/y1p3h8qlgfvctx8/HBOHITSS.m3u8?dl=1
-#EXTINF:-1 tvg-logo=" http://cekker.masuk.web.id/logo/hbohits4.png " group-title=" HBO ",HBO Hits (backup2)
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/VkNFn5xS/10626238-ico.png " group-title=" HBO ",HBO Hits (backup2)
 http://eroz.hi2.ro/iptv/movies/hbo_hits.m3u8
 
 #EXTINF:-1 1  tvg-logo="https://i.postimg.cc/y6FnzMhN/RED-BY-HBO.png" group-title=" HBO ",Red By HBO (Auto)
@@ -1039,6 +1040,9 @@ https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.
 
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://i.postimg.cc/HsZGTr0L/SBS-STAR.png",SBS Star
 https://streaming-a-802.cdn.nextologies.com/SBS_18/live/SBS_18_1500k/chunks.m3u8
+
+EXTINF:-1 group-title="KOREA" tvg-logo=" https://i.postimg.cc/JnsYQmWm/THE-KPOP.png", The K-POP
+https://gpc.my.id/ytlive/the-kpop.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XvZNkJ12/K-Drama.png" group-title="KOREA",K-Drama (DensTV)
 http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/index.m3u8
@@ -1354,7 +1358,10 @@ http://topwin-tv.my.id/2/master.m3u8?id=dreamworks
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dreamworks_small1.png?v=2.0.0.13" group-title="KIDS", Dreamworks (backup)
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=dreamwork&bandwidth=default&sync=0
 
-#EXTINF:-1 tvg-id="" tvg-name="Teletubbies" tvg-logo=" https://i.postimg.cc/MGt2GwLW/TELETUBBIES.png " group-title="KIDS",Teletubbies
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1zCY6X2J/LEGO-TOONS.png" group-title="KIDS", LEGO Toons
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/MGt2GwLW/TELETUBBIES.png " group-title="KIDS",Teletubbies
 https://dhx-teletubbies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pT59gvLb/Toku-SHOUTsu.png" group-title="KIDS",TokuSHOUTsu
@@ -1409,7 +1416,10 @@ https://gpc.my.id/usee/pramborstv.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SQ8p6FXG/MUSIC-TV.png" group-title="MUSIK",Music TV
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165108
 
-#EXTINF:-1 tvg-id="mtvlive" tvg-name="MTV Live" tvg-logo="https://www.useetv.com/assets/images/channel/logo_mtvlive_small.png" group-title=" MUSIK ",MTV Live (UseeTV)
+EXTINF:-1 tvg-logo=" https://i.postimg.cc/0QhWW38S/MUSICA.png " group-title="MUSIK", MUSICA
+https://gpc.my.id/vidio/musica.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mtvlive_small.png" group-title=" MUSIK ",MTV Live (UseeTV)
 http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-mtvlive
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HkjTz25S/MTV.png" group-title="MUSIK",MTV
@@ -1908,7 +1918,7 @@ http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/NGCYntHC/CANAL-SPORT.png", CANAL+ SPORT (PL)
 http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/NGCYntHC/CANAL-SPORT.png", CANAL+ SPORT (PL) (backup)
+#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/NGCYntHC/CANAL-SPORT.png", CANAL+ SPORT (FR)
 http://stream.tvtap.live:8081/live/fr-canaplus-sport.stream/playlist.m3u8
 
 #EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/wT30jGQ7/Movistar-La-Liga.png ",Movistar LaLiga (ES) [HD]
