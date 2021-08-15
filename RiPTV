@@ -1219,7 +1219,7 @@ https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist_b1200000
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_afc_small.png?v=2.0.0.17" group-title=" LIFESTYLE ", Asian Food Network (UseeTV)
 http://topwin-tv.my.id/2/master.m3u8?id=afc
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_eatgo_small1.png?v=2.0.0.13" group-title=" LIFESTYLE ", Asian Food Network (backup)
+#EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_afc_small.png?v=2.0.0.17" group-title=" LIFESTYLE ", Asian Food Network (backup)
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=afc&bandwidth=default&sync=0
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_eatgo_small1.png?v=2.0.0.13" group-title=" LIFESTYLE ", Eat & Go (UseeTV)
