@@ -1412,13 +1412,13 @@ http://topwin-tv.my.id/2/master.m3u8?id=ikonser
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_ikonser_small.png" group-title=" MUSIK ",i Konser (backup)
 http://dituduhmaling.xyz/US33T4/ikonser.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0QhWW38S/MUSICA.png" group-title=" MUSIK ", MUSICA
+https://gpc.my.id/vidio/musica.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_pramborstv_small1.png?v=2.0.0.13" group-title="MUSIK", Prambors (UseeTV)
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d2ddea18f00665ce8623e36bd4e3c7c5f93fb3c9879684db94f7af38b446022a
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_pramborstv_small1.png?v=2.0.0.13" group-title=" MUSIK ", Prambors (backup)
 https://gpc.my.id/usee/pramborstv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0QhWW38S/MUSICA.png" group-title=" MUSIK ", MUSICA
-https://gpc.my.id/vidio/musica.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SQ8p6FXG/MUSIC-TV.png" group-title="MUSIK",Music TV
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165108
