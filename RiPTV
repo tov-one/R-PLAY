@@ -1622,17 +1622,20 @@ http://topwin-tv.my.id/2/master.m3u8?id=foxsport3
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?v=2.0.0.13" group-title=" SPORTSTATION 1", Fox Sports 3 (VN) [HD]
 https://livecdn.fptplay.net/qnetlive/foxsports3_1000.stream/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/KjvDvy9Z/DAZN-F1.png" group-title=" SPORTSTATION 1", DAZN F1 (ES)
+http://31.220.41.88:8081/live/es-moviestarf1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/x1s7tS5W/Sky-Sports-F1.png" group-title=" SPORTSTATION 1", Sky Sports F1 [HD]
+http://stream.tvtap.live:8081/live/skysportsf1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/g2VmkBSv/Sky-Sports-Main-Event.png" group-title=" SPORTSTATION 1", Sky Sports Main Event [HD]
+http://stream.tvtap.live:8081/live/skysports-maineventz.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/SKJPPttj/Sky-Sports-MIX.png" group-title=" SPORTSTATION 1", Sky Sports Mix [HD]
 http://stream.tvtap.live:8081/live/skysportsmix.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/J0WdG77B/Sky-Sports-Arena.png" group-title=" SPORTSTATION 1", Sky Sports Arena [HD]
 http://stream.tvtap.live:8081/live/skysports-arena.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/g2VmkBSv/Sky-Sports-Main-Event.png" group-title=" SPORTSTATION 1", Sky Sports Main Event [HD]
-http://stream.tvtap.live:8081/live/skysports-maineventz.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/x1s7tS5W/Sky-Sports-F1.png" group-title=" SPORTSTATION 1", Sky Sports F1 [HD]
-http://stream.tvtap.live:8081/live/skysportsf1.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/CKX2pHW7/Sky-Sports-Golf.png " group-title=" SPORTSTATION 1", Sky Sports Golf [HD]
 http://stream.tvtap.live:8081/live/skysports-golf.stream/playlist.m3u8
