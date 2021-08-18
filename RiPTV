@@ -1625,6 +1625,9 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_1000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/KjvDvy9Z/DAZN-F1.png" group-title=" SPORTSTATION 1", DAZN F1 (ES)
 http://31.220.41.88:8081/live/es-moviestarf1.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/3NXkc3PK/Sky-Sports-Moto-GP.png" group-title=" SPORTSTATION 1", Sky Sports MotoGP (ES)
+http://31.220.41.88:8081/live/es-moviestarmotogp.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/x1s7tS5W/Sky-Sports-F1.png" group-title=" SPORTSTATION 1", Sky Sports F1 [HD]
 http://stream.tvtap.live:8081/live/skysportsf1.stream/playlist.m3u8
 
