@@ -893,7 +893,7 @@ https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
 #EXTINF:-1   tvg-logo=" https://i.postimg.cc/y8mqZGFT/AFV-TV.png " group-title="HIBURAN",AFV TV (backup)
 https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
 
-#EXTINF:-1   tvg-logo=" https://i.postimg.cc/FH551vJR/LAUGH-TV.png " group-title="HIBURAN",Laugh TV (HD)
+#EXTINF:-1   tvg-logo=" https://i.postimg.cc/FH551vJR/LAUGH-TV.png " group-title="HIBURAN",Laugh TV [HD]
 https://playout4multirtmp.tulix.tv/live7/Stream1/chunklist_w1897993124.m3u8
 
 #EXTINF:-1   tvg-logo=" https://i.postimg.cc/pLmqd4qx/PEOPLE-ARE-AWESOME.png " group-title="HIBURAN",People are Awesome
@@ -1175,9 +1175,9 @@ http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_outdoor_small.png?v=1.1" group-title="PENGETAHUAN",Outdoor Channel (UseeTV)
 http://gpc.my.id/usee/outdoor.m3u8
-#EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_outdoor_small.png?v=1.1" group-title="PENGETAHUAN",Outdoor Channel (SD)
+#EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_outdoor_small.png?v=1.1" group-title="PENGETAHUAN",Outdoor Channel [SD]
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_outdoor_small.png?v=1.1" group-title="PENGETAHUAN",Outdoor Channel (HD)
+#EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_outdoor_small.png?v=1.1" group-title="PENGETAHUAN",Outdoor Channel [HD]
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b1200000.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/GpYKFDW5/OUTSIDE-TV.png " group-title="PENGETAHUAN", OUTSIDE TV
@@ -1202,9 +1202,9 @@ http://203.154.177.124:8899/live/ch18/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/1tmnS69v/TLC.png " group-title="PENGETAHUAN",TLC
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62188
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/1tmnS69v/TLC.png " group-title="PENGETAHUAN",TLC [VN] (SD)
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/1tmnS69v/TLC.png " group-title="PENGETAHUAN",TLC (VN) [SD]
 https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/1tmnS69v/TLC.png " group-title="PENGETAHUAN",TLC [VN] (HD)
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/1tmnS69v/TLC.png " group-title="PENGETAHUAN",TLC (VN) [HD]
 https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b1200000.m3u8
 
 
@@ -2014,33 +2014,33 @@ http://stream.tvtap.live:8081/live/fr-sfr3.stream/chunks.m3u8
 #EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/rmL1LTWY/RMC-SPORT-4.png", RMC SPORT 4 (FR) [HD]
 http://51.15.12.219:8080/kennythetiger244/n6wfNmBlQA/6059?token=GhoNVBVaEA4WUgANVgNSXFgBDgUHAFdRVw5bU1cMB1ZVAVAFUwZQAg1BHBpHRhBdAA9oDQdACQQDDlAdE0FHARNnDFFECBAABVQBGhgQFlEMBxVeUlQDCwMBUgYJBxhGEVEBF1wQAAwEUQcaGBAHQBUHRQoCDmxWVk4LUlQWDgoUVAkZRF1ca1AGXVlaVkACQ1MVSEELQEIRAgxEXVgYRgNREUcHRlcWDkEBAA0CQBRDAVgRDRZBSxECQGRiFhhGBEARUAhBW1taQQoaQEFAFEMLRDsRB0BGQV0DXFRGFl5DCUcZRF9TTGsAX1ZaVwFMCA1ZF0FYEQMDCFITHRZZCw9REVoUbUJdUEEKGgYFVw1ZQEo
 
-#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/bvwzj5gP/ARENA-SPORT-1.png", Arena Sports 1
+#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/bvwzj5gP/ARENA-SPORT-1.png", Arena Sports 1 (HR)
 http://31.220.41.88:8081/live/arena1.stream/playlist.m3u8
-#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/4x5JqGzw/ARENA-SPORT-2.png", Arena Sports 2
+#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/4x5JqGzw/ARENA-SPORT-2.png", Arena Sports 2 (HR)
 http://31.220.41.88:8081/live/arena2.stream/playlist.m3u8
-#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/5N895Lyh/ARENA-SPORT-3.png", Arena Sports 3
+#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/5N895Lyh/ARENA-SPORT-3.png", Arena Sports 3 (HR)
 http://31.220.41.88:8081/live/arena3.stream/playlist.m3u8
-#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/fWtRL6NT/ARENA-SPORT-4.png", Arena Sports 4
+#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/fWtRL6NT/ARENA-SPORT-4.png", Arena Sports 4 (HR)
 http://31.220.41.88:8081/live/arena4.stream/playlist.m3u8
-#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/MZCKjd60/ARENA-SPORT-5.png", Arena Sports 5
+#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/MZCKjd60/ARENA-SPORT-5.png", Arena Sports 5 (HR)
 http://31.220.41.88:8081/live/arena5.stream/playlist.m3u8
 
-#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/NjYsdFr5/SPORT-KLUB-1.png", Sport Klub 1 [HD]
+#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/NjYsdFr5/SPORT-KLUB-1.png", Sport Klub 1 (BA) [HD]
 http://stream.tvtap.live:8081/live/klub1.stream/playlist.m3u8
-#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/WzJCvGxT/SPORT-KLUB-2.png", Sport Klub 2 [HD]
+#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/WzJCvGxT/SPORT-KLUB-2.png", Sport Klub 2 (BA) [HD]
 http://stream.tvtap.live:8081/live/klub2.stream/playlist.m3u8
-#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/jC09dWrN/SPORT-KLUB-3.png", Sport Klub 3 [HD]
+#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/jC09dWrN/SPORT-KLUB-3.png", Sport Klub 3 (BA) [HD]
 http://stream.tvtap.live:8081/live/klub3.stream/playlist.m3u8
-#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/26ygHRwq/SPORT-KLUB-4.png", Sport Klub 4 [HD]
+#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/26ygHRwq/SPORT-KLUB-4.png", Sport Klub 4 (BA) [HD]
 http://stream.tvtap.live:8081/live/klub4.stream/playlist.m3u8
-#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/vBKkkqq0/SPORT-KLUB-5.png", Sport Klub 5 [HD]
+#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/vBKkkqq0/SPORT-KLUB-5.png", Sport Klub 5 (BA) [HD]
 http://stream.tvtap.live:8081/live/klub5.stream/playlist.m3u8
-#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/yNvwXYF4/SPORT-KLUB-6.png", Sport Klub 6 [HD]
+#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/yNvwXYF4/SPORT-KLUB-6.png", Sport Klub 6 (BA) [HD]
 http://stream.tvtap.live:8081/live/klub6.stream/playlist.m3u8
 
 #EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo="https://i.postimg.cc/jS4ZmTJ2/TIGO-SPORTS.png", Tigo Sports (PY) [HD]
 http://l3dtv.ga:8080/live/steveneguez1/Kdx4sHGeft/155632.m3u8
-#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo="https://i.postimg.cc/jS4ZmTJ2/TIGO-SPORTS.png", Tigo Sports (PY) (backup) [HD]
+#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo="https://i.postimg.cc/jS4ZmTJ2/TIGO-SPORTS.png", Tigo Sports (PY) [HD] (backup)
 https://dipdxjic51jcl.cloudfront.net/out/v1/affd42eba9da49dca9e30234fefa2ab5/index_6.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/W4QHzz7c/SETANTA-SPORTS.png" group-title="SPORTSTATION 3", Setanta Sports (RUS) [AUTO]
