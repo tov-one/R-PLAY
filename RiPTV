@@ -85,22 +85,22 @@ https://gpc.my.id/vidio/net-tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zDhg2YSx/rctilogo.png" group-title="NASIONAL",RCTI (Vidio)
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=84117275be999ff55a987b9381e01f96e0cf1f47118daebc5b16269099ad7347
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zDhg2YSx/rctilogo.png" group-title="NASIONAL",RCTI (Web)
-http://live.unregister.xyz/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+https://d10zmytx3gx8k4.cloudfront.net/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/x8LNXLTw/mnclogo.png " group-title="NASIONAL",MNC TV (Vidio)
 https://gpc.my.id/vidio/mnc.m3u8
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/x8LNXLTw/mnclogo.png " group-title="NASIONAL",MNC TV (Web)
-http://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+https://d10zmytx3gx8k4.cloudfront.net/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HsqNM8Hc/globaltv.png " group-title="NASIONAL",GTV (Vidio)
 http://gpc.my.id/vidio/gtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Jz536C8f/logo-globaltv-big1.png" group-title="NASIONAL", GTV (Web)
-http://live.unregister.xyz/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+https://d10zmytx3gx8k4.cloudfront.net/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/3rqtmhr9/inewstv.png " group-title="NASIONAL",iNews (Vidio)
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=e17a886efc21fa45b9dc49a17c29dcf1e0cf1f47118daebc5b16269099ad7347
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3rqtmhr9/inewstv.png" group-title="NASIONAL",iNews (Web)
-http://live.unregister.xyz/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+https://d10zmytx3gx8k4.cloudfront.net/live/eds/inews_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15" group-title="NASIONAL",SCTV (UseeTV)
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4e0cf1f47118daebc5b16269099ad7347
@@ -205,8 +205,17 @@ http://210.210.155.35:80/session/de667460-2ecf-11eb-81ff-b82a72d63267/qwr9ew/s/s
 #EXTINF:0 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_net_small1.png?v=2.0.0.13" group-title=" NASIONAL (BACKUP)",NET TV (DensTV)
 http://210.210.155.35/session/09d8ec3e-2ed7-11eb-a7c0-c81f66f89318/qwr9ew/s/s08/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8LNXLTw/mnclogo.png" group-title="NASIONAL (BACKUP)",MNC TV (web)
-https://moegi.akamaized.net/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zDhg2YSx/rctilogo.png" group-title=" NASIONAL (BACKUP)",RCTI (MetubeTV)
+https://cdn-livetv-studio.metube.id/rcti.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/x8LNXLTw/mnclogo.png " group-title=" NASIONAL (BACKUP)",MNC TV (MetubeTV)
+https://gpc.my.id/vidio/mnc.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HsqNM8Hc/globaltv.png " group-title=" NASIONAL (BACKUP)",GTV (MetubeTV)
+http://gpc.my.id/vidio/gtv.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/3rqtmhr9/inewstv.png " group-title=" NASIONAL (BACKUP)",iNews (MetubeTV)
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=e17a886efc21fa45b9dc49a17c29dcf1e0cf1f47118daebc5b16269099ad7347
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15" tvg-id="" tvg-name"SCTV" group-title="NASIONAL (BACKUP)",SCTV (DensTV)
 http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s03/01.m3u8
@@ -1921,8 +1930,12 @@ http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a
 #EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/NGCYntHC/CANAL-SPORT.png", CANAL+ SPORT (FR)
 http://stream.tvtap.live:8081/live/fr-canaplus-sport.stream/playlist.m3u8
 
-#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/wT30jGQ7/Movistar-La-Liga.png ",Movistar LaLiga (ES) [HD]
+#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/wT30jGQ7/Movistar-La-Liga.png ",Movistar LaLiga (ES)
 http://stream.tvtap.live:8081/live/bein-laliga.stream/playlist.m3u8
+#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/wT30jGQ7/Movistar-La-Liga.png ",Movistar LaLiga (ES) (backup1)
+http://stream.tvtap.live:8081/live/es-laligatvbar.stream/chunks.m3u8
+#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/wT30jGQ7/Movistar-La-Liga.png ",Movistar LaLiga (ES) (backup2)
+http://stream.tvtap.live:8081/live/es-movistar-deportes2.stream/chunks.m3u8
 
 #EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/SNWSpXvk/DAZN-1.png", DAZN 1 (DE) [HD]
 http://stream.tvtap.live:8081/live/de-dazn1.stream/chunks.m3u8 
@@ -1934,6 +1947,33 @@ http://stream.tvtap.live:8081/live/de-dazn2.stream/chunks.m3u8
 #EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/bwgqs7P5/DAZN-2.png", DAZN 2 (DE) [HD] (backup)
 http://31.220.41.87:8081/live/it-dazn2.stream/chunks.m3u8
 
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/J7xrKSJM/SKY-SPORT-1.png" group-title=" SPORTSTATION 3 ", Sky Sport 1 (DE)
+http://stream.tvtap.live:8081/live/de-skysport1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/J0pRnBmG/SKY-SPORT-2.png" group-title="SPORTSTATION 3",Sky Sport 2 (DE)
+http://stream.tvtap.live:8081/live/de-skysport20.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/rph56ht1/ESPN.png" group-title=" SPORTSTATION 3 ", ESPN 1 (NL)
+http://31.220.41.88:8081/live/nl-foxsports1.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/FKF0Bt1F/ESPN-2.png" group-title="SPORTSTATION 3",ESPN 2 (NL)
+http://31.220.41.88:8081/live/nl-foxsports2.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/x13K5jfF/ESPN-3.png" group-title=" SPORTSTATION 3 ",ESPN 3 (NL)
+http://31.220.41.88:8081/live/nl-foxsports3.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/mgJ2CM99/ESPN-4.png" group-title=" SPORTSTATION 3 ", ESPN 4 (NL)
+http://31.220.41.88:8081/live/nl-foxsports4.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/tTtXKMMd/ZIGGO-SPORT-VOETBAL.png " group-title="SPORTSTATION 3",Ziggo Sport Voetbal (NL)
+http://31.220.41.88:8081/live/nl-ziggovoetbal.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/J0r1M5ff/ZIGGO-SPORT-SELECT.png " group-title=" SPORTSTATION 3 ",Ziggo Sport Select (NL)
+http://31.220.41.88:8081/live/nl-ziggoselect.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo https://i.postimg.cc/d1KsSY4t/ZIGGO-SPORT-RACING.png " group-title=" SPORTSTATION 3 ", Ziggo Sport Racing (NL)
+http://31.220.41.88:8081/live/nl-ziggoracing.stream/chunks.m3u8
+
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/fLryCpSP/ELEVEN-SPORTS-1.png " group-title="SPORTSTATION 3",Eleven Sports 1 (PL)
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 
@@ -1942,9 +1982,25 @@ http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
 
 #EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/nrQ9YH2T/RMC-SPORT-1.png", RMC SPORT 1 (FR) [HD]
 https://22live00.akamaized.net/RMC_Sports_1/index.m3u8?token=JPxfa1FF6N8Zb3ZLI9fzxPzDuhRUCvqj0QLPLTVKRr0tnIG0ru1WBHfsjkurNzVyG8ZS92dioCoVnQlLoMtwpa2M3K6uKpRMGzlyVm6Zmvjd82AYr73k1BfTEsY4tBLe4HuEuQNQtn%2Bq3K9PRfRej1huApvC1rnWuExU%2Bf%2FQR5X%2Fn7cqH4c729CEJsvMj7BsYMEJxgGDlmMRYVEYQF6b61gVMQb%2BJpt2X%2Bni5jBb6B39aXRuUZwEzsVoJa9OIt7UsiAo398PYMGdDHkQqgQCjSoJnDz0Z%2FMx3180yfT7L7qx5kC8RBz1VJAkF%2BDHNjqUTGqPtlMzZiihWAenjAV9WC9IjLGB0aOXck1jYtA2RwHxrWcUsCcy5QhEHKg4uFvT4P 
+#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/nrQ9YH2T/RMC-SPORT-1.png", RMC SPORT 1 (FR) (backup) [HD]
+http://51.15.12.219:8080/kennythetiger244/n6wfNmBlQA/6062?token=GhoNVBVaEA4WUgANVgNSXFgBDgUHAFdRVw5bU1cMB1ZVAVAFUwZQAg1BHBpHRhBdAA9oDQdACQQDDlAdE0FHARNnDFFECBAABVQBGhgQFlEMBxVeUlQDCwMBUgYJBxhGEVEBF1wQAAwEUQcaGBAHQBUHRQoCDmxWVk4LUlQWDgoUVAkZRF1ca1AGXVlaVkACQ1MVSEELQEIRAgxEXVgYRgNREUcHRlcWDkEBAA0CQBRDAVgRDRZBSxECQGRiFhhGBEARUAhBW1taQQoaQEFAFEMLRDsRB0BGQV0DXFRGFl5DCUcZRF9TTGsAX1ZaVwFMCA1ZF0FYEQMDCFITHRZZCw9REVoUbUJdUEEKGgYFVw1ZQEo
+#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/nrQ9YH2T/RMC-SPORT-1.png", RMC SPORT 1 (FR) (backup2)
+http://stream.tvtap.live:8081/live/fr-sfr1.stream/chunks.m3u8
 
 #EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/5jdYsZkJ/RMC-SPORT-2.png", RMC SPORT 2 (FR) [HD]
 https://22live00.akamaized.net/RMC_Sports_2/index.m3u8?token=JP2bJrme4a6m17yf0zRIkbjzuhRUCvqj0QLPLTVKRr0tnIG0ru1WBHfsjkurNzVyG8x2m8Tqu%2B%2FgqYzowkG4GVj83K6uKpRMGzlyVm6Zmvjd82AYr73k1BfTEsY4tBLe4HuEuQNQtn%2Bq3K9PRfRej1huApvC1rnWuExU%2Bf%2FQR5X%2Fn7cqH4c729CEJsvMj7BsYMEJxgGDlmMRYVEYQF6b61gVMQb%2BJpt2X%2Bni5jBb6B39aXRuUZwEzsVoJa9OIt7UsiAo398PYMGdDHkQqgQCjSoJnDz0Z%2FMx3180yfT7L7qx5kC8RBz1VJAkF%2BDHNjqUTG5brmjItwnJqHfOgC1OZH8IjLGB0aOXck1jYtA2RwHxrWcUsCcy5QhEHKg4uFvT4P
+#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/5jdYsZkJ/RMC-SPORT-2.png", RMC SPORT 2 (FR) (backup) [HD]
+http://51.15.12.219:8080/kennythetiger244/n6wfNmBlQA/6061?token=GhoNVBVaEA4WUgANVgNSXFgBDgUHAFdRVw5bU1cMB1ZVAVAFUwZQAg1BHBpHRhBdAA9oDQdACQQDDlAdE0FHARNnDFFECBAABVQBGhgQFlEMBxVeUlQDCwMBUgYJBxhGEVEBF1wQAAwEUQcaGBAHQBUHRQoCDmxWVk4LUlQWDgoUVAkZRF1ca1AGXVlaVkACQ1MVSEELQEIRAgxEXVgYRgNREUcHRlcWDkEBAA0CQBRDAVgRDRZBSxECQGRiFhhGBEARUAhBW1taQQoaQEFAFEMLRDsRB0BGQV0DXFRGFl5DCUcZRF9TTGsAX1ZaVwFMCA1ZF0FYEQMDCFITHRZZCw9REVoUbUJdUEEKGgYFVw1ZQEo
+#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/5jdYsZkJ/RMC-SPORT-2.png", RMC SPORT 2 (FR) (backup2)
+http://stream.tvtap.live:8081/live/fr-sfr2.stream/chunks.m3u8
+
+#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/5tz9305R/RMC-SPORT-3.png", RMC SPORT 3 (FR) [HD]
+http://51.15.12.219:8080/kennythetiger244/n6wfNmBlQA/6060?token=GhoNVBVaEA4WUgANVgNSXFgBDgUHAFdRVw5bU1cMB1ZVAVAFUwZQAg1BHBpHRhBdAA9oDQdACQQDDlAdE0FHARNnDFFECBAABVQBGhgQFlEMBxVeUlQDCwMBUgYJBxhGEVEBF1wQAAwEUQcaGBAHQBUHRQoCDmxWVk4LUlQWDgoUVAkZRF1ca1AGXVlaVkACQ1MVSEELQEIRAgxEXVgYRgNREUcHRlcWDkEBAA0CQBRDAVgRDRZBSxECQGRiFhhGBEARUAhBW1taQQoaQEFAFEMLRDsRB0BGQV0DXFRGFl5DCUcZRF9TTGsAX1ZaVwFMCA1ZF0FYEQMDCFITHRZZCw9REVoUbUJdUEEKGgYFVw1ZQEo
+#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/5tz9305R/RMC-SPORT-3.png", RMC SPORT 3 (FR) (backup2)
+http://stream.tvtap.live:8081/live/fr-sfr3.stream/chunks.m3u8
+
+#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/rmL1LTWY/RMC-SPORT-4.png", RMC SPORT 4 (FR) [HD]
+http://51.15.12.219:8080/kennythetiger244/n6wfNmBlQA/6059?token=GhoNVBVaEA4WUgANVgNSXFgBDgUHAFdRVw5bU1cMB1ZVAVAFUwZQAg1BHBpHRhBdAA9oDQdACQQDDlAdE0FHARNnDFFECBAABVQBGhgQFlEMBxVeUlQDCwMBUgYJBxhGEVEBF1wQAAwEUQcaGBAHQBUHRQoCDmxWVk4LUlQWDgoUVAkZRF1ca1AGXVlaVkACQ1MVSEELQEIRAgxEXVgYRgNREUcHRlcWDkEBAA0CQBRDAVgRDRZBSxECQGRiFhhGBEARUAhBW1taQQoaQEFAFEMLRDsRB0BGQV0DXFRGFl5DCUcZRF9TTGsAX1ZaVwFMCA1ZF0FYEQMDCFITHRZZCw9REVoUbUJdUEEKGgYFVw1ZQEo
 
 #EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo="https://i.postimg.cc/jS4ZmTJ2/TIGO-SPORTS.png", Tigo Sports (PY) [HD]
 http://l3dtv.ga:8080/live/steveneguez1/Kdx4sHGeft/155632.m3u8
@@ -1994,18 +2050,6 @@ https://95-213-224-179.livesports24.online/mfootball2rus.m3u8
  
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/bwzhLtSr/MATCH-Football-3.png" group-title=" SPORTSTATION 3 ", MATCH Football 3 (RUS)
 https://95-213-224-179.livesports24.online/rumatchf3.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN HD" tvg-logo=" https://i.postimg.cc/rph56ht1/ESPN.png" group-title=" SPORTSTATION 3 ", ESPN (MX) [HD]
-http://balancer1.ottmex.com:8081/tecno/Espn1.BKR/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN 2 HD" tvg-logo=" https://i.postimg.cc/FKF0Bt1F/ESPN-2.png" group-title="SPORTSTATION 3",ESPN 2 (MX) [HD]
-http://balancer1.ottmex.com:8081/tecno/Espn2.BKR/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN 3" tvg-logo=" https://i.postimg.cc/x13K5jfF/ESPN-3.png" group-title=" SPORTSTATION 3 ",ESPN 3 (MX) [HD]
-http://balancer1.ottmex.com:8081/tecno/Espn3.BKR/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN EXTRA" tvg-logo=" https://i.postimg.cc/FH4y0k4L/ESPN-EXTRA.png" group-title=" SPORTSTATION 3 ", ESPN EXTRA (MX) [HD]
-http://balancer1.ottmex.com:8081/tecno/Espn+.BKR/chunks.m3u8
 
 
 
@@ -2441,9 +2485,9 @@ http://50.7.161.82:8278/streams/d/Rtmsport/playlist.m3u8
 https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b864000.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/90PL86Jm/ASTRO-ARENA.png " group-title=" TV MALAYSIA ",Astro ARENA
-http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
+http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/90PL86Jm/ASTRO-ARENA.png " group-title=" TV MALAYSIA ",Astro ARENA (2)
-http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/8PqDWWxT/ASTRO-AWANI.png " group-title="TV MALAYSIA",Astro AWANI
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
