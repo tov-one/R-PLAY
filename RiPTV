@@ -1639,17 +1639,17 @@ http://stream.tvtap.live:8081/live/skysports-golf.stream/playlist.m3u8
 
 #EXTINF:-1   tvg-logo=" https://i.postimg.cc/T2WXx0kf/EUROSPORT-1.png" group-title=" SPORTSTATION 1 ", Eurosport 1 (TH)
 http://77.83.117.60:8888/02_EUROHD1_720p/chunklist.m3u8
-#EXTINF:-1   tvg-logo=" https://i.postimg.cc/T2WXx0kf/EUROSPORT-1.png" group-title=" SPORTSTATION 1 ", Eurosport 1 (RUS)
-http://edge04.beetv.kz/btv/SWM/Eurosport/Eurosport_576p_2000kbps.m3u8
 #EXTINF:-1   tvg-logo=" https://i.postimg.cc/T2WXx0kf/EUROSPORT-1.png" group-title=" SPORTSTATION 1 ", Eurosport 1 (ES)
-https://cdn1.mobiletv.bg/T8/eurosport/es_794613_850k.m3u8
+http://91.126.141.201:1935/live/eurosport1nntv/chunklist_w65928025.m3u8
+#EXTINF:-1   tvg-logo=" https://i.postimg.cc/T2WXx0kf/EUROSPORT-1.png" group-title=" SPORTSTATION 1 ", Eurosport 1 (RUS)
+https://95-213-224-183.livesports24.online/eurosport1ru.m3u8
 
 #EXTINF:-1   tvg-logo=" https://i.postimg.cc/D0sVcfW8/EUROSPORT-2.png" group-title=" SPORTSTATION 1 ", Eurosport 2 (TH)
 http://77.83.117.60:8888/02_EUROHD2_720p/chunklist.m3u8
 #EXTINF:-1   tvg-logo=" https://i.postimg.cc/D0sVcfW8/EUROSPORT-2.png" group-title=" SPORTSTATION 1 ", Eurosport 2 (ES)
-https://cdn1.mobiletv.bg/T3/eurosport2/eurosport2_794613_850k.m3u8
+http://91.126.141.201:1935/live/eurosport2hdnntv/chunklist_w1420994503.m3u8
 #EXTINF:-1   tvg-logo=" https://i.postimg.cc/D0sVcfW8/EUROSPORT-2.png" group-title=" SPORTSTATION 1 ", Eurosport 2 (RUS)
-http://edge04.beetv.kz/btv/SWM/Eurosport2/Eurosport2_576p_2000kbps.m3u8
+https://95-213-224-183.livesports24.online/ruseurosport2.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-tv-logo-585DF08BF0-seeklogo.com.png" group-title="SPORTSTATION 1",NBA (UseeTV)
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=nba&bandwidth=default&sync=0
@@ -1687,18 +1687,24 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=egg&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_egg_small1.png?v=2.0.0.13" group-title=" SPORTSTATION 1", EGG Network (backup)
 http://edge.linknetott.swiftserve.com:80/channelgroup5/cg523production/ch319/02.m3u8
 
+#EXTINF:0 tvg-country="HK" tvg-logo=" https://i.postimg.cc/RCc0Dy9H/Star-Sports.png " group-title=" SPORTSTATION 1",Star Sports
+rtmp://ivi.bupt.edu.cn:1935/livetv/starsports?checkedby
+
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/vHkJ5gTF/RACING.png " group-title=" SPORTSTATION 1",RACING.COM
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8?fluxustv.m3u8
 
-#EXTINF:0 tvg-country="HK" tvg-logo=" https://i.postimg.cc/RCc0Dy9H/Star-Sports.png " group-title=" SPORTSTATION 1",Star Sports
-rtmp://ivi.bupt.edu.cn:1935/livetv/starsports?checkedby
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/gJwmx61B/Sky-Racing-1.png" group-title=" SPORTSTATION 1", Sky Racing 1 (AUS) [HD]
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/8CXTkbX6/Sky-Racing-2.png" group-title=" SPORTSTATION 1", Sky Racing 2 (AUS) [HD]
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/RFk2DtBg/MOTORVISION-TV.png" group-title=" SPORTSTATION 1", MOTORVISION TV
 https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-motorvisiontv/CDN/master.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/tRcyGfkh/EDGE-SPORT.png " tvg-url="" group-title=" SPORTSTATION 1",Edge Sport
 https://edgesport-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/tRcyGfkh/EDGE-SPORT.png " tvg-url="" group-title=" SPORTSTATION 1",Edge Sport (backup2)
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/tRcyGfkh/EDGE-SPORT.png " tvg-url="" group-title=" SPORTSTATION 1",Edge Sport (backup)
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="Red Bull TV" tvg-country="INT" tvg-language="English" tvg-logo=" https://i.postimg.cc/4NQmmMSg/REDBULL-TV.png " tvg-url="" group-title=" SPORTSTATION 1",Red Bull TV
@@ -1860,12 +1866,18 @@ http://77.83.117.60:8888/03_skynetsporthd_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/fyG6tGqp/SKYNET-SPORTS-1.png" group-title="SPORTSTATION 2", SkyNet Sports 1
 http://77.83.117.60:8888/03_skynetsport1_480p/chunklist.m3u8 
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/fyG6tGqp/SKYNET-SPORTS-1.png" group-title="SPORTSTATION 2", SkyNet Sports 1 (backup)
+http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports1/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/N0bqJPL2/SKYNET-SPORTS-2.png" group-title="SPORTSTATION 2", SkyNet Sports 2
 http://77.83.117.60:8888/03_skynetsport2_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/N0bqJPL2/SKYNET-SPORTS-2.png" group-title="SPORTSTATION 2", SkyNet Sports 2 (backup)
+http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports2/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/9fcHBjXj/SKYNET-SPORTS-3.png" group-title="SPORTSTATION 2", SkyNet Sports 3
 http://77.83.117.60:8888/03_skynetsport3_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/9fcHBjXj/SKYNET-SPORTS-3.png" group-title="SPORTSTATION 2", SkyNet Sports 3 (backup)
+http://916309128f3e.sn.mynetname.net:1935/aslive/astrosupersport4/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/Tww8ZqW7/SKYNET-SPORTS-4.png " group-title="SPORTSTATION 2", SkyNet Sports 4
 http://77.83.117.60:8888/03_skynetsport4_480p/chunklist.m3u8 
@@ -2001,6 +2013,30 @@ http://stream.tvtap.live:8081/live/fr-sfr3.stream/chunks.m3u8
 
 #EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/rmL1LTWY/RMC-SPORT-4.png", RMC SPORT 4 (FR) [HD]
 http://51.15.12.219:8080/kennythetiger244/n6wfNmBlQA/6059?token=GhoNVBVaEA4WUgANVgNSXFgBDgUHAFdRVw5bU1cMB1ZVAVAFUwZQAg1BHBpHRhBdAA9oDQdACQQDDlAdE0FHARNnDFFECBAABVQBGhgQFlEMBxVeUlQDCwMBUgYJBxhGEVEBF1wQAAwEUQcaGBAHQBUHRQoCDmxWVk4LUlQWDgoUVAkZRF1ca1AGXVlaVkACQ1MVSEELQEIRAgxEXVgYRgNREUcHRlcWDkEBAA0CQBRDAVgRDRZBSxECQGRiFhhGBEARUAhBW1taQQoaQEFAFEMLRDsRB0BGQV0DXFRGFl5DCUcZRF9TTGsAX1ZaVwFMCA1ZF0FYEQMDCFITHRZZCw9REVoUbUJdUEEKGgYFVw1ZQEo
+
+#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/bvwzj5gP/ARENA-SPORT-1.png", Arena Sports 1
+http://31.220.41.88:8081/live/arena1.stream/playlist.m3u8
+#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/4x5JqGzw/ARENA-SPORT-2.png", Arena Sports 2
+http://31.220.41.88:8081/live/arena2.stream/playlist.m3u8
+#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/5N895Lyh/ARENA-SPORT-3.png", Arena Sports 3
+http://31.220.41.88:8081/live/arena3.stream/playlist.m3u8
+#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/fWtRL6NT/ARENA-SPORT-4.png", Arena Sports 4
+http://31.220.41.88:8081/live/arena4.stream/playlist.m3u8
+#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/MZCKjd60/ARENA-SPORT-5.png", Arena Sports 5
+http://31.220.41.88:8081/live/arena5.stream/playlist.m3u8
+
+#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/NjYsdFr5/SPORT-KLUB-1.png", Sport Klub 1 [HD]
+http://stream.tvtap.live:8081/live/klub1.stream/playlist.m3u8
+#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/WzJCvGxT/SPORT-KLUB-2.png", Sport Klub 2 [HD]
+http://stream.tvtap.live:8081/live/klub2.stream/playlist.m3u8
+#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/jC09dWrN/SPORT-KLUB-3.png", Sport Klub 3 [HD]
+http://stream.tvtap.live:8081/live/klub3.stream/playlist.m3u8
+#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/26ygHRwq/SPORT-KLUB-4.png", Sport Klub 4 [HD]
+http://stream.tvtap.live:8081/live/klub4.stream/playlist.m3u8
+#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/vBKkkqq0/SPORT-KLUB-5.png", Sport Klub 5 [HD]
+http://stream.tvtap.live:8081/live/klub5.stream/playlist.m3u8
+#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/yNvwXYF4/SPORT-KLUB-6.png", Sport Klub 6 [HD]
+http://stream.tvtap.live:8081/live/klub6.stream/playlist.m3u8
 
 #EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo="https://i.postimg.cc/jS4ZmTJ2/TIGO-SPORTS.png", Tigo Sports (PY) [HD]
 http://l3dtv.ga:8080/live/steveneguez1/Kdx4sHGeft/155632.m3u8
@@ -2172,13 +2208,8 @@ http://sawaiptv.vip:80/Darkiptv/Abdelhady/1566
 
 #EXTINF:-1   tvg-logo=" https://i.postimg.cc/T2WXx0kf/EUROSPORT-1.png" group-title=" SPORTSTATION (BACKUP)", Eurosport 1 (ES) (1)
 https://chostv.mobie.in/choos/sports/euro1.m3u8
-#EXTINF:-1   tvg-logo=" https://i.postimg.cc/T2WXx0kf/EUROSPORT-1.png" group-title=" SPORTSTATION (BACKUP)", Eurosport 1 (RUS) (2)
-https://95-213-224-183.livesports24.online/eurosport1ru.m3u8 
-
 #EXTINF:-1   tvg-logo=" https://i.postimg.cc/D0sVcfW8/EUROSPORT-2.png" group-title=" SPORTSTATION (BACKUP)", Eurosport 2 (ES) (1)
 https://chostv.mobie.in/choos/sports/euro2.m3u8
-#EXTINF:-1   tvg-logo=" https://i.postimg.cc/D0sVcfW8/EUROSPORT-2.png" group-title=" SPORTSTATION (BACKUP)", Eurosport 2 (RUS) (2)
-https://95-213-224-183.livesports24.online/ruseurosport2.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/0NLkw4Z3/ESPN-PLUS.png" group-title=" SPORTSTATION (BACKUP)",ESPN+ (US)
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/14817
