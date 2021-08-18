@@ -1971,7 +1971,7 @@ http://31.220.41.88:8081/live/nl-ziggovoetbal.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/J0r1M5ff/ZIGGO-SPORT-SELECT.png " group-title=" SPORTSTATION 3 ",Ziggo Sport Select (NL)
 http://31.220.41.88:8081/live/nl-ziggoselect.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo https://i.postimg.cc/d1KsSY4t/ZIGGO-SPORT-RACING.png " group-title=" SPORTSTATION 3 ", Ziggo Sport Racing (NL)
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/d1KsSY4t/ZIGGO-SPORT-RACING.png " group-title=" SPORTSTATION 3 ", Ziggo Sport Racing (NL)
 http://31.220.41.88:8081/live/nl-ziggoracing.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/fLryCpSP/ELEVEN-SPORTS-1.png " group-title="SPORTSTATION 3",Eleven Sports 1 (PL)
