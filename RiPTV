@@ -209,13 +209,13 @@ http://210.210.155.35/session/09d8ec3e-2ed7-11eb-a7c0-c81f66f89318/qwr9ew/s/s08/
 https://cdn-livetv-studio.metube.id/rcti.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/x8LNXLTw/mnclogo.png " group-title=" NASIONAL (BACKUP)",MNC TV (MetubeTV)
-https://gpc.my.id/vidio/mnc.m3u8
+https://cdn-livetv-studio.metube.id/mnctv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HsqNM8Hc/globaltv.png " group-title=" NASIONAL (BACKUP)",GTV (MetubeTV)
-http://gpc.my.id/vidio/gtv.m3u8
+https://cdn-livetv-studio.metube.id/globaltv.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/3rqtmhr9/inewstv.png " group-title=" NASIONAL (BACKUP)",iNews (MetubeTV)
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=e17a886efc21fa45b9dc49a17c29dcf1e0cf1f47118daebc5b16269099ad7347
+https://cdn-livetv-studio.metube.id/inewstv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15" tvg-id="" tvg-name"SCTV" group-title="NASIONAL (BACKUP)",SCTV (DensTV)
 http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s03/01.m3u8
@@ -1134,10 +1134,10 @@ http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62289
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C1wLNxPT/ANIMAL-PLANET.png" group-title="PENGETAHUAN", Animal Planet
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C1wLNxPT/ANIMAL-PLANET.png" group-title="PENGETAHUAN", Animal Planet (backup)
+https://m3u-editor.com/serve/00650a80-d16b-11eb-a003-876425f879d4/320891863
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C1wLNxPT/ANIMAL-PLANET.png" group-title="PENGETAHUAN", Animal Planet (backup5)
 http://185.180.221.194:8278/streams/d/AnimalPlanet/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/C1wLNxPT/ANIMAL-PLANET.png" group-title="PENGETAHUAN", Animal Planet (backup8)
-http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62299
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png?v=2.0.0.13" group-title="PENGETAHUAN", History (UseeTV)
 http://topwin-tv.my.id/2/master.m3u8?id=history
@@ -1340,12 +1340,12 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=cartoonnetwork&bandwidth=default&s
 http://185.180.221.194:8278/streams/d/Cn/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/LXtG1xhF/Disney-Channel.png" group-title="KIDS",Disney Channel
-http://185.180.221.194:8278/streams/d/Disneyxd/playlist.m3u8
+https://m3u-editor.com/serve/00650a80-d16b-11eb-a003-876425f879d4/320891876
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/LXtG1xhF/Disney-Channel.png" group-title="KIDS",Disney Channel (USA) [HD]
 http://51.79.82.231:8080/US_DISNEY_CHANNEL_EAST_USA/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nrngYqQj/Disney-Junior.png" group-title="KIDS",Disney Junior
-http://185.180.221.194:8278/streams/d/Disneyjr/playlist.m3u8
+https://m3u-editor.com/serve/00650a80-d16b-11eb-a003-876425f879d4/320891872
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nrngYqQj/Disney-Junior.png" group-title="KIDS",Disney Junior (USA) [HD]
 http://51.79.82.231:8080/US_DISNEY_JR_EAST_USA/video.m3u8
 
@@ -1625,7 +1625,7 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_1000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/KjvDvy9Z/DAZN-F1.png" group-title=" SPORTSTATION 1", DAZN F1 (ES)
 http://31.220.41.88:8081/live/es-moviestarf1.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/3NXkc3PK/Sky-Sports-Moto-GP.png" group-title=" SPORTSTATION 1", Sky Sports MotoGP (ES)
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/3NXkc3PK/Sky-Sports-Moto-GP.png" group-title=" SPORTSTATION 1", Sky Sports MotoGP (ITA)
 http://31.220.41.88:8081/live/es-moviestarmotogp.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/x1s7tS5W/Sky-Sports-F1.png" group-title=" SPORTSTATION 1", Sky Sports F1 [HD]
@@ -1633,9 +1633,6 @@ http://stream.tvtap.live:8081/live/skysportsf1.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/g2VmkBSv/Sky-Sports-Main-Event.png" group-title=" SPORTSTATION 1", Sky Sports Main Event [HD]
 http://stream.tvtap.live:8081/live/skysports-maineventz.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/SKJPPttj/Sky-Sports-MIX.png" group-title=" SPORTSTATION 1", Sky Sports Mix [HD]
-http://stream.tvtap.live:8081/live/skysportsmix.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/J0WdG77B/Sky-Sports-Arena.png" group-title=" SPORTSTATION 1", Sky Sports Arena [HD]
 http://stream.tvtap.live:8081/live/skysports-arena.stream/playlist.m3u8
@@ -2095,123 +2092,6 @@ https://95-213-224-179.livesports24.online/rumatchf3.m3u8
 
 
 
-#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20UHD/BEIN_SPORT_ENGLISH_1_UHD.png " group-title="SPORTSTATION (BACKUP)", beIN Sports 1 ENGLISH [H265]
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/34007
-#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_SPORT_ENGLISH_1_HD.png" group-title="SPORTSTATION (BACKUP)", beIN Sports 1 ENGLISH [FHD]
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/4014
-#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_SPORT_ENGLISH_1_HD.png" group-title="SPORTSTATION (BACKUP)", beIN Sports 1 ENGLISH [HD]
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/1358
-#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/beinsport%20SD/BEIN_SPORT_ENGLISH_1_SD.png" group-title="SPORTSTATION (BACKUP)", beIN Sports 1 ENGLISH [SD]
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/34002
-
-#EXTINF:-1 tvg-logo="https://logo.ott.ma/logo/BEINSPORT%20UHD/BEIN_SPORT_ENGLISH_2_UHD.png" group-title="SPORTSTATION (BACKUP)", beIN Sports 2 ENGLISH [H265]
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/34008
-#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_SPORT_ENGLISH_2_HD.png" group-title="SPORTSTATION (BACKUP)", beIN Sports 2 ENGLISH [FHD]
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/4013
-#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_SPORT_ENGLISH_2_HD.png" group-title="SPORTSTATION (BACKUP)", beIN Sports 2 ENGLISH [HD]
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/1357
-#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/beinsport%20SD/BEIN_SPORT_ENGLISH_2_SD.png" group-title="SPORTSTATION (BACKUP)", beIN Sports 2 ENGLISH [SD]
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/34003
-
-#EXTINF:-1 tvg-logo="https://logo.ott.ma/logo/BEINSPORT%20UHD/BEIN_SPORT_ENGLISH_3_UHD.png" group-title="SPORTSTATION (BACKUP)", beIN Sports 3 ENGLISH [H265]
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/37909
-#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_SPORT_ENGLISH_3_HD.png" group-title="SPORTSTATION (BACKUP)", beIN Sports 3 ENGLISH [FHD]
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/34000
-#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_SPORT_ENGLISH_3_HD.png" group-title="SPORTSTATION (BACKUP)", beIN Sports 3 ENGLISH [HD]
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/33999
-#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/beinsport%20SD/BEIN_SPORT_ENGLISH_3_SD.png" group-title="SPORTSTATION (BACKUP)", beIN Sports 3 ENGLISH [SD]
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/34004
-
-#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20UHD/BEIN_PREMIUM_1_UHD.png " group-title="SPORTSTATION (BACKUP)", beIN Sports 1 PREMIUM [H265]
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/11701
-#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_PREMIUM_1_HD.png " group-title="SPORTSTATION (BACKUP)", beIN Sports 1 PREMIUM [FHD]
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/4017
-#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_PREMIUM_1_HD.png " group-title="SPORTSTATION (BACKUP)", beIN Sports 1 PREMIUM [HD]
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/1361
-#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/beinsport%20SD/BEIN_PREMIUM_1_SD.png " group-title="SPORTSTATION (BACKUP)", beIN Sports 1 PREMIUM [SD]
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/1565
-
-#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20UHD/BEIN_PREMIUM_2_UHD.png " group-title="SPORTSTATION (BACKUP)", beIN Sports 2 PREMIUM [H265]
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/11709
-#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_PREMIUM_2_HD.png " group-title="SPORTSTATION (BACKUP)", beIN Sports 2 PREMIUM [FHD]
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/4016
-#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_PREMIUM_2_HD.png " group-title="SPORTSTATION (BACKUP)", beIN Sports 2 PREMIUM [HD]
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/1360
-#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/beinsport%20SD/BEIN_PREMIUM_1_SD.png " group-title="SPORTSTATION (BACKUP)", beIN Sports 2 PREMIUM [SD]
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/1564
-
-#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20UHD/BEIN_PREMIUM_3_UHD.png " group-title="SPORTSTATION (BACKUP)", beIN Sports 3 PREMIUM [H265]
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/34006
-#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_PREMIUM_3_HD.png " group-title="SPORTSTATION (BACKUP)", beIN Sports 3 PREMIUM [FHD]
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/4015
-#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_PREMIUM_3_HD.png " group-title="SPORTSTATION (BACKUP)", beIN Sports 3 PREMIUM [HD]
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/1359
-#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/beinsport%20SD/BEIN_PREMIUM_3_SD.png " group-title="SPORTSTATION (BACKUP)", beIN Sports 3 PREMIUM [SD]
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/1563
-
-#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20UHD/BEINSPORT_1_UHD.png" group-title="SPORTSTATION (BACKUP)", beIN Sports 1 [H265]
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/11708
-#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEINSPORT_1_HD.png " group-title="SPORTSTATION (BACKUP)", beIN Sports 1 [FHD]
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/4024
-#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEINSPORT_1_HD.png " group-title="SPORTSTATION (BACKUP)", beIN Sports 1 [HD]
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/1368
-#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/beinsport%20SD/BEINSPORT_1_SD.png" group-title="SPORTSTATION (BACKUP)", beIN Sports 1 [SD]
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/1572
-
-#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20UHD/BEINSPORT_2_UHD.png" group-title="SPORTSTATION (BACKUP)", beIN Sports 2 [H265]
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/11707
-#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEINSPORT_2_HD.png" group-title="SPORTSTATION (BACKUP)", beIN Sports 2 [FHD]
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/4023
-#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEINSPORT_2_HD.png" group-title="SPORTSTATION (BACKUP)", beIN Sports 2 [HD]
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/1367
-#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/beinsport%20SD/BEINSPORT_2_SD.png" group-title="SPORTSTATION (BACKUP)", beIN Sports 2 [SD]
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/1571
-
-#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20UHD/BEINSPORT_3_UHD.png" group-title="SPORTSTATION (BACKUP)", beIN Sports 3 [H265]
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/11706
-#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEINSPORT_3_HD.png" group-title="SPORTSTATION (BACKUP)", beIN Sports 3 [FHD]
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/4022
-#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEINSPORT_3_HD.png" group-title="SPORTSTATION (BACKUP)", beIN Sports 3 [HD]
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/1366
-#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/beinsport%20SD/BEINSPORT_3_SD.png" group-title="SPORTSTATION (BACKUP)", beIN Sports 3 [SD]
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/1570
-
-#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20UHD/BEINSPORT_4_UHD.png" group-title="SPORTSTATION (BACKUP)", beIN Sports 4 [H265]
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/11705
-#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEINSPORT_4_HD.png" group-title="SPORTSTATION (BACKUP)", beIN Sports 4 [FHD]
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/4021
-#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEINSPORT_4_HD.png" group-title="SPORTSTATION (BACKUP)", beIN Sports 4 [HD]
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/1365
-#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/beinsport%20SD/BEINSPORT_4_SD.png" group-title="SPORTSTATION (BACKUP)", beIN Sports 4 [SD]
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/1569
-
-#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20UHD/BEINSPORT_5_UHD.png" group-title="SPORTSTATION (BACKUP)", beIN Sports 5 [H265]
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/11704
-#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEINSPORT_5_HD.png" group-title="SPORTSTATION (BACKUP)", beIN Sports 5 [FHD]
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/4020
-#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEINSPORT_5_HD.png" group-title="SPORTSTATION (BACKUP)", beIN Sports 5 [HD]
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/1364
-#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/beinsport%20SD/BEINSPORT_5_SD.png" group-title="SPORTSTATION (BACKUP)", beIN Sports 5 [SD]
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/1568
-
-#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20UHD/BEINSPORT_6_UHD.png" group-title="SPORTSTATION (BACKUP)", beIN Sports 6 [H265]
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/11703
-#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEINSPORT_6_HD.png" group-title="SPORTSTATION (BACKUP)", beIN Sports 6 [FHD]
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/4019
-#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEINSPORT_6_HD.png" group-title="SPORTSTATION (BACKUP)", beIN Sports 6 [HD]
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/1363
-#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/beinsport%20SD/BEINSPORT_6_SD.png" group-title="SPORTSTATION (BACKUP)", beIN Sports 6 [SD]
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/1567
-
-#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20UHD/BEINSPORT_7_UHD.png" group-title="SPORTSTATION (BACKUP)", beIN Sports 7 [H265]
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/11702
-#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEINSPORT_7_HD.png" group-title="SPORTSTATION (BACKUP)", beIN Sports 7 [FHD]
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/4018
-#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEINSPORT_7_HD.png" group-title="SPORTSTATION (BACKUP)", beIN Sports 7 [HD]
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/34005
-#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/beinsport%20SD/BEINSPORT_7_SD.png" group-title="SPORTSTATION (BACKUP)", beIN Sports 7 [SD]
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/1566
-
 #EXTINF:-1   tvg-logo=" https://i.postimg.cc/T2WXx0kf/EUROSPORT-1.png" group-title=" SPORTSTATION (BACKUP)", Eurosport 1 (ES) (1)
 https://chostv.mobie.in/choos/sports/euro1.m3u8
 #EXTINF:-1   tvg-logo=" https://i.postimg.cc/D0sVcfW8/EUROSPORT-2.png" group-title=" SPORTSTATION (BACKUP)", Eurosport 2 (ES) (1)
@@ -2232,6 +2112,110 @@ http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/4853
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/74893
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/1R6Npy98/SONY-TEN-2.png " group-title=" SPORTSTATION (BACKUP) ", SONY TEN 2 (IND)
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/56190
+
+
+
+#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_SPORT_ENGLISH_1_HD.png" group-title="BEIN SPORTS (BACKUP)", beIN Sports 1 ENGLISH [FHD]
+http://hbox.cdnss.me:80/bestcs/bestcs/5004
+#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_SPORT_ENGLISH_1_HD.png" group-title="BEIN SPORTS (BACKUP)", beIN Sports 1 ENGLISH [HD]
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/34113
+#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_SPORT_ENGLISH_1_HD.png" group-title="BEIN SPORTS (BACKUP)", beIN Sports 1 ENGLISH [HD] (2)
+http://hbox.cdnss.me:80/bestcs/bestcs/7946
+#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/beinsport%20SD/BEIN_SPORT_ENGLISH_1_SD.png" group-title="BEIN SPORTS (BACKUP)", beIN Sports 1 ENGLISH [SD]
+http://sawaiptv.vip:80/Darkiptv/Abdelhady/34002
+
+#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_SPORT_ENGLISH_2_HD.png" group-title="BEIN SPORTS (BACKUP)", beIN Sports 2 ENGLISH [FHD]
+http://hbox.cdnss.me:80/bestcs/bestcs/5003
+#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_SPORT_ENGLISH_2_HD.png" group-title="BEIN SPORTS (BACKUP)", beIN Sports 2 ENGLISH [HD]
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/34127
+#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_SPORT_ENGLISH_2_HD.png" group-title="BEIN SPORTS (BACKUP)", beIN Sports 2 ENGLISH [HD] (2)
+http://hbox.cdnss.me:80/bestcs/bestcs/7948
+#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/beinsport%20SD/BEIN_SPORT_ENGLISH_2_SD.png" group-title="BEIN SPORTS (BACKUP)", beIN Sports 2 ENGLISH [SD]
+http://sawaiptv.vip:80/Darkiptv/Abdelhady/34003
+
+#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_SPORT_ENGLISH_3_HD.png" group-title="BEIN SPORTS (BACKUP)", beIN Sports 3 ENGLISH [FHD]
+http://sawaiptv.vip:80/Darkiptv/Abdelhady/34000
+#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_SPORT_ENGLISH_3_HD.png" group-title="BEIN SPORTS (BACKUP)", beIN Sports 3 ENGLISH [HD]
+http://hbox.cdnss.me:80/bestcs/bestcs/7951
+#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_SPORT_ENGLISH_3_HD.png" group-title="BEIN SPORTS (BACKUP)", beIN Sports 3 ENGLISH [HD] (2)
+http://hbox.cdnss.me:80/bestcs/bestcs/7950
+#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/beinsport%20SD/BEIN_SPORT_ENGLISH_3_SD.png" group-title="BEIN SPORTS (BACKUP)", beIN Sports 3 ENGLISH [SD]
+http://sawaiptv.vip:80/Darkiptv/Abdelhady/34004
+
+#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_PREMIUM_1_HD.png " group-title="BEIN SPORTS (BACKUP)", beIN Sports 1 PREMIUM (AR) 1
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/34123
+#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_PREMIUM_1_HD.png " group-title="BEIN SPORTS (BACKUP)", beIN Sports 1 PREMIUM (AR) 2
+http://hbox.cdnss.me:80/bestcs/bestcs/7937
+#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_PREMIUM_1_HD.png " group-title="BEIN SPORTS (BACKUP)", beIN Sports 1 PREMIUM (AR) 3
+http://king365tv.cf:2103/lapassionomnew1/aZErA8x7/45705
+#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_PREMIUM_1_HD.png " group-title="BEIN SPORTS (BACKUP)", beIN Sports 1 PREMIUM (AR) 4
+http://king365tv.cf:2103/lapassionomnew1/aZErA8x7/45706
+
+#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_PREMIUM_2_HD.png " group-title="BEIN SPORTS (BACKUP)", beIN Sports 2 PREMIUM (AR) 1
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43382
+#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_PREMIUM_2_HD.png " group-title="BEIN SPORTS (BACKUP)", beIN Sports 2 PREMIUM (AR) 2
+http://hbox.cdnss.me:80/bestcs/bestcs/7954
+#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_PREMIUM_2_HD.png " group-title="BEIN SPORTS (BACKUP)", beIN Sports 2 PREMIUM (AR) 3
+http://king365tv.cf:2103/lapassionomnew1/aZErA8x7/45708
+#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_PREMIUM_2_HD.png " group-title="BEIN SPORTS (BACKUP)", beIN Sports 2 PREMIUM (AR) 4
+http://king365tv.cf:2103/lapassionomnew1/aZErA8x7/45709
+
+#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_PREMIUM_3_HD.png " group-title="BEIN SPORTS (BACKUP)", beIN Sports 3 PREMIUM (AR) 1
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/34125
+#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_PREMIUM_3_HD.png " group-title="BEIN SPORTS (BACKUP)", beIN Sports 3 PREMIUM (AR) 2
+http://hbox.cdnss.me:80/bestcs/bestcs/7956
+#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_PREMIUM_3_HD.png " group-title="BEIN SPORTS (BACKUP)", beIN Sports 3 PREMIUM (AR) 3
+http://king365tv.cf:2103/lapassionomnew1/aZErA8x7/45711
+#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_PREMIUM_3_HD.png " group-title="BEIN SPORTS (BACKUP)", beIN Sports 3 PREMIUM (AR) 4
+http://king365tv.cf:2103/lapassionomnew1/aZErA8x7/45712
+
+#EXTINF:-1 tvg-logo="https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_SPORT_FRENSH_1_HD.png" group-title="BEIN SPORTS (BACKUP)",beIN Sports 1 (FR) 1
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/50833
+#EXTINF:-1 tvg-logo="https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_SPORT_FRENSH_1_HD.png" group-title="BEIN SPORTS (BACKUP)",beIN Sports 1 (FR) 2
+http://hbox.cdnss.me:80/bestcs/bestcs/6041
+#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_SPORT_FRENSH_1_HD.png " group-title="BEIN SPORTS (BACKUP)", beIN Sports 1 (FR) 3
+http://king365tv.cf:2103/lapassionomnew1/aZErA8x7/34
+#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_SPORT_FRENSH_1_HD.png " group-title="BEIN SPORTS (BACKUP)", beIN Sports 1 (FR) 4
+http://king365tv.cf:2103/lapassionomnew1/aZErA8x7/11675
+
+#EXTINF:-1 tvg-logo="https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_SPORT_FRENSH_2_HD.png" group-title="BEIN SPORTS (BACKUP)", beIN Sports 2 (FR) 1
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/36965
+#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_SPORT_FRENSH_2_HD.png " group-title="BEIN SPORTS (BACKUP)", beIN Sports 2 (FR) 2
+http://hbox.cdnss.me:80/bestcs/bestcs/6042
+#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_SPORT_FRENSH_2_HD.png " group-title="BEIN SPORTS (BACKUP)", beIN Sports 2 (FR) 3
+http://king365tv.cf:2103/lapassionomnew1/aZErA8x7/35
+#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_SPORT_FRENSH_2_HD.png " group-title="BEIN SPORTS (BACKUP)", beIN Sports 2 (FR) 4
+http://king365tv.cf:2103/lapassionomnew1/aZErA8x7/11674
+
+#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/FRANCE%20SPORTS/BEINSPORT_3_HD_FR-%20copy.png " group-title="BEIN SPORTS (BACKUP)", beIN Sports 3 (FR) 1
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/50836
+#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/FRANCE%20SPORTS/BEINSPORT_3_HD_FR-%20copy.png " group-title="BEIN SPORTS (BACKUP)", beIN Sports 3 (FR) 2
+http://hbox.cdnss.me:80/bestcs/bestcs/6043
+#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/FRANCE%20SPORTS/BEINSPORT_3_HD_FR-%20copy.png " group-title="BEIN SPORTS (BACKUP)", beIN Sports 3 (FR) 3
+http://king365tv.cf:2103/lapassionomnew1/aZErA8x7/184
+#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/FRANCE%20SPORTS/BEINSPORT_3_HD_FR-%20copy.png " group-title="BEIN SPORTS (BACKUP)", beIN Sports 3 (FR) 4
+http://king365tv.cf:2103/lapassionomnew1/aZErA8x7/11673
+
+#EXTINF:-1 tvg-logo="https://logo.ott.ma/logo/FRANCE%20SPORTS/BEINSPORT_MAX_4_HD%20copy.png" group-title="BEIN SPORTS (BACKUP)", beIN Sports MAX 4 (FR) 1
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/50837
+#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/FRANCE%20SPORTS/BEINSPORT_MAX_4_HD%20copy.png " group-title="BEIN SPORTS (BACKUP)", beIN Sports MAX 4 (FR) 2
+http://king365tv.cf:2103/lapassionomnew1/aZErA8x7/113
+#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/FRANCE%20SPORTS/BEINSPORT_MAX_4_HD%20copy.png " group-title="BEIN SPORTS (BACKUP)", beIN Sports MAX 4 (FR) 3
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/36970
+
+#EXTINF:-1 tvg-logo="https://logo.ott.ma/logo/FRANCE%20SPORTS/BEINSPORT_MAX_5_HD.png" group-title="BEIN SPORTS (BACKUP)", beIN Sports MAX 5 (FR) 1
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/50838
+#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/FRANCE%20SPORTS/BEINSPORT_MAX_5_HD.png " group-title="BEIN SPORTS (BACKUP)", beIN Sports MAX 5 (FR) 2
+http://king365tv.cf:2103/lapassionomnew1/aZErA8x7/82
+#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/FRANCE%20SPORTS/BEINSPORT_MAX_5_HD.png " group-title="BEIN SPORTS (BACKUP)", beIN Sports MAX 5 (FR) 3
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/36971
+
+#EXTINF:-1 tvg-logo="https://logo.ott.ma/logo/FRANCE%20SPORTS/BEINSPORT_MAX_6_HD.png" group-title="BEIN SPORTS (BACKUP)", beIN Sports MAX 6 (FR) 1
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/50839
+#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/FRANCE%20SPORTS/BEINSPORT_MAX_6_HD.png " group-title="BEIN SPORTS (BACKUP)", beIN Sports MAX 6 (FR) 2
+http://king365tv.cf:2103/lapassionomnew1/aZErA8x7/302
+#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/FRANCE%20SPORTS/BEINSPORT_MAX_6_HD.png " group-title="BEIN SPORTS (BACKUP)", beIN Sports MAX 6 (FR) 3
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/36972
 
 
 
