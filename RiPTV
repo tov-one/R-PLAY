@@ -1808,13 +1808,9 @@ http://topwin-tv.my.id/2/master.m3u8?id=bein2
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/sx88hkx7/BEIN-SPORTS-ENGLISH-1.png" group-title=" SPORTSTATION 2", BeIN Sports 1 ENGLISH 
 http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/sx88hkx7/BEIN-SPORTS-ENGLISH-1.png" group-title=" SPORTSTATION 2", BeIN Sports 1 ENGLISH (backup9)
-https://cmt.mb13.cyou/uni/livedo/bein1hd.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/j2CmCxxR/BEIN-SPORTS-ENGLISH-2.png " group-title=" SPORTSTATION 2", BeIN Sports 2 ENGLISH
 http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/j2CmCxxR/BEIN-SPORTS-ENGLISH-2.png " group-title=" SPORTSTATION 2", BeIN Sports 2 ENGLISH (backup9)
-https://cmt.mb13.cyou/uni/livedo/bein2hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jqNpKmq7/Sky-Sports-Premier-League.png " group-title=" SPORTSTATION 2", Sky Sports Premier League [HD]
 http://stream.tvtap.live:8081/live/skysports-premier-league.stream/playlist.m3u8
@@ -1894,36 +1890,19 @@ http://77.83.117.60:8888/03_skynetsport6_480p/chunklist.m3u8
 
 
 #EXTINF:-1   tvg-logo=" https://i.postimg.cc/Dwn2f29s/BEIN-SPORTS-PREMIUM-1.png" group-title=" SPORTSTATION 3", BeIN Sports 1 PREMIUM (AR)
-http://144.217.253.140/beinsport1/tracks-v1a1/index.m3u8
-#EXTINF:-1   tvg-logo=" https://i.postimg.cc/Dwn2f29s/BEIN-SPORTS-PREMIUM-1.png" group-title=" SPORTSTATION 3", BeIN Sports 1 PREMIUM (AR) (backup)
 http://1.alhawalouh.xyz/live/6161655/index.m3u8
-#EXTINF:-1   tvg-logo=" https://i.postimg.cc/Dwn2f29s/BEIN-SPORTS-PREMIUM-1.png" group-title=" SPORTSTATION 3", BeIN Sports 1 PREMIUM (AR) (backup2)
+#EXTINF:-1   tvg-logo=" https://i.postimg.cc/Dwn2f29s/BEIN-SPORTS-PREMIUM-1.png" group-title=" SPORTSTATION 3", BeIN Sports 1 PREMIUM (AR) (backup)
 http://1.amanrouf.xyz/live/6161655/index.m3u8
 
-#EXTINF:-1   tvg-logo=" https://i.postimg.cc/KYYxL0v8/BEIN-SPORTS-PREMIUM-2.png" group-title=" SPORTSTATION 3", BeIN Sports 2 PREMIUM (AR)
-http://144.217.253.140/beinsport2/tracks-v1a1/index.m3u8
-#EXTINF:-1   tvg-logo=" https://i.postimg.cc/Dwn2f29s/BEIN-SPORTS-PREMIUM-1.png" group-title=" SPORTSTATION 3", BeIN Sports 2 PREMIUM (AR) (backup)
+#EXTINF:-1   tvg-logo=" https://i.postimg.cc/Dwn2f29s/BEIN-SPORTS-PREMIUM-1.png" group-title=" SPORTSTATION 3", BeIN Sports 2 PREMIUM (AR)
 http://1.alhawalouh.xyz/live/616194987/index.m3u8
-#EXTINF:-1   tvg-logo=" https://i.postimg.cc/Dwn2f29s/BEIN-SPORTS-PREMIUM-1.png" group-title=" SPORTSTATION 3", BeIN Sports 2 PREMIUM (AR) (backup2)
+#EXTINF:-1   tvg-logo=" https://i.postimg.cc/Dwn2f29s/BEIN-SPORTS-PREMIUM-1.png" group-title=" SPORTSTATION 3", BeIN Sports 2 PREMIUM (AR) (backup)
 http://2.alhawalouh.xyz/live/616194987/index.m3u8
 
 #EXTINF:-1   tvg-logo=" https://i.postimg.cc/bJDPVdnX/BEIN-SPORTS-PREMIUM-3.png" group-title=" SPORTSTATION 3", BeIN Sports 3 PREMIUM (AR)
-http://144.217.253.140/beinsport3/tracks-v1a1/index.m3u8
-#EXTINF:-1   tvg-logo=" https://i.postimg.cc/bJDPVdnX/BEIN-SPORTS-PREMIUM-3.png" group-title=" SPORTSTATION 3", BeIN Sports 3 PREMIUM (AR) (backup)
 http://1.alhawalouh.xyz/live/6151278887/index.m3u8
-#EXTINF:-1   tvg-logo=" https://i.postimg.cc/bJDPVdnX/BEIN-SPORTS-PREMIUM-3.png" group-title=" SPORTSTATION 3", BeIN Sports 3 PREMIUM (AR) (backup2)
+#EXTINF:-1   tvg-logo=" https://i.postimg.cc/bJDPVdnX/BEIN-SPORTS-PREMIUM-3.png" group-title=" SPORTSTATION 3", BeIN Sports 3 PREMIUM (AR) (backup)
 http://3.alhawalouh.xyz/live/6151278887/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9MhFcmsy/BEIN-SPORTS-MAX.png" group-title=" SPORTSTATION 3", BeIN Sports 1 MAX [HD]
-http://10.ardounar.xyz/live/9889900/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9MhFcmsy/BEIN-SPORTS-MAX.png" group-title=" SPORTSTATION 3", BeIN Sports 1 MAX [HD] (backup)
-http://7.anbdaouras.xyz/live/9889900/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9MhFcmsy/BEIN-SPORTS-MAX.png" group-title=" SPORTSTATION 3", BeIN Sports 2 MAX [HD]
-http://4.amroutras.xyz/live/00002500/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/6qhcvxfr/Be-IN-Sports-En-Espanol.png" group-title=" SPORTSTATION 3", BeIN Sports En Espanol
-http://matiasstornini00.shortcm.li:80/shio1.m3u8
 
 #EXTINF:-1   tvg-logo=" https://i.postimg.cc/SKMnb52w/SPORT-TV-1.png " group-title="SPORTSTATION 3",SPORT TV 1 (PT)
 http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
