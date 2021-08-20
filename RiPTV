@@ -613,7 +613,7 @@ http://topwin-tv.my.id/2/master.m3u8?id=cnbcasia
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnninternational_small.png" group-title="NEWS",CNN International (UseeTV)
 http://topwin-tv.my.id/2/master.m3u8?id=cnninternational
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnninternational_small.png" group-title="NEWS",CNN International (backup)
-https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnninternational_small.png" group-title="NEWS",CNN International (backup2)
 http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
 
@@ -623,9 +623,7 @@ https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/gkfpYK4v/BBC-WORLD-NEWS.png " group-title="NEWS", BBC World News [Auto]
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/gkfpYK4v/BBC-WORLD-NEWS.png " group-title="NEWS", BBC World News (backup)
-https://1111296894.rsc.cdn77.org/LS-ATL-54548-11/index.m3u8
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/gkfpYK4v/BBC-WORLD-NEWS.png " group-title="NEWS", BBC World News (backup2)
-http://51.52.156.22:8888/http/004
+ttp://1111296894.rsc.cdn77.org/LS-ATL-54548-6/index.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/zGSNswnB/NBC-News-Now.png " group-title="NEWS", NBC NEWS NOW
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
@@ -650,23 +648,22 @@ http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/XvXRXTSd/ABC-NEWS.png" group-title="NEWS ", ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/R08jtX48/CNBS-NEWS.png" group-title="NEWS ", CBS News
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/R08jtX48/CBS-NEWS.png" group-title="NEWS ", CBSN
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/R08jtX48/CNBS-NEWS.png" group-title="NEWS ", CBS News (backup)
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/R08jtX48/CBS-NEWS.png" group-title="NEWS ", CBSN (backup)
 https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master_2200.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/pXzjgCcB/CBSN-LOS-ANGELES.png" group-title="NEWS ", CBSN LOS ANGELES
+https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT
+
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/KcdLqwfz/CBSN-NEW-YORK.png" group-title="NEWS ", CBSN NEW YORK
+https://cbsn-ny-cedexis.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/Zq1PPRsD/CBN-NEWS.png" group-title="NEWS ", CBN News
 http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
 
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/Yqq0NxCM/CGTN.png " tvg-url="" group-title="NEWS",CGTN
-https://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/Yqq0NxCM/CGTN.png " tvg-url="" group-title="NEWS",CGTN (backup)
-https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trtworld_small.png" group-title=" NEWS ",TRT WORLD (UseeTV)
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=a666587afda6e89aec274a3657558a27dfdded94c48ea6229c48edefa9ec1c9f
-#EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_trtworld_small.png " group-title="NEWS ", TRT WORLD (web)
-https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/fRsdZd6Q/RT-News.png" group-title="NEWS ", RT News
+http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_france24_small.png?v=2.0.0.13" group-title=" NEWS ",France 24 (UseeTV)
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=e4a6222cdb5b34375400904f03d8e6a5dfdded94c48ea6229c48edefa9ec1c9f
@@ -682,10 +679,10 @@ http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6412.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_euronews_small1.png?v=2.0.0.13" group-title="NEWS", EuroNews (backup)
 https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_arirang_small.png" group-title=" NEWS ",Arirang (UseeTV)
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=07cdfd23373b17c6b337251c22b7ea57f93fb3c9879684db94f7af38b446022a
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4x45s27M/logo-arirang-small.png" group-title=" NEWS ",ARIRANG (backup)
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trtworld_small.png" group-title=" NEWS ",TRT WORLD (UseeTV)
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=a666587afda6e89aec274a3657558a27dfdded94c48ea6229c48edefa9ec1c9f
+#EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_trtworld_small.png " group-title="NEWS ", TRT WORLD (web)
+https://tv-trtworld.live.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_aljazeera_small1.png?v=2.0.0.13" group-title="NEWS", Aljazeera (UseeTV)
 http://dituduhmaling.xyz/US33T4/aljazeera.m3u8
@@ -696,8 +693,21 @@ https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_aljazeera_small1.png?v=2.0.0.13" group-title="NEWS", Aljazeera (web) [SD]
 https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/Yqq0NxCM/CGTN.png " tvg-url="" group-title="NEWS",CGTN
+https://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/Yqq0NxCM/CGTN.png " tvg-url="" group-title="NEWS",CGTN (backup)
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_arirang_small.png" group-title=" NEWS ",Arirang (UseeTV)
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=07cdfd23373b17c6b337251c22b7ea57f93fb3c9879684db94f7af38b446022a
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4x45s27M/logo-arirang-small.png" group-title=" NEWS ",ARIRANG (backup)
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/dVZn9Rhh/INDIA-TODAY.png " group-title="NEWS", India Today
 https://feeds.intoday.in/hltapps/api/master.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/7PC0Nwgd/MIRROR-NOW-2.png " group-title="NEWS", Mirror Now
+https://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/master.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/vm1L69hV/NDTV-24x7.png" group-title="NEWS ",NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
@@ -1847,6 +1857,15 @@ http://77.83.117.60:8888/02_PremierHD4_480p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/RCHVpq9Z/TRUE-PREMIER-5.png " group-title=" SPORTSTATION 2 ",Premier Football 5 [SD]
 http://77.83.117.60:8888/02_PremierHD5_480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/0NLkw4Z3/ESPN-PLUS.png" group-title=" SPORTSTATION 2",ESPN+ (US)
+http://134.19.182.131:8080/edg2_2.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/rph56ht1/ESPN.png" group-title=" SPORTSTATION 2 ",ESPN 1 (US)
+http://stream.tvtap.live:8081/live/espnusahd.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/FKF0Bt1F/ESPN_2.png" group-title=" SPORTSTATION 2 ", ESPN 2 (US)
+https://qlobbidev.s.llnwi.net/bpk-tv/ESPN2/hls/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MGgzgVTT/SONY-SIX.png" group-title=" SPORTSTATION 2",SONY SIX (IND) [FHD]
 http://208.115.215.42/SonY_Six_HD/tracks-v1a1/mono.m3u8
