@@ -664,6 +664,8 @@ http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/fRsdZd6Q/RT-News.png" group-title="NEWS ", RT News
 http://rt-news.secure.footprint.net:80/1103.m3u8
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/fRsdZd6Q/RT-News.png" group-title="NEWS ", RT News (backup)
+https://rt-usa.secure.footprint.net/1105.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_france24_small.png?v=2.0.0.13" group-title=" NEWS ",France 24 (UseeTV)
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=e4a6222cdb5b34375400904f03d8e6a5dfdded94c48ea6229c48edefa9ec1c9f
@@ -1810,12 +1812,6 @@ http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=bein2
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/0QVpnHs8/logo-bein2-big1.png" group-title=" SPORTSTATION 2", BeIN Sports 2 (backup)
 http://topwin-tv.my.id/2/master.m3u8?id=bein2
 
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/sx88hkx7/BEIN-SPORTS-ENGLISH-1.png" group-title=" SPORTSTATION 2", BeIN Sports 1 ENGLISH 
-http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/j2CmCxxR/BEIN-SPORTS-ENGLISH-2.png " group-title=" SPORTSTATION 2", BeIN Sports 2 ENGLISH
-http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jqNpKmq7/Sky-Sports-Premier-League.png " group-title=" SPORTSTATION 2", Sky Sports Premier League [HD]
 http://stream.tvtap.live:8081/live/skysports-premier-league.stream/playlist.m3u8
 
@@ -1903,13 +1899,17 @@ http://77.83.117.60:8888/03_skynetsport6_480p/chunklist.m3u8
 
 
 #EXTINF:-1   tvg-logo=" https://i.postimg.cc/Dwn2f29s/BEIN-SPORTS-PREMIUM-1.png" group-title=" SPORTSTATION 3", BeIN Sports 1 PREMIUM (AR)
-http://1.alhawalouh.xyz/live/6161655/index.m3u8
+http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-1   tvg-logo=" https://i.postimg.cc/Dwn2f29s/BEIN-SPORTS-PREMIUM-1.png" group-title=" SPORTSTATION 3", BeIN Sports 1 PREMIUM (AR) (backup)
+http://1.amanrouf.xyz/live/6161655/index.m3u8
+#EXTINF:-1   tvg-logo=" https://i.postimg.cc/Dwn2f29s/BEIN-SPORTS-PREMIUM-1.png" group-title=" SPORTSTATION 3", BeIN Sports 1 PREMIUM (AR) (backup2)
 http://1.amanrouf.xyz/live/6161655/index.m3u8
 
 #EXTINF:-1   tvg-logo=" https://i.postimg.cc/Dwn2f29s/BEIN-SPORTS-PREMIUM-1.png" group-title=" SPORTSTATION 3", BeIN Sports 2 PREMIUM (AR)
-http://1.alhawalouh.xyz/live/616194987/index.m3u8
+http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
 #EXTINF:-1   tvg-logo=" https://i.postimg.cc/Dwn2f29s/BEIN-SPORTS-PREMIUM-1.png" group-title=" SPORTSTATION 3", BeIN Sports 2 PREMIUM (AR) (backup)
+http://2.alhawalouh.xyz/live/616194987/index.m3u8
+#EXTINF:-1   tvg-logo=" https://i.postimg.cc/Dwn2f29s/BEIN-SPORTS-PREMIUM-1.png" group-title=" SPORTSTATION 3", BeIN Sports 2 PREMIUM (AR) (backup2)
 http://2.alhawalouh.xyz/live/616194987/index.m3u8
 
 #EXTINF:-1   tvg-logo=" https://i.postimg.cc/bJDPVdnX/BEIN-SPORTS-PREMIUM-3.png" group-title=" SPORTSTATION 3", BeIN Sports 3 PREMIUM (AR)
