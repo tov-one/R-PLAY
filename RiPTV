@@ -1783,40 +1783,36 @@ http://31.220.41.88:8081/live/bt33.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/bt33.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/nrD8dsDb/ASTRO-SUPERSPORT-1.png " group-title="SPORTSTATION 2",Astro SUPERSPORT 1 [HD]
-http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/nrD8dsDb/ASTRO-SUPERSPORT-1.png " group-title="SPORTSTATION 2",Astro SUPERSPORT 1 [HD] (backup)
-http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Assp1_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/FR1XLCFK/ASTRO-SUPERSPORT-2.png " group-title="SPORTSTATION 2", Astro SUPERSPORT 2 [HD]
-http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/FR1XLCFK/ASTRO-SUPERSPORT-2.png " group-title="SPORTSTATION 2", Astro SUPERSPORT 2 [HD] (backup)
-http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Assp2_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/76c8M1bn/ASTRO-SUPERSPORT-3.png " group-title="SPORTSTATION 2", Astro SUPERSPORT 3 [HD]
-http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/76c8M1bn/ASTRO-SUPERSPORT-3.png " group-title="SPORTSTATION 2", Astro SUPERSPORT 3 [HD] (backup)
-http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Assp3_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/N0dwLvcV/ASTRO-SUPERSPORT-4.png " group-title="SPORTSTATION 2", Astro SUPERSPORT 4 [HD]
-http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/N0dwLvcV/ASTRO-SUPERSPORT-4.png " group-title="SPORTSTATION 2", Astro SUPERSPORT 4 [HD] (backup)
-http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/KzGPnhCq/logo-bein1-big1.png" group-title=" SPORTSTATION 2", BeIN Sports 1 (UseeTV)
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=bein1
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/KzGPnhCq/logo-bein1-big1.png" group-title=" SPORTSTATION 2", BeIN Sports 1 (backup)
-http://topwin-tv.my.id/2/master.m3u8?id=bein1
-
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/0QVpnHs8/logo-bein2-big1.png" group-title=" SPORTSTATION 2", BeIN Sports 2 (UseeTV)
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=bein2
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/0QVpnHs8/logo-bein2-big1.png" group-title=" SPORTSTATION 2", BeIN Sports 2 (backup)
-http://topwin-tv.my.id/2/master.m3u8?id=bein2
+http://50.7.161.82:8278/streams/d/Assp4_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jqNpKmq7/Sky-Sports-Premier-League.png " group-title=" SPORTSTATION 2", Sky Sports Premier League [HD]
 http://stream.tvtap.live:8081/live/skysports-premier-league.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Bbc7DWt7/Sky-Sports-Football.png " group-title=" SPORTSTATION 2", Sky Sports Football [HD]
 http://stream.tvtap.live:8081/live/skysports-football.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/KzGPnhCq/logo-bein1-big1.png" group-title=" SPORTSTATION 2", BeIN Sports 1 (UseeTV)
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=bein1
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/KzGPnhCq/logo-bein1-big1.png" group-title=" SPORTSTATION 2", BeIN Sports 1 (backup)
+http://topwin-tv.my.id/2/master.m3u8?id=bein1
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/KzGPnhCq/logo-bein1-big1.png" group-title=" SPORTSTATION 2", BeIN Sports 1 (backup2)
+https://s.id/sbiptv-beins1
+
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/0QVpnHs8/logo-bein2-big1.png" group-title=" SPORTSTATION 2", BeIN Sports 2 (UseeTV)
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=bein2
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/0QVpnHs8/logo-bein2-big1.png" group-title=" SPORTSTATION 2", BeIN Sports 2 (backup)
+http://topwin-tv.my.id/2/master.m3u8?id=bein2
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/0QVpnHs8/logo-bein2-big1.png" group-title=" SPORTSTATION 2", BeIN Sports 2 (backup2)
+https://s.id/sbiptv-beins2
 
 #EXTINF:-1   tvg-logo=" https://i.postimg.cc/NjWCJq7S/TRUE-PREMIER-HD-1.png " group-title=" SPORTSTATION 2 ",Premier Football HD 1
 http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
@@ -1847,15 +1843,6 @@ http://77.83.117.60:8888/02_PremierHD4_480p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/RCHVpq9Z/TRUE-PREMIER-5.png " group-title=" SPORTSTATION 2 ",Premier Football 5 [SD]
 http://77.83.117.60:8888/02_PremierHD5_480p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/0NLkw4Z3/ESPN-PLUS.png" group-title=" SPORTSTATION 2",ESPN+ (US)
-http://134.19.182.131:8080/edg2_2.m3u8
-
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/rph56ht1/ESPN.png" group-title=" SPORTSTATION 2 ",ESPN 1 (US)
-http://stream.tvtap.live:8081/live/espnusahd.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/FKF0Bt1F/ESPN_2.png" group-title=" SPORTSTATION 2 ", ESPN 2 (US)
-https://qlobbidev.s.llnwi.net/bpk-tv/ESPN2/hls/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MGgzgVTT/SONY-SIX.png" group-title=" SPORTSTATION 2",SONY SIX (IND) [FHD]
 http://208.115.215.42/SonY_Six_HD/tracks-v1a1/mono.m3u8
@@ -1902,14 +1889,10 @@ http://77.83.117.60:8888/03_skynetsport6_480p/chunklist.m3u8
 http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-1   tvg-logo=" https://i.postimg.cc/Dwn2f29s/BEIN-SPORTS-PREMIUM-1.png" group-title=" SPORTSTATION 3", BeIN Sports 1 PREMIUM (AR) (backup)
 http://1.amanrouf.xyz/live/6161655/index.m3u8
-#EXTINF:-1   tvg-logo=" https://i.postimg.cc/Dwn2f29s/BEIN-SPORTS-PREMIUM-1.png" group-title=" SPORTSTATION 3", BeIN Sports 1 PREMIUM (AR) (backup2)
-http://1.amanrouf.xyz/live/6161655/index.m3u8
 
 #EXTINF:-1   tvg-logo=" https://i.postimg.cc/Dwn2f29s/BEIN-SPORTS-PREMIUM-1.png" group-title=" SPORTSTATION 3", BeIN Sports 2 PREMIUM (AR)
 http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
 #EXTINF:-1   tvg-logo=" https://i.postimg.cc/Dwn2f29s/BEIN-SPORTS-PREMIUM-1.png" group-title=" SPORTSTATION 3", BeIN Sports 2 PREMIUM (AR) (backup)
-http://2.alhawalouh.xyz/live/616194987/index.m3u8
-#EXTINF:-1   tvg-logo=" https://i.postimg.cc/Dwn2f29s/BEIN-SPORTS-PREMIUM-1.png" group-title=" SPORTSTATION 3", BeIN Sports 2 PREMIUM (AR) (backup2)
 http://2.alhawalouh.xyz/live/616194987/index.m3u8
 
 #EXTINF:-1   tvg-logo=" https://i.postimg.cc/bJDPVdnX/BEIN-SPORTS-PREMIUM-3.png" group-title=" SPORTSTATION 3", BeIN Sports 3 PREMIUM (AR)
@@ -2009,17 +1992,6 @@ http://stream.tvtap.live:8081/live/fr-sfr3.stream/chunks.m3u8
 #EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/rmL1LTWY/RMC-SPORT-4.png", RMC SPORT 4 (FR) [HD]
 http://51.15.12.219:8080/kennythetiger244/n6wfNmBlQA/6059?token=GhoNVBVaEA4WUgANVgNSXFgBDgUHAFdRVw5bU1cMB1ZVAVAFUwZQAg1BHBpHRhBdAA9oDQdACQQDDlAdE0FHARNnDFFECBAABVQBGhgQFlEMBxVeUlQDCwMBUgYJBxhGEVEBF1wQAAwEUQcaGBAHQBUHRQoCDmxWVk4LUlQWDgoUVAkZRF1ca1AGXVlaVkACQ1MVSEELQEIRAgxEXVgYRgNREUcHRlcWDkEBAA0CQBRDAVgRDRZBSxECQGRiFhhGBEARUAhBW1taQQoaQEFAFEMLRDsRB0BGQV0DXFRGFl5DCUcZRF9TTGsAX1ZaVwFMCA1ZF0FYEQMDCFITHRZZCw9REVoUbUJdUEEKGgYFVw1ZQEo
 
-#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/bvwzj5gP/ARENA-SPORT-1.png", Arena Sports 1 (HR)
-http://31.220.41.88:8081/live/arena1.stream/playlist.m3u8
-#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/4x5JqGzw/ARENA-SPORT-2.png", Arena Sports 2 (HR)
-http://31.220.41.88:8081/live/arena2.stream/playlist.m3u8
-#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/5N895Lyh/ARENA-SPORT-3.png", Arena Sports 3 (HR)
-http://31.220.41.88:8081/live/arena3.stream/playlist.m3u8
-#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/fWtRL6NT/ARENA-SPORT-4.png", Arena Sports 4 (HR)
-http://31.220.41.88:8081/live/arena4.stream/playlist.m3u8
-#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/MZCKjd60/ARENA-SPORT-5.png", Arena Sports 5 (HR)
-http://31.220.41.88:8081/live/arena5.stream/playlist.m3u8
-
 #EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/NjYsdFr5/SPORT-KLUB-1.png", Sport Klub 1 (BA) [HD]
 http://stream.tvtap.live:8081/live/klub1.stream/playlist.m3u8
 #EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/WzJCvGxT/SPORT-KLUB-2.png", Sport Klub 2 (BA) [HD]
@@ -2033,10 +2005,14 @@ http://stream.tvtap.live:8081/live/klub5.stream/playlist.m3u8
 #EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/yNvwXYF4/SPORT-KLUB-6.png", Sport Klub 6 (BA) [HD]
 http://stream.tvtap.live:8081/live/klub6.stream/playlist.m3u8
 
-#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo="https://i.postimg.cc/jS4ZmTJ2/TIGO-SPORTS.png", Tigo Sports (PY) [HD]
-http://l3dtv.ga:8080/live/steveneguez1/Kdx4sHGeft/155632.m3u8
-#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo="https://i.postimg.cc/jS4ZmTJ2/TIGO-SPORTS.png", Tigo Sports (PY) [HD] (backup)
-https://dipdxjic51jcl.cloudfront.net/out/v1/affd42eba9da49dca9e30234fefa2ab5/index_6.m3u8
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/4NtvKbrG/FOOTBALL-1.png" group-title="SPORTSTATION 3",Football 1 (UKR)
+https://95-213-224-179.livesports24.online/uafootballua1.m3u8
+ 
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/mZKN26pV/FOOTBALL-2.png" group-title=" SPORTSTATION 3 ",Football 2 (UKR)
+https://95-213-224-179.livesports24.online/fooootball2.m3u8
+ 
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/6Ts3JZ0L/FOOTBALL-3.png " group-title=" SPORTSTATION 3 ",Football 3 (UKR)
+https://95-213-224-179.livesports24.online/football3ua.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/W4QHzz7c/SETANTA-SPORTS.png" group-title="SPORTSTATION 3", Setanta Sports (RUS) [AUTO]
 http://iptv.prosto.tv:7000/ch106/video.m3u8
@@ -2057,15 +2033,6 @@ https://95-213-224-179.livesports24.online/setantaplusru.m3u8
 
 #EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/Bnnywdvk/SETANTA_SPORTS_PLUS.png ", Setanta Sports+ (RUS) [SD]
 http://195.158.29.129/live_360/live.stream+_360p.m3u8
-
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/4NtvKbrG/FOOTBALL-1.png" group-title="SPORTSTATION 3",Football 1 (UKR)
-https://95-213-224-179.livesports24.online/uafootballua1.m3u8
- 
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/mZKN26pV/FOOTBALL-2.png" group-title=" SPORTSTATION 3 ",Football 2 (UKR)
-https://95-213-224-179.livesports24.online/fooootball2.m3u8
- 
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/6Ts3JZ0L/FOOTBALL-3.png " group-title=" SPORTSTATION 3 ",Football 3 (UKR)
-https://95-213-224-179.livesports24.online/football3ua.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/DfXnzFKv/MATCH-PREMIER.png" group-title="SPORTSTATION 3",MATCH Premier (RUS)
 https://95-213-224-179.livesports24.online/mpremierrus.m3u8
