@@ -1608,23 +1608,23 @@ http://topwin-tv.my.id/2/master.m3u8?id=useesports2
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62216
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?v=2.0.0.13" group-title=" SPORTSTATION 1", Fox Sports 1 [HD] (UseeTV)
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport1&bandwidth=default&sync=0
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/17
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?v=2.0.0.13" group-title=" SPORTSTATION 1", Fox Sports 1 [HD] (backup)
-http://topwin-tv.my.id/2/master.m3u8?id=foxsport1
+https://mediasv.online/tvchannel_x1/foxsport1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjEgOTo1NzozNCBBTSZoYXNoX3ZhbHVlPVFLUWducE1wd0I3dkt6VURKdjVTb2c9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAmc3RybV9sZW49MjImaWQ9Y2hfMjQwOTM=
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?v=2.0.0.13" group-title=" SPORTSTATION 1", Fox Sports 1 (VN) [HD]
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png?v=2.0.0.13" group-title=" SPORTSTATION 1", Fox Sports 2 [HD] (UseeTV)
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport2&bandwidth=default&sync=0
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/18
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png?v=2.0.0.13" group-title=" SPORTSTATION 1", Fox Sports 2 [HD] (backup)
-http://topwin-tv.my.id/2/master.m3u8?id=foxsport2
+https://mediasv.online/tvchannel_x1/foxsport2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjEgOTo1ODozOCBBTSZoYXNoX3ZhbHVlPWsyNHdCYngyYTZIQUU4VFF3bEJEWFE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAmc3RybV9sZW49MjImaWQ9Y2hfNzE2Mzg=
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png?v=2.0.0.13" group-title=" SPORTSTATION 1", Fox Sports 2 (VN) [HD]
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?v=2.0.0.13" group-title=" SPORTSTATION 1", Fox Sports 3 [HD] (UseeTV)
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport3&bandwidth=default&sync=0
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/19
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?v=2.0.0.13" group-title=" SPORTSTATION 1", Fox Sports 3 [HD] (backup)
-http://topwin-tv.my.id/2/master.m3u8?id=foxsport3
+https://mediasv.online/tvchannel_x1/foxsport3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjEgOTo1OTowMSBBTSZoYXNoX3ZhbHVlPUpOWUNTUENzU0RoSHdLK0dBSzdJNmc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAmc3RybV9sZW49MjImaWQ9Y2hfMjk2NTQ=
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?v=2.0.0.13" group-title=" SPORTSTATION 1", Fox Sports 3 (VN) [HD]
 https://livecdn.fptplay.net/qnetlive/foxsports3_1000.stream/chunklist.m3u8
 
@@ -1634,8 +1634,10 @@ http://31.220.41.88:8081/live/es-moviestarf1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/3NXkc3PK/Sky-Sports-Moto-GP.png" group-title=" SPORTSTATION 1", Sky Sports MotoGP (ITA)
 http://31.220.41.88:8081/live/es-moviestarmotogp.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/x1s7tS5W/Sky-Sports-F1.png" group-title=" SPORTSTATION 1", Sky Sports F1 [HD]
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/x1s7tS5W/Sky-Sports-F1.png" group-title=" SPORTSTATION 1", Sky Sports F1 
 http://stream.tvtap.live:8081/live/skysportsf1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/x1s7tS5W/Sky-Sports-F1.png" group-title=" SPORTSTATION 1", Sky Sports F1 (backup)
+http://89.187.185.100/SKY_SPORTS_F1/index.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/g2VmkBSv/Sky-Sports-Main-Event.png" group-title=" SPORTSTATION 1", Sky Sports Main Event [HD]
 http://stream.tvtap.live:8081/live/skysports-maineventz.stream/playlist.m3u8
