@@ -2064,7 +2064,7 @@ http://sawaiptv.vip:80/Darkiptv/Abdelhady/34004
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",NOL KM
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",NOL KM (1)
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewNolKilo.stream/chunklist_w797659833.m3u8 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",NOL KM (2)
@@ -2079,13 +2079,13 @@ https://mam.jogjaprov.go.id:1937/cctv-public/ViewSimpangTugu.stream/chunklist_w1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Stasiun Tugu
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewStasiunTugu.stream/chunklist_w1303369035.m3u8 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Simpang Pingit 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Simpang Pingit (1)
 https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_Pingit1.stream/chunklist_w1034097150.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Simpang Pingit 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Simpang Pingit (2)
 https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_Pingit2.stream/chunklist_w1313710975.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Simpang Pingit 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Simpang Pingit (3)
 https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_Pingit3.stream/chunklist_w1967862192.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Simpang Pingit 4
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Simpang Pingit (4)
 https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_Pingit4.stream/chunklist_w43813416.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Jl. Magelang (Toko A.Takrib)
@@ -2103,7 +2103,7 @@ https://mam.jogjaprov.go.id:1937/cctv-uptmalioboro/UPTMalio6_MallUtara.stream/ch
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Malioboro Mall (Selatan)
 https://mam.jogjaprov.go.id:1937/cctv-uptmalioboro/UPTMalio7_MallSelatan.stream/chunklist_w183783345.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Hotel Garuda
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Hotel Garuda (1)
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewDepanGaruda.stream/chunklist_w90059632.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Hotel Garuda (2)
@@ -2112,7 +2112,7 @@ https://mam.jogjaprov.go.id:1937/cctv-uptmalioboro/UPTMalio1_SelatanTeteg.stream
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Beringharjo
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewDepanBeringharjo.stream/chunklist_w256102437.m3u8 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",DPRD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",DPRD (1)
 https://mam.jogjaprov.go.id:1937/cctv-uptmalioboro/UPTMalio4_DepanDPRD.stream/chunklist_w1556602680.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",DPRD (2)
@@ -2127,9 +2127,9 @@ https://mam.jogjaprov.go.id:1937/cctv-public/ViewAlunAlunKidul.stream/chunklist_
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Alun-Alun Utara
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewAlunAlunUtara.stream/chunklist_w1372408415.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Patangpuluhan (SPBU Bugisan) 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Patangpuluhan (SPBU Bugisan) (1)
 https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_SugengJeroni1.stream/chunklist_w572908058.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Patangpuluhan (SPBU Bugisan) 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Patangpuluhan (SPBU Bugisan) (2)
 https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_SugengJeroni2.stream/chunklist_w1112828954.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Jlagran
@@ -2162,23 +2162,23 @@ https://mam.jogjaprov.go.id:1937/atcs-kota/Gondomanan.stream/chunklist_w14041264
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Simpang Jogjatronik Mall
 https://mam.jogjaprov.go.id:1937/atcs-kota/IbuRuswo.stream/chunklist_w876419549.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Pasar Gading (DayTrans Travel) 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Pasar Gading (DayTrans Travel) (1)
 https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_PasarGading1.stream/chunklist_w1230922513.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Pasar Gading (DayTrans Travel) 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Pasar Gading (DayTrans Travel) (2)
 https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_PasarGading2.stream/chunklist_w1134102916.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Jokteng Wetan (Cube Hotel)
 https://mam.jogjaprov.go.id:1937/atcs-kota/JoktengWetan.stream/chunklist_w1016905556.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Jl. Kol. Sugiyono (Dealer Mitsubishi) 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Jl. Kol. Sugiyono (Dealer Mitsubishi) (1)
 https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_KolSugiono1.stream/chunklist_w1152700400.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Jl. Kol. Sugiyono (Dealer Mitsubishi) 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Jl. Kol. Sugiyono (Dealer Mitsubishi) (2)
 https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_KolSugiono2.stream/chunklist_w1071462869.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", UKDW
 https://mam.jogjaprov.go.id:1937/atcs-kota/UKDW.stream/chunklist_w1386698433.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Toko Intisari (Lempuyangan)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Lempuyangan (Toko Intisari)
 https://mam.jogjaprov.go.id:1937/atcs-kota/Tunjung.stream/chunklist_w555549290.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Gayam
@@ -2193,7 +2193,7 @@ https://mam.jogjaprov.go.id:1937/atcs-kota/Sentul.stream/chunklist_w1107545712.m
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Taman Makam Pahlawan Kusumanegara
 https://mam.jogjaprov.go.id:1937/atcs-kota/Cendana.stream/chunklist_w417543410.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Pertigaan Glagahsari (Toko Kenes - UTY 2)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Pertigaan Glagahsari (Toko Kenes-UTY 2)
 https://mam.jogjaprov.go.id:1937/atcs-kota/GLAGAHSARI.stream/chunklist_w1362439667.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Pertigaan Balaikota
@@ -2202,15 +2202,15 @@ https://mam.jogjaprov.go.id:1937/atcs-kota/UST.stream/chunklist_w1651372612.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Timoho (Kampus APMD)
 https://mam.jogjaprov.go.id:1937/atcs-kota/APMD.stream/chunklist_w1680669229.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Jl. Veteran Gambiran 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Jl. Veteran Gambiran (1)
 https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_VeteranGambiran1.stream/chunklist_w1348660298.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Jl. Veteran Gambiran 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Jl. Veteran Gambiran (2)
 https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_VeteranGambiran2.stream/chunklist_w1646058819.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",SGM
 https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangSGM.stream/chunklist_w267449320.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Bandara Adisutjipto
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Bandara Adisutjipto (1)
 https://mam.jogjaprov.go.id:1937/atcs/Bandara.stream/chunklist_w674465397.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Bandara Adisutjipto (2)
@@ -2231,25 +2231,25 @@ https://mam.jogjaprov.go.id:1937/atcs/DemakIjo2.stream/chunklist_w798310962.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Ringroad Jl. Kabupaten
 https://mam.jogjaprov.go.id:1937/atcs/Kronggahan.stream/chunklist_w1921665541.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Ringroad Seturan
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Ringroad Seturan (1)
 https://mam.jogjaprov.go.id:1937/atcs/Seturan1.stream/chunklist_w2031760698.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Ringroad Seturan (2)
 https://mam.jogjaprov.go.id:1937/atcs/Seturan2.stream/chunklist_w1196069164.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Ringroad Maguwoharjo
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Ringroad Maguwoharjo (1)
 https://mam.jogjaprov.go.id:1937/atcs/Maguwo1.stream/chunklist_w1536647125.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Ringroad Maguwoharjo (2)
 https://mam.jogjaprov.go.id:1937/atcs/Maguwo2.stream/chunklist_w39707065.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Ringroad Wonosari
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Ringroad Wonosari (1)
 https://mam.jogjaprov.go.id:1937/atcs/Ketandan.stream/chunklist_w1184446446.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Ringroad Wonosari (2)
 https://mam.jogjaprov.go.id:1937/atcs/Ketandan2.stream/chunklist_w971034428.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Ringroad Giwangan
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Ringroad Giwangan(1)
 https://mam.jogjaprov.go.id:1937/atcs/Giwangan1.stream/chunklist_w1795076889.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Ringroad Giwangan (2)
