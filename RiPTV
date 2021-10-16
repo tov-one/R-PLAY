@@ -1744,16 +1744,16 @@ http://31.220.41.88:8081/live/bt33.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/bt33.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/nrD8dsDb/ASTRO-SUPERSPORT-1.png " group-title="SPORTSTATION 2",Astro SUPERSPORT 1 [HD]
-http://50.7.161.82:8278/streams/d/Assp1_pye/playlist.m3u8
+http://iptv.tvmalaysia.cc/penang189/penang189/9024
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/FR1XLCFK/ASTRO-SUPERSPORT-2.png " group-title="SPORTSTATION 2", Astro SUPERSPORT 2 [HD]
-http://50.7.161.82:8278/streams/d/Assp2_pye/playlist.m3u8
+http://iptv.tvmalaysia.cc/penang189/penang189/9025
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/76c8M1bn/ASTRO-SUPERSPORT-3.png " group-title="SPORTSTATION 2", Astro SUPERSPORT 3 [HD]
-http://50.7.161.82:8278/streams/d/Assp3_pye/playlist.m3u8
+http://iptv.tvmalaysia.cc/penang189/penang189/9020
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/N0dwLvcV/ASTRO-SUPERSPORT-4.png " group-title="SPORTSTATION 2", Astro SUPERSPORT 4 [HD]
-http://50.7.161.82:8278/streams/d/Assp4_pye/playlist.m3u8
+http://iptv.tvmalaysia.cc/penang189/penang189/9026
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jqNpKmq7/Sky-Sports-Premier-League.png " group-title=" SPORTSTATION 2", Sky Sports Premier League [HD]
 http://stream.tvtap.live:8081/live/skysports-premier-league.stream/playlist.m3u8
