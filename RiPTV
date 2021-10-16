@@ -2391,11 +2391,9 @@ http://185.180.221.194:8278/streams/d/Bernama/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nr6F4vsj/1591197703800.png" group-title="TV MALAYSIA",RTM Sports
-http://185.180.221.194:8278/streams/d/Rtmsport/playlist.m3u8
+http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nr6F4vsj/1591197703800.png" group-title="TV MALAYSIA",RTM Sports (2)
-http://50.7.161.82:8278/streams/d/Rtmsport/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nr6F4vsj/1591197703800.png" group-title="TV MALAYSIA",RTM Sports (3)
-https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b864000.m3u8
+http://185.180.221.194:8278/streams/d/Rtmsport/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/90PL86Jm/ASTRO-ARENA.png " group-title=" TV MALAYSIA ",Astro ARENA
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
