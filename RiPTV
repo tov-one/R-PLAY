@@ -1551,9 +1551,6 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=egg&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_egg_small1.png?v=2.0.0.13" group-title=" SPORTSTATION 1", EGG Network (backup)
 http://edge.linknetott.swiftserve.com:80/channelgroup5/cg523production/ch319/02.m3u8
 
-#EXTINF:0 tvg-country="HK" tvg-logo=" https://i.postimg.cc/RCc0Dy9H/Star-Sports.png " group-title=" SPORTSTATION 1",Star Sports
-rtmp://ivi.bupt.edu.cn:1935/livetv/starsports?checkedby
-
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/vHkJ5gTF/RACING.png " group-title=" SPORTSTATION 1",RACING.COM
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8?fluxustv.m3u8
 
@@ -1562,9 +1559,6 @@ https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/8CXTkbX6/Sky-Racing-2.png" group-title=" SPORTSTATION 1", Sky Racing 2 (AUS) [HD]
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
-
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/RFk2DtBg/MOTORVISION-TV.png" group-title=" SPORTSTATION 1", MOTORVISION TV
-https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-motorvisiontv/CDN/master.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/tRcyGfkh/EDGE-SPORT.png " tvg-url="" group-title=" SPORTSTATION 1",Edge Sport
 https://edgesport-samsungus.amagi.tv/playlist.m3u8
