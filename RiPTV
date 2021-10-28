@@ -660,6 +660,9 @@ https://cbsn-ny-cedexis.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa2
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/Zq1PPRsD/CBN-NEWS.png" group-title="NEWS ", CBN News
 http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
 
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/63K2nD6g/WION-NEWS.png " group-title="NEWS ", WION News
+http://rr.dens.tv/h/h91/index2.m3u8
+
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/fRsdZd6Q/RT-News.png" group-title="NEWS ", RT News
 http://rt-news.secure.footprint.net:80/1103.m3u8
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/fRsdZd6Q/RT-News.png" group-title="NEWS ", RT News (backup)
@@ -1900,29 +1903,6 @@ https://95-213-224-179.livesports24.online/rumatchf3.m3u8
 
 
 
-#EXTINF:-1   tvg-logo=" https://i.postimg.cc/T2WXx0kf/EUROSPORT-1.png" group-title=" SPORTSTATION (BACKUP)", Eurosport 1 (ES) (1)
-https://chostv.mobie.in/choos/sports/euro1.m3u8
-#EXTINF:-1   tvg-logo=" https://i.postimg.cc/D0sVcfW8/EUROSPORT-2.png" group-title=" SPORTSTATION (BACKUP)", Eurosport 2 (ES) (1)
-https://chostv.mobie.in/choos/sports/euro2.m3u8
-
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/0NLkw4Z3/ESPN-PLUS.png" group-title=" SPORTSTATION (BACKUP)",ESPN+ (US)
-http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/14817
-
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/rph56ht1/ESPN.png" group-title=" SPORTSTATION (BACKUP)",ESPN 1 (US)
-http://dimapro.cz:8080/D4:CF:F9:0B:f5:5a/GtvsuptvO00aetorando/39090
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/FKF0Bt1F/ESPN_2.png" group-title=" SPORTSTATION (BACKUP)", ESPN 2 (US)
-http://dimapro.cz:8080/D4:CF:F9:0B:f5:5a/GtvsuptvO00aetorando/39091
-
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/MGgzgVTT/SONY_SIX.png" group-title=" SPORTSTATION (BACKUP) ", SONY SIX (IND) [FHD]
-http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/4853
-
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/jdbncB5Z/SONY-TEN-1.png " group-title=" SPORTSTATION (BACKUP) ", SONY TEN 1 (IND)
-http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/74893
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/1R6Npy98/SONY-TEN-2.png " group-title=" SPORTSTATION (BACKUP) ", SONY TEN 2 (IND)
-http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/56190
-
-
-
 #EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_SPORT_ENGLISH_1_HD.png" group-title="BEIN SPORTS (BACKUP)", beIN Sports 1 ENGLISH [FHD]
 http://yassooo.com:8080/benAlaa/829293992/80010
 #EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_SPORT_ENGLISH_1_HD.png" group-title="BEIN SPORTS (BACKUP)", beIN Sports 1 ENGLISH [HD]
@@ -2061,7 +2041,7 @@ https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_PasarGading1.stream/chunklist
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Pasar Gading (DayTrans Travel) (2)
 https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_PasarGading2.stream/chunklist_w1134102916.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Jokteng Wetan (Cube Hotel)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Jokteng Wetan (Dealer Piaggio)
 https://mam.jogjaprov.go.id:1937/atcs-kota/JoktengWetan.stream/chunklist_w1016905556.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Jl. Kol. Sugiyono (Dealer Mitsubishi) (1)
@@ -2206,24 +2186,18 @@ https://mam.jogjaprov.go.id:1937/cctv-bantul/PasarBantul.stream/chunklist_w18913
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cHk4Hq0c/1591197858382.png" group-title=" TV MALAYSIA ",TV1
-http://185.180.221.194:8278/streams/d/TV1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cHk4Hq0c/1591197858382.png" group-title=" TV MALAYSIA ",TV1 (2)
 http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cHk4Hq0c/1591197858382.png" group-title=" TV MALAYSIA ",TV1 (3)
-https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cHk4Hq0c/1591197858382.png" group-title=" TV MALAYSIA ",TV1 (2)
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/j5SStq05/1591197846160.png" group-title=" TV MALAYSIA ",TV2
-http://185.180.221.194:8278/streams/d/TV2/playlist.m3u8
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/j5SStq05/1591197846160.png" group-title=" TV MALAYSIA ",TV2 (2)
 http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/j5SStq05/1591197846160.png" group-title=" TV MALAYSIA ",TV2 (3)
-https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/index.m3u8
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/j5SStq05/1591197846160.png" group-title=" TV MALAYSIA ",TV2 (2)
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/5tJVKJxG/TV3.png " group-title=" TV MALAYSIA ",TV3
-http://185.180.221.194:8278/streams/d/TV3/playlist.m3u8
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/5tJVKJxG/TV3.png " group-title=" TV MALAYSIA ",TV3 (2)
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/5tJVKJxG/TV3.png " group-title=" TV MALAYSIA ",TV3 (3)
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/5tJVKJxG/TV3.png " group-title=" TV MALAYSIA ",TV3 (2)
 http://ts.lemmovie.com/55a7edc5-112d-47ce-92bd-d242cf580f46.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/nhBx1rtB/TV9.png " group-title="TV MALAYSIA",TV9
