@@ -1896,32 +1896,111 @@ https://95-213-224-179.livesports24.online/rumatchf3.m3u8
 
 
 
-#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_SPORT_ENGLISH_1_HD.png" group-title="BEIN SPORTS (BACKUP)", beIN Sports 1 ENGLISH [FHD]
-http://yassooo.com:8080/benAlaa/829293992/80010
-#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_SPORT_ENGLISH_1_HD.png" group-title="BEIN SPORTS (BACKUP)", beIN Sports 1 ENGLISH [HD]
-http://yassooo.com:8080/benAlaa/829293992/80024
-#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_SPORT_ENGLISH_1_HD.png" group-title="BEIN SPORTS (BACKUP)", beIN Sports 1 ENGLISH [HD] (2)
-http://yassooo.com:8080/benAlaa/829293992/80119
-#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/beinsport%20SD/BEIN_SPORT_ENGLISH_1_SD.png" group-title="BEIN SPORTS (BACKUP)", beIN Sports 1 ENGLISH [SD]
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/34002
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",Live TV 1
+https://live.brimecdn.com/edge/2Q4cCWyKsACdwULyZm23/playlist.m3u8?per
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",Live TV 2
+https://live.brimecdn.com/edge/ggKrieSbEHe49Kxvw51S/playlist.m3u8?per
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",Live TV 3
+https://d2aq0cqe581r5t.cloudfront.net:443/out/v1/c7b13917082e40f6af9199e4cbf085da/playlist_2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",Live TV 4
+https://google-me.cdn.booyah.live/hls/113132/85351102.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",Live TV 5
+https://d3psd9b1q71k7a.cloudfront.net:443/out/v1/aeb66dbf26e14517b7f041805f21148e/index_2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",Live TV 6
+http://93.152.174.144:4000/play/btsport1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",Live TV 7
+http://bal.varcdn1.ru/lb/b5/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",Live TV 8
+https://d3psd9b1q71k7a.cloudfront.net/out/v1/aeb66dbf26e14517b7f041805f21148e/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",Live TV 9
+https://google-me.cdn.booyah.live/hls/113134/93317448.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",Live TV 10
+https://google-me.cdn.booyah.live/hls/113130/83188269.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",Live TV 11
+https://akamai2-mx.cdn.booyah.live/hls/9170/94739917.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",Live TV 12
+http://host4.dynns.com/stream/623d009180394c528880c14e2254452a.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",Live TV 13
+https://cloudserver.server-cdn-streaming.com/live-player/25/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",Live TV 14
+https://akamai2-mx.cdn.booyah.live/hls/9163/90209100.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",Live TV 15 
+https://tinyurl.com/yjvwfjd9
 
-#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_SPORT_ENGLISH_2_HD.png" group-title="BEIN SPORTS (BACKUP)", beIN Sports 2 ENGLISH [FHD]
-http://yassooo.com:8080/benAlaa/829293992/80009
-#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_SPORT_ENGLISH_2_HD.png" group-title="BEIN SPORTS (BACKUP)", beIN Sports 2 ENGLISH [HD]
-http://yassooo.com:8080/benAlaa/829293992/80023
-#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_SPORT_ENGLISH_2_HD.png" group-title="BEIN SPORTS (BACKUP)", beIN Sports 2 ENGLISH [HD] (2)
-http://yassooo.com:8080/benAlaa/829293992/80118
-#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/beinsport%20SD/BEIN_SPORT_ENGLISH_2_SD.png" group-title="BEIN SPORTS (BACKUP)", beIN Sports 2 ENGLISH [SD]
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/34003
-
-#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_SPORT_ENGLISH_3_HD.png" group-title="BEIN SPORTS (BACKUP)", beIN Sports 3 ENGLISH [FHD]
-http://yassooo.com:8080/benAlaa/829293992/80038
-#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_SPORT_ENGLISH_3_HD.png" group-title="BEIN SPORTS (BACKUP)", beIN Sports 3 ENGLISH [HD]
-http://yassooo.com:8080/benAlaa/829293992/80022
-#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_SPORT_ENGLISH_3_HD.png" group-title="BEIN SPORTS (BACKUP)", beIN Sports 3 ENGLISH [HD] (2)
-http://yassooo.com:8080/benAlaa/829293992/80117
-#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/beinsport%20SD/BEIN_SPORT_ENGLISH_3_SD.png" group-title="BEIN SPORTS (BACKUP)", beIN Sports 3 ENGLISH [SD]
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/34004
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",ASTRO Supersport 1
+http://nextlink.uk:25461/enjoy7/1234/6
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",ASTRO Supersport 2
+http://nextlink.uk:25461/enjoy7/1234/7
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",ASTRO Supersport 3
+http://nextlink.uk:25461/enjoy7/1234/8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",ASTRO Supersport 4
+http://nextlink.uk:25461/enjoy7/1234/9
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",ASTRO Supersport 5
+http://nextlink.uk:25461/enjoy7/1234/143
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",ASTRO Supersport PL 1
+http://nextlink.uk:25461/enjoy7/1234/253
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",ASTRO Supersport PL2
+http://nextlink.uk:25461/enjoy7/1234/254
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",ASTRO Supersport PL3
+http://nextlink.uk:25461/enjoy7/1234/255
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",ASTRO ASSP Plus
+http://nextlink.uk:25461/enjoy7/1234/383
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",SKY Sport Premier League
+http://nextlink.uk:25461/enjoy7/1234/523
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",SKY Sport Football
+http://nextlink.uk:25461/enjoy7/1234/522
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",SKY Sport F1
+http://nextlink.uk:25461/enjoy7/1234/521
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",SUPERSPORT Premier League
+http://nextlink.uk:25461/enjoy7/1234/540
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",SUPERSPORT La Liga
+http://nextlink.uk:25461/enjoy7/1234/541
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",SUPERSPORT Football
+http://nextlink.uk:25461/enjoy7/1234/542
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",SUPERPSORT Motorsport
+http://nextlink.uk:25461/enjoy7/1234/543
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",beIN SPORTS   
+http://nextlink.uk:25461/enjoy7/1234/146
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",beIN SPORT MAX  
+http://nextlink.uk:25461/enjoy7/1234/147
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",beIN SPORT MAX 2
+http://nextlink.uk:25461/enjoy7/1234/385
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",beIN SPORT MAX 4
+http://nextlink.uk:25461/enjoy7/1234/518
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",beIN SPORT MAX 5
+http://nextlink.uk:25461/enjoy7/1234/519
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",BT Sport 1
+http://nextlink.uk:25461/enjoy7/1234/402
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",BT Sport 2
+http://nextlink.uk:25461/enjoy7/1234/403
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",BT Sport 3
+http://nextlink.uk:25461/enjoy7/1234/404
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",BT Sport ESPN
+http://nextlink.uk:25461/enjoy7/1234/439
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",ASTRO Arena 
+http://nextlink.uk:25461/enjoy7/1234/5
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",ASTRO Arena 2 
+http://nextlink.uk:25461/enjoy7/1234/438
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",RTM Sport 
+http://nextlink.uk:25461/enjoy7/1234/371
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",SPOTV
+http://nextlink.uk:25461/enjoy7/1234/144
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",ESPN
+http://nextlink.uk:25461/enjoy7/1234/201
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",ESPN 2
+http://nextlink.uk:25461/enjoy7/1234/220
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",MU TV
+http://nextlink.uk:25461/enjoy7/1234/392
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",LFC TV
+http://nextlink.uk:25461/enjoy7/1234/393
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)", Eurosport HD
+http://nextlink.uk:25461/enjoy7/1234/345
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",NBA TV
+http://nextlink.uk:25461/enjoy7/1234/221
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",Golf Channel HD
+http://nextlink.uk:25461/enjoy7/1234/346
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",Rugby Pass HD
+http://nextlink.uk:25461/enjoy7/1234/347
 
 
 
