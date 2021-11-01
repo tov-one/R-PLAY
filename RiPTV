@@ -575,16 +575,16 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_abcaustralia_small.png" group-title="NEWS", ABC Australia (UseeTV)
 http://topwin-tv.my.id/2/master.m3u8?id=abcaustralia
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MGk53cBd/ABC-NEWS-AUSTRALIA.png " group-title="NEWS", ABC News Australia (Web)
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MGk53cBd/ABC-NEWS-AUSTRALIA.png " group-title="NEWS", ABC News Australia (backup)
+https://c.mjh.nz/101002210220/
+
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/BQ8s9z5S/SKY-NEWS-AUSTRALIA.png" group-title="NEWS", Sky News Australia
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/qv5KY55k/AUSTRALIA-CHANNEL.png " group-title="NEWS", Australia Channel
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MGk53cBd/ABC-NEWS-AUSTRALIA.png " group-title="NEWS", ABC News Australia (Web)
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MGk53cBd/ABC-NEWS-AUSTRALIA.png " group-title="NEWS", ABC News Australia (backup)
-https://c.mjh.nz/101002210220/
 
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_newsasia_small.png?v=2.0.0.13" group-title=" NEWS ", CNA (DensTV)
 http://210.210.155.35:80/session/ee573acc-2edd-11eb-a769-b82a72d63267/uq2663/h/h29/01.m3u8
