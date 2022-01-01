@@ -729,35 +729,35 @@ http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjqKqhch/CINEMAX.png" group-title=" HBO ",CINEMAX (Auto)
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/gjqKqhch/CINEMAX.png " group-title=" HBO ",Cinemax (backup1)
-https://www.dropbox.com/s/nm9vobcwjc1wh6i/CINEMAXX.m3u8?dl=1
+https://m3u-editor.com/serve/hbo1212/444500644.m3u8
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/gjqKqhch/CINEMAX.png " group-title=" HBO ", CINEMAX (backup2)
 http://4rr0w.my.id/wolftv/go.m3u8?ch=max
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5Ng3X8Rd/10626165-ico.png" group-title=" HBO ",HBO (Auto)
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5Ng3X8Rd/10626165-ico.png" group-title="HBO",HBO (backup1)
-https://www.dropbox.com/s/pv21nvv5ikap11w/HBOO.m3u8?dl=1
+https://m3u-editor.com/serve/hbo1212/444500577.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5Ng3X8Rd/10626165-ico.png" group-title=" HBO ",HBO (backup2)
 http://4rr0w.my.id/wolftv/go.m3u8?ch=hbo
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/NjPk4Btd/10626267-ico.png " group-title=" HBO ",HBO Signature (Auto)
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/NjPk4Btd/10626267-ico.png " group-title=" HBO ", HBO Signature (backup1)
-https://www.dropbox.com/s/dllbdpdkssknyjp/HBOSIGX.m3u8?dl=1
+https://m3u-editor.com/serve/hbo1212/427774604.m3u8
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/NjPk4Btd/10626267-ico.png " group-title=" HBO ",HBO Signature (backup2)
 http://4rr0w.my.id/wolftv/go.m3u8?ch=sig
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JhDcYv4M/10626274-ico.png" group-title=" HBO ",HBO Family (Auto)
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/JhDcYv4M/10626274-ico.png" group-title="HBO",HBO Family (backup1)
-https://www.dropbox.com/s/5u8m1owjbwvnlqf/HBOFAM.m3u8?dl=1
+https://m3u-editor.com/serve/hbo1212/444500643.m3u8
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/JhDcYv4M/10626274-ico.png " group-title=" HBO ",HBO Family (backup2)
 http://4rr0w.my.id/wolftv/go.m3u8?ch=fam
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/VkNFn5xS/10626238-ico.png " group-title=" HBO ",HBO Hits (Auto)
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/VkNFn5xS/10626238-ico.png " group-title=" HBO ",HBO Hits (backup1)
-https://www.dropbox.com/s/y1p3h8qlgfvctx8/HBOHITSS.m3u8?dl=1
+https://m3u-editor.com/serve/hbo1212/444500642.m3u8
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/VkNFn5xS/10626238-ico.png " group-title=" HBO ",HBO Hits (backup2)
 http://4rr0w.my.id/wolftv/go.m3u8?ch=hits
 
