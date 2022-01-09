@@ -216,7 +216,7 @@ https://cdn-livetv-studio.metube.id/inewstv.m3u8
 
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15" group-title="NASIONAL (BACKUP)",SCTV (UseeTV)
 https://liveanevia.mncnow.id/live/eds/SCTV-intel/sa_hls/SCTV-intel.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15" tvg-id="" tvg-name"SCTV" group-title="NASIONAL",SCTV (Vision+)
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15" tvg-id="" tvg-name"SCTV" group-title="NASIONAL (BACKUP)",SCTV (Vision+)
 https://visionplus-stream.visionplus.id/live/eds/SCTV-intel/sa_hls/SCTV-intel.m3u8
 
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png?v=2.0.0.15" group-title="NASIONAL (BACKUP)",INDOSIAR (UseeTV)
@@ -1552,15 +1552,15 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Str
 #EXTINF:-1   tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="SPORTSTATION 2 ", Champions TV 1 (UseeTV)
 http://topwin-tv.my.id/2/master.m3u8?id=champion1
 #EXTINF:-1   tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="SPORTSTATION 2 ", Champions TV 1 (Vidio)
-http://golive.cf/vidio/live-champion1.m3u8
+https://m3u-editor.com/live/serve/fhjhddfnmh/409160916.m3u8
 
 #EXTINF:-1   tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" group-title="SPORTSTATION 2 ", Champions TV 2 (UseeTV)
 http://topwin-tv.my.id/2/master.m3u8?id=champion2
 #EXTINF:-1   tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" group-title="SPORTSTATION 2 ", Champions TV 2 (Vidio)
-http://golive.cf/vidio/live-champion2.m3u8
+https://m3u-editor.com/live/serve/fhjhddfnmh/409160917.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/K8kx7J1V/CHAMPION-TV-3.png " group-title="SPORTSTATION 2 ", Champions TV 3 (Vidio)
-http://golive.cf/vidio/live-champion3.m3u8
+https://m3u-editor.com/live/serve/fhjhddfnmh/409254760.m3u8
 
 #EXTINF:-1   tvg-logo=" https://i.postimg.cc/cL12RJRR/BT-SPORT-1.png" group-title=" SPORTSTATION 2 ", BT Sport 1 [HD]
 http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
@@ -1578,16 +1578,16 @@ http://31.220.41.88:8081/live/bt33.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/bt33.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/nrD8dsDb/ASTRO-SUPERSPORT-1.png " group-title="SPORTSTATION 2",Astro SUPERSPORT 1 [HD]
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52859.m3u8
+http://iptv.tvmalaysia.cc:80/penang175/penang175/9024
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/FR1XLCFK/ASTRO-SUPERSPORT-2.png " group-title="SPORTSTATION 2", Astro SUPERSPORT 2 [HD]
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52860.m3u8
+http://iptv.tvmalaysia.cc:80/penang175/penang175/9025
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/76c8M1bn/ASTRO-SUPERSPORT-3.png " group-title="SPORTSTATION 2", Astro SUPERSPORT 3 [HD]
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52861.m3u8
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6711
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/N0dwLvcV/ASTRO-SUPERSPORT-4.png " group-title="SPORTSTATION 2", Astro SUPERSPORT 4 [HD]
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52862.m3u8
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6712
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jqNpKmq7/Sky-Sports-Premier-League.png " group-title=" SPORTSTATION 2", Sky Sports Premier League [HD]
 http://stream.tvtap.live:8081/live/skysports-premier-league.stream/playlist.m3u8
