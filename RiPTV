@@ -884,6 +884,32 @@ https://playout4multirtmp.tulix.tv/live7/Stream1/chunklist_w1897993124.m3u8
 #EXTINF:-1   tvg-logo=" https://i.postimg.cc/pLmqd4qx/PEOPLE-ARE-AWESOME.png " group-title="HIBURAN",People are Awesome
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/1280x720_5000000/chunklist.m3u8
 
+#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png?v=2.0.0.13" group-title=" HIBURAN ",TVRI World
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C5wwJTR7/bisnet-lifestyle.png" group-title=" HIBURAN ", Biznet Lifestyle
+http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_afc_small.png?v=2.0.0.17" group-title=" HIBURAN ", Asian Food Network (UseeTV)
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_eatgo_small1.png?v=2.0.0.13" group-title=" HIBURAN ", Eat & Go (UseeTV)
+http://topwin-tv.my.id/2/master.m3u8?id=eatgo
+
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/SKBFwj0v/HD-FASHION-Life-Style.png" group-title=" HIBURAN ", HD FASHION & LifeStyle
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/MpgxNjcv/logo-fashiontv-big1.png " group-title=" HIBURAN ",Fashion TV
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b1400000_t64NDgwcA==.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6qnWNK6N/DENS-LIFESTYLE.png" group-title=" HIBURAN ",DENS LIFESTYLE (DensTV)
+http://210.210.155.35/session/6afa4666-b06f-11ea-b559-9431acada584/uq2663/h/h28/02.m3u8
+
+#EXTINF:-1  tvg-logo=" https://i.postimg.cc/bYSxXt8H/logo-mytv-big.png " group-title=" HIBURAN ",MyTV (Vidio)
+https://iptv.mwafa.net/vidio/6711/index.m3u8?token=1999
+#EXTINF:-1  tvg-logo=" https://i.postimg.cc/bYSxXt8H/logo-mytv-big.png " tvg-id="" tvg-name"MyTV" group-title=" HIBURAN ",MyTV (DensTV)
+http://210.210.155.35:80/session/5fa1cb6e-2edb-11eb-9063-b82a72d63267/qwr9ew/s/s46/01.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/Xvq94ZYd/CITRA-BIOSKOP.png " group-title="FILM",Citra Bioskop (Vidio)
@@ -1140,46 +1166,6 @@ http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62188
 https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/1tmnS69v/TLC.png " group-title="PENGETAHUAN",TLC (VN) [HD]
 https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b1200000.m3u8
-
-
-
-#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png?v=2.0.0.13" group-title=" LIFESTYLE ",TVRI Budaya
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/index.m3u8
-
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/508d11bN/BBC-LIFESTYLE.png " group-title="LIFESTYLE", BBC Lifestyle [SD]
-https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/508d11bN/BBC-LIFESTYLE.png " group-title="LIFESTYLE", BBC Lifestyle [HD]
-https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist_b1200000.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_afc_small.png?v=2.0.0.17" group-title=" LIFESTYLE ", Asian Food Network (UseeTV)
-http://topwin-tv.my.id/2/master.m3u8?id=afc
-#EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_afc_small.png?v=2.0.0.17" group-title=" LIFESTYLE ", Asian Food Network (backup)
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=afc&bandwidth=default&sync=0
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_eatgo_small1.png?v=2.0.0.13" group-title=" LIFESTYLE ", Eat & Go (UseeTV)
-http://topwin-tv.my.id/2/master.m3u8?id=eatgo
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_eatgo_small1.png?v=2.0.0.13" group-title=" LIFESTYLE ", Eat & Go (backup)
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=eatgo&bandwidth=default&sync=0
-
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/7hNFGV5F/BEACH-TV.png" group-title=" LIFESTYLE ",Beach TV
-https://tinyurl.com/gratistvmediaBEACH
-
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/SKBFwj0v/HD-FASHION-Life-Style.png" group-title="LIFESTYLE", HD FASHION & LifeStyle
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
-
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/MpgxNjcv/logo-fashiontv-big1.png " group-title="LIFESTYLE",Fashion TV
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b1400000_t64NDgwcA==.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/C5wwJTR7/bisnet-lifestyle.png" group-title="LIFESTYLE", Biznet Lifestyle
-http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/6qnWNK6N/DENS-LIFESTYLE.png" group-title="LIFESTYLE",DENS LIFESTYLE (DensTV)
-http://210.210.155.35/session/6afa4666-b06f-11ea-b559-9431acada584/uq2663/h/h28/02.m3u8
-
-#EXTINF:-1  tvg-logo=" https://i.postimg.cc/bYSxXt8H/logo-mytv-big.png " group-title="LIFESTYLE",MyTV (Vidio)
-https://iptv.mwafa.net/vidio/6711/index.m3u8?token=1999
-#EXTINF:-1  tvg-logo=" https://i.postimg.cc/bYSxXt8H/logo-mytv-big.png " tvg-id="" tvg-name"MyTV" group-title="LIFESTYLE",MyTV (DensTV)
-http://210.210.155.35:80/session/5fa1cb6e-2edb-11eb-9063-b82a72d63267/qwr9ew/s/s46/01.m3u8
 
 
 
