@@ -1957,7 +1957,7 @@ https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_Pingit4.stream/chunklist_w438
 https://mam.jogjaprov.go.id:1937/atcs/SelokanMataram.stream/chunklist_w2039814763.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Perempatan Denggung (Alun-alun Sleman)
-http://103.71.191.168/8883/hls/live.stream-260962.ts
+http://103.71.191.168/8883/hls/live.stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Pertigaan Jl. Kyai Mojo (Toko A.Takrib) 1
 https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_KyaiMojo.stream/chunklist_w557891769.m3u8
