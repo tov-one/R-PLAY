@@ -961,9 +961,6 @@ http://gpc.my.id/vidio/zee-bioskop.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png?v=2.0.0.13" group-title="FILM", Zee bioskop (DensTV)
 http://rr2.dens.tv/s/s32/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rFk2gnx2/ZEE-CINEMA.png " group-title="FILM", Zee Cinema (backup8)
-http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62140
-
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png?v=2.0.0.13" group-title="FILM", Galaxy (UseeTV)
 http://topwin-tv.my.id/2/master.m3u8?id=galaxy
 
@@ -978,12 +975,6 @@ http://topwin-tv.my.id/2/master.m3u8?id=imc
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/tgMZSJyN/HITS.png " group-title="FILM", HITS
 http://playlist.urfan.web.id/dr9445/h/h37/02.m3u8
-
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/W4814StH/FLIX.png" group-title="FILM",&flix HD
-https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/gJ5CN6nD/prive-hd.png" group-title="FILM",&Privé HD
-https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/mono.m3u8
 
 
 
@@ -1042,46 +1033,34 @@ http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_lingua_small.png" group-title=" PENGETAHUAN ",Lingua (UseeTV)
 http://topwin-tv.my.id/2/master.m3u8?id=lingua
 
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/jdpD5Bxw/Smithsonian-Channel.png " group-title="PENGETAHUAN",Smithsonian Channel (Vidio)
-http://gpc.my.id/vidio/smithsonian.m3u8
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/jdpD5Bxw/Smithsonian-Channel.png " group-title="PENGETAHUAN",Smithsonian Channel (backup)
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/jdpD5Bxw/Smithsonian-Channel.png " group-title="PENGETAHUAN",Smithsonian Channel (web)
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/tgZ9JgHL/love-nature-4k.png " group-title="PENGETAHUAN",Love Nature (Vidio)
-http://gpc.my.id/vidio/love-nature.m3u8
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/tgZ9JgHL/love-nature-4k.png " group-title="PENGETAHUAN",Love Nature (backup)
-http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wTsw-FydW/bisnet-adventure-4k.png" group-title="PENGETAHUAN", Biznet Adventure 4K
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/tgZ9JgHL/love-nature-4k.png " group-title="PENGETAHUAN",Love Nature (web)
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png?v=2.0.0.13" group-title="PENGETAHUAN", Nat Geo (UseeTV)
 http://topwin-tv.my.id/2/master.m3u8?id=natgeo
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png?v=2.0.0.13" group-title="PENGETAHUAN", Nat Geo (backup)
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeo&bandwidth=default&sync=0
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png?v=2.0.0.13" group-title="PENGETAHUAN", Nat Geo (backup5)
-http://185.180.221.194:8278/streams/d/Natgeo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png?v=2.0.0.13" group-title="PENGETAHUAN", Nat Geo People (UseeTV)
 http://topwin-tv.my.id/2/master.m3u8?id=natgeopeople
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png?v=2.0.0.13" group-title="PENGETAHUAN", Nat Geo People (backup)
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeopeople&bandwidth=default&sync=0
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png?v=2.0.0.13" group-title="PENGETAHUAN", Nat Geo People (backup5)
-http://185.180.221.194:8278/streams/d/Natgeopeople/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png?v=2.0.0.13" group-title="PENGETAHUAN", Nat Geo Wild (UseeTV)
 http://topwin-tv.my.id/2/master.m3u8?id=natgeowild 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png?v=2.0.0.13" group-title="PENGETAHUAN", Nat Geo Wild (backup)
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeowild&bandwidth=default&sync=0
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png?v=2.0.0.13" group-title="PENGETAHUAN", Nat Geo Wild (backup5)
-http://185.180.221.194:8278/streams/d/Natgeowild/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png?v=2.0.0.13" group-title="PENGETAHUAN", Discovery Channel (UseeTV)
 http://topwin-tv.my.id/2/master.m3u8?id=disco
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png?v=2.0.0.13" group-title="PENGETAHUAN", Discovery Channel (backup)
 https://feed.play.mv/live/10005200/2Lkn0sCJBz/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png?v=2.0.0.13" group-title="PENGETAHUAN", Discovery Channel (backup2)
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=disco&bandwidth=default&sync=0
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NFzYrfLB/DISCOVERY-ASIA.png" group-title="PENGETAHUAN", Discovery Asia
 http://iptvtree.net:8080/test-220471/4008/197968
@@ -1096,18 +1075,12 @@ https://feed.play.mv/live/10005200/7EsSDh7aX6/master.m3u8
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C1wLNxPT/ANIMAL-PLANET.png" group-title="PENGETAHUAN", Animal Planet (backup)
 https://m3u-editor.com/serve/00650a80-d16b-11eb-a003-876425f879d4/320891863
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/C1wLNxPT/ANIMAL-PLANET.png" group-title="PENGETAHUAN", Animal Planet (backup5)
-http://185.180.221.194:8278/streams/d/AnimalPlanet/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png?v=2.0.0.13" group-title="PENGETAHUAN", History (UseeTV)
 http://topwin-tv.my.id/2/master.m3u8?id=history
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png?v=2.0.0.13" group-title="PENGETAHUAN", History (backup)
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=history&bandwidth=default&sync=0
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png?v=2.0.0.13" group-title="PENGETAHUAN", History (backup5)
-http://185.180.221.194:8278/streams/d/History/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cgtndocumentary_small1.png?v=2.0.0.13" group-title=" PENGETAHUAN ",CGTN Documentary (UseeTV)
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=9f61408e3afb633e50cdf1b20de6f466f93fb3c9879684db94f7af38b446022a
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_cgtndocumentary_small1.png?v=2.0.0.13" group-title="PENGETAHUAN", CGTN Documentary (web)
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_cgtndocumentary_small1.png?v=2.0.0.13" group-title="PENGETAHUAN", CGTN Documentary (backup)
@@ -1115,57 +1088,27 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/hvwfV5VY/Crime-Investigation.png " group-title="PENGETAHUAN", Crime + Investigation (UseeTV)
 http://topwin-tv.my.id/2/master.m3u8?id=crime
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/hvwfV5VY/Crime-Investigation.png " group-title="PENGETAHUAN", Crime+ Investigation (backup1)
-https://tinyurl.com/gratistvmediaCRIMEINVES
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo=" https://i.postimg.cc/hvwfV5VY/Crime-Investigation.png " tvg-url="" group-title="PENGETAHUAN",Crime + Investigation [HD] (backup2)
-http://203.154.243.31:15001
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.postimg.cc/gkDYdR5S/Crime-360.png" tvg-url="" group-title=" PENGETAHUAN ",Crime 360
 https://aenetworks-crime360-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.postimg.cc/gkDYdR5S/Crime-360.png" tvg-url="" group-title=" PENGETAHUAN ",Crime 360 (backup)
 https://aenetworks-crime360-1.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.postimg.cc/bvHJGMFP/Court-TV-Mystery.png" tvg-url="" group-title=" PENGETAHUAN ",Court TV Mystery
-https://bozztv.com/teleyupp/teleup-mystery/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_hgtv_small.png" group-title=" PENGETAHUAN ", HGTV (UseeTV)
 http://topwin-tv.my.id/2/master.m3u8?id=hgtv
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_hgtv_small.png" group-title=" PENGETAHUAN ", HGTV (backup)
-http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_outdoor_small.png?v=1.1" group-title="PENGETAHUAN",Outdoor Channel (UseeTV)
 http://gpc.my.id/usee/outdoor.m3u8
-#EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_outdoor_small.png?v=1.1" group-title="PENGETAHUAN",Outdoor Channel [SD]
-https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_outdoor_small.png?v=1.1" group-title="PENGETAHUAN",Outdoor Channel [HD]
-https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b1200000.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/GpYKFDW5/OUTSIDE-TV.png " group-title="PENGETAHUAN", OUTSIDE TV
 https://outsidetvplus-stirr.amagi.tv/playlistR720P.m3u8
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/GpYKFDW5/OUTSIDE-TV.png " group-title="PENGETAHUAN", OUTSIDE TV (backup)
-https://dai.google.com/linear/hls/event/HJAq3zH1SUy_B6fb1j80_Q/master.m3u8?source:iptvmate.net
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/GpYKFDW5/OUTSIDE-TV.png " group-title="PENGETAHUAN", OUTSIDE TV (backup2)
 https://outside-tv.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YS1hzSGV/DOCUBOX.png" group-title="PENGETAHUAN",DocuBOX
-http://203.154.177.124:8899/live/ch2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YS1hzSGV/DOCUBOX.png" group-title="PENGETAHUAN",DocuBOX (backup)
-https://1795195508.rsc.cdn77.org/1795195508/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/fb0q3X3c/NASA-TV.png " group-title="PENGETAHUAN",NASA TV 
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/fb0q3X3c/NASA-TV.png " group-title="PENGETAHUAN",NASA TV (backup)
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Gt10JcDM/PULSE-TV.png" group-title="PENGETAHUAN",PULSE TV
-http://203.154.177.124:8899/live/ch18/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/1tmnS69v/TLC.png " group-title="PENGETAHUAN",TLC
-http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62188
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/1tmnS69v/TLC.png " group-title="PENGETAHUAN",TLC (VN) [SD]
-https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/1tmnS69v/TLC.png " group-title="PENGETAHUAN",TLC (VN) [HD]
-https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b1200000.m3u8
 
 
 
@@ -1414,21 +1357,6 @@ https://m3u-editor.com/serve/b7b02340-302b-11ec-9783-a5755b612ef8/404334857
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PxYWSjBf/MNC-SPORTS.png" group-title=" SPORTSTATION 1", MNC Sports
 http://cdn-livetv-studio.metube.id/mncsport_480/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?v=2.0.0.13" group-title=" SPORTSTATION 1", Fox Sports 1 [HD] (UseeTV)
-http://topwin-tv.my.id/2/chunklist.m3u8?id=foxsport1&bandwidth=default&sync=0
-#EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?v=2.0.0.13" group-title=" SPORTSTATION 1", Fox Sports 1 (VN) [HD]
-https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png?v=2.0.0.13" group-title=" SPORTSTATION 1", Fox Sports 2 [HD] (UseeTV)
-http://topwin-tv.my.id/2/chunklist.m3u8?id=foxsport2&bandwidth=default&sync=0
-#EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png?v=2.0.0.13" group-title=" SPORTSTATION 1", Fox Sports 2 (VN) [HD]
-https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?v=2.0.0.13" group-title=" SPORTSTATION 1", Fox Sports 3 [HD] (UseeTV)
-http://topwin-tv.my.id/2/chunklist.m3u8?id=foxsport3&bandwidth=default&sync=0
-#EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?v=2.0.0.13" group-title=" SPORTSTATION 1", Fox Sports 3 (VN) [HD]
-https://livecdn.fptplay.net/qnetlive/foxsports3_1000.stream/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/x1s7tS5W/Sky-Sports-F1.png" group-title=" SPORTSTATION 1", Sky Sports F1 
 http://stream.tvtap.live:8081/live/skysportsf1.stream/playlist.m3u8
 
@@ -1438,23 +1366,14 @@ http://stream.tvtap.live:8081/live/skysports-maineventz.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/J0WdG77B/Sky-Sports-Arena.png" group-title=" SPORTSTATION 1", Sky Sports Arena [HD]
 http://stream.tvtap.live:8081/live/skysports-arena.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/CKX2pHW7/Sky-Sports-Golf.png " group-title=" SPORTSTATION 1", Sky Sports Golf [HD]
-http://stream.tvtap.live:8081/live/skysports-golf.stream/playlist.m3u8
-
-#EXTINF:-1   tvg-logo=" https://i.postimg.cc/T2WXx0kf/EUROSPORT-1.png" group-title=" SPORTSTATION 1 ", Eurosport 1 (TH)
+#EXTINF:-1   tvg-logo=" https://i.postimg.cc/T2WXx0kf/EUROSPORT-1.png" group-title=" SPORTSTATION 1 ", Eurosport 1
 http://77.83.117.60:8888/02_EUROHD1_720p/chunklist.m3u8
-#EXTINF:-1   tvg-logo=" https://i.postimg.cc/T2WXx0kf/EUROSPORT-1.png" group-title=" SPORTSTATION 1 ", Eurosport 1 (ES)
-http://91.126.141.201:1935/live/eurosport1nntv/chunklist_w65928025.m3u8
 
-#EXTINF:-1   tvg-logo=" https://i.postimg.cc/D0sVcfW8/EUROSPORT-2.png" group-title=" SPORTSTATION 1 ", Eurosport 2 (TH)
+#EXTINF:-1   tvg-logo=" https://i.postimg.cc/D0sVcfW8/EUROSPORT-2.png" group-title=" SPORTSTATION 1 ", Eurosport 2
 http://77.83.117.60:8888/02_EUROHD2_720p/chunklist.m3u8
-#EXTINF:-1   tvg-logo=" https://i.postimg.cc/D0sVcfW8/EUROSPORT-2.png" group-title=" SPORTSTATION 1 ", Eurosport 2 (ES)
-http://91.126.141.201:1935/live/eurosport2hdnntv/chunklist_w1420994503.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/wvBNsdVq/NBA-TV.png " group-title="SPORTSTATION 1",NBA (UseeTV)
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=nba&bandwidth=default&sync=0
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/wvBNsdVq/NBA-TV.png " group-title="SPORTSTATION 1",NBA (TH) [HD]
-http://77.83.117.60:8888/02_nbahd_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/3JsX68k3/UFC.png" group-title=" SPORTSTATION 1",UFC
 http://live-ng-01.more.tv/hls/UFC/index_0.m3u8
@@ -1467,21 +1386,12 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jjL53jdx/Fight-Sports.png" tvg-country="US" tvg-url="" group-title=" SPORTSTATION 1",Fight Sports (DensTV)
 http://210.210.155.35/uq2663/h/h05/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jjL53jdx/Fight-Sports.png" tvg-country="US" tvg-url="" group-title=" SPORTSTATION 1",Fight Sports (backup)
-http://playlist.urfan.web.id/x6bnqe/h/h05/01.m3u8
 
 #EXTINF:0 tvg-logo=" https://i.postimg.cc/N0S03w51/ONE-GOLF.png "  group-title=" SPORTSTATION 1",ONE GOLF
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_golf_small1.png?v=2.0.0.14" group-title=" SPORTSTATION 1", GOLF Channel (UseeTV)
 http://playlist.urfan.web.id/dr9445/h/h10/01.m3u8
-#EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_golf_small1.png " group-title=" SPORTSTATION 1", GOLF Channel (backup)
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_egg_small1.png?v=2.0.0.13" group-title=" SPORTSTATION 1",EGG Network (UseeTV)
-http://playlist.urfan.web.id/uq2663/h/h22/01.m3u8
-#EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_egg_small1.png?v=2.0.0.13" group-title=" SPORTSTATION 1", EGG Network (backup)
-http://edge.linknetott.swiftserve.com:80/channelgroup5/cg523production/ch319/02.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/vHkJ5gTF/RACING.png " group-title=" SPORTSTATION 1",RACING.COM
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8?fluxustv.m3u8
@@ -1494,8 +1404,6 @@ https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/tRcyGfkh/EDGE-SPORT.png " tvg-url="" group-title=" SPORTSTATION 1",Edge Sport
 https://edgesport-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/tRcyGfkh/EDGE-SPORT.png " tvg-url="" group-title=" SPORTSTATION 1",Edge Sport (backup)
-https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="Red Bull TV" tvg-country="INT" tvg-language="English" tvg-logo=" https://i.postimg.cc/4NQmmMSg/REDBULL-TV.png " tvg-url="" group-title=" SPORTSTATION 1",Red Bull TV
 https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
@@ -1624,187 +1532,6 @@ http://77.83.117.60:8888/02_PremierHD4_480p/chunklist.m3u8
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/RCHVpq9Z/TRUE-PREMIER-5.png " group-title=" SPORTSTATION 2 ",Premier Football 5 [SD]
 http://77.83.117.60:8888/02_PremierHD5_480p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MGgzgVTT/SONY-SIX.png" group-title=" SPORTSTATION 2",SONY SIX (IND) [FHD]
-https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdbncB5Z/SONY-TEN-1.png" group-title=" SPORTSTATION 2",SONY TEN 1 (IND) [FHD]
-https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1R6Npy98/SONY-TEN-2.png" group-title=" SPORTSTATION 2",SONY TEN 2 (IND)
-https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1XpnPrWG/SONY-TEN-3.png" group-title=" SPORTSTATION 2",SONY TEN 3 (IND)
-https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
-
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/13GZ6zQH/SKYNET-SPORTS-HD.png " group-title="SPORTSTATION 2", SkyNet Sports HD
-http://77.83.117.60:8888/03_skynetsporthd_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/fyG6tGqp/SKYNET-SPORTS-1.png" group-title="SPORTSTATION 2", SkyNet Sports 1
-http://77.83.117.60:8888/03_skynetsport1_480p/chunklist.m3u8 
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/fyG6tGqp/SKYNET-SPORTS-1.png" group-title="SPORTSTATION 2", SkyNet Sports 1 (backup)
-http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports1/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/N0bqJPL2/SKYNET-SPORTS-2.png" group-title="SPORTSTATION 2", SkyNet Sports 2
-http://77.83.117.60:8888/03_skynetsport2_480p/chunklist.m3u8
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/N0bqJPL2/SKYNET-SPORTS-2.png" group-title="SPORTSTATION 2", SkyNet Sports 2 (backup)
-http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports2/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/9fcHBjXj/SKYNET-SPORTS-3.png" group-title="SPORTSTATION 2", SkyNet Sports 3
-http://77.83.117.60:8888/03_skynetsport3_480p/chunklist.m3u8
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/9fcHBjXj/SKYNET-SPORTS-3.png" group-title="SPORTSTATION 2", SkyNet Sports 3 (backup)
-http://916309128f3e.sn.mynetname.net:1935/aslive/astrosupersport4/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/Tww8ZqW7/SKYNET-SPORTS-4.png " group-title="SPORTSTATION 2", SkyNet Sports 4
-http://77.83.117.60:8888/03_skynetsport4_480p/chunklist.m3u8 
-
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/BbcLL0Mw/SKYNET-SPORTS-5.png" group-title="SPORTSTATION 2", SkyNet Sports 5
-http://77.83.117.60:8888/03_skynetsport5_480p/chunklist.m3u8 
-
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/rsLRwmCr/SKYNET-SPORTS-6.png" group-title="SPORTSTATION 2", SkyNet Sports 6
-http://77.83.117.60:8888/03_skynetsport6_480p/chunklist.m3u8
-
-
-
-#EXTINF:-1   tvg-logo=" https://i.postimg.cc/Dwn2f29s/BEIN-SPORTS-PREMIUM-1.png" group-title=" SPORTSTATION 3", BeIN Sports 1 PREMIUM (AR)
-http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
-
-#EXTINF:-1   tvg-logo=" https://i.postimg.cc/Dwn2f29s/BEIN-SPORTS-PREMIUM-1.png" group-title=" SPORTSTATION 3", BeIN Sports 2 PREMIUM (AR)
-http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
-
-#EXTINF:-1   tvg-logo=" https://i.postimg.cc/bJDPVdnX/BEIN-SPORTS-PREMIUM-3.png" group-title=" SPORTSTATION 3", BeIN Sports 3 PREMIUM (AR)
-http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3uEP
-
-#EXTINF:-1   tvg-logo=" https://i.postimg.cc/SKMnb52w/SPORT-TV-1.png " group-title="SPORTSTATION 3",SPORT TV 1 (PT)
-http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
-
-#EXTINF:-1   tvg-logo=" https://i.postimg.cc/MGVPgP9T/SPORT-TV-2.png " group-title=" SPORTSTATION 3 ",SPORT TV 2 (PT)
-http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
-
-#EXTINF:-1   tvg-logo=" https://i.postimg.cc/ncSPmQsH/SPORT-TV-3.png " group-title=" SPORTSTATION 3 ",SPORT TV 3 (PT)
-http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
-
-#EXTINF:-1   tvg-logo=" https://i.postimg.cc/7YZRbNZs/SPORT-TV-4.png " group-title=" SPORTSTATION 3 ",SPORT TV 4 (PT)
-http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/W4kX4Rcw/SPORT-TV-5.png "  group-title=" SPORTSTATION 3 ",SPORT TV 5 (PT)
-http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/NGCYntHC/CANAL-SPORT.png", CANAL+ SPORT (PL)
-http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/NGCYntHC/CANAL-SPORT.png", CANAL+ SPORT (FR)
-http://stream.tvtap.live:8081/live/fr-canaplus-sport.stream/playlist.m3u8
-
-#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/wT30jGQ7/Movistar-La-Liga.png ",Movistar LaLiga (ES)
-http://stream.tvtap.live:8081/live/bein-laliga.stream/playlist.m3u8
-
-#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/SNWSpXvk/DAZN-1.png", DAZN 1 (DE) [HD]
-http://stream.tvtap.live:8081/live/de-dazn1.stream/chunks.m3u8 
-
-#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/bwgqs7P5/DAZN-2.png", DAZN 2 (DE) [HD]
-http://stream.tvtap.live:8081/live/de-dazn2.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/J7xrKSJM/SKY-SPORT-1.png" group-title=" SPORTSTATION 3 ", Sky Sport 1 (DE)
-http://stream.tvtap.live:8081/live/de-skysport1.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/J0pRnBmG/SKY-SPORT-2.png" group-title="SPORTSTATION 3",Sky Sport 2 (DE)
-http://stream.tvtap.live:8081/live/de-skysport20.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/rph56ht1/ESPN.png" group-title=" SPORTSTATION 3 ", ESPN 1 (NL)
-http://31.220.41.88:8081/live/nl-foxsports1.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/FKF0Bt1F/ESPN-2.png" group-title="SPORTSTATION 3",ESPN 2 (NL)
-http://31.220.41.88:8081/live/nl-foxsports2.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/x13K5jfF/ESPN-3.png" group-title=" SPORTSTATION 3 ",ESPN 3 (NL)
-http://31.220.41.88:8081/live/nl-foxsports3.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/mgJ2CM99/ESPN-4.png" group-title=" SPORTSTATION 3 ", ESPN 4 (NL)
-http://31.220.41.88:8081/live/nl-foxsports4.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/tTtXKMMd/ZIGGO-SPORT-VOETBAL.png " group-title="SPORTSTATION 3",Ziggo Sport Voetbal (NL)
-http://31.220.41.88:8081/live/nl-ziggovoetbal.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/J0r1M5ff/ZIGGO-SPORT-SELECT.png " group-title=" SPORTSTATION 3 ",Ziggo Sport Select (NL)
-http://31.220.41.88:8081/live/nl-ziggoselect.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/d1KsSY4t/ZIGGO-SPORT-RACING.png " group-title=" SPORTSTATION 3 ", Ziggo Sport Racing (NL)
-http://31.220.41.88:8081/live/nl-ziggoracing.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/fLryCpSP/ELEVEN-SPORTS-1.png " group-title="SPORTSTATION 3",Eleven Sports 1 (PL)
-http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
-
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/LsvnYn92/ELEVEN-SPORTS-2.png " group-title="SPORTSTATION 3",Eleven Sports 2 (PL)
-http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
-
-#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/nrQ9YH2T/RMC-SPORT-1.png", RMC SPORT 1 (FR) [HD]
-https://22live00.akamaized.net/RMC_Sports_1/index.m3u8?token=JPxfa1FF6N8Zb3ZLI9fzxPzDuhRUCvqj0QLPLTVKRr0tnIG0ru1WBHfsjkurNzVyG8ZS92dioCoVnQlLoMtwpa2M3K6uKpRMGzlyVm6Zmvjd82AYr73k1BfTEsY4tBLe4HuEuQNQtn%2Bq3K9PRfRej1huApvC1rnWuExU%2Bf%2FQR5X%2Fn7cqH4c729CEJsvMj7BsYMEJxgGDlmMRYVEYQF6b61gVMQb%2BJpt2X%2Bni5jBb6B39aXRuUZwEzsVoJa9OIt7UsiAo398PYMGdDHkQqgQCjSoJnDz0Z%2FMx3180yfT7L7qx5kC8RBz1VJAkF%2BDHNjqUTGqPtlMzZiihWAenjAV9WC9IjLGB0aOXck1jYtA2RwHxrWcUsCcy5QhEHKg4uFvT4P 
-
-#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/5jdYsZkJ/RMC-SPORT-2.png", RMC SPORT 2 (FR) [HD]
-https://22live00.akamaized.net/RMC_Sports_2/index.m3u8?token=JP2bJrme4a6m17yf0zRIkbjzuhRUCvqj0QLPLTVKRr0tnIG0ru1WBHfsjkurNzVyG8x2m8Tqu%2B%2FgqYzowkG4GVj83K6uKpRMGzlyVm6Zmvjd82AYr73k1BfTEsY4tBLe4HuEuQNQtn%2Bq3K9PRfRej1huApvC1rnWuExU%2Bf%2FQR5X%2Fn7cqH4c729CEJsvMj7BsYMEJxgGDlmMRYVEYQF6b61gVMQb%2BJpt2X%2Bni5jBb6B39aXRuUZwEzsVoJa9OIt7UsiAo398PYMGdDHkQqgQCjSoJnDz0Z%2FMx3180yfT7L7qx5kC8RBz1VJAkF%2BDHNjqUTG5brmjItwnJqHfOgC1OZH8IjLGB0aOXck1jYtA2RwHxrWcUsCcy5QhEHKg4uFvT4P
-
-#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/5tz9305R/RMC-SPORT-3.png", RMC SPORT 3 (FR) [HD]
-http://51.15.12.219:8080/kennythetiger244/n6wfNmBlQA/6060?token=GhoNVBVaEA4WUgANVgNSXFgBDgUHAFdRVw5bU1cMB1ZVAVAFUwZQAg1BHBpHRhBdAA9oDQdACQQDDlAdE0FHARNnDFFECBAABVQBGhgQFlEMBxVeUlQDCwMBUgYJBxhGEVEBF1wQAAwEUQcaGBAHQBUHRQoCDmxWVk4LUlQWDgoUVAkZRF1ca1AGXVlaVkACQ1MVSEELQEIRAgxEXVgYRgNREUcHRlcWDkEBAA0CQBRDAVgRDRZBSxECQGRiFhhGBEARUAhBW1taQQoaQEFAFEMLRDsRB0BGQV0DXFRGFl5DCUcZRF9TTGsAX1ZaVwFMCA1ZF0FYEQMDCFITHRZZCw9REVoUbUJdUEEKGgYFVw1ZQEo
-
-#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/rmL1LTWY/RMC-SPORT-4.png", RMC SPORT 4 (FR) [HD]
-http://51.15.12.219:8080/kennythetiger244/n6wfNmBlQA/6059?token=GhoNVBVaEA4WUgANVgNSXFgBDgUHAFdRVw5bU1cMB1ZVAVAFUwZQAg1BHBpHRhBdAA9oDQdACQQDDlAdE0FHARNnDFFECBAABVQBGhgQFlEMBxVeUlQDCwMBUgYJBxhGEVEBF1wQAAwEUQcaGBAHQBUHRQoCDmxWVk4LUlQWDgoUVAkZRF1ca1AGXVlaVkACQ1MVSEELQEIRAgxEXVgYRgNREUcHRlcWDkEBAA0CQBRDAVgRDRZBSxECQGRiFhhGBEARUAhBW1taQQoaQEFAFEMLRDsRB0BGQV0DXFRGFl5DCUcZRF9TTGsAX1ZaVwFMCA1ZF0FYEQMDCFITHRZZCw9REVoUbUJdUEEKGgYFVw1ZQEo
-
-#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/NjYsdFr5/SPORT-KLUB-1.png", Sport Klub 1 (BA) [HD]
-http://stream.tvtap.live:8081/live/klub1.stream/playlist.m3u8
-#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/WzJCvGxT/SPORT-KLUB-2.png", Sport Klub 2 (BA) [HD]
-http://stream.tvtap.live:8081/live/klub2.stream/playlist.m3u8
-#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/jC09dWrN/SPORT-KLUB-3.png", Sport Klub 3 (BA) [HD]
-http://stream.tvtap.live:8081/live/klub3.stream/playlist.m3u8
-#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/26ygHRwq/SPORT-KLUB-4.png", Sport Klub 4 (BA) [HD]
-http://stream.tvtap.live:8081/live/klub4.stream/playlist.m3u8
-#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/vBKkkqq0/SPORT-KLUB-5.png", Sport Klub 5 (BA) [HD]
-http://stream.tvtap.live:8081/live/klub5.stream/playlist.m3u8
-#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/yNvwXYF4/SPORT-KLUB-6.png", Sport Klub 6 (BA) [HD]
-http://stream.tvtap.live:8081/live/klub6.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/4NtvKbrG/FOOTBALL-1.png" group-title="SPORTSTATION 3",Football 1 (UKR)
-https://95-213-224-179.livesports24.online/uafootballua1.m3u8
- 
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/mZKN26pV/FOOTBALL-2.png" group-title=" SPORTSTATION 3 ",Football 2 (UKR)
-https://95-213-224-179.livesports24.online/fooootball2.m3u8
- 
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/6Ts3JZ0L/FOOTBALL-3.png " group-title=" SPORTSTATION 3 ",Football 3 (UKR)
-https://95-213-224-179.livesports24.online/football3ua.m3u8
-
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/W4QHzz7c/SETANTA-SPORTS.png" group-title="SPORTSTATION 3", Setanta Sports (RUS) [AUTO]
-http://iptv.prosto.tv:7000/ch106/video.m3u8
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/W4QHzz7c/SETANTA-SPORTS.png" group-title="SPORTSTATION 3", Setanta Sports (RUS) [FHD]
-https://95-213-224-179.livesports24.online/setantaukraine.m3u8
-
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/nLsWnBB1/SETANTA-SPORTS-1.png" group-title="SPORTSTATION 3", Setanta Sports 1 (RUS) [Auto]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s81/index.m3u8
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/nLsWnBB1/SETANTA-SPORTS-1.png" group-title="SPORTSTATION 3", Setanta Sports 1 (RUS) [FHD]
-https://95-213-224-179.livesports24.online/rusetantaeurasia.m3u8
-
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/Mp34kdMT/SETANTA_SPORTS_2.png" group-title="SPORTSTATION 3", Setanta Sports 2 (RUS) [Auto]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s82/index.m3u8
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/Mp34kdMT/SETANTA_SPORTS_2.png" group-title="SPORTSTATION 3", Setanta Sports 2 (RUS) [FHD]
-https://95-213-224-179.livesports24.online/setantaplusru.m3u8
-
-#EXTINF:-1 group-title=" SPORTSTATION 3" tvg-logo=" https://i.postimg.cc/Bnnywdvk/SETANTA_SPORTS_PLUS.png ", Setanta Sports+ (RUS) [SD]
-http://195.158.29.129/live_360/live.stream+_360p.m3u8
-
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/DfXnzFKv/MATCH-PREMIER.png" group-title="SPORTSTATION 3",MATCH Premier (RUS)
-https://95-213-224-179.livesports24.online/mpremierrus.m3u8
- 
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/MHVS30YM/MATCH-Football.png " group-title=" SPORTSTATION 3 ", MATCH Football (RUS)
-https://95-213-224-179.livesports24.online/footballrus.m3u8
- 
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/ncKxvkzN/MATCH-Football-1.png" group-title=" SPORTSTATION 3 ", MATCH Football 1 (RUS)
-https://95-213-224-179.livesports24.online/ntvmatchfoot1.m3u8
-
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/VLP1rTYj/MATCH-Football-2.png" group-title=" SPORTSTATION 3 ", MATCH Football 2 (RUS)
-https://95-213-224-179.livesports24.online/mfootball2rus.m3u8
- 
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/bwzhLtSr/MATCH-Football-3.png" group-title=" SPORTSTATION 3 ", MATCH Football 3 (RUS)
-https://95-213-224-179.livesports24.online/rumatchf3.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",Live TV 1
@@ -1827,91 +1554,6 @@ https://d3psd9b1q71k7a.cloudfront.net/out/v1/aeb66dbf26e14517b7f041805f21148e/in
 https://google-me.cdn.booyah.live/hls/113134/93317448.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",Live TV 10
 https://google-me.cdn.booyah.live/hls/113130/83188269.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",Live TV 11
-https://akamai2-mx.cdn.booyah.live/hls/9170/94739917.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",Live TV 12
-http://host4.dynns.com/stream/623d009180394c528880c14e2254452a.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",Live TV 13
-https://cloudserver.server-cdn-streaming.com/live-player/25/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",Live TV 14
-https://akamai2-mx.cdn.booyah.live/hls/9163/90209100.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",Live TV 15 
-https://tinyurl.com/yjvwfjd9
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",ASTRO Supersport 1
-http://nextlink.uk:25461/enjoy7/1234/6
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",ASTRO Supersport 2
-http://nextlink.uk:25461/enjoy7/1234/7
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",ASTRO Supersport 3
-http://nextlink.uk:25461/enjoy7/1234/8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",ASTRO Supersport 4
-http://nextlink.uk:25461/enjoy7/1234/9
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",ASTRO Supersport 5
-http://nextlink.uk:25461/enjoy7/1234/143
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",ASTRO Supersport PL 1
-http://nextlink.uk:25461/enjoy7/1234/253
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",ASTRO Supersport PL2
-http://nextlink.uk:25461/enjoy7/1234/254
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",ASTRO Supersport PL3
-http://nextlink.uk:25461/enjoy7/1234/255
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",ASTRO ASSP Plus
-http://nextlink.uk:25461/enjoy7/1234/383
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",SKY Sport Premier League
-http://nextlink.uk:25461/enjoy7/1234/523
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",SKY Sport Football
-http://nextlink.uk:25461/enjoy7/1234/522
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",SKY Sport F1
-http://nextlink.uk:25461/enjoy7/1234/521
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",SUPERSPORT Premier League
-http://nextlink.uk:25461/enjoy7/1234/540
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",SUPERSPORT La Liga
-http://nextlink.uk:25461/enjoy7/1234/541
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",SUPERSPORT Football
-http://nextlink.uk:25461/enjoy7/1234/542
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",SUPERPSORT Motorsport
-http://nextlink.uk:25461/enjoy7/1234/543
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",beIN SPORTS   
-http://nextlink.uk:25461/enjoy7/1234/146
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",beIN SPORT MAX  
-http://nextlink.uk:25461/enjoy7/1234/147
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",beIN SPORT MAX 2
-http://nextlink.uk:25461/enjoy7/1234/385
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",beIN SPORT MAX 4
-http://nextlink.uk:25461/enjoy7/1234/518
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",beIN SPORT MAX 5
-http://nextlink.uk:25461/enjoy7/1234/519
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",BT Sport 1
-http://nextlink.uk:25461/enjoy7/1234/402
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",BT Sport 2
-http://nextlink.uk:25461/enjoy7/1234/403
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",BT Sport 3
-http://nextlink.uk:25461/enjoy7/1234/404
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",BT Sport ESPN
-http://nextlink.uk:25461/enjoy7/1234/439
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",ASTRO Arena 
-http://nextlink.uk:25461/enjoy7/1234/5
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",ASTRO Arena 2 
-http://nextlink.uk:25461/enjoy7/1234/438
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",RTM Sport 
-http://nextlink.uk:25461/enjoy7/1234/371
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",SPOTV
-http://nextlink.uk:25461/enjoy7/1234/144
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",ESPN
-http://nextlink.uk:25461/enjoy7/1234/201
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",ESPN 2
-http://nextlink.uk:25461/enjoy7/1234/220
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",MU TV
-http://nextlink.uk:25461/enjoy7/1234/392
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",LFC TV
-http://nextlink.uk:25461/enjoy7/1234/393
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)", Eurosport HD
-http://nextlink.uk:25461/enjoy7/1234/345
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",NBA TV
-http://nextlink.uk:25461/enjoy7/1234/221
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",Golf Channel HD
-http://nextlink.uk:25461/enjoy7/1234/346
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",Rugby Pass HD
-http://nextlink.uk:25461/enjoy7/1234/347
 
 
 
