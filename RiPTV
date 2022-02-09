@@ -581,7 +581,7 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIPapua)/in
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dwtv_small.png?v=2.0.0.13" group-title=" NEWS",DW TV (UseeTV)
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=093f65e080a295f8076b1c5722a46aa2dfdded94c48ea6229c48edefa9ec1c9f
+
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_dwtv_small.png?v=2.0.0.13" group-title="NEWS",DW TV (Vidio)
 https://iptv.mwafa.net/vidio/5075/index.m3u8?token=1999
 
@@ -589,11 +589,6 @@ https://iptv.mwafa.net/vidio/5075/index.m3u8?token=1999
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_abcaustralia_small.png" group-title="NEWS", ABC Australia (UseeTV)
 http://topwin-tv.my.id/2/master.m3u8?id=abcaustralia
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MGk53cBd/ABC-NEWS-AUSTRALIA.png " group-title="NEWS", ABC News Australia (Web)
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MGk53cBd/ABC-NEWS-AUSTRALIA.png " group-title="NEWS", ABC News Australia (backup)
-https://c.mjh.nz/101002210220/
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/BQ8s9z5S/SKY-NEWS-AUSTRALIA.png" group-title="NEWS", Sky News Australia
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
@@ -604,12 +599,10 @@ https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnbcasias_small.png" group-title=" NEWS ",CNBC Asia (UseeTV)
 http://topwin-tv.my.id/2/master.m3u8?id=cnbcasia
 
+#EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_newsasia_small.png?v=2.0.0.13" group-title=" NEWS ", CNA (web)
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_newsasia_small.png?v=2.0.0.13" group-title=" NEWS ", CNA (DensTV)
 http://210.210.155.35:80/session/ee573acc-2edd-11eb-a769-b82a72d63267/uq2663/h/h29/01.m3u8
-#EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_newsasia_small.png?v=2.0.0.13" group-title=" NEWS ", CNA (backup)
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_newsasia_small.png?v=2.0.0.13" group-title=" NEWS ", CNA (VN)
-https://livecdn.fptplay.net/world/newsasia_hls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_bloomberg_small1.png?v=2.0.0.13" group-title="NEWS",Bloomberg (Web)
 https://www.bloomberg.com/media-manifest/streams/asia.m3u8
@@ -673,23 +666,19 @@ https://live.chdrstatic.com/cbn/index.m3u8
 https://nonton.site:8443/blink10/afgwev4lhw/36765
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_france24_small.png?v=2.0.0.13" group-title=" NEWS ",France 24 (UseeTV)
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=e4a6222cdb5b34375400904f03d8e6a5dfdded94c48ea6229c48edefa9ec1c9f
+https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_france24_small.png?v=2.0.0.13" group-title=" NEWS ",France 24 (DensTV)
 http://210.210.155.35:80/session/497a1e3c-2edf-11eb-a245-b82a72d63267/qwr9ew/s/s22/01.m3u8
-#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_france24_small.png?v=2.0.0.13" group-title=" NEWS ",France 24 [SD] (web)
-https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_euronews_small1.png?v=2.0.0.13" group-title="NEWS", EuroNews (UseeTV)
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=7f39f8317fbdb1988ef4c628eba02591dfdded94c48ea6229c48edefa9ec1c9f
+https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_euronews_small1.png?v=2.0.0.13" group-title="NEWS",EuroNews (Vidio)
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6412.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_euronews_small1.png?v=2.0.0.13" group-title="NEWS", EuroNews (backup)
-https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trtworld_small.png" group-title=" NEWS ",TRT WORLD (UseeTV)
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=a666587afda6e89aec274a3657558a27dfdded94c48ea6229c48edefa9ec1c9f
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_trtworld_small.png " group-title="NEWS ", TRT WORLD (web)
 https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trtworld_small.png" group-title=" NEWS ",TRT WORLD (UseeTV)
+
 
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_aljazeera_small1.png?v=2.0.0.13" group-title="NEWS", Aljazeera (web) [HD]
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
@@ -701,10 +690,10 @@ https://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/Yqq0NxCM/CGTN.png " tvg-url="" group-title="NEWS",CGTN (backup)
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_arirang_small.png" group-title=" NEWS ",Arirang (UseeTV)
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=07cdfd23373b17c6b337251c22b7ea57f93fb3c9879684db94f7af38b446022a
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4x45s27M/logo-arirang-small.png" group-title=" NEWS ",ARIRANG (backup)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4x45s27M/logo-arirang-small.png" group-title=" NEWS ",ARIRANG (web)
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_arirang_small.png" group-title=" NEWS ",Arirang (UseeTV)
+
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/63K2nD6g/WION-NEWS.png " group-title="NEWS ", WION News
 http://rr.dens.tv/h/h91/index2.m3u8
