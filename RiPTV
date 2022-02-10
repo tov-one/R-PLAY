@@ -39,7 +39,7 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/ZKv7J82B/tvone.png " group-title=" NASIONAL ",TV ONE (web)
 https://nonton.site:8443/blink10/afgwev4lhw/29
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/ZKv7J82B/tvone.png " group-title=" NASIONAL ",TV ONE (DensTV)
-http://playlist.urfan.web.id/qwr9ew/s/s105/01.m3u8
+http://group2-swiftservesd-1.dens.tv/s/s105/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kompastv_small.png?v=2.0.0.13" group-title="NASIONAL",KOMPAS TV (Maxstream)
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
@@ -72,32 +72,32 @@ https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 http://210.210.155.35:80/session/de667460-2ecf-11eb-81ff-b82a72d63267/qwr9ew/s/s101/01.m3u8
 
 #EXTINF:0 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_net_small1.png?v=2.0.0.13" group-title=" NASIONAL",NET TV (web)
-http://playlist.urfan.web.id/qwr9ew/s/s08/01.m3u8
+http://group2-swiftservesd-1.dens.tv/s/s08/01.m3u8
 #EXTINF:0 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_net_small1.png?v=2.0.0.13" group-title=" NASIONAL",NET TV (DensTV)
 http://210.210.155.35/qwr9ew/s/s08/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zDhg2YSx/rctilogo.png" group-title="NASIONAL",RCTI (web)
-https://livetv01.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
+https://goldenlivektv.com/Live_TV/Channel_Rcti.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zDhg2YSx/rctilogo.png" group-title="NASIONAL",RCTI (Vidio)
 https://livetv01.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/x8LNXLTw/mnclogo.png " group-title="NASIONAL",MNC TV (Web)
-https://livetv01.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021-avc1_800000=6-mp4a_96000=2.m3u8
+https://rcti-linier.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021-avc1_800000=6-mp4a_96000=2.m3u8
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/x8LNXLTw/mnclogo.png " group-title="NASIONAL",MNC TV (Vidio)
 https://iptv.mwafa.net/vidio/870/index.m3u8?token=1999
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Jz536C8f/logo-globaltv-big1.png" group-title="NASIONAL", GTV (web)
-https://livetv01.rctiplus.id/live/eds/GTV2021/live_fta/GTV2021-avc1_800000=6-mp4a_96000=2.m3u8
+https://rcti-linier.rctiplus.id/live/eds/GTV2021/live_fta/GTV2021-avc1_800000=6-mp4a_96000=2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HsqNM8Hc/globaltv.png " group-title="NASIONAL",GTV (Vidio)
 https://iptv.mwafa.net/vidio/778/index.m3u8?token=1999
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3rqtmhr9/inewstv.png" group-title="NASIONAL",iNews (web)
-https://livetv01.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021-avc1_800000=8-mp4a_96000=2.m3u8
+https://rcti-linier.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021-avc1_800000=8-mp4a_96000=2.m3u8
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/3rqtmhr9/inewstv.png " group-title="NASIONAL",iNews (Vidio)
 https://iptv.mwafa.net/vidio/5409/index.m3u8?token=1999
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15" tvg-id="" tvg-name"SCTV" group-title="NASIONAL",SCTV (DensTV)
-http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s03/01.m3u8
+http://group2-swiftservesd-1.dens.tv/s/s03/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15" group-title="NASIONAL",SCTV (Vidio)
 https://iptv.mwafa.net/vidio/204/index.m3u8?token=1999
 
@@ -157,22 +157,22 @@ http://36.89.47.217:11935/rrinet/live/chunklist_kamiselaluada.m3u8
 https://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/7dd4cf51_1_1400000/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_seatoday_small.png?v=1" group-title=" NASIONAL (BACKUP) ", SEA Today (UseeTV)
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=6faa8040da20ef399b63a72d0e4ab575dfdded94c48ea6229c48edefa9ec1c9f
+#http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=6faa8040da20ef399b63a72d0e4ab575dfdded94c48ea6229c48edefa9ec1c9f
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_seatoday_small.png?v=1" group-title="NASIONAL (BACKUP)", SEA Today (Vidio)
 http://gpc.my.id/vidio/sea-today.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_beritasatu_small1.png?v=2.0.0.13" group-title="NASIONAL (BACKUP)", BeritaSatu (UseeTV)
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=1ff1de774005f8da13f42943881c655f268ef7e5a44f541a7cbde7626ef57566
+#http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=1ff1de774005f8da13f42943881c655f268ef7e5a44f541a7cbde7626ef57566
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_beritasatu_small1.png?v=2.0.0.13" group-title="NASIONAL (BACKUP)", BeritaSatu (Vidio)
 https://gpc.my.id/vidio/beritasatu.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kompastv_small.png?v=2.0.0.13" group-title=" NASIONAL (BACKUP) ",Kompas TV (UseeTV)
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=9bf31c7ff062936a96d3c8bd1f8f2ff3268ef7e5a44f541a7cbde7626ef57566
+#http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=9bf31c7ff062936a96d3c8bd1f8f2ff3268ef7e5a44f541a7cbde7626ef57566
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_kompastv_small.png?v=2.0.0.13" group-title="NASIONAL (BACKUP)",Kompas TV (Vidio)
 https://iptv.mwafa.net/vidio/874/index.m3u8?token=1999
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_small1.png?v=2.0.0.13" group-title="NASIONAL (BACKUP)",Metro TV (UseeTV)
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d3d9446802a44259755d38e6d163e820dfdded94c48ea6229c48edefa9ec1c9f
+#http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d3d9446802a44259755d38e6d163e820dfdded94c48ea6229c48edefa9ec1c9f
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_metrotv_small1.png?v=2.0.0.13" group-title="NASIONAL (BACKUP)",Metro TV (Vidio)
 https://iptv.mwafa.net/vidio/777/index.m3u8?token=1999
 
@@ -183,25 +183,25 @@ http://topwin-tv.my.id/2/master.m3u8?id=cnnindonesia
 http://topwin-tv.my.id/2/master.m3u8?id=cnbcindonesia
 
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_transtv_small1.png?v=2.0.0.13" group-title="NASIONAL (BACKUP)",TRANS TV (UseeTV)
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d645920e395fedad7bbbed0eca3fe2e0268ef7e5a44f541a7cbde7626ef57566
+#http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d645920e395fedad7bbbed0eca3fe2e0268ef7e5a44f541a7cbde7626ef57566
 #EXTINF:-1 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_transtv_small1.png?v=2.0.0.13" group-title="NASIONAL (BACKUP)",TRANS TV (Vidio)
 https://iptv.mwafa.net/vidio/733/index.m3u8?token=1999
 
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_trans7_small1.png?v=2.0.0.13" group-title="NASIONAL (BACKUP)",TRANS 7 (UseeTV)
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=3416a75f4cea9109507cacd8e2f2aefc268ef7e5a44f541a7cbde7626ef57566
+#http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=3416a75f4cea9109507cacd8e2f2aefc268ef7e5a44f541a7cbde7626ef57566
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_trans7_small1.png?v=2.0.0.13" group-title="NASIONAL (BACKUP)",TRANS 7 (Vidio)
 https://iptv.mwafa.net/vidio/734/index.m3u8?token=1999
 
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_net_small1.png?v=2.0.0.13" group-title="NASIONAL (BACKUP)",NET TV (UseeTV)
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d82c8d1619ad8176d665453cfb2e55f0268ef7e5a44f541a7cbde7626ef57566
+#http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d82c8d1619ad8176d665453cfb2e55f0268ef7e5a44f541a7cbde7626ef57566
 #EXTINF:-1 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_net_small1.png?v=2.0.0.13" group-title="NASIONAL (BACKUP)",NET TV (Vidio)
 https://iptv.mwafa.net/vidio/875/index.m3u8?token=1999
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zDhg2YSx/rctilogo.png" group-title=" NASIONAL (BACKUP)",RCTI (backup)
-https://goldenlivektv.com/Live_TV/Channel_Rcti.m3u8
+https://rcti-linier.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=8-mp4a_96000=2.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/x8LNXLTw/mnclogo.png " group-title=" NASIONAL (BACKUP)",MNC TV (MetubeTV)
-https://cdn-livetv-studio.metube.id/mnctv.m3u8
+https://goldenlivektv.com/Live_TV/Channel_Mnctv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HsqNM8Hc/globaltv.png " group-title=" NASIONAL (BACKUP)",GTV (MetubeTV)
 https://cdn-livetv-studio.metube.id/globaltv.m3u8
@@ -217,10 +217,10 @@ https://visionplus-stream.visionplus.id/live/eds/SCTV-intel/sa_hls/SCTV-intel.m3
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png?v=2.0.0.15" group-title="NASIONAL (BACKUP)",INDOSIAR (UseeTV)
 http://playlist.urfan.web.id/qwr9ew/s/s04/01.m3u8
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png?v=2.0.0.15" group-title="NASIONAL (BACKUP)", INDOSIAR (Vidio)
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d696a41c2a2a7270517f5ce8dd2f48fc68d
+#http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d696a41c2a2a7270517f5ce8dd2f48fc68d
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_jaktv_small1.png?v=2.0.0.13" group-title="NASIONAL (BACKUP)",JAK TV (UseeTV)
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=1c383cd30b7c298ab50293adfecb7b18268ef7e5a44f541a7cbde7626ef57566
+#http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=1c383cd30b7c298ab50293adfecb7b18268ef7e5a44f541a7cbde7626ef57566
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_jaktv_small1.png?v=2.0.0.13" group-title="NASIONAL (BACKUP)",JAK TV (Vidio)
 https://iptv.mwafa.net/vidio/5415/index.m3u8?token=1999
 
@@ -233,29 +233,29 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3
 https://iptv.mwafa.net/vidio/6441/index.m3u8?token=1999 
 
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_daaitv_small1.png?v=2.0.0.13" group-title="NASIONAL (BACKUP)",DAAI TV (UseeTV)
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=54229abfcfa5649e7003b83dd4755294268ef7e5a44f541a7cbde7626ef57566
+#http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=54229abfcfa5649e7003b83dd4755294268ef7e5a44f541a7cbde7626ef57566
 #EXTINF:-1 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_daaitv_small1.png?v=2.0.0.13" group-title="NASIONAL (BACKUP)",DAAI TV (Vidio)
 https://iptv.mwafa.net/vidio/6482/index.m3u8?token=1999
 
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_rtv_small1.png?v=2.0.0.13" group-title="NASIONAL (BACKUP)",RTV (UseeTV)
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=aab3238922bcc25a6f606eb525ffdc56268ef7e5a44f541a7cbde7626ef57566
+#http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=aab3238922bcc25a6f606eb525ffdc56268ef7e5a44f541a7cbde7626ef57566
 #EXTINF:-1 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_rtv_small1.png?v=2.0.0.13" group-title="NASIONAL (BACKUP)",RTV (Vidio)
 https://iptv.mwafa.net/vidio/1561/index.m3u8?token=1999
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvedukasi_small1.png?v=2.0.0.13" group-title="NASIONAL (BACKUP)",TV Edukasi (UseeTV)
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=6f4922f45568161a8cdf4ad2299f6d23268ef7e5a44f541a7cbde7626ef57566
+#http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=6f4922f45568161a8cdf4ad2299f6d23268ef7e5a44f541a7cbde7626ef57566
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_tvedukasi_small1.png?v=2.0.0.13" group-title="NASIONAL (BACKUP)",TV Edukasi (Vidio)
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=tvedukasi&bandwidth=default&sync=0
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_rri_small1.png?v=2.0.0.13" group-title="NASIONAL (BACKUP)",RRI NET (UseeTV)
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=38db3aed920cf82ab059bfccbd02be6a268ef7e5a44f541a7cbde7626ef57566
+#http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=38db3aed920cf82ab059bfccbd02be6a268ef7e5a44f541a7cbde7626ef57566
 
 
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_balitv_small1.png?v=2.0.0.13" group-title="LOKAL",BALI TV (UseeTV)
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=33e75ff09dd601bbe69f351039152189268ef7e5a44f541a7cbde7626ef57566
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_balitv_small1.png?v=2.0.0.13" group-title="LOKAL", BALI TV (Maxstream)
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_balitv_small1.png?v=2.0.0.13" group-title="LOKAL",BALI TV (UseeTV)
+#http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=33e75ff09dd601bbe69f351039152189268ef7e5a44f541a7cbde7626ef57566
 
 #EXTINF:-1 tvg-id="jitv" tvg-name="JITV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jitv_small.png?v=2.0.0.13" group-title="LOKAL",JITV (Web)
 https://mam.jogjaprov.go.id:1937/tv/jitv/chunklist_w423702525.m3u8
@@ -358,7 +358,7 @@ http://122.248.43.138:1935/ch16/myStream/chunklist_w1265493922.m3u8
 https://video2.onlivestreaming.net/robot/livestream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fRXw8KJK/PAL-TV.png" group-title="LOKAL",PAL TV (Palembang)
-https://5d63d49f772ce.streamlock.net/paltv/rtmp.stream_360p/chunklist_w1008809263.m3u8
+https://v3.siar.us/paltv/live/chunks.m3u8
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/fRXw8KJK/PAL-TV.png " group-title="LOKAL",PAL TV (Palembang) (backup)
 https://tinyurl.com/gratistvmediaPAL
 
@@ -368,10 +368,10 @@ rtmp://wowza60.indostreamserver.com:1935/pktv/live
 https://tinyurl.com/gratistvmediaPKTV
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/vB74xTJx/PON-TV.png" group-title="LOKAL",PON TV (Pontianak)
-https://tinyurl.com/gratistvmediaPON
+https://v3.siar.us/pontianaktelevisi/live/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5N6Xy5WL/PRIMA-TV.png" group-title="LOKAL", Prima TV (Banjarmasin) 
-http://primatv.onlivestreaming.net/primatv/livestream/chunks.m3u8?
+http://primatv.onlivestreaming.net/primatv/livestream/chunks.m3u8
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/5N6Xy5WL/PRIMA-TV.png " group-title="LOKAL",Prima TV (Banjarmasin) (backup)
 https://tinyurl.com/gratistvmediaPRIMATV
 
@@ -391,7 +391,7 @@ http://radartasikmalaya.onlivestreaming.net/radartasikmalaya/livestream/playlist
 https://tinyurl.com/gratistvmediaRADARTVTASIK
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/B6JQLKZC/RB-TV.png" group-title="LOKAL",RBTV (Bengkulu)
-https://5d63d49f772ce.streamlock.net/rbtv/rtmp.stream_360p/chunklist_w738345439.m3u8
+https://h1.intechmedia.net/intech/ch59.m3u8
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/B6JQLKZC/RB-TV.png " group-title="LOKAL",RBTV (Bengkulu) (backup)
 https://tinyurl.com/gratistvmediaRBTV
 
@@ -417,7 +417,7 @@ https://tinyurl.com/gratistvmediaSMTV
 https://tinyurl.com/gratistvmediaSULTRATV
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J4rkJ34r/TATV.png" group-title="LOKAL",TATV (Solo)
-https://tinyurl.com/gratistvmediaTATV
+http://video2.onlivestreaming.net/tatv/live.sdp/chunks.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/tJyVBW3z/TEGAR-TV-LAMPUNG.png" group-title="LOKAL",Tegar TV Lampung
 https://tinyurl.com/gratistvmediaTEGARTV
@@ -1021,6 +1021,9 @@ https://nonton.site:8443/blink10/afgwev4lhw/14106
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_indikids_small.png" group-title="KIDS", IndiKids (UseeTV)
 https://nonton.site:8443/blink10/afgwev4lhw/3479
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTxT7m5S/MENTARI-TV.png " group-title="KIDS", Mentari TV
+https://iptv.mwafa.net/vidio/8237/index.m3u8?token=1999
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duck_small1.png?v=2.0.0.13" group-title="KIDS",Duck TV (UseeTV)
 http://topwin-tv.my.id/2/master.m3u8?id=duck
 
@@ -1101,54 +1104,52 @@ http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/chunklist_w1596438578.
 
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/76GTzggn/ajwa-tv-HD.png " group-title="RELIGI",AJWA TV (Vidio)
-http://gpc.my.id/vidio/ajwa-tv.m3u8
+https://iptv.mwafa.net/vidio/7464/index.m3u8?token=1999
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QxJGzQJ9/MUSLIM-TV.png" group-title="RELIGI", Muslim TV
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165071
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BQVX6JFG/logo-tvmui-big.png" group-title="RELIGI",MUI TV (UseeTV)
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=cb70ab375662576bd1ac5aaf16b3fca4dfdded94c48ea6229c48edefa9ec1c9f
+#http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=cb70ab375662576bd1ac5aaf16b3fca4dfdded94c48ea6229c48edefa9ec1c9f
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/tgmx7rVg/citra-muslim.png " group-title="RELIGI",Citra Muslim (Vidio)
 http://gpc.my.id/vidio/citra-muslim.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_rodjatv_small1.png?v=2.0.0.13" group-title="RELIGI",Rodja TV (UseeTV)
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=6c8349cc7260ae62e3b1396831a8398fdfdded94c48ea6229c48edefa9ec1c9f
+#http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=6c8349cc7260ae62e3b1396831a8398fdfdded94c48ea6229c48edefa9ec1c9f
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_rodjatv_small1.png?v=2.0.0.13" group-title="RELIGI",Rodja TV (backup)
 http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tawaftv_small.png" group-title="RELIGI",Tawaf TV (UseeTV)
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=ef0d3930a7b6c95bd2b32ed45989c61fdfdded94c48ea6229c48edefa9ec1c9f
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fLLLvtcP/logo-tawaftv-big.png" group-title="RELIGI",Tawaf TV (backup)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fLLLvtcP/logo-tawaftv-big.png" group-title="RELIGI",Tawaf TV (web)
 http://stream1.ninmedia.tv:1935/tawaftv/rtmp.stream_360p/chunklist_w727091128.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tawaftv_small.png" group-title="RELIGI",Tawaf TV (UseeTV)
+#http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=ef0d3930a7b6c95bd2b32ed45989c61fdfdded94c48ea6229c48edefa9ec1c9f
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9zvqg6X/logo-mtatv-big1.png" group-title="RELIGI",MTA TV (UseeTV)
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=e369853df766fa44e1ed0ff613f563bddfdded94c48ea6229c48edefa9ec1c9f
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9zvqg6X/logo-mtatv-big1.png" group-title="RELIGI",MTA TV (Maxstream)
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_alquran_small1.png?v=2.0.0.13" group-title="RELIGI",Al Quran Al Kareem TV (web)
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_alquran_small1.png?v=2.0.0.13" group-title="RELIGI",Al Quran Al Kareem TV (UseeTV)
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=98f13708210194c475687be6106a3b84dfdded94c48ea6229c48edefa9ec1c9f
-#EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_alquran_small1.png?v=2.0.0.13" group-title="RELIGI",Al Quran Al Kareem TV (Vidio)
-https://gpc.my.id/vidio/al-quran-al-kareem-tv.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_alquran_small1.png?v=2.0.0.13" group-title="RELIGI",Al Quran Al Kareem TV (backup)
-http://m.live.net.sa:1935/live/quran/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G3z4WFht/logo-mqtv-big1.png" group-title="RELIGI",MQTV (UseeTV)
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=37693cfc748049e45d87b8c7d8b9aacddfdded94c48ea6229c48edefa9ec1c9f
+#http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=37693cfc748049e45d87b8c7d8b9aacddfdded94c48ea6229c48edefa9ec1c9f
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Kvz1x1RN/logo-tv9-big.png" group-title="RELIGI",TV9 (UseeTV)
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=9188905e74c28e489b44e954ec0b9bcadfdded94c48ea6229c48edefa9ec1c9f
+#http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=9188905e74c28e489b44e954ec0b9bcadfdded94c48ea6229c48edefa9ec1c9f
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XvFZmtp6/logo-muhammadiyahtv-big1.png" group-title="RELIGI",Muhammadiyah TV (UseeTV)
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=34173cb38f07f89ddbebc2ac9128303fdfdded94c48ea6229c48edefa9ec1c9f
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XvFZmtp6/logo-muhammadiyahtv-big1.png" group-title="RELIGI",Muhammadiyah TV
+http://stream1.ninmedia.tv:1935/tvmu/udp.stream_360p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wMMm3447/NU-CHANNEL.png" group-title="RELIGI",NU Channel
 http://stream1.ninmedia.tv:1935/nuchannel/udp.stream_360p/chunklist_w2102112964.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/LsSgj80d/AHSAN-TV.png" group-title="RELIGI",AHSAN TV
-http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
+https://h1.intechmedia.net/intech/ch4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/V6KzVFBc/AL-BAHJAH.png" group-title="RELIGI",AL-BAHJAH TV
-https://e1.siar.us/albahjahtv/live/playlist.m3u8
+https://nin.siar.us/albahjahtv/live/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rptbwPQ3/AL-IMAN-TV.png" group-title="RELIGI",AL-IMAN TV
 http://tv.aliman.id:1935/aliman/HD/chunklist_w171899086.m3u8
@@ -1205,7 +1206,7 @@ http://stream1.ninmedia.tv:1935/nabawitv/nabawitv_360p/chunklist_w403146672.m3u8
 http://119.235.249.58:1935/niagatv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/X7TC78fY/saling-sapa.png" group-title="RELIGI",SalingSapa TV
-https://5d63d49f772ce.streamlock.net/salingsapa/rtmp.stream_360p/chunklist_w1765334579.m3u8
+https://bravo.kugo.id/salingsapa/rtmp.stream_360p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gkwhW567/SALAM-TV.png" group-title="RELIGI",Salam TV
 http://wowza60.indostreamserver.com:1935/salamtv/live/chunklist_w284712012.m3u8
@@ -1227,7 +1228,7 @@ https://m3u-editor.com/serve/b7b02340-302b-11ec-9783-a5755b612ef8/404334857
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PxYWSjBf/MNC-SPORTS.png" group-title=" SPORTSTATION 1", MNC Sports
 http://cdn-livetv-studio.metube.id/mncsport_480/index.m3u8
 
-#EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="Red Bull TV" tvg-country="INT" tvg-language="English" tvg-logo=" https://i.postimg.cc/4NQmmMSg/REDBULL-TV.png " tvg-url="" group-title=" SPORTSTATION 1",Red Bull TV
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/qqyCQbD1/REDBULL-TV.png " group-title=" SPORTSTATION 1",Red Bull TV
 https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/tRcyGfkh/EDGE-SPORT.png " tvg-url="" group-title=" SPORTSTATION 1",Edge Sport
@@ -1249,10 +1250,10 @@ https://nonton.site:8443/blink10/afgwev4lhw/101
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_spotv2_small.png?v=2.0.0.13" group-title=" SPORTSTATION 1", SPOTV 2 (TH)
 https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/rph56ht1/ESPN.png" group-title=" SPORTSTATION 1", ESPN
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/ZKzN0m02/ESPN.png " group-title=" SPORTSTATION 1", ESPN
 http://38.91.57.12:2082/espn/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/FKF0Bt1F/ESPN-2.png" group-title=" SPORTSTATION 1",ESPN 2
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/HWy5pnWb/ESPN-2.png " group-title=" SPORTSTATION 1",ESPN 2
 http://38.91.57.12:2082/espn2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mkGV572w/TSN-1.png" group-title=" SPORTSTATION 1", TSN 1
@@ -1320,25 +1321,25 @@ https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a6
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/8kWFVsds/TRUE-TENNIS-HD.png " group-title="SPORTSTATION 1", True Tennis HD
 https://www.wopep.com/02_TennisHD_720p/chunklist.m3u8
 
-#EXTINF:-1   tvg-logo=" https://i.postimg.cc/HnTPdWFv/TRUE-SPORTS-HD.png " group-title=" SPORTSTATION 1",True Sports HD 1
+#EXTINF:-1   tvg-logo=" https://i.postimg.cc/QCTcwxCk/TRUE-SPORTS-HD-1.png " group-title=" SPORTSTATION 1",True Sports HD 1
 https://www.wopep.com/02_2sporthd1_720p/chunklist.m3u8
 
-#EXTINF:-1   tvg-logo=" https://i.postimg.cc/SN37GND0/TRUE-SPORTS-HD-2.png " group-title=" SPORTSTATION 1",True Sports HD 2
+#EXTINF:-1   tvg-logo=" https://i.postimg.cc/yd5FLS18/TRUE-SPORTS-HD-2.png " group-title=" SPORTSTATION 1",True Sports HD 2
 https://www.wopep.com/02_2sporthd2_720p/chunklist.m3u8
 
-#EXTINF:-1   tvg-logo=" https://i.postimg.cc/6QNrDjkY/TRUE-SPORTS-HD-3.png " group-title=" SPORTSTATION 1",True Sports HD 3
+#EXTINF:-1   tvg-logo=" https://i.postimg.cc/Ssj6LGpP/TRUE-SPORTS-HD-3.png " group-title=" SPORTSTATION 1",True Sports HD 3
 https://www.wopep.com/02_2sporthd3_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/3R8gwyJG/TRUE-SPORTS-HD-4.png " group-title=" SPORTSTATION 1", True Sports HD 4
+#EXTINF:-1 tvg-logo https://i.postimg.cc/8CZdr0xW/TRUE-SPORTS-HD-4.png " group-title=" SPORTSTATION 1", True Sports HD 4
 https://www.wopep.com/02_2sporthd4_720p/chunklist.m3u8
 
-#EXTINF:-1   tvg-logo=" https://i.postimg.cc/wTQ98xgd/TRUE-SPORT-5.png " group-title=" SPORTSTATION 1",True Sports 5
+#EXTINF:-1   tvg-logo=" https://i.postimg.cc/vBpVrFh1/TRUE-SPORT-5.png " group-title=" SPORTSTATION 1",True Sports 5
 https://www.wopep.com/02_sport5_480p/chunklist.m3u8
 
-#EXTINF:-1   tvg-logo=" https://i.postimg.cc/02s9BKgf/TRUE-SPORT-6.png " group-title=" SPORTSTATION 1",True Sports 6
+#EXTINF:-1   tvg-logo=" https://i.postimg.cc/76CzJY38/TRUE-SPORT-6.png " group-title=" SPORTSTATION 1",True Sports 6
 https://www.wopep.com/02_sport6_480p/chunklist.m3u8
 
-#EXTINF:-1   tvg-logo=" https://i.postimg.cc/FFc9pg6z/TRUE-SPORT-7.png " group-title=" SPORTSTATION 1",True Sports 7
+#EXTINF:-1   tvg-logo=" https://i.postimg.cc/Zqs3qyyx/TRUE-SPORT-7.png " group-title=" SPORTSTATION 1",True Sports 7
 https://www.wopep.com/02_sport7_480p/chunklist.m3u8
 
 #EXTINF:-1   tvg-logo=" https://i.postimg.cc/MpX0t9mw/Dubai-Sports-1.png" group-title=" SPORTSTATION 1", Dubai Sports 1
@@ -1420,13 +1421,13 @@ https://nonton.site:8443/blink10/afgwev4lhw/729
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/0QVpnHs8/logo-bein2-big1.png" group-title=" SPORTSTATION 2", BeIN Sports 2 (backup)
 https://www.livedoomovie.com/02_sport6_480p/chunklist.m3u8
 
-#EXTINF:-1   tvg-logo=" https://i.postimg.cc/Dwn2f29s/BEIN-SPORTS-PREMIUM-1.png" group-title=" SPORTSTATION 2", BeIN Sports 1 PREMIUM (AR)
+#EXTINF:-1   tvg-logo=" https://i.postimg.cc/L8RjQSpL/BEIN-SPORTS-PREMIUM-1.png " group-title=" SPORTSTATION 2", BeIN Sports 1 PREMIUM (AR)
 http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
 
-#EXTINF:-1   tvg-logo=" https://i.postimg.cc/Dwn2f29s/BEIN-SPORTS-PREMIUM-1.png" group-title=" SPORTSTATION 2", BeIN Sports 2 PREMIUM (AR)
+#EXTINF:-1   tvg-logo=" https://i.postimg.cc/SQB6881Z/BEIN-SPORTS-PREMIUM-2.png " group-title=" SPORTSTATION 2", BeIN Sports 2 PREMIUM (AR)
 http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
 
-#EXTINF:-1   tvg-logo=" https://i.postimg.cc/bJDPVdnX/BEIN-SPORTS-PREMIUM-3.png" group-title=" SPORTSTATION 2", BeIN Sports 3 PREMIUM (AR)
+#EXTINF:-1   tvg-logo=" https://i.postimg.cc/fWt7J5Ct/BEIN-SPORTS-PREMIUM-3.png " group-title=" SPORTSTATION 2", BeIN Sports 3 PREMIUM (AR)
 http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/gjKm12dF/SuperSport_Premier_League.png" group-title=" SPORTSTATION 2", SuperSport Premier League
