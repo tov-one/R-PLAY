@@ -1330,7 +1330,7 @@ https://www.wopep.com/02_2sporthd2_720p/chunklist.m3u8
 #EXTINF:-1   tvg-logo=" https://i.postimg.cc/Ssj6LGpP/TRUE-SPORTS-HD-3.png " group-title=" SPORTSTATION 1",True Sports HD 3
 https://www.wopep.com/02_2sporthd3_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo https://i.postimg.cc/8CZdr0xW/TRUE-SPORTS-HD-4.png " group-title=" SPORTSTATION 1", True Sports HD 4
+#EXTINF:-1  tvg-logo=" https://i.postimg.cc/8CZdr0xW/TRUE-SPORTS-HD-4.png " group-title=" SPORTSTATION 1", True Sports HD 4
 https://www.wopep.com/02_2sporthd4_720p/chunklist.m3u8
 
 #EXTINF:-1   tvg-logo=" https://i.postimg.cc/vBpVrFh1/TRUE-SPORT-5.png " group-title=" SPORTSTATION 1",True Sports 5
