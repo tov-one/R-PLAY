@@ -231,7 +231,7 @@ https://iptv.mwafa.net/vidio/5415/index.m3u8?token=1999
 http://playlist.urfan.web.id/qwr9ew/s/s07/01.m3u8
 
 #EXTINF:-1 tvg-id="tvri" tvg-name="TVRI" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png?v=2.0.0.13" group-title="NASIONAL (BACKUP)",TVRI (UseeTV)
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=c74d97b01eae257e44aa9d5bade97baf268ef7e5a44f541a7cbde7626ef57566
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_tvri_small1.png?v=2.0.0.13" group-title="NASIONAL (BACKUP)",TVRI (Vidio)
 https://iptv.mwafa.net/vidio/6441/index.m3u8?token=1999 
 
@@ -442,117 +442,73 @@ https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 
 #EXTINF:-1   tvg-logo=" http://staging.tvri.go.id/assets/img_gallery/daerah/tvrijtown.jpg " group-title="TVRI DAERAH",TVRI DKI JAKARTA
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDki)/index.m3u8
-#EXTINF:-1   tvg-logo=" http://staging.tvri.go.id/assets/img_gallery/daerah/tvrijtown.jpg " group-title="TVRI DAERAH",TVRI DKI JAKARTA (2)
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8 
 
 #EXTINF:-1   tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/17.png" group-title="TVRI DAERAH",TVRI ACEH
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIAceh)/index.m3u8
-#EXTINF:-1   tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/17.png" group-title="TVRI DAERAH",TVRI ACEH (2)
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIACEH)/Stream(03)/index.m3u8
 
 #EXTINF:-1   tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/28.png " group-title="TVRI DAERAH",TVRI SUMATERA UTARA
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISumutmedan)/index.m3u8
-#EXTINF:-1   tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/28.png " group-title="TVRI DAERAH",TVRI SUMATERA UTARA (2)
-http://118.97.50.107/Content/HLS/Live/Channel(TVRISUMUTMEDAN)/Stream(02)/index.m3u8
 
 #EXTINF:-1   tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/26.png " group-title="TVRI DAERAH",TVRI SUMATERA BARAT
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISumbarpadang)/index.m3u8
-#EXTINF:-1   tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/26.png " group-title="TVRI DAERAH",TVRI SUMATERA BARAT (2)
-http://118.97.50.107/Content/HLS/Live/Channel(TVRISUMBARPADANG)/Stream(03)/index.m3u8
 
 #EXTINF:-1   tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/27.png" group-title="TVRI DAERAH",TVRI SUMATERA SELATAN
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISumsel)/index.m3u8
-#EXTINF:-1   tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/27.png" group-title="TVRI DAERAH",TVRI SUMATERA SELATAN (2)
-http://118.97.50.107/Content/HLS/Live/Channel(TVRISUMSEL)/Stream(03)/index.m3u8
 
 #EXTINF:-1   tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/riaubaru.png" group-title="TVRI DAERAH",TVRI RIAU
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIRiau)/index.m3u8
-#EXTINF:-1   tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/riaubaru.png" group-title="TVRI DAERAH",TVRI RIAU (2)
-https://edge.siar.us/tvririau/live/playlist.m3u8
- 
+
 #EXTINF:-1   tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/9.png " group-title="TVRI DAERAH",TVRI JAMBI
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJambi)/index.m3u8
-#EXTINF:-1   tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/9.png " group-title="TVRI DAERAH",TVRI JAMBI (2)
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIJAMBI)/Stream(03)/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/5.png" group-title="TVRI DAERAH",TVRI BANGKA BELITUNG
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIBABEL)/index.m3u8
-#EXTINF:-1   tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/5.png" group-title="TVRI DAERAH",TVRI BANGKA BELITUNG (2)
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIBABEL)/Stream(03)/index.m3u8
 
 #EXTINF:-1   tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/6.png " group-title="TVRI DAERAH",TVRI BENGKULU
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIBengkulu)/index.m3u8
-#EXTINF:-1   tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/6.png " group-title="TVRI DAERAH",TVRI BENGKULU (2)
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIBENGKULU)/Stream(03)/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/16.png" group-title="TVRI DAERAH",TVRI LAMPUNG
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRILampung)/index.m3u8
-#EXTINF:-1   tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/16.png" group-title="TVRI DAERAH",TVRI LAMPUNG (2)
-http://118.97.50.107/Content/HLS/Live/Channel(TVRILAMPUNG)/Stream(03)/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/8.png" group-title="TVRI DAERAH",TVRI JAWA BARAT
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJabarbandung)/index.m3u8
-#EXTINF:-1   tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/8.png" group-title="TVRI DAERAH",TVRI JAWA BARAT (2)
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/Stream(03)/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/10.png" group-title="TVRI DAERAH",TVRI JAWA TENGAH
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJatengsemarang)/index.m3u8
-#EXTINF:-1   tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/10.png" group-title="TVRI DAERAH",TVRI JAWA TENGAH (2)
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/Stream(03)/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/11.png" group-title="TVRI DAERAH",TVRI JAWA TIMUR
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJatimsurabaya)/index.m3u8
-#EXTINF:-1   tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/11.png" group-title="TVRI DAERAH",TVRI JAWA TIMUR (2)
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/Stream(02)/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/29.png" group-title="TVRI DAERAH",TVRI YOGYAKARTA
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIYogyakarta)/index.m3u8
-#EXTINF:-1   tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/29.png" group-title="TVRI DAERAH",TVRI YOGYAKARTA (2)
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/Stream(03)/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/tvribali.png" group-title="TVRI DAERAH",TVRI BALI
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIBali)/index.m3u8
-#EXTINF:-1   tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/tvribali.png" group-title="TVRI DAERAH",TVRI BALI (2)
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIBALI)/Stream(03)/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/18.png" group-title="TVRI DAERAH",TVRI NUSA TENGGARA BARAT
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINtbmataram)/index.m3u8
-#EXTINF:-1   tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/18.png" group-title="TVRI DAERAH",TVRI NUSA TENGGARA BARAT (2)
-http://118.97.50.107/Content/HLS/Live/Channel(TVRINTBMATARAM)/Stream(03)/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/19.png" group-title="TVRI DAERAH",TVRI NUSA TENGGARA TIMUR
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINttkupang)/index.m3u8
-#EXTINF:-1   tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/19.png" group-title="TVRI DAERAH",TVRI NUSA TENGGARA TIMUR (2)
-http://118.97.50.107/Content/HLS/Live/Channel(TVRINTTKUPANG)/Stream(03)/index.m3u8
 
 #EXTINF:-1   tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/12.png " group-title="TVRI DAERAH",TVRI KALIMANTAN BARAT
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALBAR)/index.m3u8
-#EXTINF:-1   tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/12.png " group-title="TVRI DAERAH",TVRI KALIMANTAN BARAT (2)
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALBAR)/Stream(03)/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/14.png" group-title="TVRI DAERAH",TVRI KALIMANTAN TENGAH
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKalteng)/index.m3u8
-#EXTINF:-1   tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/14.png" group-title="TVRI DAERAH",TVRI KALIMANTAN TENGAH (2)
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALTENG)/Stream(03)/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo=" http://staging.tvri.go.id/assets/img_gallery/daerah/15.png " group-title="TVRI DAERAH",TVRI KALIMANTAN TIMUR
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKaltimsamarinda)/index.m3u8
-#EXTINF:-1   tvg-logo=" http://staging.tvri.go.id/assets/img_gallery/daerah/15.png " group-title="TVRI DAERAH",TVRI KALIMANTAN TIMUR (2)
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALTIMSAMARINDA)/Stream(03)/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/13.png" group-title="TVRI DAERAH",TVRI KALIMANTAN SELATAN
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKalselbanjarmsn)/index.m3u8
-#EXTINF:-1   tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/13.png" group-title="TVRI DAERAH",TVRI KALIMANTAN SELATAN (2)
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALSELBANJARMSN)/Stream(03)/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/22.png" group-title="TVRI DAERAH",TVRI SULAWESI SELATAN
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISulselmakasar)/index.m3u8
  
 #EXTINF:-1   tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/21.png" group-title="TVRI DAERAH",TVRI SULAWESI BARAT
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISulbarmajene)/index.m3u8
-#EXTINF:-1   tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/21.png" group-title="TVRI DAERAH",TVRI SULAWESI BARAT (2)
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIsulbarmajene)/Stream(03)/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/24.png" group-title="TVRI DAERAH",TVRI SULAWESI TENGGARA
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISultra)/index.m3u8
  
@@ -564,14 +520,10 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISulutmana
  
 #EXTINF:-1   tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/7.png" group-title="TVRI DAERAH",TVRI GORONTALO
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIGorontalo)/index.m3u8
-#EXTINF:-1   tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/7.png" group-title="TVRI DAERAH",TVRI GORONTALO (2)
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIGORONTALO)/Stream(03)/index.m3u8
- 
+
 #EXTINF:-1   tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/3.png" group-title="TVRI DAERAH",TVRI MALUKU
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIMalukuambon)/index.m3u8
-#EXTINF:-1   tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/3.png" group-title="TVRI DAERAH",TVRI MALUKU (2)
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIMALUKUAMBON)/Stream(03)/index.m3u8 
- 
+
 #EXTINF:-1   tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/tvripapua.png" group-title="TVRI DAERAH",TVRI PAPUA
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIPapua)/index.m3u8
 
@@ -831,19 +783,19 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(f1b6e507-d639-4
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png?v=2.0.0.13" group-title="HIBURAN", Aniplus (UseeTV) 
-http://playlist.urfan.web.id/dr9445/h/h02/01.m3u8
+https://nonton.site:8443/blink10/afgwev4lhw/2
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png?v=2.0.0.13" group-title="HIBURAN", Aniplus (DensTV)
 http://210.210.155.35:80/session/05ca7a1e-5492-11eb-901e-b82a72d63267/dr9445/h/h02/01.m3u8
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png?v=2.0.0.13" group-title=" HIBURAN ",Aniplus (backup)
 https://tinyurl.com/gratistvmediaChANIPLUS
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_small.png" group-title="HIBURAN", Animax (UseeTV)
-http://playlist.urfan.web.id/dr9445/h/h144/01.m3u8
+https://nonton.site:8443/blink10/afgwev4lhw/3
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_small.png" group-title="HIBURAN", Animax (DensTV)
 http://210.210.155.35:80/dr9445/h/h144/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_small.png?v=2.0.0.13" group-title=" HIBURAN ", KIX (UseeTV)
-http://playlist.urfan.web.id/dr9445/h/h07/01.m3u8
+https://nonton.site:8443/blink10/afgwev4lhw/8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/K8jmmjbZ/KIX.png" group-title=" HIBURAN ",KIX (DensTV)
 http://rr.dens.tv/h/h07/01.m3u8
 
@@ -954,9 +906,6 @@ https://nonton.site:8443/blink10/afgwev4lhw/29592
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?v=2.0.0.13" group-title="FILM", IMC (UseeTV)
 https://nonton.site:8443/blink10/afgwev4lhw/35484
 
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/tgMZSJyN/HITS.png " group-title="FILM", HITS
-https://nonton.site:8443/blink10/afgwev4lhw/99
-
 
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kplus_small1.png?v=2.0.0.13" group-title="KOREA", K+ (UseeTV)
@@ -1032,13 +981,13 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeowild&bandwidth=default&sync=
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png?v=2.0.0.13" group-title="PENGETAHUAN", Discovery Channel (UseeTV)
 https://nonton.site:8443/blink10/afgwev4lhw/165
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png?v=2.0.0.13" group-title="PENGETAHUAN", Discovery Channel (backup)
-https://feed.play.mv/live/10005200/2Lkn0sCJBz/master.m3u8
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=disco&gumisasakTV=default&sync=0
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NFzYrfLB/DISCOVERY-ASIA.png" group-title="PENGETAHUAN", Discovery Asia
 https://nonton.site:8443/blink10/afgwev4lhw/779
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8cg9KcFm/DISCOVERY-SCIENCE.png " group-title="PENGETAHUAN", Discovery Science
-https://itvoign.multitvsolution.com/idvo/discoverscienceeng.m3u8
+http://xcui.vitvabc.xyz:8880/287994017022/287994017022/16708
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rp4mjwbW/BBC-EARTH.png" group-title="PENGETAHUAN", BBC EARTH
 http://139.99.71.104:8888/live/blink11/y91wqo5bjn/37449.ts
