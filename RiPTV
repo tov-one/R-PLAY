@@ -1255,6 +1255,21 @@ http://38.91.57.12:2082/espn/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/FKF0Bt1F/ESPN-2.png" group-title=" SPORTSTATION 1",ESPN 2
 http://38.91.57.12:2082/espn2/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mkGV572w/TSN-1.png" group-title=" SPORTSTATION 1", TSN 1
+http://38.91.57.12:2082/tsn1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/LswxjrcG/TSN-2.png" group-title=" SPORTSTATION 1", TSN 2
+http://38.91.57.12:2082/tsn2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g2ctpyyt/TSN-3.png" group-title=" SPORTSTATION 1", TSN 3
+http://38.91.57.12:2082/tsn3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kXvYLYSt/TSN-4.png" group-title=" SPORTSTATION 1", TSN 4
+http://38.91.57.12:2082/tsn4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZRFmpK5/TSN-5.png" group-title=" SPORTSTATION 1", TSN 5
+http://38.91.57.12:2082/tsn5/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/x1s7tS5W/Sky-Sports-F1.png" group-title=" SPORTSTATION 1", Sky Sports F1 
 http://stream.tvtap.live:8081/live/skysportsf1.stream/playlist.m3u8
 
@@ -1388,23 +1403,6 @@ http://iptv.tvmalaysia.cc:80/penang175/penang175/6711
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/N0dwLvcV/ASTRO-SUPERSPORT-4.png " group-title="SPORTSTATION 2", Astro SUPERSPORT 4
 http://iptv.tvmalaysia.cc:80/penang175/penang175/6712
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mkGV572w/TSN-1.png" group-title=" SPORTSTATION 2", TSN 1
-http://38.91.57.12:2082/tsn1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/LswxjrcG/TSN-2.png" group-title=" SPORTSTATION 2", TSN 2
-http://38.91.57.12:2082/tsn2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/g2ctpyyt/TSN-3.png" group-title=" SPORTSTATION 2", TSN 3
-http://38.91.57.12:2082/tsn3/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kXvYLYSt/TSN-4.png" group-title=" SPORTSTATION 2", TSN 4
-http://38.91.57.12:2082/tsn4/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZRFmpK5/TSN-5.png" group-title=" SPORTSTATION 2", TSN 5
-http://38.91.57.12:2082/tsn5/tracks-v1a1/mono.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jqNpKmq7/Sky-Sports-Premier-League.png " group-title=" SPORTSTATION 2", Sky Sports Premier League
 http://stream.tvtap.live:8081/live/skysports-premier-league.stream/playlist.m3u8
