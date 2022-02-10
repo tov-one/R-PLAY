@@ -1,5 +1,5 @@
 #EXTINF:0 tvg-logo=" https://i.postimg.cc/RV9MYjwf/TEMPO-TV.png " group-title=" NASIONAL ",Tempo TV
-https://iptv.mwafa.net/vidio/7946/index.m3u8
+https://iptv.mwafa.net/vidio/7946/index.m3u8?token=1999
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/8zpwVzZp/jakarta-globe.png " group-title="NASIONAL",JAKARTA GLOBE NEWS (web)
 https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
@@ -695,13 +695,6 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 https://nonton.site:8443/blink10/afgwev4lhw/591
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/VkNFn5xS/10626238-ico.png " group-title=" HBO ",HBO Hits (backup2)
 http://4rr0w.my.id/wolftv/go.m3u8?ch=hits
-
-#EXTINF:-1 1  tvg-logo="https://i.postimg.cc/y6FnzMhN/RED-BY-HBO.png" group-title=" HBO ",Red By HBO (Auto)
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/y6FnzMhN/RED-BY-HBO.png" group-title=" HBO ", Red By HBO (backup1)
-https://www.dropbox.com/s/1wmlsklnt5xcfie/REDX.m3u8?dl=1
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/y6FnzMhN/RED-BY-HBO.png" group-title=" HBO ",Red By HBO (backup2)
-http://eroz.hi2.ro/iptv/movies/hbo_red.m3u8
 
 
 
