@@ -1394,16 +1394,16 @@ http://31.220.41.88:8081/live/bt33.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/bt33.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/nrD8dsDb/ASTRO-SUPERSPORT-1.png " group-title="SPORTSTATION 2",Astro SUPERSPORT 1
-http://iptv.tvmalaysia.cc:80/penang175/penang175/9024
+http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170834
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/FR1XLCFK/ASTRO-SUPERSPORT-2.png " group-title="SPORTSTATION 2", Astro SUPERSPORT 2
-http://iptv.tvmalaysia.cc:80/penang175/penang175/9025
+http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170831
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/76c8M1bn/ASTRO-SUPERSPORT-3.png " group-title="SPORTSTATION 2", Astro SUPERSPORT 3
-http://iptv.tvmalaysia.cc:80/penang175/penang175/6711
+http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170832
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/N0dwLvcV/ASTRO-SUPERSPORT-4.png " group-title="SPORTSTATION 2", Astro SUPERSPORT 4
-http://iptv.tvmalaysia.cc:80/penang175/penang175/6712
+http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170833
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jqNpKmq7/Sky-Sports-Premier-League.png " group-title=" SPORTSTATION 2", Sky Sports Premier League
 http://stream.tvtap.live:8081/live/skysports-premier-league.stream/playlist.m3u8
@@ -1466,19 +1466,19 @@ https://www.wopep.com/02_PremierHD5_480p/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",Live TV 1
-https://live.brimecdn.com/edge/2Q4cCWyKsACdwULyZm23/playlist.m3u8?per
+http://50.7.34.155:2200/BR/ESPN_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",Live TV 2
-https://live.brimecdn.com/edge/ggKrieSbEHe49Kxvw51S/playlist.m3u8?per
+http://103.166.253.222/hls/Star_Sport_Select1HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",Live TV 3
-https://d2aq0cqe581r5t.cloudfront.net:443/out/v1/c7b13917082e40f6af9199e4cbf085da/playlist_2.m3u8
+http://180.178.130.180:8000/play/a043/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",Live TV 4
-https://google-me.cdn.booyah.live/hls/113132/85351102.m3u8
+http://180.178.130.180:8000/play/a044/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",Live TV 5
-https://d3psd9b1q71k7a.cloudfront.net:443/out/v1/aeb66dbf26e14517b7f041805f21148e/index_2.m3u8
+http://180.178.130.180:8000/play/a03k/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",Live TV 6
-http://93.152.174.144:4000/play/btsport1/index.m3u8
+http://180.178.130.180:8000/play/a03l/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",Live TV 7
-http://bal.varcdn1.ru/lb/b5/index.m3u8
+http://158.69.117.205:9039/eurosport2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",Live TV 8
 https://d3psd9b1q71k7a.cloudfront.net/out/v1/aeb66dbf26e14517b7f041805f21148e/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MZt4Hkqz/LIVE-TV.png"group-title="SPORTSTATION (BACKUP)",Live TV 9
