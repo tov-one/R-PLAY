@@ -1,5 +1,5 @@
 #EXTINF:0 tvg-logo=" https://i.postimg.cc/RV9MYjwf/TEMPO-TV.png " group-title=" NASIONAL ",Tempo TV
-https://iptv.mwafa.net/vidio/7946/index.m3u8?token=1999
+https://iptv.mwafa.net/vidio/7946/index.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/8zpwVzZp/jakarta-globe.png " group-title="NASIONAL",JAKARTA GLOBE NEWS (web)
 https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
@@ -746,27 +746,6 @@ http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62254
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kMkcWNP2/FOX_Crime.png" group-title="FOX",FOX Crime (backup7)
 https://nonton.site:8443/6894864475/7163819284/763
-
-#EXTINF:-1 tvg-logo="https://static.epg.best/es/Fox.es.png" group-title="FOX", FOX (VN) SD
-https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/es/Fox.es.png" group-title="FOX", FOX (VN) HD
-https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/es/Fox.es.png" group-title="FOX", FOX (VN) FHD
-https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.epg.best/in/FOXLife.in.png" group-title="FOX", FOX Life (VN) SD
-https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/in/FOXLife.in.png" group-title="FOX", FOX Life (VN) HD
-https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/in/FOXLife.in.png" group-title="FOX", FOX Life (VN) FHD
-https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.foxmoviesasia.com/images/fm.png" group-title="FOX", FOX Movies (VN) SD
-https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.foxmoviesasia.com/images/fm.png" group-title="FOX", FOX Movies (VN) HD
-https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-logo="https://www.foxmoviesasia.com/images/fm.png" group-title="FOX", FOX Movies (VN) FHD
-https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 
 
 
