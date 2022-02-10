@@ -1,5 +1,5 @@
 #EXTINF:0 tvg-logo=" https://i.postimg.cc/RV9MYjwf/TEMPO-TV.png " group-title=" NASIONAL ",Tempo TV
-http://wowza58.indostreamserver.com:1935/tempotv/live/playlist.m3u8
+https://iptv.mwafa.net/vidio/7946/index.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/8zpwVzZp/jakarta-globe.png " group-title="NASIONAL",JAKARTA GLOBE NEWS (web)
 https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
@@ -2202,5 +2202,3 @@ https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/29.mp3
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN JUZ", Juz 30
 https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/30.mp3
-
-=
