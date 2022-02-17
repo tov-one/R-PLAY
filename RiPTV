@@ -571,7 +571,7 @@ http://1111296894.rsc.cdn77.org/LS-ATL-54548-6/index.m3u8
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/zGSNswnB/NBC-News-Now.png " group-title="NEWS", NBC NEWS NOW
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/zGSNswnB/NBC-News-Now.png " group-title="NEWS", NBC NEWS NOW (backup)
-https://nbcnewshls-i.akamaihd.net/hls/live/1005206/nnn_live2/index.m3u8
+http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/13WxmyTy/FOX-NEWS.png" group-title="NEWS ", FOX News
 http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
@@ -584,8 +584,12 @@ http://n1.klowdtv.net/live1/oan_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/N0143g7Y/NEWSMAX.png " group-title="NEWS ", Newsmax
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/N0143g7Y/NEWSMAX.png " group-title="NEWS ", Newsmax (backup)
+https://newsmax-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-newsmax-plex/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/cJ3s4wmN/NewsNet.png" group-title="NEWS ", NewsNet
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/cJ3s4wmN/NewsNet.png" group-title="NEWS ", NewsNet 
+https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/playlist.m3u8
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/cJ3s4wmN/NewsNet.png" group-title="NEWS ", NewsNet (backup)
 http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/XvXRXTSd/ABC-NEWS.png" group-title="NEWS ", ABC News
@@ -609,7 +613,7 @@ http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
 https://live.chdrstatic.com/cbn/index.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/fRsdZd6Q/RT-News.png" group-title="NEWS ", RT News
-https://nonton.site:8443/blink10/afgwev4lhw/36765
+https://rt-glb.gcdn.co/live/rtnews/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_france24_small.png?v=2.0.0.13" group-title=" NEWS ",France 24 (UseeTV)
 https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
@@ -619,7 +623,7 @@ http://210.210.155.35:80/session/497a1e3c-2edf-11eb-a245-b82a72d63267/qwr9ew/s/s
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_euronews_small1.png?v=2.0.0.13" group-title="NEWS", EuroNews (UseeTV)
 https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_euronews_small1.png?v=2.0.0.13" group-title="NEWS",EuroNews (Vidio)
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6412.m3u8
+https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
 
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_trtworld_small.png " group-title="NEWS ", TRT WORLD (web)
 https://tv-trtworld.live.trt.com.tr/master.m3u8
