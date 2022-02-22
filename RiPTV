@@ -36,8 +36,6 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_beritasatu_small1.png?v=2.0.0.13" group-title=" NASIONAL",Berita Satu (backup)
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/ZKv7J82B/tvone.png " group-title=" NASIONAL ",TV ONE (web)
-https://nonton.site:8443/blink10/afgwev4lhw/29
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/ZKv7J82B/tvone.png " group-title=" NASIONAL ",TV ONE (DensTV)
 http://group2-swiftservesd-1.dens.tv/s/s105/01.m3u8
 
@@ -529,15 +527,11 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIPapua)/in
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png?v=2.0.0.13" group-title=" NEWS ",TVRI World
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dwtv_small.png?v=2.0.0.13" group-title=" NEWS",DW TV (UseeTV)
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dwtv_small.png?v=2.0.0.13" group-title=" NEWS",DW TV
 http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDIxIDEyOjQ3OjU3IFBNJmhhc2hfdmFsdWU9ZkJ0QTd3enJhWUtYSGsrZHFieUZodz09JnZhbGlkbWludXRlcz00ODA=
-#EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_dwtv_small.png?v=2.0.0.13" group-title="NEWS",DW TV (Vidio)
-https://iptv.mwafa.net/vidio/5075/index.m3u8?token=1999
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_abcaustralia_small.png" group-title="NEWS", ABC Australia (Web)
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_abcaustralia_small.png" group-title="NEWS", ABC Australia
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_abcaustralia_small.png" group-title="NEWS", ABC Australia (UseeTV)
-http://topwin-tv.my.id/2/master.m3u8?id=abcaustralia
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/BQ8s9z5S/SKY-NEWS-AUSTRALIA.png" group-title="NEWS", Sky News Australia
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
@@ -557,13 +551,16 @@ https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnninternational_small.png" group-title="NEWS",CNN (Web)
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnninternational_small.png" group-title="NEWS",CNN (UseeTV)
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnninternational_small.png" group-title="NEWS",CNN (backup)
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_384_216_500k.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/dtNTxrg8/GB-NEWS.png" group-title="NEWS", GB News
+https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/live.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/C5DvWN1Q/SKY-NEWS.png" group-title="NEWS", Sky News
 https://siloh.pluto.tv/lilo/production/SkyNews/master_1.m3u8
 
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/gkfpYK4v/BBC-WORLD-NEWS.png " group-title="NEWS", BBC World News [Auto]
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/gkfpYK4v/BBC-WORLD-NEWS.png " group-title="NEWS", BBC World News
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/gkfpYK4v/BBC-WORLD-NEWS.png " group-title="NEWS", BBC World News (backup)
 http://1111296894.rsc.cdn77.org/LS-ATL-54548-6/index.m3u8
@@ -609,30 +606,36 @@ https://cbsn-ny-cedexis.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa2
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/Zq1PPRsD/CBN-NEWS.png" group-title="NEWS ", CBN News
 http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
 
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/cLVtsZxC/NEWSY.png" group-title="NEWS ", NEWSY
+https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/cLVtsZxC/NEWSY.png" group-title="NEWS ", NEWSY (backup)
+https://content.uplynk.com/channel/387c33ce09da4de699668c0c7d1244a8.m3u8
+
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/j5HyWNf6/Cheddar-News.png " group-title="NEWS ", Cheddar News
 https://live.chdrstatic.com/cbn/index.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/BQnKpM7S/VOA.png" group-title="NEWS ", VOA
+https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/fRsdZd6Q/RT-News.png" group-title="NEWS ", RT News
 https://rt-glb.gcdn.co/live/rtnews/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_france24_small.png?v=2.0.0.13" group-title=" NEWS ",France 24 (UseeTV)
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_france24_small.png?v=2.0.0.13" group-title=" NEWS ",France 24 (Web)
 https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_france24_small.png?v=2.0.0.13" group-title=" NEWS ",France 24 (DensTV)
 http://210.210.155.35:80/session/497a1e3c-2edf-11eb-a245-b82a72d63267/qwr9ew/s/s22/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_euronews_small1.png?v=2.0.0.13" group-title="NEWS", EuroNews (UseeTV)
-https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_euronews_small1.png?v=2.0.0.13" group-title="NEWS",EuroNews (Vidio)
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_euronews_small1.png?v=2.0.0.13" group-title="NEWS", EuroNews (Web)
 https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
+#EXTINF:-1 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_euronews_small1.png?v=2.0.0.13" group-title="NEWS",EuroNews (backup)
+https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_trtworld_small.png " group-title="NEWS ", TRT WORLD (web)
+#EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_trtworld_small.png " group-title="NEWS ", TRT WORLD
 https://tv-trtworld.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trtworld_small.png" group-title=" NEWS ",TRT WORLD (UseeTV)
 
-
-#EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_aljazeera_small1.png?v=2.0.0.13" group-title="NEWS", Aljazeera (web) [HD]
+#EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_aljazeera_small1.png?v=2.0.0.13" group-title="NEWS", Aljazeera [HD]
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
-#EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_aljazeera_small1.png?v=2.0.0.13" group-title="NEWS", Aljazeera (web) [SD]
+#EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_aljazeera_small1.png?v=2.0.0.13" group-title="NEWS", Aljazeera [SD]
 https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/Yqq0NxCM/CGTN.png " tvg-url="" group-title="NEWS",CGTN
@@ -640,10 +643,13 @@ https://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/Yqq0NxCM/CGTN.png " tvg-url="" group-title="NEWS",CGTN (backup)
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4x45s27M/logo-arirang-small.png" group-title=" NEWS ",ARIRANG (web)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4x45s27M/logo-arirang-small.png" group-title=" NEWS ",ARIRANG
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_arirang_small.png" group-title=" NEWS ",Arirang (UseeTV)
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/G3QDvZQg/AFRICA-NEWS.png" group-title=" NEWS ",AFRICA NEWS
+https://rakuten-africanews-1-no.samsung.wurl.com/manifest/eeb88fab4703f2644e2ca1e8308008c8.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/G3QDvZQg/AFRICA-NEWS.png" group-title=" NEWS ",AFRICA NEWS (backup)
+https://rakuten-africanews-1-dk.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/63K2nD6g/WION-NEWS.png " group-title="NEWS ", WION News
 http://rr.dens.tv/h/h91/index2.m3u8
