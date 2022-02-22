@@ -1011,10 +1011,10 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mykids_small.png" group-title="KIDS",My Kidz (UseeTV)
-https://nonton.site:8443/blink10/afgwev4lhw/213
-#EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_mykids_small.png " group-title="KIDS", My Kidz [FHD] (DensTV)
-http://rr.dens.tv/h/h98/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/k5DFZhKZ/SPACETOON.png" group-title="KIDS",SPACETOON (480p)
+http://stream1.ninmedia.tv:1935/spacetoon/udp.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/k5DFZhKZ/SPACETOON.png" group-title="KIDS",SPACETOON (360p)
+http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/chunklist_w1596438578.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png?v=2.0.0.13" group-title="KIDS", Dunia Anak (UseeTV)
 https://nonton.site:8443/blink10/afgwev4lhw/907
@@ -1024,16 +1024,8 @@ https://nonton.site:8443/blink10/afgwev4lhw/1204
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="KIDS", Baby First (backup)
 http://vips-livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/kXBSDxWZ/ZooMoo.png " group-title="KIDS",Zoo Moo (web)
-https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/kXBSDxWZ/ZooMoo.png " group-title="KIDS",Zoo Moo (Vidio)
-https://nonton.site:8443/blink10/afgwev4lhw/14104
-
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/fRcQ6mjS/Hip-Hip-Horee.png " group-title="KIDS",Hip Hip Horee! (Vidio)
 https://nonton.site:8443/blink10/afgwev4lhw/14106
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_indikids_small.png" group-title="KIDS", IndiKids (UseeTV)
-https://nonton.site:8443/blink10/afgwev4lhw/3479
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xTxT7m5S/MENTARI-TV.png " group-title="KIDS", Mentari TV
 https://iptv.mwafa.net/vidio/8237/index.m3u8?token=1999
@@ -1046,19 +1038,37 @@ http://topwin-tv.my.id/2/master.m3u8?id=horee
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_horee_small.png?v=2.0.0.13 " group-title="KIDS",Horee (Vidio)
 https://gpc.my.id/vidio/horee.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mykids_small.png" group-title="KIDS",My Kidz (UseeTV)
+https://nonton.site:8443/blink10/afgwev4lhw/213
+#EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_mykids_small.png " group-title="KIDS", My Kidz [FHD] (DensTV)
+http://rr.dens.tv/h/h98/index.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/kXBSDxWZ/ZooMoo.png " group-title="KIDS",Zoo Moo
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/76s6qyVq/PINGFONG-TV.png" group-title=" KIDS ", Pinkfong TV
+https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GptkPXVZ/bisnet-kids-hd.png" group-title="KIDS", Biznet Kids
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/sf8XMVMy/TVO-KIDS.png " group-title="KIDS", TVO Kids
+https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKpKh5Lz/PBS-KIDS.png" group-title="KIDS",PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1zCY6X2J/LEGO-TOONS.png" group-title="KIDS", LEGO Toons
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/T2SVng4t/DISCOVERY-KIDS.png" group-title=" KIDS ",Discovery KIDS
 https://itvorigin.multitvsolution.com/idvo/discoverykidseng_360p/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvXGj3yT/KIDOODLE-TV.png" group-title=" KIDS ", Kidoodle TV
 http://kidoodletv-kdtv-3.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvXGj3yT/KIDOODLE-TV.png" group-title=" KIDS ", Kidoodle TV (backup)
-https://kidoodletv-kdtv-1.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/QtxCLMc6/SUPER-TOONS-TV.png" group-title=" KIDS ", Super Toons TV
 https://kedoo-supertoonstv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/76s6qyVq/PINGFONG-TV.png" group-title=" KIDS ", Pinkfong TV
-https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title=" KIDS ",Boomerang (UseeTV)
 http://topwin-tv.my.id/2/master.m3u8?id=boomerang
@@ -1072,9 +1082,6 @@ https://nonton.site:8443/blink10/afgwev4lhw/2336
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nrngYqQj/Disney-Junior.png" group-title="KIDS",Disney Junior
 https://m3u-editor.com/serve/00650a80-d16b-11eb-a003-876425f879d4/320891872
 
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/LszvJDQG/Disney-XD.png " group-title="KIDS",Disney XD (USA) [HD]
-http://51.79.82.231:8080/US_DISNEY_XD_EAST_USA/video.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickelodeon_small.png" group-title="KIDS", Nickelodeon (UseeTV)
 https://nonton.site:8443/blink10/afgwev4lhw/962
 
@@ -1083,9 +1090,6 @@ https://nonton.site:8443/blink10/afgwev4lhw/522
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dreamworks_small1.png?v=2.0.0.13" group-title="KIDS", Dreamworks (UseeTV)
 https://nonton.site:8443/blink10/afgwev4lhw/32529
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1zCY6X2J/LEGO-TOONS.png" group-title="KIDS", LEGO Toons
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/MGt2GwLW/TELETUBBIES.png " group-title="KIDS",Teletubbies
 https://dhx-teletubbies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
@@ -1098,22 +1102,8 @@ https://nonton.site:8443/blink10/afgwev4lhw/36729
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_davinci_small1.png?v=2.0.0.13" group-title="KIDS",Da Vinci Learning (Vidio)
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=davinci&bandwidth=default&sync=0
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/GptkPXVZ/bisnet-kids-hd.png" group-title="KIDS", Biznet Kids
-http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
-
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/L6bzVyH2/Cbeebies-BBC.png " group-title="KIDS",Cbeebies BBC
 https://nonton.site:8443/blink10/afgwev4lhw/491
-
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/sf8XMVMy/TVO-KIDS.png " group-title="KIDS", TVO Kids
-https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKpKh5Lz/PBS-KIDS.png" group-title="KIDS",PBS Kids
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/k5DFZhKZ/SPACETOON.png" group-title="KIDS",SPACETOON (480p)
-http://stream1.ninmedia.tv:1935/spacetoon/udp.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/k5DFZhKZ/SPACETOON.png" group-title="KIDS",SPACETOON (360p)
-http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/chunklist_w1596438578.m3u8
 
 
 
