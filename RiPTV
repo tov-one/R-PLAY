@@ -532,6 +532,12 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_newsasia_small.png?v=2.0.0.13" group-title=" NEWS ", CNA (DensTV)
 http://210.210.155.35:80/session/ee573acc-2edd-11eb-a769-b82a72d63267/uq2663/h/h29/01.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_abcaustralia_small.png" group-title="NEWS", ABC Australia
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/qv5KY55k/AUSTRALIA-CHANNEL.png " group-title="NEWS", Australia Channel
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
+
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_aljazeera_small1.png?v=2.0.0.13" group-title="NEWS", Aljazeera [HD]
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_aljazeera_small1.png?v=2.0.0.13" group-title="NEWS", Aljazeera [SD]
@@ -555,15 +561,6 @@ https://tv-trtworld.live.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/fRsdZd6Q/RT-News.png" group-title="NEWS ", RT News
 https://rt-glb.gcdn.co/live/rtnews/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_abcaustralia_small.png" group-title="NEWS", ABC Australia
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/qv5KY55k/AUSTRALIA-CHANNEL.png " group-title="NEWS", Australia Channel
-https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
-
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/BQ8s9z5S/SKY-NEWS-AUSTRALIA.png" group-title="NEWS", Sky News Australia
-https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
 
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_bloomberg_small1.png?v=2.0.0.13" group-title="NEWS",Bloomberg (Web)
 https://www.bloomberg.com/media-manifest/streams/asia.m3u8
