@@ -558,7 +558,7 @@ https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8
 https://tv-trtworld.live.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/fRsdZd6Q/RT-News.png" group-title="NEWS ", RT News
-https://rt-glb.gcdn.co/live/rtnews/playlist.m3u8
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_bloomberg_small1.png?v=2.0.0.13" group-title="NEWS",Bloomberg (Web)
 https://www.bloomberg.com/media-manifest/streams/asia.m3u8
