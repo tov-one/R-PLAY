@@ -527,10 +527,8 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIPapua)/in
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png?v=2.0.0.13" group-title=" NEWS ",TVRI World
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/index.m3u8
 
-#EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_newsasia_small.png?v=2.0.0.13" group-title=" NEWS ", CNA (web)
+#EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_newsasia_small.png?v=2.0.0.13" group-title=" NEWS ", CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_newsasia_small.png?v=2.0.0.13" group-title=" NEWS ", CNA (DensTV)
-http://210.210.155.35:80/session/ee573acc-2edd-11eb-a769-b82a72d63267/uq2663/h/h29/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_abcaustralia_small.png" group-title="NEWS", ABC Australia
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
@@ -546,13 +544,11 @@ https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dwtv_small.png?v=2.0.0.13" group-title=" NEWS",DW TV
 http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDIxIDEyOjQ3OjU3IFBNJmhhc2hfdmFsdWU9ZkJ0QTd3enJhWUtYSGsrZHFieUZodz09JnZhbGlkbWludXRlcz00ODA=
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_france24_small.png?v=2.0.0.13" group-title=" NEWS ",France 24 (Web)
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_france24_small.png?v=2.0.0.13" group-title=" NEWS ",France 24
 https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_euronews_small1.png?v=2.0.0.13" group-title="NEWS", EuroNews (Web)
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_euronews_small1.png?v=2.0.0.13" group-title="NEWS", EuroNews
 https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
-#EXTINF:-1 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_euronews_small1.png?v=2.0.0.13" group-title="NEWS",EuroNews (backup)
-https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_trtworld_small.png " group-title="NEWS ", TRT WORLD
 https://tv-trtworld.live.trt.com.tr/master.m3u8
@@ -560,15 +556,11 @@ https://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/fRsdZd6Q/RT-News.png" group-title="NEWS ", RT News
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_bloomberg_small1.png?v=2.0.0.13" group-title="NEWS",Bloomberg (Web)
+#EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_bloomberg_small1.png?v=2.0.0.13" group-title="NEWS",Bloomberg
 https://www.bloomberg.com/media-manifest/streams/asia.m3u8
-#EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_bloomberg_small1.png?v=2.0.0.13" group-title="NEWS",Bloomberg (backup)
-https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnninternational_small.png" group-title="NEWS",CNN (Web)
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnninternational_small.png" group-title="NEWS",CNN
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnninternational_small.png" group-title="NEWS",CNN (backup)
-https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_384_216_500k.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/dtNTxrg8/GB-NEWS.png" group-title="NEWS", GB News
 https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/live.m3u8
@@ -578,13 +570,9 @@ https://siloh.pluto.tv/lilo/production/SkyNews/master_1.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/gkfpYK4v/BBC-WORLD-NEWS.png " group-title="NEWS", BBC World News
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/gkfpYK4v/BBC-WORLD-NEWS.png " group-title="NEWS", BBC World News (backup)
-http://1111296894.rsc.cdn77.org/LS-ATL-54548-6/index.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/zGSNswnB/NBC-News-Now.png " group-title="NEWS", NBC NEWS NOW
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/zGSNswnB/NBC-News-Now.png " group-title="NEWS", NBC NEWS NOW (backup)
-http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/13WxmyTy/FOX-NEWS.png" group-title="NEWS ", FOX News
 http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
@@ -597,13 +585,9 @@ http://n1.klowdtv.net/live1/oan_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/N0143g7Y/NEWSMAX.png " group-title="NEWS ", Newsmax
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/N0143g7Y/NEWSMAX.png " group-title="NEWS ", Newsmax (backup)
-https://newsmax-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-newsmax-plex/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/cJ3s4wmN/NewsNet.png" group-title="NEWS ", NewsNet 
 https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/playlist.m3u8
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/cJ3s4wmN/NewsNet.png" group-title="NEWS ", NewsNet (backup)
-https://newsnetnational.akamaized.net/hls/live/2031673/newsnetnational_OUT/3/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/XvXRXTSd/ABC-NEWS.png" group-title="NEWS ", ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
@@ -631,12 +615,8 @@ https://dai.google.com/linear/hls/event/e7mp4YVGS7O_e7rqRNjKow/master.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/Zq1PPRsD/CBN-NEWS.png" group-title="NEWS ", CBN News
 http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/Zq1PPRsD/CBN-NEWS.png" group-title="NEWS ", CBN News (backup)
-https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/us-east-1/734546207001/profile_2/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/cLVtsZxC/NEWSY.png" group-title="NEWS ", NEWSY
-https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/cLVtsZxC/NEWSY.png" group-title="NEWS ", NEWSY (backup)
 https://content.uplynk.com/channel/387c33ce09da4de699668c0c7d1244a8.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/j5HyWNf6/Cheddar-News.png " group-title="NEWS ", Cheddar News
@@ -650,16 +630,12 @@ https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/Yqq0NxCM/CGTN.png " tvg-url="" group-title="NEWS",CGTN
 https://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/Yqq0NxCM/CGTN.png " tvg-url="" group-title="NEWS",CGTN (backup)
-https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4x45s27M/logo-arirang-small.png" group-title=" NEWS ",ARIRANG
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G3QDvZQg/AFRICA-NEWS.png" group-title=" NEWS ",Africa News
 https://rakuten-africanews-1-no.samsung.wurl.com/manifest/eeb88fab4703f2644e2ca1e8308008c8.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/G3QDvZQg/AFRICA-NEWS.png" group-title=" NEWS ", Africa News (backup)
-https://rakuten-africanews-1-dk.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/63K2nD6g/WION-NEWS.png " group-title="NEWS ", WION News
 http://rr.dens.tv/h/h91/index2.m3u8
@@ -1506,7 +1482,7 @@ https://google-me.cdn.booyah.live/hls/113130/83188269.m3u8
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewNolKilo.stream/chunklist_w797659833.m3u8 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",NOL KM (2)
-https://mam.jogjaprov.go.id:1937/atcs-kota/KMNol.stream/chunklist_w327255893.m3u8
+https://cctvjss.jogjakota.go.id/atcs/ATCS_kmnol.stream/chunklist_w907331838.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Kawasan Tugu
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewTugu.stream/chunklist_w1039454854.m3u8
@@ -1529,8 +1505,11 @@ https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_Pingit4.stream/chunklist_w438
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Jl. Magelang (Toko A.Takrib)
 https://mam.jogjaprov.go.id:1937/atcs/SelokanMataram.stream/chunklist_w2039814763.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Perempatan Denggung (Alun-alun Sleman)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Perempatan Denggung Selatan (Alun-alun Sleman)
 http://103.71.191.168/8883/hls/live.stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Perempatan Denggung Utara (Alun-alun Sleman)
+http://103.71.191.168/8881/hls/live.stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Pertigaan Jl. Kyai Mojo (Toko A.Takrib) 1
 https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_KyaiMojo.stream/chunklist_w557891769.m3u8
@@ -1544,7 +1523,7 @@ https://mam.jogjaprov.go.id:1937/atcs-kota/Jlagran.stream/chunklist_w1414850484.
 https://mam.jogjaprov.go.id:1937/atcs-kota/BPK.stream/chunklist_w924060688.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Wirobrajan
-https://mam.jogjaprov.go.id:1937/atcs-kota/Wirobrajan.stream/chunklist_w1481120965.m3u8
+https://cctvjss.jogjakota.go.id/atcs/ATCS_wirobrajan.stream/chunklist_w1392608056.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Pertigaan Univ PGRI Yogyakarta
 https://stream.bantulkab.go.id/cam17/hls/live.stream.m3u8
@@ -1558,19 +1537,19 @@ https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_SugengJeroni2.stream/chunklis
 https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Terban_View_Utara.stream/chunklist_w750897143.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Mirota Kampus Simanjuntak
-https://mam.jogjaprov.go.id:1937/atcs-kota/MirotaKampus.stream/chunklist_w19614407.m3u8
+https://cctvjss.jogjakota.go.id/atcs/ATCS_mirota.stream/chunklist_w160846704.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Indopoint UNY
 https://mam.jogjaprov.go.id:1937/cctv-sleman/SimpangUNY.stream/chunklist_w1450663470.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Simpang Demangan (Empire XXI) 1
-https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Demangan_View_Utara.stream/chunklist_w241056475.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Simpang Demangan Utara (Empire XXI)
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Demangan_View_Utara.stream/chunklist_w1257576875.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Simpang Demangan (Empire XXI) 2
-https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Demangan_View_Timur.stream/chunklist_w198073159.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Simpang Demangan Timur (Empire XXI)
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Demangan_View_Timur.stream/chunklist_w767797560.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Simpang Demangan (Empire XXI) 3
-https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Demangan_View_Selatan.stream/chunklist_w1165720762.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Simpang Demangan Selatan (Empire XXI)
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Demangan_View_Selatan.stream/chunklist_w879574333.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Depan Hotel Grand Mercure
 https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_DeBritto_View_Utara.stream/chunklist_w1443260072.m3u8
@@ -1585,7 +1564,7 @@ http://103.71.191.168/8912/hls/live.stream.m3u8
 https://mam.jogjaprov.go.id:1937/atcs-kota/Tamansari.stream/media_w1442206928_303.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Hotel Cavinton
-https://mam.jogjaprov.go.id:1937/atcs-kota/Serangan.stream/chunklist_w692658022.m3u8
+https://cctvjss.jogjakota.go.id/atcs/ATCS_serangan.stream/chunklist_w2099816399.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", PKU Muhammadiyah Kota
 https://mam.jogjaprov.go.id:1937/atcs-kota/PKUMuh.stream/chunklist_w931079366.m3u8
@@ -1633,10 +1612,10 @@ https://mam.jogjaprov.go.id:1937/cctv-public/ViewAlunAlunKidul.stream/chunklist_
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewAlunAlunUtara.stream/chunklist_w1372408415.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Gondomanan
-https://mam.jogjaprov.go.id:1937/atcs-kota/Gondomanan.stream/chunklist_w1404126465.m3u8
+https://cctvjss.jogjakota.go.id/atcs/ATCS_gondomanan.stream/chunklist_w1205514670.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Simpang Jogjatronik Mall
-https://mam.jogjaprov.go.id:1937/atcs-kota/IbuRuswo.stream/chunklist_w876419549.m3u8
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Ibu_Ruswo.stream/chunklist_w160017393.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Pasar Gading (DayTrans Travel) (1)
 https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_PasarGading1.stream/chunklist_w1230922513.m3u8
@@ -1652,7 +1631,7 @@ https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_KolSugiono1.stream/chunklist_
 https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_KolSugiono2.stream/chunklist_w1071462869.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", UKDW
-https://mam.jogjaprov.go.id:1937/atcs-kota/UKDW.stream/chunklist_w1386698433.m3u8
+https://cctvjss.jogjakota.go.id/atcs/ATCS_ukdw.stream/chunklist_w2005994098.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Lempuyangan (Toko Intisari)
 https://mam.jogjaprov.go.id:1937/atcs-kota/Tunjung.stream/chunklist_w555549290.m3u8
@@ -1673,16 +1652,25 @@ https://mam.jogjaprov.go.id:1937/atcs-kota/Cendana.stream/chunklist_w417543410.m
 https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Amongrogo_View_Timur.stream/chunklist_w569088877.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Pertigaan Glagahsari (Toko Kenes-UTY 2)
-https://mam.jogjaprov.go.id:1937/atcs-kota/GLAGAHSARI.stream/chunklist_w1362439667.m3u8
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Glagahsari.stream/chunklist_w1599491110.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Pertigaan Balaikota
-https://mam.jogjaprov.go.id:1937/atcs-kota/UST.stream/chunklist_w1651372612.m3u8
+https://cctvjss.jogjakota.go.id/atcs/ATCS_UST.stream/chunklist_w1355920044.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Balaikota Utara
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Balaikota_View_Utara.stream/chunklist_w716232207.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Balaikota Timur
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Balaikota_View_Timur.stream/chunklist_w518277922.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Timoho (Kampus APMD)
 https://mam.jogjaprov.go.id:1937/atcs-kota/APMD.stream/chunklist_w1680669229.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Perempatan XT Square Pintu Belakang
-https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_MenteriSupeno2.stream/chunklist_w1057610383.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Simpang XT Square (Pintu Belakang) 1
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_JlMentriSupeno.stream/chunklist_w1340241130.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Simpang XT Square (Pintu Belakang) 2
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_JlMentriSupeno2.stream/chunklist_w88752653.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Jl. Veteran Gambiran (1)
 https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_VeteranGambiran1.stream/chunklist_w1348660298.m3u8
@@ -1749,8 +1737,11 @@ https://mam.jogjaprov.go.id:1937/cctv-public/ViewCandiPrambanan.stream/chunklist
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Candi Sambisari
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewCandiSambisari.stream/chunklist_w993506618.m3u8 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Merapi
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Merapi (1)
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewGunungMerapi.stream/chunklist_w1563702546.m3u8 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Merapi (2)
+http://103.71.191.168/8910/hls/live.stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Mangunan
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewMangunan.stream/chunklist_w1363447093.m3u8
@@ -1789,7 +1780,10 @@ https://mam.jogjaprov.go.id:1937/cctv-public/ViewPandansariTimur.stream/chunklis
 https://mam.jogjaprov.go.id:1937/cctv-bantul/BunderanSrandakan.stream/chunklist_w394300162.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Pasar Bantul
-https://mam.jogjaprov.go.id:1937/cctv-bantul/PasarBantul.stream/chunklist_w1891312628.m3u8
+https://stream.bantulkab.go.id/cam1/hls/live.stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Alun-Alun Paseban
+https://stream.bantulkab.go.id/cam3/hls/live.stream.m3u8
 
 
 
