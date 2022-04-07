@@ -1517,10 +1517,10 @@ https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_KyaiMojo.stream/chunklist_
 https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_KyaiMojo2.stream/chunklist_w2139189844.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Jlagran
-https://mam.jogjaprov.go.id:1937/atcs-kota/Jlagran.stream/chunklist_w1414850484.m3u8
+https://cctvjss.jogjakota.go.id/atcs/ATCS_badran.stream/chunklist_w1920306872.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", BPK
-https://mam.jogjaprov.go.id:1937/atcs-kota/BPK.stream/chunklist_w924060688.m3u8
+https://cctvjss.jogjakota.go.id/atcs/ATCS_bpk.stream/chunklist_w1983574447.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Wirobrajan
 https://cctvjss.jogjakota.go.id/atcs/ATCS_wirobrajan.stream/chunklist_w1392608056.m3u8
@@ -1571,12 +1571,19 @@ https://mam.jogjaprov.go.id:1937/atcs-kota/PKUMuh.stream/chunklist_w931079366.m3
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Hotel Inna Garuda (1)
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewDepanGaruda.stream/chunklist_w90059632.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Hotel Inna Garuda (2)
 https://mam.jogjaprov.go.id:1937/cctv-uptmalioboro/UPTMalio1_SelatanTeteg.stream/chunklist_w442388786.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Malioboro
-https://mam.jogjaprov.go.id:1937/cctv-public/ViewMalioboro.stream/chunklist_w1735252186.m3u8 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Halte Trans Jogja
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_2_Depan_Toko_Subur.stream/chunklist_w1501080877.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Teras Malioboro
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_3_Depan_Dispar.stream/chunklist_w134111321.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",DPRD (1)
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_4_Depan_DPRD.stream/chunklist_w143799217.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",DPRD (2)
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_5_Perwakilan.stream/chunklist_w3935173.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Malioboro Mall
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewDepanMall.stream/chunklist_w2049014652.m3u8 
@@ -1587,23 +1594,34 @@ https://mam.jogjaprov.go.id:1937/cctv-uptmalioboro/UPTMalio6_MallUtara.stream/ch
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Malioboro Mall (Selatan)
 https://mam.jogjaprov.go.id:1937/cctv-uptmalioboro/UPTMalio7_MallSelatan.stream/chunklist_w183783345.m3u8 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",DPRD (1)
-https://mam.jogjaprov.go.id:1937/cctv-uptmalioboro/UPTMalio4_DepanDPRD.stream/chunklist_w1556602680.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Hotel Mutiara Lama
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_8_Mutiara_Lama.stream/chunklist_w409179008.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",DPRD (2)
-https://mam.jogjaprov.go.id:1937/cctv-uptmalioboro/UPTMalio5_Perwakilan.stream/chunklist_w2106236793.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Hotel Mutiara Baru
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_9_Mutiara_Baru.stream/chunklist_w720959519.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Hotel Mutiara
-https://mam.jogjaprov.go.id:1937/cctv-uptmalioboro/UPTMalio8_MutiaraLama.stream/chunklist_w1995362069.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Kepatihan (1)
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewMalioboro.stream/chunklist_w1735252186.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Kepatihan (2)
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_10_Kepatihan.stream/chunklist_w1403073580.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Toko Mac Mohan 2000
-https://mam.jogjaprov.go.id:1937/cctv-uptmalioboro/UPTMalio11_TerangBulan.stream/chunklist_w1314724926.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Simpang Taman Batik Terang Bulan (1)
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_22_Simpang_Pajeksan_Suryatmajan.stream/chunklist_w1018832673.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Simpang Taman Batik Terang Bulan (2)
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_11_Terang_Bulan.stream/chunklist_w1311275126.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Ramayana
 https://mam.jogjaprov.go.id:1937/cctv-uptmalioboro/UPTMalio12_Ramayana.stream/chunklist_w160257945.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Ramayana 2
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_13_Gunungmas.stream/chunklist_w2035487993.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Beringharjo
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Beringharjo (1)
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewDepanBeringharjo.stream/chunklist_w256102437.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Beringharjo (2)
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_30_Pasar_Beringharjo.stream/chunklist_w525075417.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA", Istana Negara Gedung Agung Yogyakarta
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_24_Simpang_Reksobayan.stream/chunklist_w609340057.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png" group-title="CCTV JOGJA",Alun-Alun Selatan
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewAlunAlunKidul.stream/chunklist_w133850215.m3u8 
