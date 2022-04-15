@@ -60,14 +60,10 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b280000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png?v=2.0.0.13" tvg-url="" group-title=" NASIONAL",TRANS TV [HD] (web)
-https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png?v=2.0.0.13" tvg-url="" group-title=" NASIONAL",TRANS TV (DensTV)
-http://210.210.155.35:80/session/c6016ff6-2ecf-11eb-9242-b82a72d63267/x6bnqe/s/s252/01.m3u8
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w226470954_b744100_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png?v=2.0.0.13" tvg-url="" group-title=" NASIONAL",TRANS 7 [HD] (web)
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png?v=2.0.0.13" tvg-url="" group-title=" NASIONAL",TRANS 7 (DensTV)
-http://210.210.155.35:80/session/de667460-2ecf-11eb-81ff-b82a72d63267/qwr9ew/s/s101/01.m3u8
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w637025924_b744100_sleng.m3u8
 
 #EXTINF:0 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_net_small1.png?v=2.0.0.13" group-title=" NASIONAL",NET TV (web)
 http://group2-swiftservesd-1.dens.tv/s/s08/01.m3u8
@@ -102,7 +98,7 @@ https://iptv.mwafa.net/vidio/204/index.m3u8?token=1999
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png?v=2.0.0.15" group-title="NASIONAL",INDOSIAR (DensTV)
 http://group2-swiftservesd-1.dens.tv/s/s04/01.m3u8
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png?v=2.0.0.15" group-title="NASIONAL",INDOSIAR (backup)
-https://iptv.mwafa.net/vidio/205/index.m3u8?token=1999
+https://akudandia.xyz//locs/akudandia-205.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_jaktv_small1.png?v=2.0.0.13" group-title="NASIONAL", JAK TV (Maxstream)
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/index.m3u8
@@ -141,7 +137,7 @@ http://group2-swiftservesd-1.dens.tv/s/s012/01.m3u8
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(62c29969-78fa-4754-bf97-6cfcb1d29f81)/index.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/25XZMzKK/O-CHANNEL.png" group-title="NASIONAL",O Channel (Vidio)
-https://iptv.mwafa.net/vidio/206/index.m3u8?token=1999
+https://akudandia.xyz//locs/akudandia-206.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/qvJ67hfF/elshinta.png" tvg-name"Elshinta TV" group-title="NASIONAL",Elshinta TV (DensTV)
 http://group2-swiftservesd-1.dens.tv/s/s10/01.m3u8
@@ -556,27 +552,27 @@ http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjqKqhch/CINEMAX.png" group-title=" HBO & FOX ",CINEMAX (Auto)
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8 
+http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=max
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/gjqKqhch/CINEMAX.png " group-title=" HBO & FOX ",Cinemax (backup)
 https://nonton.site:8443/blink10/afgwev4lhw/2156
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5Ng3X8Rd/10626165-ico.png" group-title=" HBO & FOX ",HBO (Auto)
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+https://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=hbo
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5Ng3X8Rd/10626165-ico.png" group-title="HBO & FOX",HBO (backup)
 https://nonton.site:8443/blink10/afgwev4lhw/210
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/NjPk4Btd/10626267-ico.png " group-title=" HBO & FOX ",HBO Signature (Auto)
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8 
+http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=sig
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/NjPk4Btd/10626267-ico.png " group-title=" HBO & FOX ", HBO Signature (backup)
 https://nonton.site:8443/blink10/afgwev4lhw/873
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JhDcYv4M/10626274-ico.png" group-title=" HBO & FOX ",HBO Family (Auto)
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=fam
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/JhDcYv4M/10626274-ico.png" group-title="HBO & FOX",HBO Family (backup)
 https://nonton.site:8443/blink10/afgwev4lhw/592
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/VkNFn5xS/10626238-ico.png " group-title=" HBO & FOX ",HBO Hits (Auto)
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+https://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=hits
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/VkNFn5xS/10626238-ico.png " group-title=" HBO & FOX ",HBO Hits (backup)
 https://nonton.site:8443/blink10/afgwev4lhw/591
 
@@ -624,8 +620,10 @@ http://203.154.177.124:8899/live/ch23/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wTsw-FydW/bisnet-adventure-4k.png" group-title="PENGETAHUAN", Biznet Adventure 4K
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/tgZ9JgHL/love-nature-4k.png " group-title="PENGETAHUAN",Love Nature (web)
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/tgZ9JgHL/love-nature-4k.png " group-title="PENGETAHUAN",Love Nature [FHD]
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/tgZ9JgHL/love-nature-4k.png " group-title="PENGETAHUAN",Love Nature [HD]
+https://bamus-eng-roku.amagi.tv/playlist404p.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png?v=2.0.0.13" group-title="PENGETAHUAN", Nat Geo (UseeTV)
 https://nonton.site:8443/blink10/afgwev4lhw/96
@@ -643,7 +641,7 @@ https://nonton.site:8443/blink10/afgwev4lhw/165
 http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=disco&gumisasakTV=default&sync=0
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NFzYrfLB/DISCOVERY-ASIA.png" group-title="PENGETAHUAN", Discovery Asia
-https://nonton.site:8443/blink10/afgwev4lhw/779
+https://vips-livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8cg9KcFm/DISCOVERY-SCIENCE.png " group-title="PENGETAHUAN", Discovery Science
 http://xcui.vitvabc.xyz:8880/287994017022/287994017022/16708
@@ -931,7 +929,7 @@ http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165071
 http://gpc.my.id/vidio/citra-muslim.m3u8
 
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_rodjatv_small1.png?v=2.0.0.13" group-title="RELIGI",Rodja TV
-http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
+https://h1.intechmedia.net/intech/ch26.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fLLLvtcP/logo-tawaftv-big.png" group-title="RELIGI",Tawaf TV
 http://stream1.ninmedia.tv:1935/tawaftv/rtmp.stream_360p/chunklist_w727091128.m3u8
@@ -967,7 +965,7 @@ http://tv.aliman.id:1935/aliman/HD/chunklist_w171899086.m3u8
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NM83Ljm2/ASHIIL-TV.png" group-title="RELIGI",ASHIIL TV
-http://wowza60.indostreamserver.com:1935/ashiiltv2/android/chunklist_w183011391.m3u8
+https://h1.intechmedia.net/intech/ch2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T1QW4qr4/BADAR-TV.png" group-title="RELIGI",BADAR TV
 https://e1.siar.us/badartv/live/playlist.m3u8
@@ -990,7 +988,7 @@ https://ap02.iqplay.tv:8082/iqb8002/iq6a7k/chunks.m3u8
 https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar2.stream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mDfnzynD/IZZAH.png" group-title="RELIGI",Izzah TV
-https://streaming.sigraduta.co.id/izzahtv.m3u8
+https://h1.intechmedia.net/intech/ch7.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/h42KLq47/MADANI-TV.png" group-title="RELIGI",MADANI TV
 https://stream.asianastream.com/madani/ngrp:madanitv_all/playlist.m3u8
@@ -1008,7 +1006,7 @@ http://210.210.155.35/qwr9ew/s/s28/01.m3u8
 http://stream1.ninmedia.tv:1935/nabawitv/nabawitv_360p/chunklist_w403146672.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7Pp6TDd2/NIAGA-TV.png" group-title="RELIGI",NIAGA TV
-http://119.235.249.58:1935/niagatv/live/playlist.m3u8
+https://h1.intechmedia.net/intech/ch10.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/X7TC78fY/saling-sapa.png" group-title="RELIGI",SalingSapa TV
 https://bravo.kugo.id/salingsapa/rtmp.stream_360p/playlist.m3u8
@@ -1017,7 +1015,7 @@ https://bravo.kugo.id/salingsapa/rtmp.stream_360p/playlist.m3u8
 http://wowza60.indostreamserver.com:1935/salamtv/live/chunklist_w284712012.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTsjBP6M/SURAU-TV.png" group-title="RELIGI",Surau TV
-http://119.235.249.58:1935/surautv/live/chunklist_w1776413384.m3u8
+https://h1.intechmedia.net/intech/ch3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/K88jLPb3/wesal-tv.png" group-title="RELIGI",Wesal TV
 http://wowza58.indostreamserver.com:1935/wesaltv/live/playlist.m3u8
@@ -1046,12 +1044,12 @@ http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 https://nonton.site:8443/blink10/afgwev4lhw/561
 
 #EXTINF:0 tvg-logo=" https://www.useetv.com/pimages/logo_spotv_small.png?v=2.0.0.13 "  group-title=" SPORTSTATION 1",SPOTV
-https://nonton.site:8443/blink10/afgwev4lhw/51
+https://lnk.ec/shareext@sport_useespotv
 #EXTINF:0 tvg-logo=" https://www.useetv.com/pimages/logo_spotv_small.png?v=2.0.0.13 "  group-title=" SPORTSTATION 1",SPOTV (TH)
 https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_spotv2_small.png?v=2.0.0.13" group-title=" SPORTSTATION 1", SPOTV 2
-https://nonton.site:8443/blink10/afgwev4lhw/101
+https://lnk.ec/shareext@sport_useespotv2
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_spotv2_small.png?v=2.0.0.13" group-title=" SPORTSTATION 1", SPOTV 2 (TH)
 https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
 
@@ -1107,15 +1105,6 @@ http://92.43.140.249/s86/04.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jjL53jdx/Fight-Sports.png" tvg-country="US" tvg-url="" group-title=" SPORTSTATION 1",Fight Sports
 https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
-
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/vHkJ5gTF/RACING.png " group-title=" SPORTSTATION 1",RACING.COM
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/gJwmx61B/Sky-Racing-1.png" group-title=" SPORTSTATION 1", Sky Racing 1 (AUS) [HD]
-https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
-
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/8CXTkbX6/Sky-Racing-2.png" group-title=" SPORTSTATION 1", Sky Racing 2 (AUS) [HD]
-https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/LXXLkxS0/TENNIS-CHANNEL.png" group-title=" SPORTSTATION 1", Tennis Channel 1
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
@@ -1184,17 +1173,17 @@ https://m3u-editor.com/live/serve/fhjhddfnmh/409160917.m3u8
 https://m3u-editor.com/live/serve/fhjhddfnmh/409254760.m3u8
 
 #EXTINF:-1   tvg-logo=" https://i.postimg.cc/cL12RJRR/BT-SPORT-1.png" group-title=" SPORTSTATION 2 ", BT Sport 1
-https://www.wopep.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+http://93.152.174.144:4000/play/btsport1/index.m3u8?shareext.ts
 #EXTINF:-1   tvg-logo=" https://i.postimg.cc/cL12RJRR/BT-SPORT-1.png" group-title=" SPORTSTATION 2 ", BT Sport 1 (backup)
-http://stream.tvtap.live:8081/live/bt1.stream/chunks.m3u8
+https://www.wopep.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 
 #EXTINF:-1   tvg-logo=" https://i.postimg.cc/VL83Ng5H/BT-SPORT-2.png" group-title=" SPORTSTATION 2 ",BT Sport 2
-https://www.wopep.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+http://93.152.174.144:4000/play/btsport2/index.m3u8?shareext.ts
 #EXTINF:-1   tvg-logo=" https://i.postimg.cc/VL83Ng5H/BT-SPORT-2.png" group-title=" SPORTSTATION 2 ",BT Sport 2 (backup)
-http://stream.tvtap.live:8081/live/bt220.stream/chunks.m3u8
+https://www.wopep.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 
 #EXTINF:-1   tvg-logo=" https://i.postimg.cc/vTWkzg2z/BT-SPORT-3.png" group-title=" SPORTSTATION 2 ",BT Sport 3
-http://31.220.41.88:8081/live/bt33.stream/playlist.m3u8
+http://93.152.174.144:4000/play/btsport3/index.m3u8?shareext.ts
 #EXTINF:-1   tvg-logo=" https://i.postimg.cc/vTWkzg2z/BT-SPORT-3.png" group-title=" SPORTSTATION 2 ",BT Sport 3 (backup)
 http://stream.tvtap.live:8081/live/bt33.stream/chunks.m3u8
 
