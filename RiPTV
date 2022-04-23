@@ -701,13 +701,13 @@ http://210.210.155.35:80/uq2663/h/h155/S4/mnf.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bioskopindonesia_small1.png?v=2.0.0.13" group-title="FILM", Bioskop Indonesia (UseeTV)
 https://nonton.site:8443/1842273725/9237641816/908
 
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/mZ3LwKVG/Blue-ANT.png" group-title="FILM", Blue Ant Entertainment (UseeTV)
-https://nonton.site:8443/1842273725/9237641816/1506
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/mZ3LwKVG/Blue-ANT.png" group-title="FILM", Blue Ant Entertainment (Maxstream)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(7110fb03-7887-4104-a6cd-0ba950b28ea4)/index.m3u8
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/mZ3LwKVG/Blue-ANT.png" group-title="FILM", Blue Ant Entertainment (DensTV)
 http://210.210.155.35/session/8fe716b0-9658-11ea-934d-b82a72d63267/dr9445/h/h16/02.m3u8
 
-#EXTINF:-1 tvg-id="blueantextreme" tvg-name="blueantextreme" tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueantext_small.png" group-title="FILM", Blue Ant Extreme (UseeTV)
-https://nonton.site:8443/1842273725/9237641816/811
+#EXTINF:-1 tvg-id="blueantextreme" tvg-name="blueantextreme" tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueantext_small.png" group-title="FILM", Blue Ant Extreme (Maxstream)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(0c72959b-2ccf-443c-a664-66170e390be1)/index.m3u8
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_blueantext_small.png " group-title="FILM", Blue Ant Extreme (DensTV)
 http://210.210.155.35/session/c35116ea-9658-11ea-934d-b82a72d63267/dr9445/h/h15/02.m3u8
 
