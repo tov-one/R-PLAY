@@ -62,7 +62,7 @@ https://akudandia.xyz//locs/akudandia-205.m3u8
 https://akudandia.xyz//locs/akudandia-206.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title=" NASIONAL ",ANTV
-https://akudandia.xyz//locs/akudandia-782.m3u8
+http://playlist.urfan.web.id/qwr9ew/s/s07/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zDhg2YSx/rctilogo.png" group-title="NASIONAL",RCTI
 http://iptv12k.com:35461/8022022301/468985/2185
@@ -98,7 +98,7 @@ https://v6.siar.us/nusantaratv/live/chunks.m3u8
 https://akudandia.xyz//locs/akudandia-6482.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/qvJ67hfF/elshinta.png" tvg-name"Elshinta TV" group-title="NASIONAL",Elshinta TV
-http://rr2.dens.tv/s/s10/index.m3u8
+http://210.210.155.35:80/session/9064e496-2ed8-11eb-9242-b82a72d63267/qwr9ew/s/s10/01.m3u8
 
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_rri_small1.png?v=2.0.0.13" group-title="NASIONAL", RRI NET
 http://36.89.47.217:11935/rrinet/live/chunklist_kamiselaluada.m3u8
