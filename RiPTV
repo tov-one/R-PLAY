@@ -29,7 +29,7 @@ https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX.m3u8
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/ZKv7J82B/tvone.png " group-title=" NASIONAL ",TV ONE
-http://rr2.dens.tv/s/s105/index3.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1650712303/ei/j4pjYscjh9Hj4Q-H7qdA/ip/103.208.205.172/id/K9lOPKwo44w.1/source/yt_live_broadcast/requiressl/yes/tx/24044261/txs/24044258%2C24044259%2C24044260%2C24044261/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC78iAqI9kEna7Uf5oog7mu9f/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgX7mbZ6V1z2bfAuo_hoHyV6k43RN9Vzmdh7O8T3rov78CIAQRfqtIJObw9vxIgrMPekr3sFsEqT8KJ7dNBvn4bi4D/file/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kompastv_small.png?v=2.0.0.13" group-title="NASIONAL",KOMPAS TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
@@ -50,7 +50,7 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_w226470954_b744100_s
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w637025924_b744100_sleng.m3u8
 
 #EXTINF:0 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_net_small1.png?v=2.0.0.13" group-title=" NASIONAL",NET TV
-http://rr2.dens.tv/s/s08/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1650712530/ei/cotjYre8KJbW3LUPgPK6sA4/ip/103.208.205.172/id/7qAJ5exbTGA.1/source/yt_live_broadcast/requiressl/yes/tx/24044261/txs/24044258%2C24044259%2C24044260%2C24044261/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVCxfgfXZCT8Fm8hCE52mCoMhH/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhANgy6V9U20gjwu3TQhUkX10IbLnFTKP0EzyvRvf2UJ0UAiAlFCjzyQUjPyDKkpFovThyjYeQK2vuUJkJ0aDMbvGv8g%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15" tvg-id="" tvg-name"SCTV" group-title="NASIONAL",SCTV
 http://rr2.dens.tv/s/s03/index.m3u8
