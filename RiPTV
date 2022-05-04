@@ -29,7 +29,7 @@ http://122.248.43.138:1935/ch6/myStream/live.m3u8
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/ZKv7J82B/tvone.png " group-title=" NASIONAL ",TV ONE
-https://stream-05.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybGDgPs78bKX91uOU85_iBZ-CeiUl1nfELbtVNQIbW_WU)/dm/3/x619221/s/live-1.m3u8
+http://210.210.155.35/qwr9ew/s/s105/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kompastv_small.png?v=2.0.0.13" group-title="NASIONAL",KOMPAS TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
