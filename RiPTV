@@ -7,14 +7,11 @@ https://nonton.site:8443/1842273725/9237641816/32586
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/wvR9qRGp/MNC-NEWS.png " group-title="NASIONAL", MNC News
 https://cdn-livetv-studio.metube.id/mncnews.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/DySfXFhR/JAWAPOS-TV.png" group-title="NASIONAL",Jawa Pos TV
-http://122.248.43.138:1935/ch6/myStream/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJdp2Wnw/the-indonesia-channel.png" group-title="NASIONAL",The Indonesia Channel
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/index.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/8zpwVzZp/jakarta-globe.png " group-title="NASIONAL",JAKARTA GLOBE NEWS
 https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJdp2Wnw/the-indonesia-channel.png" group-title="NASIONAL",The Indonesia Channel
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/index.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/mrj0dFpz/BERITA-SATU-WORLD.png " group-title="NASIONAL",BERITA SATU WORLD
 https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
@@ -24,6 +21,9 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(9ce3f094-4044-46
 
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_idx_small.png " group-title="NASIONAL",IDX
 https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/DySfXFhR/JAWAPOS-TV.png" group-title="NASIONAL",Jawa Pos TV
+http://122.248.43.138:1935/ch6/myStream/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_beritasatu_small1.png?v=2.0.0.13" group-title=" NASIONAL",Berita Satu
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
@@ -62,7 +62,7 @@ https://akudandia.xyz//locs/akudandia-205.m3u8
 https://akudandia.xyz//locs/akudandia-206.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title=" NASIONAL ",ANTV
-http://playlist.urfan.web.id/qwr9ew/s/s07/01.m3u8
+http://210.210.155.35/qwr9ew/s/ s07/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zDhg2YSx/rctilogo.png" group-title="NASIONAL",RCTI
 http://iptv12k.com:35461/8022022301/468985/2185
@@ -385,10 +385,8 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/qv5KY55k/AUSTRALIA-CHANNEL.png " group-title="NEWS", Australia Channel
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
 
-#EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_aljazeera_small1.png?v=2.0.0.13" group-title="NEWS", Aljazeera [HD]
+#EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_aljazeera_small1.png?v=2.0.0.13" group-title="NEWS", Aljazeera
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
-#EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_aljazeera_small1.png?v=2.0.0.13" group-title="NEWS", Aljazeera [SD]
-https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dwtv_small.png?v=2.0.0.13" group-title=" NEWS",DW TV
 http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDIxIDEyOjQ3OjU3IFBNJmhhc2hfdmFsdWU9ZkJ0QTd3enJhWUtYSGsrZHFieUZodz09JnZhbGlkbWludXRlcz00ODA=
@@ -1030,9 +1028,6 @@ http://185.152.66.55/98783/tracks-v1a1/mono.m3u8?shareext.ts
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/g2VmkBSv/Sky-Sports-Main-Event.png" group-title=" SPORTSTATION 1", Sky Sports Main Event
 http://stream.tvtap.live:8081/live/skysports-maineventz.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/J0WdG77B/Sky-Sports-Arena.png" group-title=" SPORTSTATION 1", Sky Sports Arena
-http://stream.tvtap.live:8081/live/skysports-arena.stream/playlist.m3u8
-
 #EXTINF:-1   tvg-logo=" https://i.postimg.cc/T2WXx0kf/EUROSPORT-1.png" group-title=" SPORTSTATION 1 ", Eurosport 1
 https://www.wopep.com/02_EUROHD1_720p/chunklist.m3u8
 
@@ -1085,24 +1080,6 @@ https://www.wopep.com/02_sport6_480p/chunklist.m3u8
 
 #EXTINF:-1   tvg-logo=" https://i.postimg.cc/Zqs3qyyx/TRUE-SPORT-7.png " group-title=" SPORTSTATION 1",True Sports 7
 https://www.wopep.com/02_sport7_480p/chunklist.m3u8
-
-#EXTINF:-1   tvg-logo=" https://i.postimg.cc/MpX0t9mw/Dubai-Sports-1.png" group-title=" SPORTSTATION 1", Dubai Sports 1
-https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
-
-#EXTINF:-1   tvg-logo=" https://i.postimg.cc/T1Gq9GCN/Dubai-Sports-2.png" group-title=" SPORTSTATION 1", Dubai Sports 2
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
-
-#EXTINF:-1   tvg-logo=" https://i.postimg.cc/d0kBQ5h6/Dubai-Sports-3.png" group-title=" SPORTSTATION 1", Dubai Sports 3
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
-
-#EXTINF:-1   tvg-logo=" https://i.postimg.cc/t4mkHK47/Abu-Dhabi-Sports.png " group-title=" SPORTSTATION 1", Abu Dhabi Sports 1
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-
-#EXTINF:-1   tvg-logo=" https://i.postimg.cc/kXswT6rQ/Abu-Dhabi-Sports-2.png " group-title=" SPORTSTATION 1", Abu Dhabi Sports 2
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-
-#EXTINF:-1   tvg-logo=" https://i.postimg.cc/C5HJTdRV/Abu-Dhabi-Sports-3.png" group-title=" SPORTSTATION 1", Abu Dhabi Sports 3
-http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 
 
 
