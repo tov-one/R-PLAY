@@ -991,6 +991,18 @@ http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_golf_small1.png?v=2.0.0.14" group-title=" SPORTSTATION 1", GOLF Channel
 https://nonton.site:8443/1842273725/9237641816/561
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo=" https://i.postimg.cc/s2Fm3DhP/STADIUM.png" group-title="SPORTSTATION 1",Stadium
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/3JsX68k3/UFC.png" group-title=" SPORTSTATION 1",UFC
+https://mmatv-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61327d317542b31350435482_mmatv-live/a504c826-6950-4b5b-a518-171d9aef07ee/4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jjL53jdx/Fight-Sports.png" tvg-country="US" tvg-url="" group-title=" SPORTSTATION 1",Fight Sports
+https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/nzmLZwDN/FIGHT-BOX.png " group-title=" SPORTSTATION 1", FIGHT BOX
+http://92.43.140.249/s86/04.m3u8
+
 #EXTINF:0 tvg-logo=" https://www.useetv.com/pimages/logo_spotv_small.png?v=2.0.0.13 "  group-title=" SPORTSTATION 1",SPOTV
 https://lnk.ec/shareext@sport_useespotv
 #EXTINF:0 tvg-logo=" https://www.useetv.com/pimages/logo_spotv_small.png?v=2.0.0.13 "  group-title=" SPORTSTATION 1",SPOTV (backup)
@@ -1022,34 +1034,17 @@ http://38.91.57.12:2082/tsn4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MZRFmpK5/TSN-5.png" group-title=" SPORTSTATION 1", TSN 5
 http://38.91.57.12:2082/tsn5/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/x1s7tS5W/Sky-Sports-F1.png" group-title=" SPORTSTATION 1", Sky Sports F1 
-http://185.152.66.55/98783/tracks-v1a1/mono.m3u8?shareext.ts
-
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/g2VmkBSv/Sky-Sports-Main-Event.png" group-title=" SPORTSTATION 1", Sky Sports Main Event
-http://stream.tvtap.live:8081/live/skysports-maineventz.stream/playlist.m3u8
-
-#EXTINF:-1   tvg-logo=" https://i.postimg.cc/T2WXx0kf/EUROSPORT-1.png" group-title=" SPORTSTATION 1 ", Eurosport 1
+##EXTINF:-1   tvg-logo=" https://i.postimg.cc/T2WXx0kf/EUROSPORT-1.png" group-title=" SPORTSTATION 1 ", Eurosport 1
 https://www.wopep.com/02_EUROHD1_720p/chunklist.m3u8
 
 #EXTINF:-1   tvg-logo=" https://i.postimg.cc/D0sVcfW8/EUROSPORT-2.png" group-title=" SPORTSTATION 1 ", Eurosport 2
 https://www.wopep.com/02_EUROHD2_720p/chunklist.m3u8
 
+
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/wvBNsdVq/NBA-TV.png " group-title="SPORTSTATION 1",NBA (UseeTV)
 https://nonton.site:8443/1842273725/9237641816/3099
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/wvBNsdVq/NBA-TV.png " group-title="SPORTSTATION 1",NBA (TH)
 https://smart-tv.livedoomovie.com:4431/02_nbahd_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/3JsX68k3/UFC.png" group-title=" SPORTSTATION 1",UFC
-https://mmatv-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61327d317542b31350435482_mmatv-live/a504c826-6950-4b5b-a518-171d9aef07ee/4.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo=" https://i.postimg.cc/s2Fm3DhP/STADIUM.png" group-title="SPORTSTATION 1",Stadium
-https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
-
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/nzmLZwDN/FIGHT-BOX.png " group-title=" SPORTSTATION 1", FIGHT BOX (RUS)
-http://92.43.140.249/s86/04.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jjL53jdx/Fight-Sports.png" tvg-country="US" tvg-url="" group-title=" SPORTSTATION 1",Fight Sports
-https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/LXXLkxS0/TENNIS-CHANNEL.png" group-title=" SPORTSTATION 1", Tennis Channel 1
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
@@ -1126,12 +1121,6 @@ http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170832
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/N0dwLvcV/ASTRO-SUPERSPORT-4.png " group-title="SPORTSTATION 2", Astro SUPERSPORT 4
 http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170833
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jqNpKmq7/Sky-Sports-Premier-League.png " group-title=" SPORTSTATION 2", Sky Sports Premier League
-http://stream.tvtap.live:8081/live/skysports-premier-league.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bbc7DWt7/Sky-Sports-Football.png " group-title=" SPORTSTATION 2", Sky Sports Football
-http://185.152.66.55/98780/tracks-v1a1/mono.m3u8?shareext.ts
-
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/KzGPnhCq/logo-bein1-big1.png" group-title=" SPORTSTATION 2", BeIN Sports 1 (UseeTV)
 https://nonton.site:8443/1842273725/9237641816/728
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/KzGPnhCq/logo-bein1-big1.png" group-title=" SPORTSTATION 2", BeIN Sports 1 (backup)
@@ -1156,21 +1145,6 @@ https://www.wopep.com/02_PremierHD4_720p/chunklist.m3u8
 
 #EXTINF:-1   tvg-logo=" https://i.postimg.cc/tJS2FL4r/TRUE-PREMIER-HD-5.png " group-title=" SPORTSTATION 2 ",Premier Football HD 5
 https://www.wopep.com/02_PremierHD5_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/52nxQC5n/TRUE-PREMIER-1.png " group-title=" SPORTSTATION 2 ",Premier Football 1 [SD]
-https://www.wopep.com/02_PremierHD1_480p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/L8H9sTPJ/TRUE-PREMIER-2.png " group-title=" SPORTSTATION 2 ",Premier Football 2 [SD]
-https://www.wopep.com/02_PremierHD2_480p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/3Jjr76kM/TRUE-PREMIER-3.png " group-title=" SPORTSTATION 2 ",Premier Football 3 [SD]
-https://www.wopep.com/02_PremierHD3_480p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/Hs1WqHs4/TRUE-PREMIER-4.png " group-title=" SPORTSTATION 2 ",Premier Football 4 [SD]
-https://www.wopep.com/02_PremierHD4_480p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/RCHVpq9Z/TRUE-PREMIER-5.png " group-title=" SPORTSTATION 2 ",Premier Football 5 [SD]
-https://www.wopep.com/02_PremierHD5_480p/chunklist.m3u8
 
 
 
