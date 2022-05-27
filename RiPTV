@@ -549,19 +549,14 @@ https://on-load.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png?v=2.0.0.13" group-title="PENGETAHUAN", Discovery Channel https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFzYrfLB/DISCOVERY-ASIA.png" group-title="PENGETAHUAN", Discovery Asia
-https://nonton.site:8443/1842273725/9237641816/779
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cg9KcFm/DISCOVERY-SCIENCE.png " group-title="PENGETAHUAN", Discovery Science
-https://nonton.site:8443/1842273725/9237641816/37392
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rp4mjwbW/BBC-EARTH.png" group-title="PENGETAHUAN", BBC EARTH 
 https://liveanevia.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 https://on-load.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png?v=2.0.0.13" group-title="PENGETAHUAN", Discovery Channel
+https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -574,6 +569,12 @@ https://on-load.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png?v=2.0.0.13" group-title="PENGETAHUAN", History
 https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 https://on-load.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFzYrfLB/DISCOVERY-ASIA.png" group-title="PENGETAHUAN", Discovery Asia
+https://nonton.site:8443/1842273725/9237641816/779
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cg9KcFm/DISCOVERY-SCIENCE.png " group-title="PENGETAHUAN", Discovery Science
+https://nonton.site:8443/1842273725/9237641816/37392
 
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_cgtndocumentary_small1.png?v=2.0.0.13" group-title="PENGETAHUAN", CGTN Documentary 
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
