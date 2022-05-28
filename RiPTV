@@ -16,7 +16,7 @@ https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_seatoday_big.png?v=1" group-title="NASIONAL", SEA Today
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/index.m3u8
 
-#EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_idx_big.png " group-title="NASIONAL",IDX
+#EXTINF:-1 tvg-logo=" http://images.useetv.com/logo_idx_big.png " group-title="NASIONAL",IDX
 https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/DySfXFhR/JAWAPOS-TV.png" group-title="NASIONAL",Jawa Pos TV
@@ -40,7 +40,7 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/ZKv7J82B/tvone.png " group-title=" NASIONAL ",TV ONE
+#EXTINF:-1 tvg-logo=" https://images.useetv.com/logo_tvone_big1.png " group-title=" NASIONAL ",TV ONE
 https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kompastv_big.png?v=2.0.0.13" group-title="NASIONAL",KOMPAS TV
@@ -63,7 +63,7 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w637025924_b744100_sle
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_net_big1.png?v=2.0.0.13" group-title=" NASIONAL",NET TV
+#EXTINF:0 tvg-logo=" http://images.useetv.com/logo_net_big1.png " group-title=" NASIONAL",NET TV
 https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_big1.png?v=2.0.0.15" tvg-id="" tvg-name"SCTV" group-title="NASIONAL",SCTV
@@ -573,8 +573,10 @@ https://on-load.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_hgtv_big.png" group-title=" PENGETAHUAN ", HGTV
 https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NFzYrfLB/DISCOVERY-ASIA.png" group-title="PENGETAHUAN", Discovery Asia
-https://nonton.site:8443/1842273725/9237641816/779
+https://vips-livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8cg9KcFm/DISCOVERY-SCIENCE.png " group-title="PENGETAHUAN", Discovery Science
 https://nonton.site:8443/1842273725/9237641816/37392
@@ -713,12 +715,16 @@ https://zz@bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/KzGPnhCq/logo-bein1-big1.png" group-title=" SPORTSTATION ", BeIN Sports 1
 https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/KzGPnhCq/logo-bein1-big1.png" group-title=" SPORTSTATION ", BeIN Sports 1 (backup)
+http://139.99.56.106:2082/sakinah1/sakinah1/8414
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo=" https://images.useetv.com/logo_bein3_big1.png?v=3.0.0.13 " group-title=" SPORTSTATION ", BeIN Sports 3
 https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 https://on-load.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
+#EXTINF:-1 tvg-logo=" https://images.useetv.com/logo_bein3_big1.png?v=3.0.0.13 " group-title=" SPORTSTATION ", BeIN Sports 3 (backup)
+http://139.99.56.106:2082/sakinah1/sakinah1/8413
 
 #EXTINF:-1   tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_big.png" group-title="SPORTSTATION ", Champions TV 1
 http://tvn.x10.bz/TvN_ID/master-6.m3u8
