@@ -423,7 +423,7 @@ https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_trtworld_small.png " group-title="NEWS ", TRT WORLD
 https://tv-trtworld.live.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/fRsdZd6Q/RT-News.png" group-title="NEWS ", RT News
+#EXTINF:-1  tvg-id="RTNews.ru" tvg-logo=" https://i.postimg.cc/fRsdZd6Q/RT-News.png" group-title="NEWS ", RT News
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BloombergTVAsia.us" tvg-logo=" https://www.useetv.com/assets/images/channel/logo_bloomberg_big1.png?v=2.0.0.13" group-title="NEWS",Bloomberg
@@ -504,7 +504,7 @@ https://live.presstv.ir/liveprs/smil:liveprs/playlist.m3u8
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/BQnKpM7S/VOA.png" group-title="NEWS ", VOA
 https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
 
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/Yqq0NxCM/CGTN.png " tvg-url="" group-title="NEWS",CGTN Documentary
+#EXTINF:-1  tvg-id="CGTN.cn" tvg-logo=" https://i.postimg.cc/Yqq0NxCM/CGTN.png " tvg-url="" group-title="NEWS",CGTN
 https://live.cgtn.com/1000/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4x45s27M/logo-arirang-big.png" group-title=" NEWS ",ARIRANG
@@ -713,17 +713,17 @@ https://zz@bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="beINSports1Indonesia.id" tvg-logo=" https://i.postimg.cc/KzGPnhCq/logo-bein1-big1.png" group-title=" SPORTSTATION ", BeIN Sports 1 Indonesia
+#EXTINF:-1 tvg-id="beINSports1Indonesia.id" tvg-logo=" https://i.postimg.cc/KzGPnhCq/logo-bein1-big1.png" group-title=" SPORTSTATION ", BeIN Sports 1
 https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
-#EXTINF:-1 tvg-id="beINSports1Indonesia.id" tvg-logo=" https://i.postimg.cc/KzGPnhCq/logo-bein1-big1.png" group-title=" SPORTSTATION ", BeIN Sports 1 Indonesia (backup)
+#EXTINF:-1 tvg-id="beINSports1Indonesia.id" tvg-logo=" https://i.postimg.cc/KzGPnhCq/logo-bein1-big1.png" group-title=" SPORTSTATION ", BeIN Sports 1 (backup)
 http://139.99.56.106:2082/sakinah1/sakinah1/8414
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="beINSports3Indonesia.id" tvg-logo=" https://images.useetv.com/logo_bein3_big1.png?v=3.0.0.13 " group-title=" SPORTSTATION ", BeIN Sports 3 Indonesia
+#EXTINF:-1 tvg-id="beINSports3Indonesia.id" tvg-logo=" https://images.useetv.com/logo_bein3_big1.png?v=3.0.0.13 " group-title=" SPORTSTATION ", BeIN Sports 3
 https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 https://on-load.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
-#EXTINF:-1 tvg-id="beINSports3Indonesia.id" tvg-logo=" https://images.useetv.com/logo_bein3_big1.png?v=3.0.0.13 " group-title=" SPORTSTATION ", BeIN Sports 3 Indonesia (backup)
+#EXTINF:-1 tvg-id="beINSports3Indonesia.id" tvg-logo=" https://images.useetv.com/logo_bein3_big1.png?v=3.0.0.13 " group-title=" SPORTSTATION ", BeIN Sports 3 (backup)
 http://139.99.56.106:2082/sakinah1/sakinah1/8413
 
 #EXTINF:-1   tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_big.png" group-title="SPORTSTATION ", Champions TV 1
@@ -872,7 +872,7 @@ https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1  tvg-id="TVNMovies.hk" tvg-logo=" https://www.useetv.com/assets/images/channel/logo_tvnmovies_big.png " group-title="KOREA", TVN Movies Indonesia
+#EXTINF:-1  tvg-id="TVNMovies.hk" tvg-logo=" https://www.useetv.com/assets/images/channel/logo_tvnmovies_big.png " group-title="KOREA", TVN Movies
 https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
 #EXTINF:-1 tvg-name="057" tvg-ID="SBS.KR" tvg-logo=" https://i.postimg.cc/4xmDyXwQ/SBS.png" group-title="KOREA",SBS
@@ -1007,7 +1007,7 @@ https://nonton.site:8443/1842273725/9237641816/36729
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="CBeebiesAsia.uk" tvg-logo=" https://i.postimg.cc/L6bzVyH2/Cbeebies-BBC.png " group-title="KIDS", CBeebies Asia
+#EXTINF:-1 tvg-id="CBeebiesAsia.uk" tvg-logo=" https://i.postimg.cc/L6bzVyH2/Cbeebies-BBC.png " group-title="KIDS", CBeebies BBC
 https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 
 
