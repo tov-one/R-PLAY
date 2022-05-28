@@ -18,7 +18,7 @@ https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/mrj0dFpz/BERITA-SATU-WORLD.png " group-title="NASIONAL",BERITA SATU WORLD
 https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="NASIONAL",METRO GLOBE NETWORK
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/9MNr27LP/Metro-Globe-Network.png " group-title="NASIONAL", Metro Globe Network
 https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_seatoday_small.png?v=1" group-title="NASIONAL", SEA Today
@@ -634,7 +634,7 @@ https://nonton.site:8443/1842273725/9237641816/26979
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_248.jpg" group-title=" HIBURAN ",TLC
+#EXTINF:-1 tvg-logo=" https://images.useetv.com/logo_new-tlc_big.png " group-title=" HIBURAN ",TLC
 https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C5wwJTR7/bisnet-lifestyle.png" group-title=" HIBURAN ", Biznet Lifestyle
@@ -665,7 +665,7 @@ https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/nhk_150.png" group-title=" HIBURAN ",NHK World Premium
+#EXTINF:-1 tvg-logo=" https://images.useetv.com/logo_nhkworldpremium_small.png " group-title=" HIBURAN ",NHK World Premium
 https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
 https://on-load.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
 
@@ -727,7 +727,7 @@ https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/0QVpnHs8/logo-bein2-big1.png" group-title=" SPORTSTATION ", BeIN Sports 2
+#EXTINF:-1 tvg-logo=" https://images.useetv.com/logo_bein3_big1.png?v=3.0.0.13 " group-title=" SPORTSTATION ", BeIN Sports 3
 https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 https://on-load.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 
@@ -802,28 +802,28 @@ https://on-load.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_13.png" group-title=" FILM ",Galaxy
+#EXTINF:-1 tvg-logo=" https://images.useetv.com/logo_galaxy_big.png?v=2.0.0.13 " group-title=" FILM ",Galaxy
 https://liveanevia.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_12.png" group-title=" FILM ",Galaxy Premium
+#EXTINF:-1 tvg-logo=" https://images.useetv.com/logo_galaxypremium_big.png " group-title=" FILM ",Galaxy Premium
 https://liveanevia.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinema_world_asia.png" group-title="FILM",MY CINEMA,CinemaWorld
+#EXTINF:-1 tvg-logo=" https://images.useetv.com/logo_cinemaworld_big.png " group-title="FILM",MY CINEMA,CinemaWorld
 https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 https://on-load.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_169.png" group-title="FILM",HITS Movies
+#EXTINF:-1 tvg-logo=" https://images.useetv.com/logo_new-hitsmovie_big.png " group-title="FILM",HITS Movies
 https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_160.jpg" group-title="FILM",HITS
+#EXTINF:-1 tvg-logo=" https://images.useetv.com/logo_new-hits_big.png " group-title="FILM",HITS
 https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -837,7 +837,7 @@ https://nonton.site:8443/1842273725/9237641816/29592
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/mZ3LwKVG/Blue-ANT.png" group-title="FILM", Rock Entertainment
+#EXTINF:-1 tvg-logo=" https://images.useetv.com/logo_blueant_big.png?v=2.5 " group-title="FILM", Rock Entertainment
 http://rr1.dens.tv/h/h16/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=ROCK_Entertainment_HD
 http://group2-swiftservehd-1.dens.tv/h/h16/01.m3u8
 http://210.210.155.35:80/session/231b7a38-66a6-11ec-ae85-b82a72d63267/dr9445/h/h16/01.m3u8
@@ -845,7 +845,7 @@ http://210.210.155.35:80/session/231b7a38-66a6-11ec-ae85-b82a72d63267/dr9445/h/h
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_blueantext_small.png " group-title="FILM", Rock Extreme
+#EXTINF:-1 tvg-logo=" https://images.useetv.com/logo_blueantext_big.png?v=2 " group-title="FILM", Rock Extreme
 http://rr1.dens.tv/h/h15/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=ROCK_Extreme_HD
 http://group2-swiftservehd-1.dens.tv/h/h15/01.m3u8
 http://210.210.155.35:80/session/3bc829b4-66a6-11ec-ae85-b82a72d63267/dr9445/h/h15/01.m3u8
@@ -1435,7 +1435,7 @@ https://h1.intechmedia.net/intech/ch26.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fLLLvtcP/logo-tawaftv-big.png" group-title="RELIGI",Tawaf TV
+#EXTINF:-1 tvg-logo=" https://images.useetv.com/logo_tawaftvbaru_big.png " group-title="RELIGI",Tawaf TV
 https://liveanevia.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
