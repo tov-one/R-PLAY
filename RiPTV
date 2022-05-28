@@ -632,6 +632,17 @@ https://liveanevia.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_eatgo_small1.png?v=2.0.0.13" group-title=" HIBURAN ", Eat & Go
 https://nonton.site:8443/1842273725/9237641816/26979
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_248.jpg" group-title=" HIBURAN ",TLC
+https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C5wwJTR7/bisnet-lifestyle.png" group-title=" HIBURAN ", Biznet Lifestyle
+http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/508d11bN/BBC-LIFESTYLE.png " group-title=" HIBURAN ", BBC Lifestyle
+https://nonton.site:8443/1842273725/9237641816/36766
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -660,17 +671,6 @@ https://on-load.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.m
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_wakuwaku_small.png?v=2.0.0.13" group-title=" HIBURAN ", Waku Waku Japan
 http://topwin-tv.my.id/2/master.m3u8?id=wakuwaku
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/C5wwJTR7/bisnet-lifestyle.png" group-title=" HIBURAN ", Biznet Lifestyle
-http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_248.jpg" group-title=" HIBURAN ",TLC
-https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
-
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/508d11bN/BBC-LIFESTYLE.png " group-title=" HIBURAN ", BBC Lifestyle
-https://nonton.site:8443/1842273725/9237641816/36766
 
 
 
