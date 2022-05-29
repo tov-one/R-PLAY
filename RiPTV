@@ -118,12 +118,6 @@ http://203.77.246.50:5000/udp/239.1.1.14:5000
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_daaitv_big1.png?v=2.0.0.13" group-title="NASIONAL",DAAI TV
 https://liveanevia.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/qvJ67hfF/elshinta.png" tvg-name"Elshinta TV" group-title="NASIONAL",Elshinta TV
-http://210.210.155.35:80/session/9064e496-2ed8-11eb-9242-b82a72d63267/qwr9ew/s/s10/01.m3u8
-
-#EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_rri_big1.png?v=2.0.0.13" group-title="NASIONAL", RRI NET
-http://36.89.47.217:11935/rrinet/live/chunklist_kamiselaluada.m3u8
-
 
 
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_balitv_big1.png?v=2.0.0.13" group-title="LOKAL", BALI TV
@@ -139,16 +133,12 @@ https://liveanevia.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N08p3Wgx/ADITV.png" group-title="LOKAL",ADI TV (Yogyakarta)
 http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/N08p3Wgx/ADITV.png " group-title="LOKAL",ADI TV  (Yogyakarta) (backup)
-https://tinyurl.com/gratistvmediaADITV
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/kXTtyVBx/AREK-TV.png" group-title="LOKAL",AREK TV (Sidoarjo)
 https://tinyurl.com/gratistvmediaAREK
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kX8vStpX/bandung-tv.png" group-title="LOKAL",Bandung TV
 http://202.150.153.254/bandungtv720p.m3u8
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/kX8vStpX/bandung-tv.png " group-title="LOKAL",Bandung TV (backup)
-https://tinyurl.com/gratistvmediaBANDUNGTV
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/gk2M7WzF/Balikpapan-TV.png " group-title="LOKAL",BALIKPAPAN TV
 http://122.248.43.138:1935/ch10/myStream/chunklist_w1318591234.m3u8
@@ -157,14 +147,10 @@ http://122.248.43.138:1935/ch10/myStream/chunklist_w1318591234.m3u8
 https://tinyurl.com/gratistvmediaBANTENRAYA
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/brXVYQB9/BATAM-TV.png " group-title="LOKAL",BATAM TV
-https://tinyurl.com/gratistvmediaBATAMTV
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/brXVYQB9/BATAM-TV.png " group-title="LOKAL",BATAM TV (backup)
 http://122.248.43.138:1935/ch5/myStream/chunklist_w1975645815.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/tTdrKRny/Bayu-TV.png " group-title="LOKAL",BAYU TV (Nganjuk)
 http://wms.klikhost.com/bayutv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/tTdrKRny/Bayu-TV.png " group-title="LOKAL",BAYU TV (Nganjuk) (backup)
-https://tinyurl.com/gratistvmediaBAYUTV
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/DzXpcP2S/BETV.png " group-title="LOKAL", BETV (Bengkulu)
 http://122.248.43.138:1935/ch3/myStream/live.m3u8
@@ -216,8 +202,6 @@ http://122.248.43.138:1935/ch18/myStream/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sgr2FmhJ/LOMBOK-TV.png" group-title="LOKAL", LOMBOK TV
 http://103.23.201.170:1935/live/lbtv/chunklist_w1995349508.m3u8
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/sgr2FmhJ/LOMBOK-TV.png" group-title="LOKAL",LOMBOK TV (backup)
-https://tinyurl.com/gratistvmediaLOMBOK
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/NG88TQ6p/MADU-TV.png" group-title="LOKAL", Madu TV (Tulungagung)
 https://v3.siar.us/madutv/live/playlist.m3u8
@@ -234,8 +218,6 @@ https://tinyurl.com/gratistvmediaPAL
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mrsTJH9G/PKTV-BONTANG.png" group-title="LOKAL", PKTV (Bontang)
 rtmp://wowza60.indostreamserver.com:1935/pktv/live
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/mrsTJH9G/PKTV-BONTANG.png " group-title="LOKAL",PKTV (Bontang) (backup)
-https://tinyurl.com/gratistvmediaPKTV
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/vB74xTJx/PON-TV.png" group-title="LOKAL",PON TV (Pontianak)
 https://v3.siar.us/pontianaktelevisi/live/chunks.m3u8
@@ -251,14 +233,10 @@ https://v10.siar.us/rctv/live/playlist.m3u8
 http://122.248.43.138:1935/ch9/myStream/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KjF7FqXT/radar-lampung.png" group-title="LOKAL",Radar Lampung TV
-https://tinyurl.com/gratistvmediaRADARTVLAMPUNG
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/KjF7FqXT/radar-lampung.png" group-title="LOKAL",Radar Lampung TV (backup)
 http://122.248.43.138:1935/ch17/myStream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/d1cHNZ14/Radar-Tasikmalaya.png " group-title="LOKAL",Radar Tasikmalaya TV
 http://radartasikmalaya.onlivestreaming.net/radartasikmalaya/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/d1cHNZ14/Radar-Tasikmalaya.png " group-title="LOKAL",Radar Tasikmalaya TV (backup)
-https://tinyurl.com/gratistvmediaRADARTVTASIK
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/B6JQLKZC/RB-TV.png" group-title="LOKAL",RBTV (Bengkulu)
 https://h1.intechmedia.net/intech/ch59.m3u8
@@ -280,8 +258,6 @@ https://tinyurl.com/gratistvmediaSIMPANG5
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L6fs0wnX/SMTV.png" group-title="LOKAL",SMTV (Sumedang)
 http://122.248.43.138:1935/ch25/myStream/live.m3u8
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/L6fs0wnX/SMTV.png " group-title="LOKAL",SMTV (Sumedang) (backup)
-https://tinyurl.com/gratistvmediaSMTV
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/fb9tZB5K/SULTRA-TV.png" group-title="LOKAL",Sultra TV
 https://tinyurl.com/gratistvmediaSULTRATV
@@ -291,8 +267,6 @@ http://video2.onlivestreaming.net/tatv/live.sdp/chunks.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/tJyVBW3z/TEGAR-TV-LAMPUNG.png" group-title="LOKAL",Tegar TV Lampung
 https://tinyurl.com/gratistvmediaTEGARTV
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/tJyVBW3z/TEGAR-TV-LAMPUNG.png" group-title="LOKAL",Tegar TV Lampung (backup)
-http://wms.klikhost.com/tegartv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kgrCRbft/desa-tv.png" group-title="LOKAL", TV Desa
 http://wowza58.indostreamserver.com:1935/tvdesa/live/chunklist_w373715534.m3u8
@@ -905,14 +879,11 @@ http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/k5DFZhKZ/SPACETOON.png" group-title="KIDS",SPACETOON
-http://stream1.ninmedia.tv:1935/spacetoon/udp.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_big1.png?v=2.0.0.13" group-title="KIDS", Dunia Anak
+https://nonton.site:8443/1842273725/9237641816/907
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xTxT7m5S/MENTARI-TV.png " group-title="KIDS", Mentari TV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=7dd2ae7db7d18ee7c9425e38df1af5e2446503011668def857b1c03bafabba51
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_big1.png?v=2.0.0.13" group-title="KIDS", Dunia Anak
-https://nonton.site:8443/1842273725/9237641816/907
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GptkPXVZ/bisnet-kids-hd.png" group-title="KIDS", Biznet Kids
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
