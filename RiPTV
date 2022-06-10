@@ -27,12 +27,12 @@ https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/wvR9qRGp/MNC-NEWS.png " group-title="NASIONAL", MNC News
+#EXTINF:-1 tvg-logo=" https://images.useetv.com/logo_mncnews_big.png" group-title="NASIONAL", MNC News
 https://liveanevia.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3rqtmhr9/inewstv.png" group-title="NASIONAL",iNews
+#EXTINF:-1 tvg-logo=" https://images.useetv.com/logo_inews_big.png" group-title="NASIONAL",iNews
 https://liveanevia.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_beritasatu_big1.png?v=2.0.0.13" group-title=" NASIONAL",BeritaSatu
@@ -49,7 +49,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_big1.png?v=2.0.0.13" group-title="NASIONAL",METRO TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/index.m3u8
 
-#EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_cnnindonesia_big1.png?v=2.0.0.13" group-title="NASIONAL", CNN Indonesia
+#EXTINF:-1  tvg-id="CNNIndonesia.id" tvg-logo=" https://www.useetv.com/assets/images/channel/logo_cnnindonesia_big1.png?v=2.0.0.13" group-title="NASIONAL", CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_cnbcid_big.png " group-title="NASIONAL", CNBC Indonesia
@@ -74,7 +74,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_indosiar_big1.png?v=2.0.0.15" group-title="NASIONAL",INDOSIAR
 https://akudandia.xyz//locs/akudandia-205.m3u8
 
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/25XZMzKK/O-CHANNEL.png" group-title="NASIONAL",O Channel
+#EXTINF:-1 tvg-logo=" https://images.useetv.com/logo_ochannel_big.png " group-title="NASIONAL",O Channel
 https://akudandia.xyz//locs/akudandia-206.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -112,7 +112,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(85534711-b312-4e
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvedukasi_big1.png?v=2.0.0.13" group-title="NASIONAL",TV Edukasi
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=9fa83fec3cf3810e5680ed45f7124dce446503011668def857b1c03bafabba51
 
-#EXTINF:-1 tvg-id="NusantaraTV.id" tvg-logo=" https://i.postimg.cc/qqmqhQHZ/nusantara.png " group-title=" NASIONAL ", Nusantara TV
+#EXTINF:-1 tvg-id="NusantaraTV.id" tvg-logo=" https://images.useetv.com/logo_nusantaratv_big.png?v=1.1 " group-title=" NASIONAL ", Nusantara TV
 http://203.77.246.50:5000/udp/239.1.1.14:5000
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
