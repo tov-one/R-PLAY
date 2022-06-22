@@ -692,7 +692,7 @@ http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1  tvg-id="CinemaxAsia.us" tvg-logo="https://i.postimg.cc/gjqKqhch/CINEMAX.png" group-title=" MOVIES ",CINEMAX
+#EXTINF:-1  tvg-id="CinemaxAsia.sg" tvg-logo="https://i.postimg.cc/gjqKqhch/CINEMAX.png" group-title=" MOVIES ",CINEMAX
 https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
