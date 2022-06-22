@@ -1304,7 +1304,7 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/D
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/2Sn6xX7z/1591197821118.png " group-title="TV MALAYSIA",OKEY
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/25xhrLfV/Drama-Sangat.png" group-title="TV MALAYSIA", Drama Sangat
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nht257f6/Drama-Sangat.png" group-title="TV MALAYSIA", Drama Sangat
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GhWtG1Y7/1591197814797.png" group-title="TV MALAYSIA",TV Ikim
