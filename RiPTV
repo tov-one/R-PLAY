@@ -390,8 +390,10 @@ https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 #EXTINF:-1 tvg-id="DWEnglish.de" tvg-logo="https://www.useetv.com/assets/images/channel/logo_dwtv_big.png?v=2.0.0.13" group-title=" NEWS",DW TV
 http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDIxIDEyOjQ3OjU3IFBNJmhhc2hfdmFsdWU9ZkJ0QTd3enJhWUtYSGsrZHFieUZodz09JnZhbGlkbWludXRlcz00ODA=
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_france24_big.png?v=2.0.0.13" group-title=" NEWS ",France 24
-https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
+https://liveanevia.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_euronews_big1.png?v=2.0.0.13" group-title="NEWS", EuroNews
 https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
