@@ -1312,7 +1312,7 @@ https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GhWtG1Y7/1591197814797.png" group-title="TV MALAYSIA",TV Ikim
-https://origin.vediostream.com/abr/tvikim/playlist.m3u8
+http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/8PqDWWxT/ASTRO-AWANI.png " group-title="TV MALAYSIA",Astro AWANI
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
