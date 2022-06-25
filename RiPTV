@@ -511,6 +511,15 @@ http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wTsw-FydW/bisnet-adventure-4k.png" group-title="KNOWLEDGE", Biznet Adventure 4K
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/jdpD5Bxw/Smithsonian-Channel.png " group-title="KNOWLEDGE",Smithsonian Channel
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/tgZ9JgHL/love-nature-4k.png " group-title="KNOWLEDGE",Love Nature
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="NationalGeographicAsia.us" tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_big.png?v=2.0.0.13" group-title="KNOWLEDGE",National Geographic
@@ -540,15 +549,6 @@ https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1  tvg-id="HistoryAsia.us" tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_big.png?v=2.0.0.13" group-title="KNOWLEDGE", History
 https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wTsw-FydW/bisnet-adventure-4k.png" group-title="KNOWLEDGE", Biznet Adventure 4K
-http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/jdpD5Bxw/Smithsonian-Channel.png " group-title="KNOWLEDGE",Smithsonian Channel
-https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/tgZ9JgHL/love-nature-4k.png " group-title="KNOWLEDGE",Love Nature
-http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
