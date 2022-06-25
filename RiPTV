@@ -566,7 +566,7 @@ https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvest
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/gkDYdR5S/Crime-360.png" group-title=" KNOWLEDGE ",Crime 360
 https://aenetworks-crime360-1.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/GpYKFDW5/OUTSIDE-TV.png " group-title="KNOWLEDGE", OUTSIDE TV
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/GpYKFDW5/OUTSIDE-TV.png " group-title="KNOWLEDGE", Outside TV
 https://outsidetvplus-stirr.amagi.tv/playlistR720P.m3u8
 
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_outdoor_big.png?v=1.1" group-title="KNOWLEDGE",Outdoor Channel
@@ -610,6 +610,11 @@ http://rr1.dens.tv/h/h15/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=8293
 http://group2-swiftservehd-1.dens.tv/h/h15/01.m3u8
 http://210.210.155.35:80/session/3bc829b4-66a6-11ec-ae85-b82a72d63267/dr9445/h/h15/01.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_big.png?v=2.0.0.13" group-title=" LIFESTYLE ", KIX
+https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useeprime_big1.png?v=2.0.0.13" group-title=" LIFESTYLE ",Usee Prime
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
 
@@ -629,14 +634,6 @@ https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo=" https://images.useetv.com/logo_nhkworldpremium_big.png " group-title=" LIFESTYLE ",NHK World Premium
 https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_wakuwaku_big.png?v=2.0.0.13" group-title=" LIFESTYLE ", Waku Waku Japan
-http://topwin-tv.my.id/2/master.m3u8?id=wakuwaku
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_big.png?v=2.0.0.13" group-title=" LIFESTYLE ", KIX
-https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kplus_big1.png?v=2.0.0.13" group-title="LIFESTYLE", K+
 http://rr.dens.tv/h/h08/index2.m3u8
@@ -667,15 +664,6 @@ http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JnsYQmWm/THE-KPOP.png" group-title="LIFESTYLE", The K-POP
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
-
-#EXTINF:-1 tvg-name="057" tvg-ID="SBS.KR" tvg-logo=" https://i.postimg.cc/4xmDyXwQ/SBS.png" group-title="LIFESTYLE",SBS
-http://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
-
-#EXTINF:-1   tvg-logo=" https://i.postimg.cc/YCZJmTsK/SBS-PLUS.png" group-title=" LIFESTYLE ",SBS Plus
-https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
-
-#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://i.postimg.cc/HsZGTr0L/SBS-STAR.png",SBS Star
-https://streaming-a-802.cdn.nextologies.com/SBS_18/live/SBS_18_1500k/chunks.m3u8
 
 
 
@@ -763,12 +751,6 @@ https://nonton.site:8443/1842273725/9237641816/29592
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_big1.png?v=2.0.0.13" group-title="MOVIES", Zee bioskop
 https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
-
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/dtqqSnSZ/My-Cinema.png" group-title="MOVIES",MY CINEMA
-http://rr.dens.tv/h/h90/index2.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CHGDGns/MCE.png" group-title="MOVIES",MY CINEMA EUROPE
-http://210.210.155.35/session/bc0a1e22-773f-11eb-ab01-a3d7ba48b0db/uq2663/h/h18/02.m3u8
 
 
 
@@ -1469,7 +1451,7 @@ https://h1.intechmedia.net/intech/ch1.m3u8
 #EXTINF:-108 tvg-logo="https://i.postimg.cc/ZRw2vYCy/AL-FURQON-TV.png" group-title="RELIGI",AL FURQON TV
 https://h1.intechmedia.net/intech/ch24.m3u8
 
-#EXTINF:-109tvg-logo="https://i.postimg.cc/Qd72YrnR/HIJRAH-TV.png" group-title="RELIGI",HIJRAH TV
+#EXTINF:-109 tvg-logo="https://i.postimg.cc/Qd72YrnR/HIJRAH-TV.png" group-title="RELIGI",HIJRAH TV
 https://h1.intechmedia.net/intech/ch8.m3u8
 
 #EXTINF:-116 tvg-logo="https://i.postimg.cc/pXmb8jQV/BINBAZ-TV.png" group-title="RELIGI",BINBAZ TV
@@ -1489,7 +1471,7 @@ https://h1.intechmedia.net/intech/ch23.m3u8
 
 #EXTINF:1 tvg-logo="https://i.postimg.cc/KcHMvHpC/ISLAM-CHANNEL.png" group-title="RELIGI",Islam Channel
 https://5ea835027d05e.streamlock.net/islam/islamtv/chunklist_w1596083799.m3u8
-#EXTINF:1 tvg-logo="https://i.postimg.cc/KcHMvHpC/ISLAM-CHANNEL.png" group-title="RELIGI",Islam Channel [UK]
+#EXTINF:1 tvg-logo="https://i.postimg.cc/KcHMvHpC/ISLAM-CHANNEL.png" group-title="RELIGI",Islam Channel (UK)
 https://live.islamchannel.tv/islamtv/islamtv_english/bitrate1.isml/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N0kXsGZx/IQRAA.png" group-title="RELIGI",Iqraa TV
