@@ -116,10 +116,10 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c476
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cJdp2Wnw/the-indonesia-channel.png" group-title="NASIONAL",The Indonesia Channel
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/index.m3u8
 
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/8zpwVzZp/jakarta-globe.png " group-title="NASIONAL",JAKARTA GLOBE NEWS
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/8zpwVzZp/jakarta-globe.png " group-title="NASIONAL",Jakarta Globe News
 https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
 
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/mrj0dFpz/BERITA-SATU-WORLD.png " group-title="NASIONAL",BERITA SATU WORLD
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/mrj0dFpz/BERITA-SATU-WORLD.png " group-title="NASIONAL",BeritaSatu World
 https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
 
 
@@ -426,6 +426,9 @@ https://siloh.pluto.tv/lilo/production/SkyNews/master_1.m3u8
 #EXTINF:-1 tvg-id="BBCWorldNewsAsiaPacific.uk" tvg-logo=" https://i.postimg.cc/gkfpYK4v/BBC-WORLD-NEWS.png " group-title="NEWS", BBC World News
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cCDq3y0h/Global-News.png" group-title="NEWS", Global News
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-logo=" https://i.postimg.cc/13WxmyTy/FOX-NEWS.png" group-title="NEWS ", FOX News Channel
@@ -470,22 +473,22 @@ https://dai.google.com/linear/hls/event/e7mp4YVGS7O_e7rqRNjKow/master.m3u8
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/Zq1PPRsD/CBN-NEWS.png" group-title="NEWS ", CBN News
 http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
 
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/cLVtsZxC/NEWSY.png" group-title="NEWS ", NEWSY
-https://content.uplynk.com/channel/387c33ce09da4de699668c0c7d1244a8.m3u8
-
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/j5HyWNf6/Cheddar-News.png " group-title="NEWS ", Cheddar News
 https://live.chdrstatic.com/cbn/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cLVtsZxC/NEWSY.png" group-title="NEWS ", Newsy
+https://content.uplynk.com/channel/387c33ce09da4de699668c0c7d1244a8.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQnKpM7S/VOA.png" group-title="NEWS ", VOA
+https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/SQL2LrT4/PRESS-TV.png" group-title="NEWS ", Press TV
 https://live.presstv.ir/liveprs/smil:liveprs/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/BQnKpM7S/VOA.png" group-title="NEWS ", VOA
-https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
-
 #EXTINF:-1  tvg-id="CGTN.cn" tvg-logo=" https://i.postimg.cc/Yqq0NxCM/CGTN.png " tvg-url="" group-title="NEWS",CGTN
 https://live.cgtn.com/1000/prog_index.m3u8
 
-#EXTINF:-1 tvg-id=" ArirangWorld.kr" tvg-logo="https://i.postimg.cc/4x45s27M/logo-arirang-big.png" group-title=" NEWS ",ARIRANG
+#EXTINF:-1 tvg-id=" ArirangWorld.kr" tvg-logo="https://i.postimg.cc/4x45s27M/logo-arirang-big.png" group-title=" NEWS ",Arirang TV
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G3QDvZQg/AFRICA-NEWS.png" group-title=" NEWS ",Africa News
@@ -506,7 +509,7 @@ https://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/master.m3u8
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/vm1L69hV/NDTV-24x7.png" group-title="NEWS ",NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/90pq4J3N/PALTODAY-TV.png" group-title="NEWS",PALESTINE TODAY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/90pq4J3N/PALTODAY-TV.png" group-title="NEWS", Palestine Today TV
 http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
 
 
@@ -532,7 +535,7 @@ https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1  tvg-id="BBCEarthAsia.uk" tvg-logo="https://i.postimg.cc/rp4mjwbW/BBC-EARTH.png" group-title="KNOWLEDGE", BBC EARTH 
+#EXTINF:-1  tvg-id="BBCEarthAsia.uk" tvg-logo="https://i.postimg.cc/rp4mjwbW/BBC-EARTH.png" group-title="KNOWLEDGE", BBC Earth 
 https://liveanevia.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -549,6 +552,9 @@ https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1  tvg-id="HistoryAsia.us" tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_big.png?v=2.0.0.13" group-title="KNOWLEDGE", History
 https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QNSZw517/Travelxp.png" group-title="KNOWLEDGE", Travelxp
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -597,7 +603,7 @@ https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo=" https://images.useetv.com/logo_blueant_big.png?v=2.5 " group-title=" LIFESTYLE ", Rock Entertainment
+#EXTINF:-1 tvg-logo=" https://images.useetv.com/logo_blueant_big.png?v=2.5 " group-title=" LIFESTYLE ", ROCK Entertainment
 http://rr1.dens.tv/h/h16/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=ROCK_Entertainment_HD
 http://group2-swiftservehd-1.dens.tv/h/h16/01.m3u8
 http://210.210.155.35:80/session/231b7a38-66a6-11ec-ae85-b82a72d63267/dr9445/h/h16/01.m3u8
@@ -605,7 +611,7 @@ http://210.210.155.35:80/session/231b7a38-66a6-11ec-ae85-b82a72d63267/dr9445/h/h
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo=" https://images.useetv.com/logo_blueantext_big.png?v=2 " group-title=" LIFESTYLE ", Rock Extreme
+#EXTINF:-1 tvg-logo=" https://images.useetv.com/logo_blueantext_big.png?v=2 " group-title=" LIFESTYLE ", ROCK Extreme
 http://rr1.dens.tv/h/h15/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=ROCK_Extreme_HD
 http://group2-swiftservehd-1.dens.tv/h/h15/01.m3u8
 http://210.210.155.35:80/session/3bc829b4-66a6-11ec-ae85-b82a72d63267/dr9445/h/h15/01.m3u8
@@ -627,7 +633,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(2b945e2e-4297-4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C5wwJTR7/bisnet-lifestyle.png" group-title=" LIFESTYLE ", Biznet Lifestyle
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
 
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/tgZPr3PY/logo-nhkworld-big.png " group-title=" LIFESTYLE ", NHK WORLD JAPAN
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/tgZPr3PY/logo-nhkworld-big.png " group-title=" LIFESTYLE ", NHK World Japan
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -638,7 +644,7 @@ https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremiu
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kplus_big1.png?v=2.0.0.13" group-title="LIFESTYLE", K+
 http://rr.dens.tv/h/h08/index2.m3u8
 
-#EXTINF:-1 tvg-id="KBSWorld.kr" tvg-logo="https://i.postimg.cc/44wFpMr4/logo-kbsw-orld-big.png" group-title="LIFESTYLE",KBS WORLD
+#EXTINF:-1 tvg-id="KBSWorld.kr" tvg-logo="https://i.postimg.cc/44wFpMr4/logo-kbsw-orld-big.png" group-title="LIFESTYLE",KBS World
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -795,8 +801,10 @@ https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1  tvg-id="SPOTV2.kr" tvg-logo="https://www.useetv.com/pimages/logo_spotv2_big.png?v=2.0.0.13" group-title=" SPORTSTATION ", SPOTV 2
 https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+#EXTINF:-1  tvg-id="SPOTV2.kr" tvg-logo="https://www.useetv.com/pimages/logo_spotv2_big.png?v=2.0.0.13" group-title=" SPORTSTATION ", SPOTV 2 (backup)
+https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/N0w2NSZq/TVRI-Sport.png " group-title=" SPORTSTATION ",TVRI SPORT HD
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/N0w2NSZq/TVRI-Sport.png " group-title=" SPORTSTATION ",TVRI Sport HD
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -922,7 +930,7 @@ https://itvorigin.multitvsolution.com/idvo/discoverykidseng_360p/index.m3u8
 http://kidoodletv-kdtv-3.roku.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/QtxCLMc6/SUPER-TOONS-TV.png" group-title=" KIDS ", Super Toons TV
-https://kedoo-supertoonstv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+https://tinyurl.com/SuperToons
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mykids_big.png" group-title="KIDS",My Kidz
 http://rr.dens.tv/h/h98/index.m3u8
