@@ -482,6 +482,18 @@ https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/m
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/DwN8fYZr/CBSN-LOS-ANGELES.png" group-title="NEWS ", CBS News LOS ANGELES
 https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8
 
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/RCfRC7kV/CBSN-BOSTON.png " group-title="NEWS ", CBS News BOSTON
+https://cbsn-bos.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/sDwMq2C0/CBSN-SACRAMENTO.png" group-title="NEWS ", CBS News SACRAMENTO
+https://dai.google.com/linear/hls/event/e7mp4YVGS7O_e7rqRNjKow/master.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/65Xh87KV/CBSN-BAY-AREA.png " group-title="NEWS ", CBS News BAY AREA
+https://cbsn-sf.cbsnstream.cbsnews.com/out/v1/dac63c1abb3f4a2dac9f508f44bb072a/master.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/5NSSLx9h/CBSN-BALTIMORE.png " group-title="NEWS ", CBS News BALTIMORE
+https://lineup.cbsivideo.com/playout/8877a7d5-b094-4ac8-bc72-75a5fed68e5b/master.m3u8
+
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/8zc7SV1k/CBSN-CHICAGO.png" group-title="NEWS ", CBS News CHICAGO
 https://cbsn-chi.cbsnstream.cbsnews.com/out/v1/b2fc0d5715d54908adf07f97d2616646/master.m3u8
 
@@ -491,8 +503,17 @@ https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/kXnVTbzb/CBSN-PITTSBURGH.png" group-title="NEWS ", CBS News PITTSBURGH
 https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/master.m3u8
 
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/sDwMq2C0/CBSN-SACRAMENTO.png" group-title="NEWS ", CBS News SACRAMENTO
-https://dai.google.com/linear/hls/event/e7mp4YVGS7O_e7rqRNjKow/master.m3u8
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/QxGfc4QT/CBSN-COLORADO.png" group-title="NEWS ", CBS News COLORADO
+https://cbsn-den.cbsnstream.cbsnews.com/out/v1/2e49baf2906244ecb01b07d9885fbe7a/master.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/Pqr3PCmV/CBSN-MINNESOTA.png" group-title="NEWS ", CBS News MINNESOTA
+https://cbsn-min.cbsnstream.cbsnews.com/out/v1/76518f06941246ba810c8d175600bf74/master.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/q7bmnpwJ/CBSN-PHILLY.png" group-title="NEWS ", CBS News PHILLY
+https://cbsn-phi.cbsnstream.cbsnews.com/out/v1/5c9ad3e215984b0e9ad845b335216b72/master.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/G3sM8wyR/CBSN-MIAMI.png" group-title="NEWS ", CBS News MIAMI
+https://lineup.cbsivideo.com/playout/8796731e-7ce7-4bcf-bb04-41ef5a969c62/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BQnKpM7S/VOA.png" group-title="NEWS ", VOA
 https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
