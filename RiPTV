@@ -400,6 +400,12 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/qv5KY55k/AUSTRALIA-CHANNEL.png " group-title="NEWS", Australia Channel
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/63K2nD6g/WION-NEWS.png " group-title="NEWS ", WION
+http://rr.dens.tv/h/h91/index2.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=WION
+
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-logo=" https://www.useetv.com/assets/images/channel/logo_aljazeera_big1.png?v=2.0.0.13" group-title="NEWS", Aljazeera
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 
@@ -416,6 +422,9 @@ https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20
 
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_trtworld_small.png " group-title="NEWS ", TRT World
 https://tv-trtworld.live.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/G3QDvZQg/AFRICA-NEWS.png" group-title=" NEWS ",Africanews
+https://rakuten-africanews-1-no.samsung.wurl.com/manifest/eeb88fab4703f2644e2ca1e8308008c8.m3u8
 
 #EXTINF:-1  tvg-id="RTNews.ru" tvg-logo=" https://i.postimg.cc/fRsdZd6Q/RT-News.png" group-title="NEWS ", RT News
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
@@ -446,17 +455,26 @@ https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLi
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/Gm4CpGQm/News-NOW-from-FOX.png" group-title="NEWS ",NewsNOW from FOX
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/XvXRXTSd/ABC-NEWS.png" group-title="NEWS ", ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/R08jtX48/CBS-NEWS.png" group-title="NEWS ", CBS News
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/N0143g7Y/NEWSMAX.png " group-title="NEWS ", Newsmax
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/cJ3s4wmN/NewsNet.png" group-title="NEWS ", NewsNet 
 https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/XvXRXTSd/ABC-NEWS.png" group-title="NEWS ", ABC News
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/j5HyWNf6/Cheddar-News.png " group-title="NEWS ", Cheddar News
+https://live.chdrstatic.com/cbn/index.m3u8
 
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/R08jtX48/CBS-NEWS.png" group-title="NEWS ", CBS News
-https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/Zq1PPRsD/CBN-NEWS.png" group-title="NEWS ", CBN News
+http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cLVtsZxC/NEWSY.png" group-title="NEWS ", Newsy
+https://content.uplynk.com/channel/387c33ce09da4de699668c0c7d1244a8.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/NMqFm9RL/CBSN-NEW-YORK.png" group-title="NEWS ", CBS News NEW YORK
 https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
@@ -476,15 +494,6 @@ https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/sDwMq2C0/CBSN-SACRAMENTO.png" group-title="NEWS ", CBS News SACRAMENTO
 https://dai.google.com/linear/hls/event/e7mp4YVGS7O_e7rqRNjKow/master.m3u8
 
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/Zq1PPRsD/CBN-NEWS.png" group-title="NEWS ", CBN News
-http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
-
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/j5HyWNf6/Cheddar-News.png " group-title="NEWS ", Cheddar News
-https://live.chdrstatic.com/cbn/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cLVtsZxC/NEWSY.png" group-title="NEWS ", Newsy
-https://content.uplynk.com/channel/387c33ce09da4de699668c0c7d1244a8.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BQnKpM7S/VOA.png" group-title="NEWS ", VOA
 https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
 
@@ -496,15 +505,6 @@ https://live.cgtn.com/1000/prog_index.m3u8
 
 #EXTINF:-1 tvg-id=" ArirangWorld.kr" tvg-logo="https://i.postimg.cc/4x45s27M/logo-arirang-big.png" group-title=" NEWS ",Arirang TV
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/G3QDvZQg/AFRICA-NEWS.png" group-title=" NEWS ",Africanews
-https://rakuten-africanews-1-no.samsung.wurl.com/manifest/eeb88fab4703f2644e2ca1e8308008c8.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/63K2nD6g/WION-NEWS.png " group-title="NEWS ", WION
-http://rr.dens.tv/h/h91/index2.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=WION
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/dVZn9Rhh/INDIA-TODAY.png " group-title="NEWS", India Today
 https://feeds.intoday.in/hltapps/api/master.m3u8
